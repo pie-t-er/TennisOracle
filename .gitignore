@@ -65,3 +65,5 @@ yarn-error.log*
 # ── TennisOracle generated data ───────────────────────────────────────────────
 # Odds API response cache (auto-refreshed, no need to track)
 backend/data/.odds_cache.json
+
+CLAUDE.md
