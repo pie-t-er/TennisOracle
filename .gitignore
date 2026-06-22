@@ -1,0 +1,67 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.env.venv
+.python-version
+
+# ── Environment / secrets ─────────────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+!.env.test
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# ── Next.js ───────────────────────────────────────────────────────────────────
+frontend/.next/
+frontend/out/
+frontend/node_modules/
+frontend/.env*.local
+
+# ── React Native / Expo ───────────────────────────────────────────────────────
+client/*/node_modules/
+client/*/.expo/
+client/*/dist/
+client/*/web-build/
+
+# ── macOS ─────────────────────────────────────────────────────────────────────
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# ── SQLite databases ──────────────────────────────────────────────────────────
+*.sqlite3
+
+# ── Editors / IDEs ────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Logs ──────────────────────────────────────────────────────────────────────
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ── TypeScript build info ─────────────────────────────────────────────────────
+*.tsbuildinfo
+
+# ── TennisOracle generated data ───────────────────────────────────────────────
+# Odds API response cache (auto-refreshed, no need to track)
+backend/data/.odds_cache.json

@@ -1,0 +1,151 @@
+{
+  "predictions": {
+    "e8fd9e22f4de0704558bc7a7f08171ce": {
+      "match_id": "e8fd9e22f4de0704558bc7a7f08171ce",
+      "commence_time": "2026-06-05T07:00:00Z",
+      "tournament": "ATP French Open",
+      "surface": "Clay",
+      "player1": "Matteo Arnaldi",
+      "player2": "Flavio Cobolli",
+      "bookmakers": {
+        "pinnacle": {
+          "Flavio Cobolli": 1.45,
+          "Matteo Arnaldi": 2.96
+        },
+        "onexbet": {
+          "Flavio Cobolli": 1.43,
+          "Matteo Arnaldi": 3.06
+        },
+        "marathonbet": {
+          "Flavio Cobolli": 1.41,
+          "Matteo Arnaldi": 3.02
+        },
+        "fanduel": {
+          "Flavio Cobolli": 1.38,
+          "Matteo Arnaldi": 3.1
+        },
+        "nordicbet": {
+          "Flavio Cobolli": 1.4,
+          "Matteo Arnaldi": 2.95
+        },
+        "gtbets": {
+          "Flavio Cobolli": 1.42,
+          "Matteo Arnaldi": 3.0
+        },
+        "betfair_ex_eu": {
+          "Flavio Cobolli": 1.47,
+          "Matteo Arnaldi": 3.1
+        },
+        "winamax_fr": {
+          "Flavio Cobolli": 1.42,
+          "Matteo Arnaldi": 2.95
+        },
+        "winamax_de": {
+          "Flavio Cobolli": 1.42,
+          "Matteo Arnaldi": 3.0
+        },
+        "codere_it": {
+          "Flavio Cobolli": 1.39,
+          "Matteo Arnaldi": 2.9
+        },
+        "betsson": {
+          "Flavio Cobolli": 1.4,
+          "Matteo Arnaldi": 2.95
+        },
+        "unibet_fr": {
+          "Flavio Cobolli": 1.41,
+          "Matteo Arnaldi": 3.0
+        },
+        "coolbet": {
+          "Flavio Cobolli": 1.42,
+          "Matteo Arnaldi": 3.05
+        },
+        "betclic_fr": {
+          "Flavio Cobolli": 1.42,
+          "Matteo Arnaldi": 2.95
+        },
+        "mybookieag": {
+          "Flavio Cobolli": 1.39,
+          "Matteo Arnaldi": 2.92
+        },
+        "betonlineag": {
+          "Flavio Cobolli": 1.4,
+          "Matteo Arnaldi": 3.07
+        },
+        "lowvig": {
+          "Flavio Cobolli": 1.4,
+          "Matteo Arnaldi": 3.07
+        },
+        "matchbook": {
+          "Flavio Cobolli": 1.47,
+          "Matteo Arnaldi": 3.1
+        },
+        "tipico_de": {
+          "Flavio Cobolli": 1.4,
+          "Matteo Arnaldi": 2.9
+        },
+        "sport888": {
+          "Flavio Cobolli": 1.4,
+          "Matteo Arnaldi": 2.9
+        },
+        "betrivers": {
+          "Flavio Cobolli": 1.42,
+          "Matteo Arnaldi": 2.9
+        },
+        "leovegas_se": {
+          "Flavio Cobolli": 1.43,
+          "Matteo Arnaldi": 2.9
+        },
+        "pmu_fr": {
+          "Flavio Cobolli": 1.4,
+          "Matteo Arnaldi": 2.85
+        },
+        "unibet_nl": {
+          "Flavio Cobolli": 1.43,
+          "Matteo Arnaldi": 2.9
+        },
+        "unibet_se": {
+          "Flavio Cobolli": 1.43,
+          "Matteo Arnaldi": 2.9
+        },
+        "betanysports": {
+          "Flavio Cobolli": 1.42,
+          "Matteo Arnaldi": 3.0
+        },
+        "williamhill": {
+          "Flavio Cobolli": 1.4,
+          "Matteo Arnaldi": 2.9
+        },
+        "betmgm": {
+          "Flavio Cobolli": 1.4,
+          "Matteo Arnaldi": 2.95
+        },
+        "draftkings": {
+          "Flavio Cobolli": 1.39,
+          "Matteo Arnaldi": 3.02
+        },
+        "bovada": {
+          "Flavio Cobolli": 1.42,
+          "Matteo Arnaldi": 2.95
+        },
+        "everygame": {
+          "Flavio Cobolli": 1.4,
+          "Matteo Arnaldi": 2.9
+        }
+      },
+      "prediction": {
+        "p1_name": "Matteo Arnaldi",
+        "p2_name": "Flavio Cobolli",
+        "p1_prob": 0.6115,
+        "p2_prob": 0.3885,
+        "predicted_winner": "Matteo Arnaldi",
+        "confidence": "high",
+        "p1_edge": 0.2889,
+        "p2_edge": -0.2918
+      },
+      "collected_at": "2026-06-04T13:38:15.654581+00:00",
+      "result": null
+    }
+  },
+  "last_updated": "2026-06-04T13:38:15.655013+00:00"
+}

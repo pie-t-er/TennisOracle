@@ -1,0 +1,201 @@
+{
+  "_note": "Historical ATP matches for retroactive model testing. All from 2024 — fully out-of-sample since training data ends Dec 2023.",
+  "_odds_note": "Odds are approximate Pinnacle closing lines for research purposes only. Not for financial use.",
+  "matches": [
+    {
+      "id": "ao2024_sf_sinner_djokovic",
+      "tournament": "Australian Open",
+      "date": "2024-01-26",
+      "surface": "Hard",
+      "round": "SF",
+      "player1": "Jannik Sinner",
+      "player2": "Novak Djokovic",
+      "winner": "player1",
+      "score": "6-1, 6-2, 6-7(6), 6-3",
+      "notes": "Djokovic played through a muscle injury; Sinner won as significant underdog",
+      "odds": {
+        "pinnacle_est": { "player1": 2.88, "player2": 1.42 }
+      }
+    },
+    {
+      "id": "ao2024_sf_medvedev_zverev",
+      "tournament": "Australian Open",
+      "date": "2024-01-26",
+      "surface": "Hard",
+      "round": "SF",
+      "player1": "Daniil Medvedev",
+      "player2": "Alexander Zverev",
+      "winner": "player1",
+      "score": "5-7, 3-6, 7-6(5), 7-6(3), 6-3",
+      "notes": "Medvedev came back from 2 sets down",
+      "odds": {
+        "pinnacle_est": { "player1": 1.72, "player2": 2.12 }
+      }
+    },
+    {
+      "id": "ao2024_f_sinner_medvedev",
+      "tournament": "Australian Open",
+      "date": "2024-01-28",
+      "surface": "Hard",
+      "round": "F",
+      "player1": "Jannik Sinner",
+      "player2": "Daniil Medvedev",
+      "winner": "player1",
+      "score": "3-6, 3-6, 6-4, 6-4, 6-3",
+      "notes": "Sinner came back from 2 sets down; Medvedev was defending champion and favourite",
+      "odds": {
+        "pinnacle_est": { "player1": 2.20, "player2": 1.68 }
+      }
+    },
+    {
+      "id": "iw2024_f_alcaraz_medvedev",
+      "tournament": "Indian Wells",
+      "date": "2024-03-17",
+      "surface": "Hard",
+      "round": "F",
+      "player1": "Carlos Alcaraz",
+      "player2": "Daniil Medvedev",
+      "winner": "player1",
+      "score": "7-6(5), 6-1",
+      "notes": "",
+      "odds": {
+        "pinnacle_est": { "player1": 1.65, "player2": 2.25 }
+      }
+    },
+    {
+      "id": "miami2024_f_sinner_dimitrov",
+      "tournament": "Miami Open",
+      "date": "2024-03-31",
+      "surface": "Hard",
+      "round": "F",
+      "player1": "Jannik Sinner",
+      "player2": "Grigor Dimitrov",
+      "winner": "player1",
+      "score": "6-3, 6-1",
+      "notes": "",
+      "odds": {
+        "pinnacle_est": { "player1": 1.28, "player2": 3.65 }
+      }
+    },
+    {
+      "id": "rome2024_f_zverev_jarry",
+      "tournament": "Rome Masters",
+      "date": "2024-05-19",
+      "surface": "Clay",
+      "round": "F",
+      "player1": "Alexander Zverev",
+      "player2": "Nicolas Jarry",
+      "winner": "player1",
+      "score": "6-4, 7-5",
+      "notes": "",
+      "odds": {
+        "pinnacle_est": { "player1": 1.25, "player2": 4.00 }
+      }
+    },
+    {
+      "id": "rg2024_f_alcaraz_zverev",
+      "tournament": "Roland Garros",
+      "date": "2024-06-09",
+      "surface": "Clay",
+      "round": "F",
+      "player1": "Carlos Alcaraz",
+      "player2": "Alexander Zverev",
+      "winner": "player1",
+      "score": "6-3, 2-6, 5-7, 6-1, 6-2",
+      "notes": "",
+      "odds": {
+        "pinnacle_est": { "player1": 1.72, "player2": 2.10 }
+      }
+    },
+    {
+      "id": "wimbledon2024_sf_djokovic_sinner",
+      "tournament": "Wimbledon",
+      "date": "2024-07-12",
+      "surface": "Grass",
+      "round": "SF",
+      "player1": "Novak Djokovic",
+      "player2": "Jannik Sinner",
+      "winner": "player1",
+      "score": "6-3, 6-4, 7-6(4)",
+      "notes": "Djokovic was heavy grass-court favourite; revenge for AO SF loss",
+      "odds": {
+        "pinnacle_est": { "player1": 1.55, "player2": 2.42 }
+      }
+    },
+    {
+      "id": "wimbledon2024_f_alcaraz_djokovic",
+      "tournament": "Wimbledon",
+      "date": "2024-07-14",
+      "surface": "Grass",
+      "round": "F",
+      "player1": "Carlos Alcaraz",
+      "player2": "Novak Djokovic",
+      "winner": "player1",
+      "score": "6-2, 6-2, 7-6(4)",
+      "notes": "Alcaraz dominated; avenged 2023 Wimbledon final loss",
+      "odds": {
+        "pinnacle_est": { "player1": 1.72, "player2": 2.10 }
+      }
+    },
+    {
+      "id": "uso2024_sf_sinner_draper",
+      "tournament": "US Open",
+      "date": "2024-09-06",
+      "surface": "Hard",
+      "round": "SF",
+      "player1": "Jannik Sinner",
+      "player2": "Jack Draper",
+      "winner": "player1",
+      "score": "7-5, 7-6(2), 6-2",
+      "notes": "Draper retired in the third set due to cramping",
+      "odds": {
+        "pinnacle_est": { "player1": 1.35, "player2": 3.15 }
+      }
+    },
+    {
+      "id": "uso2024_sf_fritz_shelton",
+      "tournament": "US Open",
+      "date": "2024-09-06",
+      "surface": "Hard",
+      "round": "SF",
+      "player1": "Taylor Fritz",
+      "player2": "Ben Shelton",
+      "winner": "player1",
+      "score": "6-3, 6-4, 6-4",
+      "notes": "",
+      "odds": {
+        "pinnacle_est": { "player1": 1.57, "player2": 2.42 }
+      }
+    },
+    {
+      "id": "uso2024_f_sinner_fritz",
+      "tournament": "US Open",
+      "date": "2024-09-08",
+      "surface": "Hard",
+      "round": "F",
+      "player1": "Jannik Sinner",
+      "player2": "Taylor Fritz",
+      "winner": "player1",
+      "score": "6-3, 6-4, 7-5",
+      "notes": "Sinner's first US Open title",
+      "odds": {
+        "pinnacle_est": { "player1": 1.35, "player2": 3.20 }
+      }
+    },
+    {
+      "id": "atpfinals2024_f_sinner_fritz",
+      "tournament": "ATP Finals",
+      "date": "2024-11-17",
+      "surface": "Hard",
+      "round": "F",
+      "player1": "Jannik Sinner",
+      "player2": "Taylor Fritz",
+      "winner": "player1",
+      "score": "6-4, 6-4",
+      "notes": "Indoor hard; Sinner ended year as world No. 1",
+      "odds": {
+        "pinnacle_est": { "player1": 1.40, "player2": 2.88 }
+      }
+    }
+  ]
+}
