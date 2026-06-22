@@ -2,6 +2,8 @@
 
 ATP tennis match predictor. Logistic regression / XGBoost model trained on 2010–2023 ATP data (~786 player profiles), calibrated to produce well-grounded win probabilities. Predictions are tracked against live bookmaker odds to check how the model's probabilities hold up against a real market.
 
+**Live demo:** [tennis-oracle.vercel.app](https://tennis-oracle.vercel.app/) — backend hosted on [Render](https://tennisoracle.onrender.com).
+
 ---
 
 ## Project structure
@@ -226,7 +228,8 @@ The backend exposes these routes (all prefixed with `/api`):
 | `GET` | `/api/odds/predictions` | All stored predictions. Param: `settled_only=true` |
 | `GET` | `/api/odds/summary` | Running accuracy stats |
 
-Interactive docs: **http://localhost:8000/docs**
+Interactive docs: **http://localhost:8000/docs** (local) or
+**https://tennisoracle.onrender.com/docs** (deployed)
 
 ---
 

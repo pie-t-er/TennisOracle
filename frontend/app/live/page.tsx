@@ -110,16 +110,8 @@ export default function LivePage() {
         <div>
           <h1 className="text-3xl font-bold tracking-tight">Live Predictions</h1>
           <p className="text-gray-400 mt-1 text-sm">
-            Model predictions tested against real bookmaker odds.
-            Run{" "}
-            <code className="bg-gray-800 text-gray-300 px-1.5 py-0.5 rounded text-xs font-mono">
-              python scripts/collect.py
-            </code>{" "}
-            to add upcoming matches, then{" "}
-            <code className="bg-gray-800 text-gray-300 px-1.5 py-0.5 rounded text-xs font-mono">
-              update_results.py
-            </code>{" "}
-            after they finish.
+            Model predictions tested against real bookmaker odds, refreshed automatically
+            once a day.
           </p>
         </div>
 
@@ -191,14 +183,10 @@ export default function LivePage() {
         ) : upcomingWithPrediction.length === 0 ? (
           <div className="card text-center py-12 space-y-2">
             <p className="text-gray-500 text-sm">
-              No upcoming matches with predictions.
+              No upcoming matches with predictions right now.
             </p>
             <p className="text-gray-600 text-xs">
-              Run{" "}
-              <code className="bg-gray-800 text-gray-400 px-1.5 py-0.5 rounded font-mono">
-                cd backend && python scripts/collect.py
-              </code>{" "}
-              to fetch odds and generate predictions.
+              New predictions are collected automatically once a day — check back soon.
             </p>
           </div>
         ) : (

@@ -6,7 +6,9 @@ ATP tennis match predictor. Logistic Regression / XGBoost trained on 2010–2023
 compares them against live bookmaker odds (The Odds API).
 Developer: Pieter Alley.
 
-Currently **local-only** — no deployed instance yet.
+**Deployed**: frontend on [Vercel](https://tennis-oracle.vercel.app/), backend on
+[Render](https://tennisoracle.onrender.com). Live predictions accumulate automatically via a
+daily GitHub Actions job (see `.github/workflows/live-predictions.yml`).
 
 ---
 
@@ -42,13 +44,14 @@ notebooks/                model_v1.ipynb, model_v2.ipynb — exploration only, n
 
 ---
 
-## Current state (what actually works)
+## Current state
 - Model: XGBoost selected over LR. 2023 holdout accuracy 0.689, log-loss 0.601.
 - Backtest on 13 confirmed out-of-sample 2024 matches: **84.6% accuracy** (90.9% excluding
   retirements). Flat-bet ROI +41% on matches where model edge > 5% — but this is a tiny,
   hand-picked 13-match sample, not a real track record.
-- Live workflow (`collect.py` → `update_results.py`) exists and works, but has only been run
-  ad hoc — `live_predictions.json` does not yet hold a meaningful history.
+- Live workflow (`collect.py` → `update_results.py`) now runs automatically once a day via
+  GitHub Actions, so `live_predictions.json` is accumulating a real, growing history instead of
+  one-off ad hoc runs.
 - **The original goal was finding systematic value edges vs. bookmakers — that didn't pan out.**
   Bookmaker odds are already efficient; the model's calibrated probabilities track them closely
   rather than beating them. This is a true and useful finding, not a failure to hide.
@@ -57,7 +60,9 @@ notebooks/                model_v1.ipynb, model_v2.ipynb — exploration only, n
 
 ## Portfolio vision — polish, deploy, demo
 
-### 1. Reframe the pitch (do this first, it's free)
+**Status: reframe, scheduled job, and deploy are done. Visualizations (#3) are the remaining item.**
+
+### 1. Reframe the pitch — done
 Lead with **"the model is accurate and well-calibrated"**, not **"it beats the bookmakers."**
 The honest, interesting story: an XGBoost model independently lands on probabilities close to
 what a mature betting market converges on — that's a meaningful result for a portfolio piece
@@ -66,15 +71,13 @@ edge-finding; one paragraph acknowledging "I looked for value gaps and largely d
 durable ones, which itself validates the model's calibration" reads as more senior than a
 forced "look, alpha!" framing.
 
-### 2. Build real prediction history via a scheduled job
-`collect.py` / `update_results.py` already do the work — they just aren't running on a schedule.
-Add a cron (or Cloud Scheduler / GitHub Actions scheduled workflow once deployed) that:
-- Runs `collect.py` once daily during ATP season (within free-tier budget: ~4 credits/day
-  leaves ~380/month headroom — don't run more than a few times/day).
-- Runs `update_results.py` daily to settle completed matches.
-- Accumulates `live_predictions.json` into a real, growing accuracy record rather than the
-  one-off 13-match backtest — this is what makes the deployed site's "running accuracy" stat
-  credible over time instead of static.
+### 2. Build real prediction history via a scheduled job — done
+`.github/workflows/live-predictions.yml` runs daily (cron `0 11 * * *` + manual
+`workflow_dispatch`): settles yesterday's matches via `update_results.py --days 2`, collects new
+upcoming matches via `collect.py`, then commits the updated `live_predictions.json` back to the
+repo. Render's build filter on `backend/**` picks up that commit and redeploys automatically, so
+the live site's "running accuracy" stat stays current without a persistent volume. Budget: ~4–8
+credits/day, well inside the 500/month free tier.
 
 ### 3. Add behind-the-scenes model visualizations (currently none exist outside notebooks)
 Nothing in the frontend currently shows *how* the model thinks — that's the biggest gap for a
@@ -85,12 +88,14 @@ recruiter-facing demo. Worth adding to a `/model` or `/about` route:
 - Accuracy-over-time chart, fed by the accumulated `live_predictions.json` history from #2
 - Optional: per-surface accuracy breakdown (hard/clay/grass)
 
-### 4. Deploy
-No deployment target chosen yet. Natural split: Next.js frontend → Vercel; FastAPI backend →
-Render/Railway/Fly.io/Cloud Run (model.joblib is small enough to ship in the container image).
-Needs `ODDS_API_KEY` set as a deployed secret; consider lowering `ODDS_CACHE_TTL` headroom
-once the scheduled job is also consuming credits.
+### 4. Deploy — done
+Frontend on [Vercel](https://tennis-oracle.vercel.app/), backend on
+[Render](https://tennisoracle.onrender.com) (Docker, built from `backend/Dockerfile`, build
+context = repo root since `data/loader.py` needs `../ATP_Matches` at startup). CORS is env-driven
+via `ALLOWED_ORIGINS` (see `backend/main.py`). Render env vars: `ODDS_API_KEY`,
+`ODDS_CACHE_TTL=900`, `ALLOWED_ORIGINS=https://tennis-oracle.vercel.app`.
 
 ### Order of operations
 Reframe pitch (free) → ship the scheduled job so history starts accumulating immediately →
-build visualizations in parallel → deploy once there's at least a few days of real history to show.
+deploy → build visualizations next, now that there's real `live_predictions.json` history to
+chart instead of a static backtest.
