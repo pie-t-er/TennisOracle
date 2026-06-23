@@ -145,7 +145,283 @@
       },
       "collected_at": "2026-06-04T13:38:15.654581+00:00",
       "result": null
+    },
+    "f5941005267d346c2cf617fe9a7cfc4d": {
+      "match_id": "f5941005267d346c2cf617fe9a7cfc4d",
+      "commence_time": "2026-06-24T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Zsombor Piros",
+      "player2": "Billy Harris",
+      "bookmakers": {
+        "pinnacle": {
+          "Billy Harris": 1.6,
+          "Zsombor Piros": 2.39
+        },
+        "betfair_ex_eu": {
+          "Billy Harris": 1.54,
+          "Zsombor Piros": 2.26
+        },
+        "nordicbet": {
+          "Billy Harris": 1.54,
+          "Zsombor Piros": 2.41
+        },
+        "gtbets": {
+          "Billy Harris": 1.58,
+          "Zsombor Piros": 2.39
+        },
+        "mybookieag": {
+          "Billy Harris": 1.52,
+          "Zsombor Piros": 2.36
+        }
+      },
+      "prediction": {
+        "p1_name": "Zsombor Piros",
+        "p2_name": "Lloyd Harris",
+        "p1_prob": 0.3975,
+        "p2_prob": 0.6025,
+        "predicted_winner": "Lloyd Harris",
+        "confidence": "high",
+        "p1_edge": -0.0174,
+        "p2_edge": -0.0225
+      },
+      "collected_at": "2026-06-23T13:45:17.093477+00:00",
+      "result": null
+    },
+    "90b58f21fb1a8e49e9dd07c84bdca4d5": {
+      "match_id": "90b58f21fb1a8e49e9dd07c84bdca4d5",
+      "commence_time": "2026-06-24T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Borna Gojo",
+      "player2": "Colton Smith",
+      "bookmakers": {
+        "pinnacle": {
+          "Borna Gojo": 1.78,
+          "Colton Smith": 2.08
+        },
+        "betfair_ex_eu": {
+          "Borna Gojo": 1.52,
+          "Colton Smith": 2.0
+        },
+        "mybookieag": {
+          "Borna Gojo": 1.72,
+          "Colton Smith": 2.0
+        },
+        "nordicbet": {
+          "Borna Gojo": 1.75,
+          "Colton Smith": 2.03
+        },
+        "gtbets": {
+          "Borna Gojo": 1.8,
+          "Colton Smith": 2.02
+        }
+      },
+      "prediction": {
+        "p1_name": "Borna Gojo",
+        "p2_name": "John Patrick Smith",
+        "p1_prob": 0.5818,
+        "p2_prob": 0.4182,
+        "predicted_winner": "Borna Gojo",
+        "confidence": "medium",
+        "p1_edge": 0.0262,
+        "p2_edge": -0.0626
+      },
+      "collected_at": "2026-06-23T13:45:17.100632+00:00",
+      "result": null
+    },
+    "eb8072146eee8a2343840e0777a28267": {
+      "match_id": "eb8072146eee8a2343840e0777a28267",
+      "commence_time": "2026-06-24T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Elias Ymer",
+      "player2": "Timofey Skatov",
+      "bookmakers": {
+        "pinnacle": {
+          "Elias Ymer": 1.57,
+          "Timofey Skatov": 2.46
+        },
+        "nordicbet": {
+          "Elias Ymer": 1.54,
+          "Timofey Skatov": 2.41
+        },
+        "marathonbet": {
+          "Elias Ymer": 1.5,
+          "Timofey Skatov": 2.49
+        },
+        "mybookieag": {
+          "Elias Ymer": 1.48,
+          "Timofey Skatov": 2.48
+        },
+        "gtbets": {
+          "Elias Ymer": 1.49,
+          "Timofey Skatov": 2.63
+        },
+        "betfair_ex_eu": {
+          "Elias Ymer": 1.58,
+          "Timofey Skatov": 2.28
+        },
+        "unibet_fr": {
+          "Elias Ymer": 1.44,
+          "Timofey Skatov": 2.35
+        }
+      },
+      "prediction": {
+        "p1_name": "Elias Ymer",
+        "p2_name": "Timofey Skatov",
+        "p1_prob": 0.479,
+        "p2_prob": 0.521,
+        "predicted_winner": "Timofey Skatov",
+        "confidence": "low",
+        "p1_edge": -0.1539,
+        "p2_edge": 0.1408
+      },
+      "collected_at": "2026-06-23T13:45:17.110475+00:00",
+      "result": null
+    },
+    "f1712502ef903389e86f50e671a9635b": {
+      "match_id": "f1712502ef903389e86f50e671a9635b",
+      "commence_time": "2026-06-24T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Roman Safiullin",
+      "player2": "Kimmer Coppejans",
+      "bookmakers": {
+        "pinnacle": {
+          "Kimmer Coppejans": 4.57,
+          "Roman Safiullin": 1.21
+        },
+        "betfair_ex_eu": {
+          "Kimmer Coppejans": 4.1,
+          "Roman Safiullin": 1.22
+        },
+        "mybookieag": {
+          "Kimmer Coppejans": 4.2,
+          "Roman Safiullin": 1.18
+        },
+        "nordicbet": {
+          "Kimmer Coppejans": 4.3,
+          "Roman Safiullin": 1.2
+        },
+        "unibet_fr": {
+          "Kimmer Coppejans": 3.85,
+          "Roman Safiullin": 1.16
+        },
+        "gtbets": {
+          "Kimmer Coppejans": 4.45,
+          "Roman Safiullin": 1.22
+        },
+        "marathonbet": {
+          "Kimmer Coppejans": 4.45,
+          "Roman Safiullin": 1.19
+        }
+      },
+      "prediction": {
+        "p1_name": "Roman Safiullin",
+        "p2_name": "Kimmer Coppejans",
+        "p1_prob": 0.7398,
+        "p2_prob": 0.2602,
+        "predicted_winner": "Roman Safiullin",
+        "confidence": "high",
+        "p1_edge": -0.0799,
+        "p2_edge": 0.0414
+      },
+      "collected_at": "2026-06-23T13:45:17.121603+00:00",
+      "result": null
+    },
+    "8c409c6ddc73776aca2cf2ab60fc544f": {
+      "match_id": "8c409c6ddc73776aca2cf2ab60fc544f",
+      "commence_time": "2026-06-24T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Luca Nardi",
+      "player2": "Otto Virtanen",
+      "bookmakers": {
+        "pinnacle": {
+          "Luca Nardi": 3.39,
+          "Otto Virtanen": 1.34
+        },
+        "betfair_ex_eu": {
+          "Luca Nardi": 3.15,
+          "Otto Virtanen": 1.33
+        },
+        "unibet_fr": {
+          "Luca Nardi": 2.85,
+          "Otto Virtanen": 1.3
+        },
+        "mybookieag": {
+          "Luca Nardi": 3.06,
+          "Otto Virtanen": 1.32
+        },
+        "marathonbet": {
+          "Luca Nardi": 3.22,
+          "Otto Virtanen": 1.32
+        },
+        "gtbets": {
+          "Luca Nardi": 3.07,
+          "Otto Virtanen": 1.38
+        }
+      },
+      "prediction": {
+        "p1_name": "Luca Nardi",
+        "p2_name": "Otto Virtanen",
+        "p1_prob": 0.6276,
+        "p2_prob": 0.3724,
+        "predicted_winner": "Luca Nardi",
+        "confidence": "high",
+        "p1_edge": 0.3326,
+        "p2_edge": -0.3522
+      },
+      "collected_at": "2026-06-23T13:45:17.129213+00:00",
+      "result": null
+    },
+    "00727fe9e70a668d605462a56b8684c6": {
+      "match_id": "00727fe9e70a668d605462a56b8684c6",
+      "commence_time": "2026-06-24T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Mackenzie McDonald",
+      "player2": "Roberto Carballes Baena",
+      "bookmakers": {
+        "pinnacle": {
+          "Mackenzie McDonald": 1.5,
+          "Roberto Carballes Baena": 2.65
+        },
+        "gtbets": {
+          "Mackenzie McDonald": 1.5,
+          "Roberto Carballes Baena": 2.76
+        },
+        "unibet_fr": {
+          "Mackenzie McDonald": 1.38,
+          "Roberto Carballes Baena": 2.55
+        },
+        "betfair_ex_eu": {
+          "Mackenzie McDonald": 1.46,
+          "Roberto Carballes Baena": 2.6
+        },
+        "marathonbet": {
+          "Mackenzie McDonald": 1.43,
+          "Roberto Carballes Baena": 2.71
+        },
+        "mybookieag": {
+          "Mackenzie McDonald": 1.42,
+          "Roberto Carballes Baena": 2.67
+        }
+      },
+      "prediction": {
+        "p1_name": "Mackenzie Mcdonald",
+        "p2_name": "Roberto Carballes Baena",
+        "p1_prob": 0.6917,
+        "p2_prob": 0.3083,
+        "predicted_winner": "Mackenzie Mcdonald",
+        "confidence": "high",
+        "p1_edge": 0.025,
+        "p2_edge": -0.054
+      },
+      "collected_at": "2026-06-23T13:45:17.136279+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-06-04T13:38:15.655013+00:00"
+  "last_updated": "2026-06-23T13:45:17.136461+00:00"
 }
