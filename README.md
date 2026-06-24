@@ -127,13 +127,18 @@ XGBoost             CV acc: 0.6934 ± 0.0038
 
 ## Live predictions workflow
 
-The Odds API free tier gives **500 credits/month**. Running the full workflow once a day uses ~4 credits total, leaving ~380 credits of headroom.
+The Odds API free tier gives **500 credits/month**. Cost is **1 credit per active ATP tournament,
+per call** — `update_results.py`'s scores call always costs (no caching), `collect.py`'s odds call
+only costs when its 15-min cache has expired. Running the full workflow 3x/day costs ~18
+credits/day worst case (3 concurrent tournaments) — comfortably under budget most of the season,
+tight only in the heaviest overlapping weeks.
 
-This now runs automatically once a day via [`.github/workflows/live-predictions.yml`](.github/workflows/live-predictions.yml),
-which settles yesterday's matches, collects new upcoming ones, and commits the updated
-`data/live_predictions.json` back to the repo. It needs an `ODDS_API_KEY` repo secret — add one
-under repo **Settings → Secrets and variables → Actions → New repository secret** using the same
-value as `backend/.env`. You can also trigger it manually from the Actions tab ("Run workflow").
+This now runs automatically 3x/day (every 8 hours) via
+[`.github/workflows/live-predictions.yml`](.github/workflows/live-predictions.yml), which settles
+recent matches, collects new upcoming ones, and commits the updated `data/live_predictions.json`
+back to the repo. It needs an `ODDS_API_KEY` repo secret — add one under repo **Settings → Secrets
+and variables → Actions → New repository secret** using the same value as `backend/.env`. You can
+also trigger it manually from the Actions tab ("Run workflow").
 
 The steps below are for running it manually/locally.
 
