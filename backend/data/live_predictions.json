@@ -425,7 +425,213 @@
       },
       "collected_at": "2026-06-23T13:45:17.136279+00:00",
       "result": null
+    },
+    "fad40fa9e9a97d544ca8f1cba379f7d0": {
+      "match_id": "fad40fa9e9a97d544ca8f1cba379f7d0",
+      "commence_time": "2026-06-24T16:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Soonwoo Kwon",
+      "player2": "Arthur Gea",
+      "bookmakers": {
+        "pinnacle": {
+          "Arthur Gea": 3.81,
+          "Soonwoo Kwon": 1.29
+        },
+        "nordicbet": {
+          "Arthur Gea": 3.66,
+          "Soonwoo Kwon": 1.24
+        },
+        "mybookieag": {
+          "Arthur Gea": 3.75,
+          "Soonwoo Kwon": 1.25
+        },
+        "betfair_ex_eu": {
+          "Arthur Gea": 4.1,
+          "Soonwoo Kwon": 1.3
+        }
+      },
+      "prediction": {
+        "p1_name": "Soonwoo Kwon",
+        "p2_name": "Arthur Gea",
+        "p1_prob": 0.3498,
+        "p2_prob": 0.6502,
+        "predicted_winner": "Arthur Gea",
+        "confidence": "high",
+        "p1_edge": -0.4194,
+        "p2_edge": 0.4063
+      },
+      "collected_at": "2026-06-24T17:51:24.588418+00:00",
+      "result": null
+    },
+    "7866792ea5889d548acc64113f85ac9d": {
+      "match_id": "7866792ea5889d548acc64113f85ac9d",
+      "commence_time": "2026-06-24T16:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Aziz Dougaz",
+      "player2": "Rei Sakamoto",
+      "bookmakers": {
+        "pinnacle": {
+          "Aziz Dougaz": 26.93,
+          "Rei Sakamoto": 1.03
+        }
+      },
+      "prediction": {
+        "p1_name": "Aziz Dougaz",
+        "p2_name": "Rei Sakamoto",
+        "p1_prob": 0.4275,
+        "p2_prob": 0.5725,
+        "predicted_winner": "Rei Sakamoto",
+        "confidence": "medium",
+        "p1_edge": 0.3904,
+        "p2_edge": -0.3984
+      },
+      "collected_at": "2026-06-24T17:51:24.596727+00:00",
+      "result": null
+    },
+    "0363040a8fcb6a76715262e9ef0e824a": {
+      "match_id": "0363040a8fcb6a76715262e9ef0e824a",
+      "commence_time": "2026-06-25T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Yi Zhou",
+      "player2": "Billy Harris",
+      "bookmakers": {
+        "pinnacle": {
+          "Billy Harris": 1.56,
+          "Yi Zhou": 2.5
+        },
+        "nordicbet": {
+          "Billy Harris": 1.51,
+          "Yi Zhou": 2.49
+        },
+        "gtbets": {
+          "Billy Harris": 1.54,
+          "Yi Zhou": 2.63
+        },
+        "betfair_ex_eu": {
+          "Billy Harris": 1.46,
+          "Yi Zhou": 2.32
+        },
+        "mybookieag": {
+          "Billy Harris": 1.49,
+          "Yi Zhou": 2.44
+        }
+      },
+      "prediction": {
+        "p1_name": "Yi Zhou",
+        "p2_name": "Billy Harris",
+        "p1_prob": 0.4611,
+        "p2_prob": 0.5389,
+        "predicted_winner": "Billy Harris",
+        "confidence": "low",
+        "p1_edge": 0.0809,
+        "p2_edge": -0.1021
+      },
+      "collected_at": "2026-06-24T17:51:24.605860+00:00",
+      "result": null
+    },
+    "7ab255073177c90df258a7ad6d91bedf": {
+      "match_id": "7ab255073177c90df258a7ad6d91bedf",
+      "commence_time": "2026-06-25T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Mackenzie McDonald",
+      "player2": "Christopher O'Connell",
+      "bookmakers": {
+        "pinnacle": {
+          "Christopher O'Connell": 1.68,
+          "Mackenzie McDonald": 2.24
+        },
+        "marathonbet": {
+          "Christopher O'Connell": 1.65,
+          "Mackenzie McDonald": 2.17
+        },
+        "nordicbet": {
+          "Christopher O'Connell": 1.65,
+          "Mackenzie McDonald": 2.18
+        },
+        "gtbets": {
+          "Christopher O'Connell": 1.69,
+          "Mackenzie McDonald": 2.17
+        },
+        "betfair_ex_eu": {
+          "Christopher O'Connell": 1.64,
+          "Mackenzie McDonald": 1.98
+        },
+        "unibet_fr": {
+          "Christopher O'Connell": 1.58,
+          "Mackenzie McDonald": 2.05
+        },
+        "mybookieag": {
+          "Christopher O'Connell": 1.63,
+          "Mackenzie McDonald": 2.14
+        }
+      },
+      "prediction": {
+        "p1_name": "Mackenzie McDonald",
+        "p2_name": "Christopher O'Connell",
+        "p1_prob": 0.6216,
+        "p2_prob": 0.3784,
+        "predicted_winner": "Mackenzie McDonald",
+        "confidence": "high",
+        "p1_edge": 0.1752,
+        "p2_edge": -0.2133
+      },
+      "collected_at": "2026-06-24T17:51:24.613967+00:00",
+      "result": null
+    },
+    "1a75fbee0959bd2f122760f01c82baab": {
+      "match_id": "1a75fbee0959bd2f122760f01c82baab",
+      "commence_time": "2026-06-25T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Clement Tabur",
+      "player2": "Shintaro Mochizuki",
+      "bookmakers": {
+        "pinnacle": {
+          "Clement Tabur": 2.07,
+          "Shintaro Mochizuki": 1.78
+        },
+        "marathonbet": {
+          "Clement Tabur": 1.99,
+          "Shintaro Mochizuki": 1.77
+        },
+        "nordicbet": {
+          "Clement Tabur": 1.94,
+          "Shintaro Mochizuki": 1.83
+        },
+        "gtbets": {
+          "Clement Tabur": 2.04,
+          "Shintaro Mochizuki": 1.88
+        },
+        "betfair_ex_eu": {
+          "Clement Tabur": 2.0,
+          "Shintaro Mochizuki": 1.68
+        },
+        "unibet_fr": {
+          "Clement Tabur": 1.84,
+          "Shintaro Mochizuki": 1.73
+        },
+        "mybookieag": {
+          "Clement Tabur": 1.91,
+          "Shintaro Mochizuki": 1.79
+        }
+      },
+      "prediction": {
+        "p1_name": "Clement Tabur",
+        "p2_name": "Shintaro Mochizuki",
+        "p1_prob": 0.449,
+        "p2_prob": 0.551,
+        "predicted_winner": "Shintaro Mochizuki",
+        "confidence": "medium",
+        "p1_edge": -0.0341,
+        "p2_edge": 0.0191
+      },
+      "collected_at": "2026-06-24T17:51:24.622153+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-06-24T13:43:56.754705+00:00"
+  "last_updated": "2026-06-24T17:51:24.622390+00:00"
 }
