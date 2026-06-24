@@ -1,6 +1,6 @@
 # TennisOracle
 
-ATP tennis match predictor. Logistic regression / XGBoost model trained on 2010–2023 ATP data (~786 player profiles), calibrated to produce well-grounded win probabilities. Predictions are tracked against live bookmaker odds to check how the model's probabilities hold up against a real market.
+ATP tennis match predictor. Logistic regression / XGBoost model trained on 2010–2023 ATP data, calibrated to produce well-grounded win probabilities. Player profiles (rank, recent form, head-to-head) are rebuilt at startup from match data that now extends through the current season, so live predictions use each player's actual current state rather than a frozen 2023 snapshot. Predictions are tracked against live bookmaker odds to check how the model's probabilities hold up against a real market.
 
 **Live demo:** [tennis-oracle.vercel.app](https://tennis-oracle.vercel.app/) — backend hosted on [Render](https://tennisoracle.onrender.com).
 
@@ -10,7 +10,7 @@ ATP tennis match predictor. Logistic regression / XGBoost model trained on 2010�
 
 ```
 TennisOracle/
-├── ATP_Matches/          Raw ATP CSV data (2010–2023, Jeff Sackmann dataset)
+├── ATP_Matches/          Raw ATP CSV data: 2010–2023 (Jeff Sackmann), 2024–2026 (TML-Database)
 ├── backend/              FastAPI server + ML model
 │   ├── data/
 │   │   ├── loader.py         Builds player profiles from CSVs at startup
@@ -90,7 +90,7 @@ The server loads all ATP match data and builds player profiles at startup (~5 se
 
 ```
 Loading ATP match data...
-  786 player profiles built
+  921 player profiles built
   Model loaded ✓
 ```
 
@@ -107,7 +107,17 @@ Open **http://localhost:3000**
 
 ## ML model
 
-The model is pre-trained and committed as `backend/ml/model.joblib`. Re-train it if you add new ATP match data or want to experiment.
+The model is pre-trained and committed as `backend/ml/model.joblib`, trained on 2010–2023 data.
+It has **not** been retrained on the 2024–2026 data in `ATP_Matches/` — that data only feeds live
+player profiles (rank, recent form, h2h) at inference time, which is the intended use of those
+features. Re-train if you want the model itself to learn from the newer matches too, or if you add
+more data and want to experiment.
+
+To refresh match data beyond what's committed, download newer `{year}.csv` files from
+[stats.tennismylife.org/data/](https://stats.tennismylife.org/data/) (free, MIT-licensed, no API
+key, same schema as the original Jeff Sackmann dataset) and save them as
+`ATP_Matches/atp_matches_{year}.csv` — `backend/data/loader.py` picks up anything matching that
+glob automatically on next startup.
 
 ```bash
 cd backend
