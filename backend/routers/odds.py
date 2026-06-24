@@ -4,13 +4,12 @@
 /api/odds/summary   — accuracy stats
 """
 import os
-from datetime import datetime, timezone
 from typing import Optional
 
 from fastapi import APIRouter, HTTPException, Query
 
 from data.loader  import PlayerDB
-from data.store   import load_all, upsert, summary as store_summary
+from data.store   import load_all, summary as store_summary
 from ml.features  import build_feature_vector
 from odds_client  import (
     all_book_odds, best_odds, fetch_upcoming, infer_surface,
@@ -80,6 +79,11 @@ def upcoming(
     """
     Upcoming ATP matches with bookmaker H2H odds and our model's prediction.
     Responses are cached for ODDS_CACHE_TTL seconds (default 15 min).
+
+    Read-only — does not persist to the predictions store. Storage is handled
+    solely by scripts/collect.py (run on a schedule via GitHub Actions) so the
+    store stays in sync with git instead of drifting on Render's ephemeral
+    disk between redeploys.
     """
     api_key = os.getenv("ODDS_API_KEY", "")
     if not api_key:
@@ -122,15 +126,6 @@ def upcoming(
             "bookmakers":    b_all,
             "prediction":    pred,
         }
-
-        # Persist new predictions automatically
-        if pred:
-            store_entry = {
-                **entry,
-                "collected_at": datetime.now(timezone.utc).isoformat(),
-                "result":       None,
-            }
-            upsert(ev["id"], store_entry)
 
         results.append(entry)
 
