@@ -144,7 +144,11 @@
         "p2_edge": -0.2918
       },
       "collected_at": "2026-06-04T13:38:15.654581+00:00",
-      "result": null
+      "result": {
+        "winner": "Flavio Cobolli",
+        "correct": false,
+        "settled_at": "2026-06-24T13:43:56.754696+00:00"
+      }
     },
     "f5941005267d346c2cf617fe9a7cfc4d": {
       "match_id": "f5941005267d346c2cf617fe9a7cfc4d",
@@ -423,5 +427,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-06-23T13:45:17.136461+00:00"
+  "last_updated": "2026-06-24T13:43:56.754705+00:00"
 }

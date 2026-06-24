@@ -6,22 +6,36 @@ predictions in the store with the actual result.
 Costs 1 credit per run regardless of how many results are found.
 Run this daily (or after big match days) to track model accuracy.
 
+The Odds API only reports scores for tournaments it still considers "active" —
+once a tournament concludes, its sport key goes inactive and its matches can
+never be settled this way, no matter the --days lookback. As a fallback, any
+prediction still pending after the Odds API pass is checked against
+stats.tennismylife.org's match results (same source used to extend
+ATP_Matches/), which has no such "active tournament" limitation.
+
 Usage:
     cd backend && python scripts/update_results.py
     cd backend && python scripts/update_results.py --days 5  # look back 5 days
 """
 import argparse
+import csv
+import io
 import os
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
+from typing import Optional
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
+import httpx
 from dotenv import load_dotenv
 load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 
 from data.store  import load_all, update_result, summary
 from odds_client import fetch_scores
+
+TML_DATA_URL = "https://stats.tennismylife.org/data/{year}.csv"
 
 
 def _winner_from_scores(score_list: list) -> str | None:
@@ -43,6 +57,42 @@ def _winner_from_scores(score_list: list) -> str | None:
 def _names_match(a: str, b: str) -> bool:
     a, b = a.lower().strip(), b.lower().strip()
     return a == b or a in b or b in a
+
+
+def _fetch_tml_matches(year: int) -> list[dict]:
+    """Download stats.tennismylife.org's match results for one year. No API key needed."""
+    resp = httpx.get(TML_DATA_URL.format(year=year), timeout=20)
+    resp.raise_for_status()
+    return list(csv.DictReader(io.StringIO(resp.text)))
+
+
+def _find_tml_result(rows: list[dict], player1: str, player2: str, commence_iso: str) -> Optional[str]:
+    """
+    Search TML rows for a match between player1/player2, closest in tourney_date
+    to the prediction's commence_time (tourney_date is the tournament's start date,
+    not the individual match date, so an exact-date match isn't expected).
+    Returns the winner's name as recorded by TML, or None if no match found.
+    """
+    commence_date = datetime.fromisoformat(commence_iso.replace("Z", "+00:00")).date()
+
+    best_row, best_diff = None, None
+    for row in rows:
+        w, l = row.get("winner_name", ""), row.get("loser_name", "")
+        same_pair = (_names_match(w, player1) and _names_match(l, player2)) or \
+                    (_names_match(w, player2) and _names_match(l, player1))
+        if not same_pair:
+            continue
+        try:
+            tourney_date = datetime.strptime(row["tourney_date"], "%Y%m%d").date()
+        except (KeyError, ValueError):
+            continue
+        diff = abs((tourney_date - commence_date).days)
+        if diff > 21:  # longer than any ATP tournament, including slop
+            continue
+        if best_diff is None or diff < best_diff:
+            best_row, best_diff = row, diff
+
+    return best_row["winner_name"] if best_row else None
 
 
 def run(days: int = 3) -> None:
@@ -99,6 +149,50 @@ def run(days: int = 3) -> None:
     print(f"  {updated} results recorded  |  "
           f"{already} already settled  |  "
           f"{not_in_store} completed matches not in store")
+
+    # --- Fallback: predictions still pending past their match time (likely
+    # because The Odds API stopped tracking their now-concluded tournament) ---
+    now = datetime.now(timezone.utc)
+    predictions = load_all()  # reload in case the pass above updated anything
+    still_pending = [
+        (mid, p) for mid, p in predictions.items()
+        if not p.get("result")
+        and datetime.fromisoformat(p["commence_time"].replace("Z", "+00:00")) < now
+    ]
+
+    if still_pending:
+        years = sorted({
+            datetime.fromisoformat(p["commence_time"].replace("Z", "+00:00")).year
+            for _, p in still_pending
+        })
+        print(f"\n{len(still_pending)} pending prediction(s) past their match time — "
+              f"checking stats.tennismylife.org fallback (year(s) {years})…")
+
+        tml_rows: list[dict] = []
+        for year in years:
+            try:
+                tml_rows.extend(_fetch_tml_matches(year))
+            except Exception as e:
+                print(f"  ⚠  Could not fetch TML data for {year}: {e}")
+
+        tml_updated = 0
+        for match_id, pred in still_pending:
+            winner_name = _find_tml_result(
+                tml_rows, pred["player1"], pred["player2"], pred["commence_time"]
+            )
+            if not winner_name:
+                continue
+
+            predicted = pred["prediction"]["predicted_winner"]
+            correct   = _names_match(winner_name, predicted)
+            update_result(match_id, winner_name, correct)
+
+            mark = "✓" if correct else "✗"
+            print(f"  {mark}  {pred['player1'].split()[-1]} vs {pred['player2'].split()[-1]} "
+                  f"(via TML)  Actual: {winner_name}")
+            tml_updated += 1
+
+        print(f"  {tml_updated} result(s) recorded via TML fallback")
 
     stats = summary()
     if stats["settled"]:

@@ -131,7 +131,7 @@ class PlayerDB:
                 {
                     "date": str(r["tourney_date"])[:10],
                     "opponent": r["opponent"],
-                    "surface": r["surface"],
+                    "surface": _safe(r.get("surface"), "Hard"),
                     "result": r["result"],
                     "score": _safe(r.get("score"), ""),
                 }
