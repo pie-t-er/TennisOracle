@@ -631,7 +631,463 @@
       },
       "collected_at": "2026-06-24T17:51:24.622153+00:00",
       "result": null
+    },
+    "767b96db150f123e3b08fd123ce88570": {
+      "match_id": "767b96db150f123e3b08fd123ce88570",
+      "commence_time": "2026-06-25T10:05:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Colton Smith",
+      "player2": "Michael Zheng",
+      "bookmakers": {
+        "pinnacle": {
+          "Colton Smith": 2.2,
+          "Michael Zheng": 1.7
+        },
+        "mybookieag": {
+          "Colton Smith": 2.09,
+          "Michael Zheng": 1.66
+        },
+        "nordicbet": {
+          "Colton Smith": 2.13,
+          "Michael Zheng": 1.69
+        },
+        "gtbets": {
+          "Colton Smith": 2.13,
+          "Michael Zheng": 1.74
+        },
+        "betfair_ex_eu": {
+          "Colton Smith": 2.24,
+          "Michael Zheng": 1.71
+        }
+      },
+      "prediction": {
+        "p1_name": "Colton Smith",
+        "p2_name": "Michael Zheng",
+        "p1_prob": 0.3919,
+        "p2_prob": 0.6081,
+        "predicted_winner": "Michael Zheng",
+        "confidence": "high",
+        "p1_edge": -0.0545,
+        "p2_edge": 0.0334
+      },
+      "collected_at": "2026-06-25T02:49:35.154164+00:00",
+      "result": null
+    },
+    "a2fe3de13346138788f03fa959193234": {
+      "match_id": "a2fe3de13346138788f03fa959193234",
+      "commence_time": "2026-06-25T10:05:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Dane Sweeny",
+      "player2": "Marcelo Tomas Barrios Vera",
+      "bookmakers": {
+        "pinnacle": {
+          "Dane Sweeny": 2.41,
+          "Marcelo Tomas Barrios Vera": 1.59
+        },
+        "betfair_ex_eu": {
+          "Dane Sweeny": 2.38,
+          "Marcelo Tomas Barrios Vera": 1.61
+        },
+        "marathonbet": {
+          "Dane Sweeny": 2.34,
+          "Marcelo Tomas Barrios Vera": 1.56
+        },
+        "nordicbet": {
+          "Dane Sweeny": 2.3,
+          "Marcelo Tomas Barrios Vera": 1.59
+        },
+        "gtbets": {
+          "Dane Sweeny": 2.37,
+          "Marcelo Tomas Barrios Vera": 1.66
+        },
+        "mybookieag": {
+          "Dane Sweeny": 2.26,
+          "Marcelo Tomas Barrios Vera": 1.57
+        },
+        "unibet_fr": {
+          "Dane Sweeny": 2.2,
+          "Marcelo Tomas Barrios Vera": 1.55
+        }
+      },
+      "prediction": {
+        "p1_name": "Dane Sweeny",
+        "p2_name": "Tomas Barrios Vera",
+        "p1_prob": 0.3787,
+        "p2_prob": 0.6213,
+        "predicted_winner": "Tomas Barrios Vera",
+        "confidence": "high",
+        "p1_edge": -0.0362,
+        "p2_edge": 0.0189
+      },
+      "collected_at": "2026-06-25T02:49:35.163313+00:00",
+      "result": null
+    },
+    "e896a7eb2beafdac786e0c975fd8f262": {
+      "match_id": "e896a7eb2beafdac786e0c975fd8f262",
+      "commence_time": "2026-06-25T10:05:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Roman Safiullin",
+      "player2": "Jerome Kym",
+      "bookmakers": {
+        "pinnacle": {
+          "Jerome Kym": 2.63,
+          "Roman Safiullin": 1.51
+        },
+        "mybookieag": {
+          "Jerome Kym": 2.42,
+          "Roman Safiullin": 1.5
+        },
+        "nordicbet": {
+          "Jerome Kym": 2.46,
+          "Roman Safiullin": 1.52
+        },
+        "gtbets": {
+          "Jerome Kym": 2.42,
+          "Roman Safiullin": 1.57
+        },
+        "betfair_ex_eu": {
+          "Jerome Kym": 2.62,
+          "Roman Safiullin": 1.52
+        }
+      },
+      "prediction": {
+        "p1_name": "Roman Safiullin",
+        "p2_name": "Jerome Kym",
+        "p1_prob": 0.6102,
+        "p2_prob": 0.3898,
+        "predicted_winner": "Roman Safiullin",
+        "confidence": "high",
+        "p1_edge": -0.0267,
+        "p2_edge": 0.0096
+      },
+      "collected_at": "2026-06-25T02:49:35.172142+00:00",
+      "result": null
+    },
+    "99b6fd174f9ebc6b35964302db0ca035": {
+      "match_id": "99b6fd174f9ebc6b35964302db0ca035",
+      "commence_time": "2026-06-25T10:05:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Nicolas Mejia",
+      "player2": "Tristan Schoolkate",
+      "bookmakers": {
+        "pinnacle": {
+          "Nicolas Mejia": 3.72,
+          "Tristan Schoolkate": 1.29
+        },
+        "nordicbet": {
+          "Nicolas Mejia": 3.42,
+          "Tristan Schoolkate": 1.3
+        },
+        "gtbets": {
+          "Nicolas Mejia": 3.47,
+          "Tristan Schoolkate": 1.31
+        },
+        "betfair_ex_eu": {
+          "Nicolas Mejia": 3.55,
+          "Tristan Schoolkate": 1.33
+        },
+        "mybookieag": {
+          "Nicolas Mejia": 3.36,
+          "Tristan Schoolkate": 1.28
+        }
+      },
+      "prediction": {
+        "p1_name": "Nicolas Mejia",
+        "p2_name": "Tristan Schoolkate",
+        "p1_prob": 0.4443,
+        "p2_prob": 0.5557,
+        "predicted_winner": "Tristan Schoolkate",
+        "confidence": "medium",
+        "p1_edge": 0.1755,
+        "p2_edge": -0.1962
+      },
+      "collected_at": "2026-06-25T02:49:35.181032+00:00",
+      "result": null
+    },
+    "84c057b18aa3c5c458e24eb17176c473": {
+      "match_id": "84c057b18aa3c5c458e24eb17176c473",
+      "commence_time": "2026-06-25T10:05:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Pablo Llamas Ruiz",
+      "player2": "Tristan Boyer",
+      "bookmakers": {
+        "pinnacle": {
+          "Pablo Llamas Ruiz": 1.68,
+          "Tristan Boyer": 2.22
+        },
+        "mybookieag": {
+          "Pablo Llamas Ruiz": 1.59,
+          "Tristan Boyer": 2.22
+        },
+        "nordicbet": {
+          "Pablo Llamas Ruiz": 1.61,
+          "Tristan Boyer": 2.26
+        },
+        "unibet_fr": {
+          "Pablo Llamas Ruiz": 1.57,
+          "Tristan Boyer": 2.15
+        },
+        "gtbets": {
+          "Pablo Llamas Ruiz": 1.62,
+          "Tristan Boyer": 2.32
+        },
+        "betfair_ex_eu": {
+          "Pablo Llamas Ruiz": 1.66,
+          "Tristan Boyer": 2.26
+        }
+      },
+      "prediction": {
+        "p1_name": "Pablo Llamas Ruiz",
+        "p2_name": "Tristan Boyer",
+        "p1_prob": 0.5415,
+        "p2_prob": 0.4585,
+        "predicted_winner": "Pablo Llamas Ruiz",
+        "confidence": "medium",
+        "p1_edge": -0.0537,
+        "p2_edge": 0.0275
+      },
+      "collected_at": "2026-06-25T02:49:35.190065+00:00",
+      "result": null
+    },
+    "604a62613f8b92dadd6ce0c53233af7c": {
+      "match_id": "604a62613f8b92dadd6ce0c53233af7c",
+      "commence_time": "2026-06-25T12:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Vilius Gaubas",
+      "player2": "Dusan Lajovic",
+      "bookmakers": {
+        "pinnacle": {
+          "Dusan Lajovic": 1.84,
+          "Vilius Gaubas": 2.0
+        },
+        "mybookieag": {
+          "Dusan Lajovic": 1.76,
+          "Vilius Gaubas": 1.95
+        },
+        "unibet_fr": {
+          "Dusan Lajovic": 1.73,
+          "Vilius Gaubas": 1.91
+        },
+        "gtbets": {
+          "Dusan Lajovic": 1.85,
+          "Vilius Gaubas": 1.96
+        },
+        "marathonbet": {
+          "Dusan Lajovic": 1.78,
+          "Vilius Gaubas": 1.98
+        },
+        "nordicbet": {
+          "Dusan Lajovic": 1.79,
+          "Vilius Gaubas": 1.98
+        },
+        "betfair_ex_eu": {
+          "Dusan Lajovic": 1.87,
+          "Vilius Gaubas": 2.02
+        }
+      },
+      "prediction": {
+        "p1_name": "Vilius Gaubas",
+        "p2_name": "Dusan Lajovic",
+        "p1_prob": 0.7088,
+        "p2_prob": 0.2912,
+        "predicted_winner": "Vilius Gaubas",
+        "confidence": "high",
+        "p1_edge": 0.2138,
+        "p2_edge": -0.2436
+      },
+      "collected_at": "2026-06-25T02:49:35.199925+00:00",
+      "result": null
+    },
+    "db354ad9b03626429cded0b98ac44cc5": {
+      "match_id": "db354ad9b03626429cded0b98ac44cc5",
+      "commence_time": "2026-06-25T12:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Hugo Gaston",
+      "player2": "Moez Echargui",
+      "bookmakers": {
+        "pinnacle": {
+          "Hugo Gaston": 1.31,
+          "Moez Echargui": 3.57
+        },
+        "mybookieag": {
+          "Hugo Gaston": 1.28,
+          "Moez Echargui": 3.34
+        },
+        "nordicbet": {
+          "Hugo Gaston": 1.3,
+          "Moez Echargui": 3.42
+        },
+        "unibet_fr": {
+          "Hugo Gaston": 1.29,
+          "Moez Echargui": 3.4
+        },
+        "betfair_ex_eu": {
+          "Hugo Gaston": 1.27,
+          "Moez Echargui": 3.55
+        },
+        "marathonbet": {
+          "Hugo Gaston": 1.3,
+          "Moez Echargui": 3.34
+        }
+      },
+      "prediction": {
+        "p1_name": "Hugo Gaston",
+        "p2_name": "Moez Echargui",
+        "p1_prob": 0.6907,
+        "p2_prob": 0.3093,
+        "predicted_winner": "Hugo Gaston",
+        "confidence": "high",
+        "p1_edge": -0.0727,
+        "p2_edge": 0.0292
+      },
+      "collected_at": "2026-06-25T02:49:35.209080+00:00",
+      "result": null
+    },
+    "72b560b345807368860b000409ff31a3": {
+      "match_id": "72b560b345807368860b000409ff31a3",
+      "commence_time": "2026-06-25T12:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Jaime Faria",
+      "player2": "Rei Sakamoto",
+      "bookmakers": {
+        "pinnacle": {
+          "Jaime Faria": 1.52,
+          "Rei Sakamoto": 2.61
+        },
+        "mybookieag": {
+          "Jaime Faria": 1.5,
+          "Rei Sakamoto": 2.43
+        },
+        "gtbets": {
+          "Jaime Faria": 1.53,
+          "Rei Sakamoto": 2.51
+        },
+        "nordicbet": {
+          "Jaime Faria": 1.52,
+          "Rei Sakamoto": 2.47
+        },
+        "betfair_ex_eu": {
+          "Jaime Faria": 1.53,
+          "Rei Sakamoto": 2.8
+        }
+      },
+      "prediction": {
+        "p1_name": "Jaime Faria",
+        "p2_name": "Rei Sakamoto",
+        "p1_prob": 0.4769,
+        "p2_prob": 0.5231,
+        "predicted_winner": "Rei Sakamoto",
+        "confidence": "low",
+        "p1_edge": -0.1767,
+        "p2_edge": 0.166
+      },
+      "collected_at": "2026-06-25T02:49:35.218312+00:00",
+      "result": null
+    },
+    "e3507ddb293c116c28fee86be8c0a522": {
+      "match_id": "e3507ddb293c116c28fee86be8c0a522",
+      "commence_time": "2026-06-25T12:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Timofey Skatov",
+      "player2": "Kyrian Jacquet",
+      "bookmakers": {
+        "pinnacle": {
+          "Kyrian Jacquet": 1.43,
+          "Timofey Skatov": 2.9
+        },
+        "marathonbet": {
+          "Kyrian Jacquet": 1.39,
+          "Timofey Skatov": 2.88
+        },
+        "mybookieag": {
+          "Kyrian Jacquet": 1.38,
+          "Timofey Skatov": 2.82
+        },
+        "nordicbet": {
+          "Kyrian Jacquet": 1.4,
+          "Timofey Skatov": 2.86
+        },
+        "unibet_fr": {
+          "Kyrian Jacquet": 1.36,
+          "Timofey Skatov": 2.75
+        },
+        "betfair_ex_eu": {
+          "Kyrian Jacquet": 1.39,
+          "Timofey Skatov": 2.94
+        },
+        "gtbets": {
+          "Kyrian Jacquet": 1.5,
+          "Timofey Skatov": 2.75
+        }
+      },
+      "prediction": {
+        "p1_name": "Timofey Skatov",
+        "p2_name": "Kyrian Jacquet",
+        "p1_prob": 0.5958,
+        "p2_prob": 0.4042,
+        "predicted_winner": "Timofey Skatov",
+        "confidence": "medium",
+        "p1_edge": 0.2557,
+        "p2_edge": -0.2625
+      },
+      "collected_at": "2026-06-25T02:49:35.227805+00:00",
+      "result": null
+    },
+    "8832bfe7968405a6f5122031161dc137": {
+      "match_id": "8832bfe7968405a6f5122031161dc137",
+      "commence_time": "2026-06-25T12:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Nicolai Budkov Kjaer",
+      "player2": "Otto Virtanen",
+      "bookmakers": {
+        "pinnacle": {
+          "Nicolai Budkov Kjaer": 3.5,
+          "Otto Virtanen": 1.32
+        },
+        "mybookieag": {
+          "Nicolai Budkov Kjaer": 3.3,
+          "Otto Virtanen": 1.29
+        },
+        "nordicbet": {
+          "Nicolai Budkov Kjaer": 3.37,
+          "Otto Virtanen": 1.3
+        },
+        "unibet_fr": {
+          "Nicolai Budkov Kjaer": 3.2,
+          "Otto Virtanen": 1.27
+        },
+        "betfair_ex_eu": {
+          "Nicolai Budkov Kjaer": 3.6,
+          "Otto Virtanen": 1.32
+        },
+        "gtbets": {
+          "Nicolai Budkov Kjaer": 3.41,
+          "Otto Virtanen": 1.37
+        }
+      },
+      "prediction": {
+        "p1_name": "Nicolai Budkov Kjaer",
+        "p2_name": "Otto Virtanen",
+        "p1_prob": 0.5792,
+        "p2_prob": 0.4208,
+        "predicted_winner": "Nicolai Budkov Kjaer",
+        "confidence": "medium",
+        "p1_edge": 0.3014,
+        "p2_edge": -0.3091
+      },
+      "collected_at": "2026-06-25T02:49:35.237158+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-06-24T17:51:24.622390+00:00"
+  "last_updated": "2026-06-25T02:49:35.237517+00:00"
 }
