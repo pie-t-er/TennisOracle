@@ -11,6 +11,7 @@ import {
 } from "@/lib/api";
 import LivePredictionCard from "@/components/LivePredictionCard";
 import PredictionLogTable from "@/components/PredictionLogTable";
+import { aggregateBets, STAKE } from "@/lib/betting";
 
 // ── Stat card ─────────────────────────────────────────────────────────────────
 
@@ -102,6 +103,11 @@ export default function LivePage() {
     summary?.accuracy == null    ? "neutral" :
     summary.accuracy >= 0.65     ? "green"   : "red";
 
+  const betTotals = aggregateBets(log);
+  const plAccent =
+    betTotals.betsPlaced === 0 ? "neutral" :
+    betTotals.totalProfit >= 0 ? "green"   : "red";
+
   return (
     <div className="space-y-10">
 
@@ -110,8 +116,9 @@ export default function LivePage() {
         <div>
           <h1 className="text-3xl font-bold tracking-tight">Live Predictions</h1>
           <p className="text-gray-400 mt-1 text-sm">
-            Model predictions tested against real bookmaker odds, refreshed automatically
-            once a day.
+            Model predictions across the ATP tour, refreshed automatically throughout the day.
+            Matches at majors and bigger events are tracked against real bookmaker odds; smaller
+            tournaments are predicted as soon as results land, without odds.
           </p>
         </div>
 
@@ -134,7 +141,7 @@ export default function LivePage() {
 
       {/* ── Stats bar ── */}
       {summary && (
-        <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
+        <div className="grid grid-cols-2 sm:grid-cols-5 gap-3">
           <StatCard label="Predictions" value={summary.total} />
           <StatCard label="Pending"     value={summary.pending} />
           <StatCard
@@ -159,6 +166,20 @@ export default function LivePage() {
                 : undefined
             }
             accent={accuracyAccent}
+          />
+          <StatCard
+            label={`Sim. $${STAKE}/bet P&L`}
+            value={
+              betTotals.betsPlaced > 0
+                ? `${betTotals.totalProfit >= 0 ? "+" : ""}$${betTotals.totalProfit.toFixed(2)}`
+                : "—"
+            }
+            sub={
+              betTotals.betsPlaced > 0
+                ? `${betTotals.betsWon}/${betTotals.betsPlaced} won  ·  $${betTotals.totalStaked} staked`
+                : undefined
+            }
+            accent={plAccent}
           />
         </div>
       )}

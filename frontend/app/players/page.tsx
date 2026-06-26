@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState, useCallback } from "react";
+import { useEffect, useState, useCallback, useRef } from "react";
 import Link from "next/link";
 import { getPlayers, Player } from "@/lib/api";
 
@@ -9,6 +9,8 @@ const HANDS = [
   { value: "R", label: "Right-handed" },
   { value: "L", label: "Left-handed" },
 ];
+
+const PAGE_SIZE = 20;
 
 function SurfaceBar({ pct, surface }: { pct: number; surface: string }) {
   const color =
@@ -71,6 +73,8 @@ export default function PlayersPage() {
   const [players, setPlayers] = useState<Player[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
+  const sentinelRef = useRef<HTMLDivElement | null>(null);
 
   const fetchPlayers = useCallback(async () => {
     setLoading(true);
@@ -91,12 +95,35 @@ export default function PlayersPage() {
     return () => clearTimeout(t);
   }, [fetchPlayers, query]);
 
+  // Reset to the first page whenever the underlying result set changes.
+  useEffect(() => {
+    setVisibleCount(PAGE_SIZE);
+  }, [players]);
+
+  // Reveal another page once the sentinel below the grid scrolls into view.
+  useEffect(() => {
+    const el = sentinelRef.current;
+    if (!el || visibleCount >= players.length) return;
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) {
+          setVisibleCount((c) => Math.min(c + PAGE_SIZE, players.length));
+        }
+      },
+      { rootMargin: "300px" }
+    );
+    observer.observe(el);
+    return () => observer.disconnect();
+  }, [players, visibleCount]);
+
+  const visiblePlayers = players.slice(0, visibleCount);
+
   return (
     <div className="space-y-6">
       <div>
         <h1 className="text-3xl font-bold">Player Database</h1>
         <p className="text-gray-400 mt-1">
-          {players.length.toLocaleString()} players · ATP 2010–2023
+          {players.length.toLocaleString()} players · ATP 2010–present
         </p>
       </div>
 
@@ -133,14 +160,22 @@ export default function PlayersPage() {
           ))}
         </div>
       ) : (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {players.map((p) => (
-            <PlayerCard key={p.name} player={p} />
-          ))}
-          {players.length === 0 && (
-            <p className="col-span-3 text-gray-500 text-center py-12">No players found.</p>
+        <>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {visiblePlayers.map((p) => (
+              <PlayerCard key={p.name} player={p} />
+            ))}
+            {players.length === 0 && (
+              <p className="col-span-3 text-gray-500 text-center py-12">No players found.</p>
+            )}
+          </div>
+
+          {visibleCount < players.length && (
+            <div ref={sentinelRef} className="py-6 text-center text-gray-500 text-sm">
+              Showing {visibleCount} of {players.length} — scroll for more…
+            </div>
           )}
-        </div>
+        </>
       )}
     </div>
   );

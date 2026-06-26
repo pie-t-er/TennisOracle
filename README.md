@@ -145,12 +145,31 @@ tight only in the heaviest overlapping weeks.
 
 This now runs automatically 3x/day (every 8 hours) via
 [`.github/workflows/live-predictions.yml`](.github/workflows/live-predictions.yml), which settles
-recent matches, collects new upcoming ones, and commits the updated `data/live_predictions.json`
-back to the repo. It needs an `ODDS_API_KEY` repo secret — add one under repo **Settings → Secrets
-and variables → Actions → New repository secret** using the same value as `backend/.env`. You can
-also trigger it manually from the Actions tab ("Run workflow").
+recent matches, collects new upcoming ones, backfills predictions for matches outside Odds API
+coverage (see below), and commits the updated `data/live_predictions.json` back to the repo. It
+needs an `ODDS_API_KEY` repo secret — add one under repo **Settings → Secrets and variables →
+Actions → New repository secret** using the same value as `backend/.env`. You can also trigger it
+manually from the Actions tab ("Run workflow").
 
 The steps below are for running it manually/locally.
+
+### Predictions beyond Odds API coverage
+
+The Odds API only covers Grand Slams, Masters 1000s, and the bigger 500s — roughly 20 of the
+60+ ATP events per year. Lower-tier ATP 250s never appear there, so `collect.py` alone never
+predicts them. `scripts/backfill_predictions.py` closes that gap independently: it scans
+[stats.tennismylife.org](https://stats.tennismylife.org)'s results (same source used to extend
+`ATP_Matches/`, covers every tournament level) for matches not already in the store, predicts
+each one, and records it **already settled** — the actual winner is known the moment a match
+shows up there, so there's no pending phase for these. They're stored with no odds
+(`bookmakers: {}`), which the frontend already renders as "No edge" / "no odds" gracefully. Needs
+no API key and costs no Odds API credits.
+
+```bash
+cd backend
+python scripts/backfill_predictions.py        # last 14 days, default
+python scripts/backfill_predictions.py --days 30
+```
 
 ### Step 1 — Collect predictions (run before matches)
 

@@ -1,6 +1,7 @@
 "use client";
 
 import { StoredPrediction, MatchPrediction } from "@/lib/api";
+import { simulateBet, bestOdds, STAKE } from "@/lib/betting";
 
 const SURFACE_CLASS: Record<string, string> = {
   Hard:  "surface-badge surface-hard",
@@ -38,19 +39,6 @@ function modelEdge(pred: MatchPrediction): {
   return { name: best.name, edge: best.edge, odds: null, disagreesWithModel };
 }
 
-/** Best decimal odds across all bookmakers for the given player name. */
-function bestOdds(
-  bookmakers: StoredPrediction["bookmakers"],
-  playerName: string
-): number | null {
-  let best: number | null = null;
-  for (const book of Object.values(bookmakers)) {
-    const o = book[playerName];
-    if (o != null && (best === null || o > best)) best = o;
-  }
-  return best;
-}
-
 function ResultBadge({ result }: { result: StoredPrediction["result"] }) {
   if (!result) {
     return (
@@ -85,10 +73,11 @@ export default function PredictionLogTable({
           <thead>
             <tr className="border-b border-gray-800 bg-gray-900/60">
               {[
-                { label: "Match",      align: "left"  },
-                { label: "Model pick", align: "left"  },
-                { label: "Model edge", align: "left"  },
-                { label: "Result",     align: "right" },
+                { label: "Match",       align: "left"  },
+                { label: "Model pick",  align: "left"  },
+                { label: "Model edge",  align: "left"  },
+                { label: `$${STAKE} bet`, align: "left"  },
+                { label: "Result",      align: "right" },
               ].map(({ label, align }) => (
                 <th
                   key={label}
@@ -104,6 +93,7 @@ export default function PredictionLogTable({
             {predictions.map((pred) => {
               const p    = pred.prediction;
               const edge = modelEdge(p);
+              const bet  = simulateBet(pred);
 
               // Attach best-available odds to the edge object
               const edgeOdds = edge
@@ -201,6 +191,40 @@ export default function PredictionLogTable({
                       </div>
                     ) : (
                       <span className="text-xs text-gray-600">No edge</span>
+                    )}
+                  </td>
+
+                  {/* ── $10 bet ── */}
+                  <td className="px-4 py-3 min-w-[100px]">
+                    {bet.profit == null ? (
+                      <span className="text-xs text-gray-600">no odds</span>
+                    ) : bet.settled ? (
+                      <div>
+                        <p
+                          className={`font-mono font-medium tabular-nums ${
+                            bet.profit > 0 ? "text-emerald-400" : "text-red-400"
+                          }`}
+                        >
+                          {bet.profit > 0 ? "+" : ""}${bet.profit.toFixed(2)}
+                        </p>
+                        {bet.odds != null && (
+                          <p className="text-[10px] text-gray-600 font-mono">
+                            @{bet.odds.toFixed(2)}
+                          </p>
+                        )}
+                      </div>
+                    ) : (
+                      <div>
+                        <p className="font-mono text-xs text-gray-400 tabular-nums">
+                          +${bet.profit.toFixed(2)}{" "}
+                          <span className="text-gray-600">if right</span>
+                        </p>
+                        {bet.odds != null && (
+                          <p className="text-[10px] text-gray-600 font-mono">
+                            @{bet.odds.toFixed(2)}
+                          </p>
+                        )}
+                      </div>
                     )}
                   </td>
 

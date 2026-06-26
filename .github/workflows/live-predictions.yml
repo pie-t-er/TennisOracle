@@ -33,6 +33,10 @@ jobs:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: python scripts/collect.py
 
+      - name: Backfill predictions for matches outside Odds API coverage
+        working-directory: backend
+        run: python scripts/backfill_predictions.py --days 14
+
       - name: Commit updated predictions
         run: |
           git config user.name "tennisoracle-bot"

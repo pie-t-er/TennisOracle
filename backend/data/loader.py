@@ -10,12 +10,35 @@ ATP_DIR = Path(__file__).parent.parent.parent / "ATP_Matches"
 MIN_MATCHES = 5
 
 
+def _canonicalize_names(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Mixing data sources (Sackmann + TML) means the same player can appear
+    under different capitalizations (e.g. "Alex De Minaur" vs "Alex de
+    Minaur"), which would otherwise split one player into two profiles.
+    Collapse each case-insensitive name group onto whichever exact spelling
+    appears most often across the combined dataset.
+    """
+    counts = pd.concat([df["winner_name"], df["loser_name"]]).value_counts()
+    canonical: Dict[str, str] = {}
+    for name, count in counts.items():
+        key = name.lower()
+        if key not in canonical or count > counts[canonical[key]]:
+            canonical[key] = name
+
+    name_map = {name: canonical[name.lower()] for name in counts.index}
+    df = df.copy()
+    df["winner_name"] = df["winner_name"].map(name_map)
+    df["loser_name"] = df["loser_name"].map(name_map)
+    return df
+
+
 def load_all_matches() -> pd.DataFrame:
     files = sorted(ATP_DIR.glob("atp_matches_*.csv"))
     dfs = [pd.read_csv(f, low_memory=False) for f in files]
     df = pd.concat(dfs, ignore_index=True)
     df["tourney_date"] = pd.to_datetime(df["tourney_date"], format="%Y%m%d", errors="coerce")
     df = df.dropna(subset=["tourney_date", "winner_name", "loser_name"])
+    df = _canonicalize_names(df)
     return df.sort_values("tourney_date").reset_index(drop=True)
 
 
