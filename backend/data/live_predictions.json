@@ -5959,7 +5959,195 @@
       },
       "collected_at": "2026-06-27T10:02:46.576120+00:00",
       "result": null
+    },
+    "cf2ea8e6f0ab96ed5970b0f09a464db6": {
+      "match_id": "cf2ea8e6f0ab96ed5970b0f09a464db6",
+      "commence_time": "2026-06-30T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Raphael Collignon",
+      "player2": "Arthur Fils",
+      "bookmakers": {
+        "pinnacle": {
+          "Arthur Fils": 1.76,
+          "Raphael Collignon": 2.15
+        },
+        "fanduel": {
+          "Arthur Fils": 1.71,
+          "Raphael Collignon": 2.16
+        },
+        "mybookieag": {
+          "Arthur Fils": 1.68,
+          "Raphael Collignon": 2.06
+        },
+        "tipico_de": {
+          "Arthur Fils": 1.7,
+          "Raphael Collignon": 2.1
+        },
+        "matchbook": {
+          "Arthur Fils": 1.78,
+          "Raphael Collignon": 2.2
+        },
+        "everygame": {
+          "Arthur Fils": 1.7,
+          "Raphael Collignon": 2.1
+        },
+        "gtbets": {
+          "Arthur Fils": 1.72,
+          "Raphael Collignon": 2.11
+        },
+        "betfair_ex_eu": {
+          "Arthur Fils": 1.78,
+          "Raphael Collignon": 2.18
+        },
+        "marathonbet": {
+          "Arthur Fils": 1.71,
+          "Raphael Collignon": 2.13
+        },
+        "sport888": {
+          "Arthur Fils": 1.73,
+          "Raphael Collignon": 2.1
+        },
+        "betclic_fr": {
+          "Arthur Fils": 1.71,
+          "Raphael Collignon": 2.11
+        },
+        "draftkings": {
+          "Arthur Fils": 1.69,
+          "Raphael Collignon": 2.14
+        },
+        "bovada": {
+          "Arthur Fils": 1.71,
+          "Raphael Collignon": 2.15
+        },
+        "betmgm": {
+          "Arthur Fils": 1.69,
+          "Raphael Collignon": 2.1
+        },
+        "winamax_de": {
+          "Arthur Fils": 1.74,
+          "Raphael Collignon": 2.15
+        },
+        "winamax_fr": {
+          "Arthur Fils": 1.72,
+          "Raphael Collignon": 2.1
+        },
+        "codere_it": {
+          "Arthur Fils": 1.71,
+          "Raphael Collignon": 2.11
+        },
+        "betanysports": {
+          "Arthur Fils": 1.71,
+          "Raphael Collignon": 2.2
+        },
+        "betus": {
+          "Arthur Fils": 1.71,
+          "Raphael Collignon": 2.1
+        }
+      },
+      "prediction": {
+        "p1_name": "Raphael Collignon",
+        "p2_name": "Arthur Fils",
+        "p1_prob": 0.3387,
+        "p2_prob": 0.6613,
+        "predicted_winner": "Arthur Fils",
+        "confidence": "high",
+        "p1_edge": -0.1158,
+        "p2_edge": 0.0995
+      },
+      "collected_at": "2026-06-27T17:05:36.925473+00:00",
+      "result": null
+    },
+    "804a341f757c8a347d3f786fd8870aa5": {
+      "match_id": "804a341f757c8a347d3f786fd8870aa5",
+      "commence_time": "2026-06-30T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Ugo Humbert",
+      "player2": "Zizou Bergs",
+      "bookmakers": {
+        "pinnacle": {
+          "Ugo Humbert": 1.4,
+          "Zizou Bergs": 3.1
+        },
+        "fanduel": {
+          "Ugo Humbert": 1.36,
+          "Zizou Bergs": 3.2
+        },
+        "mybookieag": {
+          "Ugo Humbert": 1.36,
+          "Zizou Bergs": 2.92
+        },
+        "tipico_de": {
+          "Ugo Humbert": 1.37,
+          "Zizou Bergs": 3.0
+        },
+        "matchbook": {
+          "Ugo Humbert": 1.42,
+          "Zizou Bergs": 3.2
+        },
+        "everygame": {
+          "Ugo Humbert": 1.36,
+          "Zizou Bergs": 3.1
+        },
+        "gtbets": {
+          "Ugo Humbert": 1.36,
+          "Zizou Bergs": 3.13
+        },
+        "betfair_ex_eu": {
+          "Ugo Humbert": 1.42,
+          "Zizou Bergs": 3.2
+        },
+        "marathonbet": {
+          "Ugo Humbert": 1.38,
+          "Zizou Bergs": 3.04
+        },
+        "sport888": {
+          "Ugo Humbert": 1.4,
+          "Zizou Bergs": 2.9
+        },
+        "betclic_fr": {
+          "Ugo Humbert": 1.39,
+          "Zizou Bergs": 2.92
+        },
+        "draftkings": {
+          "Ugo Humbert": 1.37,
+          "Zizou Bergs": 3.06
+        },
+        "betmgm": {
+          "Ugo Humbert": 1.4,
+          "Zizou Bergs": 2.9
+        },
+        "winamax_de": {
+          "Ugo Humbert": 1.4,
+          "Zizou Bergs": 3.15
+        },
+        "winamax_fr": {
+          "Ugo Humbert": 1.38,
+          "Zizou Bergs": 3.05
+        },
+        "codere_it": {
+          "Ugo Humbert": 1.37,
+          "Zizou Bergs": 3.0
+        },
+        "betus": {
+          "Ugo Humbert": 1.4,
+          "Zizou Bergs": 3.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Ugo Humbert",
+        "p2_name": "Zizou Bergs",
+        "p1_prob": 0.6204,
+        "p2_prob": 0.3796,
+        "predicted_winner": "Ugo Humbert",
+        "confidence": "high",
+        "p1_edge": -0.0838,
+        "p2_edge": 0.0671
+      },
+      "collected_at": "2026-06-27T17:05:36.952105+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-06-27T10:02:46.577808+00:00"
+  "last_updated": "2026-06-27T17:05:36.953845+00:00"
 }
