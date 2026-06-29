@@ -3612,7 +3612,11 @@
         "p2_edge": 0.0165
       },
       "collected_at": "2026-06-27T10:02:46.131049+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-06-29T18:06:38.898126+00:00"
+      }
     },
     "2db3ab0bc3167d0e2dc13fc5f4be8a8e": {
       "match_id": "2db3ab0bc3167d0e2dc13fc5f4be8a8e",
@@ -6249,7 +6253,1027 @@
       },
       "collected_at": "2026-06-29T12:28:37.605410+00:00",
       "result": null
+    },
+    "412eeb49c75adbe1d82b8ce388d5ed68": {
+      "match_id": "412eeb49c75adbe1d82b8ce388d5ed68",
+      "commence_time": "2026-06-30T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Daniel Merida Aguilar",
+      "player2": "Daniil Medvedev",
+      "bookmakers": {
+        "betclic_fr": {
+          "Daniel Merida Aguilar": 9.6,
+          "Daniil Medvedev": 1.01
+        },
+        "betfair_ex_eu": {
+          "Daniel Merida Aguilar": 12.0,
+          "Daniil Medvedev": 1.04
+        },
+        "fanduel": {
+          "Daniel Merida Aguilar": 25.0,
+          "Daniil Medvedev": 1.01
+        },
+        "codere_it": {
+          "Daniel Merida Aguilar": 15.0,
+          "Daniil Medvedev": 1.01
+        },
+        "marathonbet": {
+          "Daniel Merida Aguilar": 17.5,
+          "Daniil Medvedev": 1.0
+        },
+        "coolbet": {
+          "Daniel Merida Aguilar": 25.0,
+          "Daniil Medvedev": 1.01
+        },
+        "winamax_fr": {
+          "Daniel Merida Aguilar": 8.5,
+          "Daniil Medvedev": 1.0
+        },
+        "winamax_de": {
+          "Daniel Merida Aguilar": 16.0,
+          "Daniil Medvedev": 1.0
+        },
+        "tipico_de": {
+          "Daniel Merida Aguilar": 14.0,
+          "Daniil Medvedev": 1.01
+        },
+        "onexbet": {
+          "Daniel Merida Aguilar": 32.0,
+          "Daniil Medvedev": 1.01
+        },
+        "matchbook": {
+          "Daniel Merida Aguilar": 10.5,
+          "Daniil Medvedev": 1.03
+        }
+      },
+      "prediction": {
+        "p1_name": "Jorge Aguilar",
+        "p2_name": "Daniil Medvedev",
+        "p1_prob": 0.0223,
+        "p2_prob": 0.9777,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": -0.0089,
+        "p2_edge": 0.0162
+      },
+      "collected_at": "2026-06-29T18:06:44.932386+00:00",
+      "result": null
+    },
+    "5e0919a8514a1242a386699a61e9eeaf": {
+      "match_id": "5e0919a8514a1242a386699a61e9eeaf",
+      "commence_time": "2026-06-30T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Hubert Hurkacz",
+      "player2": "Sebastian Ofner",
+      "bookmakers": {
+        "marathonbet": {
+          "Hubert Hurkacz": 1.27,
+          "Sebastian Ofner": 3.74
+        },
+        "draftkings": {
+          "Hubert Hurkacz": 1.28,
+          "Sebastian Ofner": 3.62
+        },
+        "betfair_ex_eu": {
+          "Hubert Hurkacz": 1.28,
+          "Sebastian Ofner": 4.2
+        },
+        "coolbet": {
+          "Hubert Hurkacz": 1.29,
+          "Sebastian Ofner": 3.9
+        },
+        "sport888": {
+          "Hubert Hurkacz": 1.29,
+          "Sebastian Ofner": 3.6
+        },
+        "onexbet": {
+          "Hubert Hurkacz": 1.3,
+          "Sebastian Ofner": 4.01
+        },
+        "unibet_fr": {
+          "Hubert Hurkacz": 1.23,
+          "Sebastian Ofner": 3.25
+        },
+        "betclic_fr": {
+          "Hubert Hurkacz": 1.24,
+          "Sebastian Ofner": 3.4
+        },
+        "mybookieag": {
+          "Hubert Hurkacz": 1.27,
+          "Sebastian Ofner": 3.7
+        },
+        "fanduel": {
+          "Hubert Hurkacz": 1.26,
+          "Sebastian Ofner": 3.9
+        },
+        "codere_it": {
+          "Hubert Hurkacz": 1.27,
+          "Sebastian Ofner": 3.7
+        },
+        "winamax_fr": {
+          "Hubert Hurkacz": 1.23,
+          "Sebastian Ofner": 3.3
+        },
+        "winamax_de": {
+          "Hubert Hurkacz": 1.27,
+          "Sebastian Ofner": 3.7
+        },
+        "tipico_de": {
+          "Hubert Hurkacz": 1.25,
+          "Sebastian Ofner": 3.8
+        },
+        "gtbets": {
+          "Hubert Hurkacz": 1.25,
+          "Sebastian Ofner": 3.7
+        },
+        "pmu_fr": {
+          "Hubert Hurkacz": 1.25,
+          "Sebastian Ofner": 3.55
+        },
+        "unibet_se": {
+          "Hubert Hurkacz": 1.28,
+          "Sebastian Ofner": 3.65
+        },
+        "betrivers": {
+          "Hubert Hurkacz": 1.28,
+          "Sebastian Ofner": 3.65
+        },
+        "leovegas_se": {
+          "Hubert Hurkacz": 1.28,
+          "Sebastian Ofner": 3.65
+        },
+        "unibet_nl": {
+          "Hubert Hurkacz": 1.28,
+          "Sebastian Ofner": 3.65
+        },
+        "pinnacle": {
+          "Hubert Hurkacz": 1.3,
+          "Sebastian Ofner": 3.85
+        }
+      },
+      "prediction": {
+        "p1_name": "Hubert Hurkacz",
+        "p2_name": "Sebastian Ofner",
+        "p1_prob": 0.6155,
+        "p2_prob": 0.3845,
+        "predicted_winner": "Hubert Hurkacz",
+        "confidence": "high",
+        "p1_edge": -0.1537,
+        "p2_edge": 0.1464
+      },
+      "collected_at": "2026-06-29T18:06:44.950465+00:00",
+      "result": null
+    },
+    "3c42b7c1e9ae3bc7fe1935d6b4ba1ce3": {
+      "match_id": "3c42b7c1e9ae3bc7fe1935d6b4ba1ce3",
+      "commence_time": "2026-06-30T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Jenson Brooksby",
+      "player2": "Ignacio Buse",
+      "bookmakers": {
+        "draftkings": {
+          "Ignacio Buse": 2.11,
+          "Jenson Brooksby": 1.71
+        },
+        "betfair_ex_eu": {
+          "Ignacio Buse": 2.18,
+          "Jenson Brooksby": 1.81
+        },
+        "betclic_fr": {
+          "Ignacio Buse": 2.04,
+          "Jenson Brooksby": 1.64
+        },
+        "coolbet": {
+          "Ignacio Buse": 2.2,
+          "Jenson Brooksby": 1.74
+        },
+        "onexbet": {
+          "Ignacio Buse": 2.29,
+          "Jenson Brooksby": 1.72
+        },
+        "sport888": {
+          "Ignacio Buse": 2.1,
+          "Jenson Brooksby": 1.73
+        },
+        "unibet_fr": {
+          "Ignacio Buse": 2.0,
+          "Jenson Brooksby": 1.61
+        },
+        "mybookieag": {
+          "Ignacio Buse": 2.13,
+          "Jenson Brooksby": 1.69
+        },
+        "fanduel": {
+          "Ignacio Buse": 2.18,
+          "Jenson Brooksby": 1.7
+        },
+        "codere_it": {
+          "Ignacio Buse": 2.13,
+          "Jenson Brooksby": 1.69
+        },
+        "marathonbet": {
+          "Ignacio Buse": 2.21,
+          "Jenson Brooksby": 1.66
+        },
+        "gtbets": {
+          "Ignacio Buse": 2.21,
+          "Jenson Brooksby": 1.68
+        },
+        "tipico_de": {
+          "Ignacio Buse": 2.1,
+          "Jenson Brooksby": 1.7
+        },
+        "winamax_de": {
+          "Ignacio Buse": 2.15,
+          "Jenson Brooksby": 1.7
+        },
+        "winamax_fr": {
+          "Ignacio Buse": 2.0,
+          "Jenson Brooksby": 1.62
+        },
+        "bovada": {
+          "Ignacio Buse": 2.15,
+          "Jenson Brooksby": 1.71
+        },
+        "matchbook": {
+          "Ignacio Buse": 2.16,
+          "Jenson Brooksby": 1.76
+        },
+        "pinnacle": {
+          "Ignacio Buse": 2.17,
+          "Jenson Brooksby": 1.76
+        },
+        "pmu_fr": {
+          "Ignacio Buse": 2.15,
+          "Jenson Brooksby": 1.66
+        },
+        "betrivers": {
+          "Ignacio Buse": 2.18,
+          "Jenson Brooksby": 1.68
+        },
+        "unibet_se": {
+          "Ignacio Buse": 2.18,
+          "Jenson Brooksby": 1.68
+        },
+        "leovegas_se": {
+          "Ignacio Buse": 2.18,
+          "Jenson Brooksby": 1.68
+        },
+        "unibet_nl": {
+          "Ignacio Buse": 2.18,
+          "Jenson Brooksby": 1.68
+        },
+        "betmgm": {
+          "Ignacio Buse": 2.1,
+          "Jenson Brooksby": 1.71
+        }
+      },
+      "prediction": {
+        "p1_name": "Jenson Brooksby",
+        "p2_name": "Ignacio Buse",
+        "p1_prob": 0.501,
+        "p2_prob": 0.499,
+        "predicted_winner": "Jenson Brooksby",
+        "confidence": "low",
+        "p1_edge": -0.0515,
+        "p2_edge": 0.0623
+      },
+      "collected_at": "2026-06-29T18:06:44.968663+00:00",
+      "result": null
+    },
+    "1cc92b870b888720c9fc9f28d816fc22": {
+      "match_id": "1cc92b870b888720c9fc9f28d816fc22",
+      "commence_time": "2026-06-30T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Jannik Sinner",
+      "player2": "Nuno Borges",
+      "bookmakers": {
+        "draftkings": {
+          "Jannik Sinner": 1.0,
+          "Nuno Borges": 16.8
+        },
+        "betfair_ex_eu": {
+          "Jannik Sinner": 1.04,
+          "Nuno Borges": 17.5
+        },
+        "marathonbet": {
+          "Jannik Sinner": 1.02,
+          "Nuno Borges": 14.25
+        },
+        "coolbet": {
+          "Jannik Sinner": 1.03,
+          "Nuno Borges": 17.0
+        },
+        "onexbet": {
+          "Jannik Sinner": 1.02,
+          "Nuno Borges": 26.0
+        },
+        "betclic_fr": {
+          "Jannik Sinner": 1.01,
+          "Nuno Borges": 9.2
+        },
+        "codere_it": {
+          "Jannik Sinner": 1.01,
+          "Nuno Borges": 14.0
+        },
+        "fanduel": {
+          "Jannik Sinner": 1.03,
+          "Nuno Borges": 13.8
+        },
+        "winamax_de": {
+          "Jannik Sinner": 1.01,
+          "Nuno Borges": 15.0
+        },
+        "winamax_fr": {
+          "Jannik Sinner": 1.0,
+          "Nuno Borges": 8.0
+        },
+        "matchbook": {
+          "Jannik Sinner": 1.02,
+          "Nuno Borges": 8.8
+        },
+        "tipico_de": {
+          "Jannik Sinner": 1.01,
+          "Nuno Borges": 14.0
+        },
+        "unibet_nl": {
+          "Jannik Sinner": 1.02,
+          "Nuno Borges": 16.0
+        },
+        "unibet_se": {
+          "Jannik Sinner": 1.02,
+          "Nuno Borges": 16.0
+        },
+        "betrivers": {
+          "Jannik Sinner": 1.02,
+          "Nuno Borges": 16.0
+        },
+        "leovegas_se": {
+          "Jannik Sinner": 1.02,
+          "Nuno Borges": 16.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Jannik Sinner",
+        "p2_name": "Nuno Borges",
+        "p1_prob": 0.955,
+        "p2_prob": 0.045,
+        "predicted_winner": "Jannik Sinner",
+        "confidence": "high",
+        "p1_edge": -0.0065,
+        "p2_edge": 0.0065
+      },
+      "collected_at": "2026-06-29T18:06:44.987120+00:00",
+      "result": null
+    },
+    "a6f428d1708c0f09427e17d371c12fe9": {
+      "match_id": "a6f428d1708c0f09427e17d371c12fe9",
+      "commence_time": "2026-06-30T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Marton Fucsovics",
+      "player2": "Learner Tien",
+      "bookmakers": {
+        "draftkings": {
+          "Learner Tien": 1.36,
+          "Marton Fucsovics": 3.12
+        },
+        "betfair_ex_eu": {
+          "Learner Tien": 1.4,
+          "Marton Fucsovics": 3.3
+        },
+        "betclic_fr": {
+          "Learner Tien": 1.35,
+          "Marton Fucsovics": 2.8
+        },
+        "coolbet": {
+          "Learner Tien": 1.38,
+          "Marton Fucsovics": 3.25
+        },
+        "onexbet": {
+          "Learner Tien": 1.4,
+          "Marton Fucsovics": 3.27
+        },
+        "sport888": {
+          "Learner Tien": 1.36,
+          "Marton Fucsovics": 3.1
+        },
+        "unibet_fr": {
+          "Learner Tien": 1.33,
+          "Marton Fucsovics": 2.7
+        },
+        "mybookieag": {
+          "Learner Tien": 1.38,
+          "Marton Fucsovics": 2.98
+        },
+        "fanduel": {
+          "Learner Tien": 1.38,
+          "Marton Fucsovics": 3.15
+        },
+        "codere_it": {
+          "Learner Tien": 1.38,
+          "Marton Fucsovics": 3.0
+        },
+        "gtbets": {
+          "Learner Tien": 1.37,
+          "Marton Fucsovics": 3.01
+        },
+        "unibet_se": {
+          "Learner Tien": 1.36,
+          "Marton Fucsovics": 3.1
+        },
+        "pmu_fr": {
+          "Learner Tien": 1.36,
+          "Marton Fucsovics": 3.0
+        },
+        "leovegas_se": {
+          "Learner Tien": 1.36,
+          "Marton Fucsovics": 3.1
+        },
+        "unibet_nl": {
+          "Learner Tien": 1.36,
+          "Marton Fucsovics": 3.1
+        },
+        "betrivers": {
+          "Learner Tien": 1.36,
+          "Marton Fucsovics": 3.1
+        },
+        "tipico_de": {
+          "Learner Tien": 1.35,
+          "Marton Fucsovics": 3.1
+        },
+        "marathonbet": {
+          "Learner Tien": 1.36,
+          "Marton Fucsovics": 3.12
+        },
+        "winamax_de": {
+          "Learner Tien": 1.39,
+          "Marton Fucsovics": 3.0
+        },
+        "winamax_fr": {
+          "Learner Tien": 1.33,
+          "Marton Fucsovics": 2.75
+        },
+        "bovada": {
+          "Learner Tien": 1.38,
+          "Marton Fucsovics": 3.1
+        },
+        "pinnacle": {
+          "Learner Tien": 1.38,
+          "Marton Fucsovics": 3.26
+        },
+        "betmgm": {
+          "Learner Tien": 1.36,
+          "Marton Fucsovics": 3.1
+        }
+      },
+      "prediction": {
+        "p1_name": "Marton Fucsovics",
+        "p2_name": "Learner Tien",
+        "p1_prob": 0.3009,
+        "p2_prob": 0.6991,
+        "predicted_winner": "Learner Tien",
+        "confidence": "high",
+        "p1_edge": -0.0021,
+        "p2_edge": -0.0152
+      },
+      "collected_at": "2026-06-29T18:06:45.005695+00:00",
+      "result": null
+    },
+    "5cd62d41639d452d84d2114bd9713f4b": {
+      "match_id": "5cd62d41639d452d84d2114bd9713f4b",
+      "commence_time": "2026-06-30T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Rafael Jodar",
+      "player2": "Pablo Carreno Busta",
+      "bookmakers": {
+        "draftkings": {
+          "Pablo Carreno Busta": 3.53,
+          "Rafael Jodar": 1.29
+        },
+        "betfair_ex_eu": {
+          "Pablo Carreno Busta": 3.9,
+          "Rafael Jodar": 1.32
+        },
+        "marathonbet": {
+          "Pablo Carreno Busta": 3.62,
+          "Rafael Jodar": 1.28
+        },
+        "gtbets": {
+          "Pablo Carreno Busta": 3.42,
+          "Rafael Jodar": 1.3
+        },
+        "coolbet": {
+          "Pablo Carreno Busta": 3.75,
+          "Rafael Jodar": 1.31
+        },
+        "onexbet": {
+          "Pablo Carreno Busta": 3.86,
+          "Rafael Jodar": 1.31
+        },
+        "unibet_fr": {
+          "Pablo Carreno Busta": 3.1,
+          "Rafael Jodar": 1.26
+        },
+        "betclic_fr": {
+          "Pablo Carreno Busta": 3.2,
+          "Rafael Jodar": 1.27
+        },
+        "tipico_de": {
+          "Pablo Carreno Busta": 3.4,
+          "Rafael Jodar": 1.3
+        },
+        "codere_it": {
+          "Pablo Carreno Busta": 3.45,
+          "Rafael Jodar": 1.3
+        },
+        "fanduel": {
+          "Pablo Carreno Busta": 3.6,
+          "Rafael Jodar": 1.3
+        },
+        "mybookieag": {
+          "Pablo Carreno Busta": 3.44,
+          "Rafael Jodar": 1.3
+        },
+        "everygame": {
+          "Pablo Carreno Busta": 3.55,
+          "Rafael Jodar": 1.28
+        },
+        "winamax_de": {
+          "Pablo Carreno Busta": 3.5,
+          "Rafael Jodar": 1.3
+        },
+        "winamax_fr": {
+          "Pablo Carreno Busta": 3.1,
+          "Rafael Jodar": 1.26
+        },
+        "matchbook": {
+          "Pablo Carreno Busta": 3.75,
+          "Rafael Jodar": 1.32
+        },
+        "sport888": {
+          "Pablo Carreno Busta": 3.3,
+          "Rafael Jodar": 1.33
+        },
+        "betrivers": {
+          "Pablo Carreno Busta": 3.4,
+          "Rafael Jodar": 1.32
+        },
+        "unibet_se": {
+          "Pablo Carreno Busta": 3.4,
+          "Rafael Jodar": 1.32
+        },
+        "leovegas_se": {
+          "Pablo Carreno Busta": 3.4,
+          "Rafael Jodar": 1.32
+        },
+        "unibet_nl": {
+          "Pablo Carreno Busta": 3.4,
+          "Rafael Jodar": 1.32
+        },
+        "pmu_fr": {
+          "Pablo Carreno Busta": 3.3,
+          "Rafael Jodar": 1.29
+        },
+        "betmgm": {
+          "Pablo Carreno Busta": 3.4,
+          "Rafael Jodar": 1.31
+        },
+        "bovada": {
+          "Pablo Carreno Busta": 3.6,
+          "Rafael Jodar": 1.31
+        },
+        "pinnacle": {
+          "Pablo Carreno Busta": 3.61,
+          "Rafael Jodar": 1.33
+        }
+      },
+      "prediction": {
+        "p1_name": "Rafael Jodar",
+        "p2_name": "Pablo Carreno Busta",
+        "p1_prob": 0.8223,
+        "p2_prob": 0.1777,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "high",
+        "p1_edge": 0.0704,
+        "p2_edge": -0.0787
+      },
+      "collected_at": "2026-06-29T18:06:45.076912+00:00",
+      "result": null
+    },
+    "62d9401b4e524150c2992b29bb460a1a": {
+      "match_id": "62d9401b4e524150c2992b29bb460a1a",
+      "commence_time": "2026-06-30T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Soonwoo Kwon",
+      "player2": "Tommy Paul",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Soonwoo Kwon": 5.0,
+          "Tommy Paul": 1.1
+        },
+        "coolbet": {
+          "Soonwoo Kwon": 7.0,
+          "Tommy Paul": 1.13
+        },
+        "draftkings": {
+          "Soonwoo Kwon": 6.53,
+          "Tommy Paul": 1.11
+        },
+        "unibet_fr": {
+          "Soonwoo Kwon": 5.0,
+          "Tommy Paul": 1.09
+        },
+        "betclic_fr": {
+          "Soonwoo Kwon": 5.4,
+          "Tommy Paul": 1.09
+        },
+        "codere_it": {
+          "Soonwoo Kwon": 6.2,
+          "Tommy Paul": 1.11
+        },
+        "fanduel": {
+          "Soonwoo Kwon": 7.1,
+          "Tommy Paul": 1.11
+        },
+        "winamax_fr": {
+          "Soonwoo Kwon": 5.1,
+          "Tommy Paul": 1.08
+        },
+        "winamax_de": {
+          "Soonwoo Kwon": 6.25,
+          "Tommy Paul": 1.11
+        },
+        "gtbets": {
+          "Soonwoo Kwon": 6.2,
+          "Tommy Paul": 1.11
+        },
+        "mybookieag": {
+          "Soonwoo Kwon": 6.2,
+          "Tommy Paul": 1.11
+        },
+        "pmu_fr": {
+          "Soonwoo Kwon": 6.25,
+          "Tommy Paul": 1.08
+        },
+        "betrivers": {
+          "Soonwoo Kwon": 6.5,
+          "Tommy Paul": 1.11
+        },
+        "unibet_se": {
+          "Soonwoo Kwon": 6.5,
+          "Tommy Paul": 1.11
+        },
+        "leovegas_se": {
+          "Soonwoo Kwon": 6.5,
+          "Tommy Paul": 1.11
+        },
+        "unibet_nl": {
+          "Soonwoo Kwon": 6.5,
+          "Tommy Paul": 1.11
+        },
+        "tipico_de": {
+          "Soonwoo Kwon": 6.0,
+          "Tommy Paul": 1.12
+        },
+        "onexbet": {
+          "Soonwoo Kwon": 7.8,
+          "Tommy Paul": 1.12
+        },
+        "matchbook": {
+          "Soonwoo Kwon": 4.4,
+          "Tommy Paul": 1.08
+        }
+      },
+      "prediction": {
+        "p1_name": "Soonwoo Kwon",
+        "p2_name": "Tommy Paul",
+        "p1_prob": 0.0636,
+        "p2_prob": 0.9364,
+        "predicted_winner": "Tommy Paul",
+        "confidence": "high",
+        "p1_edge": -0.0646,
+        "p2_edge": 0.0514
+      },
+      "collected_at": "2026-06-29T18:06:45.096034+00:00",
+      "result": null
+    },
+    "d4b6014a3fd70fa23c0d1e164503c676": {
+      "match_id": "d4b6014a3fd70fa23c0d1e164503c676",
+      "commence_time": "2026-06-30T12:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Taylor Fritz",
+      "player2": "Dusan Lajovic",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Dusan Lajovic": 5.5,
+          "Taylor Fritz": 1.05
+        },
+        "unibet_fr": {
+          "Dusan Lajovic": 8.6,
+          "Taylor Fritz": 1.06
+        },
+        "betclic_fr": {
+          "Dusan Lajovic": 7.0,
+          "Taylor Fritz": 1.05
+        },
+        "fanduel": {
+          "Dusan Lajovic": 10.2,
+          "Taylor Fritz": 1.06
+        },
+        "codere_it": {
+          "Dusan Lajovic": 8.6,
+          "Taylor Fritz": 1.06
+        },
+        "mybookieag": {
+          "Dusan Lajovic": 9.1,
+          "Taylor Fritz": 1.06
+        },
+        "onexbet": {
+          "Dusan Lajovic": 12.5,
+          "Taylor Fritz": 1.06
+        },
+        "betmgm": {
+          "Dusan Lajovic": 8.75,
+          "Taylor Fritz": 1.06
+        },
+        "draftkings": {
+          "Dusan Lajovic": 11.4,
+          "Taylor Fritz": 1.04
+        },
+        "tipico_de": {
+          "Dusan Lajovic": 10.0,
+          "Taylor Fritz": 1.04
+        },
+        "unibet_se": {
+          "Dusan Lajovic": 8.5,
+          "Taylor Fritz": 1.07
+        },
+        "leovegas_se": {
+          "Dusan Lajovic": 8.5,
+          "Taylor Fritz": 1.07
+        },
+        "unibet_nl": {
+          "Dusan Lajovic": 8.5,
+          "Taylor Fritz": 1.07
+        },
+        "betrivers": {
+          "Dusan Lajovic": 8.5,
+          "Taylor Fritz": 1.07
+        },
+        "pmu_fr": {
+          "Dusan Lajovic": 8.5,
+          "Taylor Fritz": 1.04
+        },
+        "sport888": {
+          "Dusan Lajovic": 10.0,
+          "Taylor Fritz": 1.05
+        },
+        "marathonbet": {
+          "Dusan Lajovic": 9.2,
+          "Taylor Fritz": 1.06
+        },
+        "winamax_de": {
+          "Dusan Lajovic": 9.0,
+          "Taylor Fritz": 1.06
+        },
+        "winamax_fr": {
+          "Dusan Lajovic": 6.75,
+          "Taylor Fritz": 1.04
+        }
+      },
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Dusan Lajovic",
+        "p1_prob": 0.9149,
+        "p2_prob": 0.0851,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "high",
+        "p1_edge": -0.0197,
+        "p2_edge": 0.0051
+      },
+      "collected_at": "2026-06-29T18:06:45.249047+00:00",
+      "result": null
+    },
+    "15104fdfd9da4c652e14341586d49452": {
+      "match_id": "15104fdfd9da4c652e14341586d49452",
+      "commence_time": "2026-07-01T10:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Roman Safiullin",
+      "player2": "Botic van de Zandschulp",
+      "bookmakers": {
+        "unibet_fr": {
+          "Botic van de Zandschulp": 1.92,
+          "Roman Safiullin": 1.67
+        },
+        "onexbet": {
+          "Botic van de Zandschulp": 2.1,
+          "Roman Safiullin": 1.84
+        },
+        "sport888": {
+          "Botic van de Zandschulp": 2.1,
+          "Roman Safiullin": 1.73
+        },
+        "unibet_nl": {
+          "Botic van de Zandschulp": 2.08,
+          "Roman Safiullin": 1.75
+        },
+        "draftkings": {
+          "Botic van de Zandschulp": 2.08,
+          "Roman Safiullin": 1.74
+        },
+        "betfair_ex_eu": {
+          "Botic van de Zandschulp": 1.5,
+          "Roman Safiullin": 1.12
+        },
+        "gtbets": {
+          "Botic van de Zandschulp": 2.08,
+          "Roman Safiullin": 1.76
+        },
+        "betrivers": {
+          "Botic van de Zandschulp": 2.08,
+          "Roman Safiullin": 1.75
+        },
+        "betclic_fr": {
+          "Botic van de Zandschulp": 1.93,
+          "Roman Safiullin": 1.72
+        },
+        "unibet_se": {
+          "Botic van de Zandschulp": 2.08,
+          "Roman Safiullin": 1.75
+        },
+        "pmu_fr": {
+          "Botic van de Zandschulp": 2.04,
+          "Roman Safiullin": 1.73
+        },
+        "codere_it": {
+          "Botic van de Zandschulp": 2.01,
+          "Roman Safiullin": 1.78
+        },
+        "leovegas_se": {
+          "Botic van de Zandschulp": 2.08,
+          "Roman Safiullin": 1.75
+        },
+        "coolbet": {
+          "Botic van de Zandschulp": 2.1,
+          "Roman Safiullin": 1.8
+        },
+        "marathonbet": {
+          "Botic van de Zandschulp": 2.04,
+          "Roman Safiullin": 1.77
+        },
+        "mybookieag": {
+          "Botic van de Zandschulp": 2.01,
+          "Roman Safiullin": 1.78
+        },
+        "fanduel": {
+          "Botic van de Zandschulp": 2.05,
+          "Roman Safiullin": 1.79
+        },
+        "winamax_de": {
+          "Botic van de Zandschulp": 2.05,
+          "Roman Safiullin": 1.76
+        },
+        "winamax_fr": {
+          "Botic van de Zandschulp": 1.92,
+          "Roman Safiullin": 1.68
+        },
+        "tipico_de": {
+          "Botic van de Zandschulp": 2.1,
+          "Roman Safiullin": 1.72
+        },
+        "pinnacle": {
+          "Botic van de Zandschulp": 2.06,
+          "Roman Safiullin": 1.84
+        },
+        "betmgm": {
+          "Botic van de Zandschulp": 1.98,
+          "Roman Safiullin": 1.8
+        }
+      },
+      "prediction": {
+        "p1_name": "Roman Safiullin",
+        "p2_name": "Botic van de Zandschulp",
+        "p1_prob": 0.4803,
+        "p2_prob": 0.5197,
+        "predicted_winner": "Botic van de Zandschulp",
+        "confidence": "low",
+        "p1_edge": -0.0632,
+        "p2_edge": 0.0435
+      },
+      "collected_at": "2026-06-29T18:06:45.357616+00:00",
+      "result": null
+    },
+    "2c5814f4000161cebfb97c1313c1dcf1": {
+      "match_id": "2c5814f4000161cebfb97c1313c1dcf1",
+      "commence_time": "2026-07-01T10:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Shintaro Mochizuki",
+      "player2": "Ethan Quinn",
+      "bookmakers": {
+        "leovegas_se": {
+          "Ethan Quinn": 1.45,
+          "Shintaro Mochizuki": 2.75
+        },
+        "unibet_nl": {
+          "Ethan Quinn": 1.45,
+          "Shintaro Mochizuki": 2.75
+        },
+        "betfair_ex_eu": {
+          "Ethan Quinn": 1.44,
+          "Shintaro Mochizuki": 1.44
+        },
+        "pmu_fr": {
+          "Ethan Quinn": 1.43,
+          "Shintaro Mochizuki": 2.7
+        },
+        "unibet_se": {
+          "Ethan Quinn": 1.45,
+          "Shintaro Mochizuki": 2.75
+        },
+        "betrivers": {
+          "Ethan Quinn": 1.45,
+          "Shintaro Mochizuki": 2.75
+        },
+        "marathonbet": {
+          "Ethan Quinn": 1.44,
+          "Shintaro Mochizuki": 2.78
+        },
+        "sport888": {
+          "Ethan Quinn": 1.44,
+          "Shintaro Mochizuki": 2.75
+        },
+        "coolbet": {
+          "Ethan Quinn": 1.5,
+          "Shintaro Mochizuki": 2.75
+        },
+        "unibet_fr": {
+          "Ethan Quinn": 1.4,
+          "Shintaro Mochizuki": 2.5
+        },
+        "betclic_fr": {
+          "Ethan Quinn": 1.41,
+          "Shintaro Mochizuki": 2.55
+        },
+        "tipico_de": {
+          "Ethan Quinn": 1.45,
+          "Shintaro Mochizuki": 2.7
+        },
+        "winamax_de": {
+          "Ethan Quinn": 1.46,
+          "Shintaro Mochizuki": 2.7
+        },
+        "winamax_fr": {
+          "Ethan Quinn": 1.4,
+          "Shintaro Mochizuki": 2.5
+        },
+        "fanduel": {
+          "Ethan Quinn": 1.45,
+          "Shintaro Mochizuki": 2.8
+        },
+        "gtbets": {
+          "Ethan Quinn": 1.45,
+          "Shintaro Mochizuki": 2.76
+        },
+        "draftkings": {
+          "Ethan Quinn": 1.41,
+          "Shintaro Mochizuki": 2.89
+        },
+        "mybookieag": {
+          "Ethan Quinn": 1.45,
+          "Shintaro Mochizuki": 2.69
+        },
+        "onexbet": {
+          "Ethan Quinn": 1.49,
+          "Shintaro Mochizuki": 2.87
+        },
+        "matchbook": {
+          "Ethan Quinn": 1.38,
+          "Shintaro Mochizuki": 1.38
+        }
+      },
+      "prediction": {
+        "p1_name": "Shintaro Mochizuki",
+        "p2_name": "Ethan Quinn",
+        "p1_prob": 0.3718,
+        "p2_prob": 0.6282,
+        "predicted_winner": "Ethan Quinn",
+        "confidence": "high",
+        "p1_edge": 0.0258,
+        "p2_edge": -0.0385
+      },
+      "collected_at": "2026-06-29T18:06:45.376819+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-06-29T12:28:37.607143+00:00"
+  "last_updated": "2026-06-29T18:06:45.378873+00:00"
 }
