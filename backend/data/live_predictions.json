@@ -1734,7 +1734,11 @@
         "p2_edge": -0.0485
       },
       "collected_at": "2026-06-27T10:02:45.806780+00:00",
-      "result": null
+      "result": {
+        "winner": "Jenson Brooksby",
+        "correct": true,
+        "settled_at": "2026-06-29T12:28:31.851354+00:00"
+      }
     },
     "2118e17ef47c533ba58f35e27d165359": {
       "match_id": "2118e17ef47c533ba58f35e27d165359",
@@ -6147,7 +6151,105 @@
       },
       "collected_at": "2026-06-27T17:05:36.952105+00:00",
       "result": null
+    },
+    "ee20d897e6bd85c863ddea6c7c960906": {
+      "match_id": "ee20d897e6bd85c863ddea6c7c960906",
+      "commence_time": "2026-06-30T12:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Pablo Llamas Ruiz",
+      "player2": "Zachary Svajda",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Pablo Llamas Ruiz": 2.84,
+          "Zachary Svajda": 1.02
+        },
+        "onexbet": {
+          "Pablo Llamas Ruiz": 3.04,
+          "Zachary Svajda": 1.44
+        },
+        "draftkings": {
+          "Pablo Llamas Ruiz": 3.16,
+          "Zachary Svajda": 1.35
+        },
+        "fanduel": {
+          "Pablo Llamas Ruiz": 2.98,
+          "Zachary Svajda": 1.41
+        },
+        "betclic_fr": {
+          "Pablo Llamas Ruiz": 2.7,
+          "Zachary Svajda": 1.37
+        },
+        "unibet_fr": {
+          "Pablo Llamas Ruiz": 2.85,
+          "Zachary Svajda": 1.41
+        },
+        "codere_it": {
+          "Pablo Llamas Ruiz": 2.85,
+          "Zachary Svajda": 1.41
+        },
+        "mybookieag": {
+          "Pablo Llamas Ruiz": 2.9,
+          "Zachary Svajda": 1.42
+        },
+        "tipico_de": {
+          "Pablo Llamas Ruiz": 2.9,
+          "Zachary Svajda": 1.4
+        },
+        "winamax_de": {
+          "Pablo Llamas Ruiz": 2.95,
+          "Zachary Svajda": 1.4
+        },
+        "winamax_fr": {
+          "Pablo Llamas Ruiz": 2.75,
+          "Zachary Svajda": 1.35
+        },
+        "gtbets": {
+          "Pablo Llamas Ruiz": 2.79,
+          "Zachary Svajda": 1.42
+        },
+        "unibet_nl": {
+          "Pablo Llamas Ruiz": 2.8,
+          "Zachary Svajda": 1.43
+        },
+        "unibet_se": {
+          "Pablo Llamas Ruiz": 2.8,
+          "Zachary Svajda": 1.43
+        },
+        "betrivers": {
+          "Pablo Llamas Ruiz": 2.8,
+          "Zachary Svajda": 1.43
+        },
+        "pmu_fr": {
+          "Pablo Llamas Ruiz": 2.75,
+          "Zachary Svajda": 1.41
+        },
+        "leovegas_se": {
+          "Pablo Llamas Ruiz": 2.8,
+          "Zachary Svajda": 1.43
+        },
+        "everygame": {
+          "Pablo Llamas Ruiz": 3.1,
+          "Zachary Svajda": 1.36
+        },
+        "pinnacle": {
+          "Pablo Llamas Ruiz": 3.06,
+          "Zachary Svajda": 1.41
+        }
+      },
+      "prediction": {
+        "p1_name": "Pablo Llamas Ruiz",
+        "p2_name": "Zachary Svajda",
+        "p1_prob": 0.559,
+        "p2_prob": 0.441,
+        "predicted_winner": "Pablo Llamas Ruiz",
+        "confidence": "medium",
+        "p1_edge": 0.2425,
+        "p2_edge": -0.2534
+      },
+      "collected_at": "2026-06-29T12:28:37.605410+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-06-27T17:05:36.953845+00:00"
+  "last_updated": "2026-06-29T12:28:37.607143+00:00"
 }
