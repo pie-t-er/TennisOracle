@@ -7807,7 +7807,2602 @@
       },
       "collected_at": "2026-06-30T02:54:09.106997+00:00",
       "result": null
+    },
+    "b2cb08043dfe196ce2a3db3739453419": {
+      "match_id": "b2cb08043dfe196ce2a3db3739453419",
+      "commence_time": "2026-07-01T13:30:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Brandon Nakashima",
+      "player2": "Jan-Lennard Struff",
+      "bookmakers": {
+        "draftkings": {
+          "Brandon Nakashima": 1.31,
+          "Jan-Lennard Struff": 3.4
+        },
+        "sport888": {
+          "Brandon Nakashima": 1.3,
+          "Jan-Lennard Struff": 3.5
+        },
+        "onexbet": {
+          "Brandon Nakashima": 1.33,
+          "Jan-Lennard Struff": 3.72
+        },
+        "coolbet": {
+          "Brandon Nakashima": 1.33,
+          "Jan-Lennard Struff": 3.6
+        },
+        "unibet_fr": {
+          "Brandon Nakashima": 1.31,
+          "Jan-Lennard Struff": 3.35
+        },
+        "marathonbet": {
+          "Brandon Nakashima": 1.3,
+          "Jan-Lennard Struff": 3.5
+        },
+        "betclic_fr": {
+          "Brandon Nakashima": 1.28,
+          "Jan-Lennard Struff": 3.1
+        },
+        "codere_it": {
+          "Brandon Nakashima": 1.31,
+          "Jan-Lennard Struff": 3.35
+        },
+        "fanduel": {
+          "Brandon Nakashima": 1.3,
+          "Jan-Lennard Struff": 3.6
+        },
+        "matchbook": {
+          "Brandon Nakashima": 1.22,
+          "Jan-Lennard Struff": 4.2
+        },
+        "tipico_de": {
+          "Brandon Nakashima": 1.3,
+          "Jan-Lennard Struff": 3.4
+        },
+        "mybookieag": {
+          "Brandon Nakashima": 1.32,
+          "Jan-Lennard Struff": 3.42
+        },
+        "betrivers": {
+          "Brandon Nakashima": 1.3,
+          "Jan-Lennard Struff": 3.45
+        },
+        "leovegas_se": {
+          "Brandon Nakashima": 1.3,
+          "Jan-Lennard Struff": 3.45
+        },
+        "unibet_se": {
+          "Brandon Nakashima": 1.3,
+          "Jan-Lennard Struff": 3.45
+        },
+        "unibet_nl": {
+          "Brandon Nakashima": 1.3,
+          "Jan-Lennard Struff": 3.45
+        },
+        "pmu_fr": {
+          "Brandon Nakashima": 1.28,
+          "Jan-Lennard Struff": 3.3
+        },
+        "winamax_de": {
+          "Brandon Nakashima": 1.32,
+          "Jan-Lennard Struff": 3.4
+        },
+        "winamax_fr": {
+          "Brandon Nakashima": 1.28,
+          "Jan-Lennard Struff": 3.1
+        },
+        "gtbets": {
+          "Brandon Nakashima": 1.37,
+          "Jan-Lennard Struff": 3.31
+        }
+      },
+      "prediction": {
+        "p1_name": "Brandon Nakashima",
+        "p2_name": "Jan-Lennard Struff",
+        "p1_prob": 0.6204,
+        "p2_prob": 0.3796,
+        "predicted_winner": "Brandon Nakashima",
+        "confidence": "high",
+        "p1_edge": -0.1095,
+        "p2_edge": 0.1415
+      },
+      "collected_at": "2026-06-30T16:22:21.954158+00:00",
+      "result": null
+    },
+    "daeaedb477e01f4db0186e37a820bbf0": {
+      "match_id": "daeaedb477e01f4db0186e37a820bbf0",
+      "commence_time": "2026-07-01T13:30:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Jesper De Jong",
+      "player2": "Joao Fonseca",
+      "bookmakers": {
+        "unibet_nl": {
+          "Jesper De Jong": 4.8,
+          "Joao Fonseca": 1.18
+        },
+        "pmu_fr": {
+          "Jesper De Jong": 4.7,
+          "Joao Fonseca": 1.15
+        },
+        "leovegas_se": {
+          "Jesper De Jong": 4.8,
+          "Joao Fonseca": 1.18
+        },
+        "onexbet": {
+          "Jesper De Jong": 6.08,
+          "Joao Fonseca": 1.17
+        },
+        "draftkings": {
+          "Jesper De Jong": 5.36,
+          "Joao Fonseca": 1.15
+        },
+        "unibet_se": {
+          "Jesper De Jong": 4.8,
+          "Joao Fonseca": 1.18
+        },
+        "betrivers": {
+          "Jesper De Jong": 4.8,
+          "Joao Fonseca": 1.18
+        },
+        "marathonbet": {
+          "Jesper De Jong": 5.35,
+          "Joao Fonseca": 1.15
+        },
+        "coolbet": {
+          "Jesper De Jong": 5.7,
+          "Joao Fonseca": 1.17
+        },
+        "unibet_fr": {
+          "Jesper De Jong": 5.3,
+          "Joao Fonseca": 1.15
+        },
+        "betclic_fr": {
+          "Jesper De Jong": 4.7,
+          "Joao Fonseca": 1.13
+        },
+        "codere_it": {
+          "Jesper De Jong": 5.2,
+          "Joao Fonseca": 1.15
+        },
+        "fanduel": {
+          "Jesper De Jong": 5.6,
+          "Joao Fonseca": 1.15
+        },
+        "mybookieag": {
+          "Jesper De Jong": 5.4,
+          "Joao Fonseca": 1.15
+        },
+        "winamax_de": {
+          "Jesper De Jong": 5.4,
+          "Joao Fonseca": 1.15
+        },
+        "winamax_fr": {
+          "Jesper De Jong": 4.6,
+          "Joao Fonseca": 1.12
+        },
+        "gtbets": {
+          "Jesper De Jong": 5.11,
+          "Joao Fonseca": 1.16
+        },
+        "matchbook": {
+          "Jesper De Jong": 5.8,
+          "Joao Fonseca": 1.18
+        },
+        "tipico_de": {
+          "Jesper De Jong": 5.3,
+          "Joao Fonseca": 1.15
+        },
+        "sport888": {
+          "Jesper De Jong": 5.0,
+          "Joao Fonseca": 1.17
+        },
+        "betmgm": {
+          "Jesper De Jong": 5.5,
+          "Joao Fonseca": 1.14
+        },
+        "pinnacle": {
+          "Jesper De Jong": 5.63,
+          "Joao Fonseca": 1.18
+        }
+      },
+      "prediction": {
+        "p1_name": "Jesper de Jong",
+        "p2_name": "Joao Fonseca",
+        "p1_prob": 0.3063,
+        "p2_prob": 0.6937,
+        "predicted_winner": "Joao Fonseca",
+        "confidence": "high",
+        "p1_edge": 0.1418,
+        "p2_edge": -0.1538
+      },
+      "collected_at": "2026-06-30T16:22:21.974469+00:00",
+      "result": null
+    },
+    "c2791b0b5f6904fd21d85b31fe9ce021": {
+      "match_id": "c2791b0b5f6904fd21d85b31fe9ce021",
+      "commence_time": "2026-07-02T10:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Zachary Svajda",
+      "player2": "Kamil Majchrzak",
+      "bookmakers": {
+        "unibet_nl": {
+          "Kamil Majchrzak": 1.49,
+          "Zachary Svajda": 2.63
+        },
+        "unibet_se": {
+          "Kamil Majchrzak": 1.49,
+          "Zachary Svajda": 2.63
+        },
+        "gtbets": {
+          "Kamil Majchrzak": 1.51,
+          "Zachary Svajda": 2.58
+        },
+        "onexbet": {
+          "Kamil Majchrzak": 1.54,
+          "Zachary Svajda": 2.68
+        },
+        "leovegas_se": {
+          "Kamil Majchrzak": 1.49,
+          "Zachary Svajda": 2.63
+        },
+        "betfair_ex_eu": {
+          "Kamil Majchrzak": 1.03,
+          "Zachary Svajda": 1.03
+        },
+        "betrivers": {
+          "Kamil Majchrzak": 1.49,
+          "Zachary Svajda": 2.63
+        },
+        "draftkings": {
+          "Kamil Majchrzak": 1.5,
+          "Zachary Svajda": 2.56
+        },
+        "pmu_fr": {
+          "Kamil Majchrzak": 1.43,
+          "Zachary Svajda": 2.55
+        }
+      },
+      "prediction": {
+        "p1_name": "Zachary Svajda",
+        "p2_name": "Kamil Majchrzak",
+        "p1_prob": 0.3429,
+        "p2_prob": 0.6571,
+        "predicted_winner": "Kamil Majchrzak",
+        "confidence": "high",
+        "p1_edge": -0.0302,
+        "p2_edge": 0.0077
+      },
+      "collected_at": "2026-06-30T16:22:22.022470+00:00",
+      "result": null
+    },
+    "tml-2026-311-4": {
+      "match_id": "tml-2026-311-4",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Adrian Mannarino",
+      "player2": "Jakub Mensik",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Adrian Mannarino",
+        "p2_name": "Jakub Mensik",
+        "p1_prob": 0.2591,
+        "p2_prob": 0.7409,
+        "predicted_winner": "Jakub Mensik",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.367750+00:00",
+      "result": {
+        "winner": "Adrian Mannarino",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:28.367750+00:00"
+      }
+    },
+    "tml-2026-311-5": {
+      "match_id": "tml-2026-311-5",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Ignacio Buse",
+      "player2": "Marcos Giron",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ignacio Buse",
+        "p2_name": "Marcos Giron",
+        "p1_prob": 0.6173,
+        "p2_prob": 0.3827,
+        "predicted_winner": "Ignacio Buse",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.388757+00:00",
+      "result": {
+        "winner": "Ignacio Buse",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:28.388757+00:00"
+      }
+    },
+    "tml-2026-311-7": {
+      "match_id": "tml-2026-311-7",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Brandon Nakashima",
+      "player2": "Marton Fucsovics",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Brandon Nakashima",
+        "p2_name": "Marton Fucsovics",
+        "p1_prob": 0.6686,
+        "p2_prob": 0.3314,
+        "predicted_winner": "Brandon Nakashima",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.409483+00:00",
+      "result": {
+        "winner": "Brandon Nakashima",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:28.409483+00:00"
+      }
+    },
+    "tml-2026-500-6": {
+      "match_id": "tml-2026-500-6",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Mattia Bellucci",
+      "player2": "Alexander Bublik",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Mattia Bellucci",
+        "p2_name": "Alexander Bublik",
+        "p1_prob": 0.3203,
+        "p2_prob": 0.6797,
+        "predicted_winner": "Alexander Bublik",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.429913+00:00",
+      "result": {
+        "winner": "Mattia Bellucci",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:28.429913+00:00"
+      }
+    },
+    "tml-2026-500-7": {
+      "match_id": "tml-2026-500-7",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Hubert Hurkacz",
+      "player2": "Andrey Rublev",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Hubert Hurkacz",
+        "p2_name": "Andrey Rublev",
+        "p1_prob": 0.4222,
+        "p2_prob": 0.5778,
+        "predicted_winner": "Andrey Rublev",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.450366+00:00",
+      "result": {
+        "winner": "Hubert Hurkacz",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:28.450366+00:00"
+      }
+    },
+    "tml-2026-500-8": {
+      "match_id": "tml-2026-500-8",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Raphael Collignon",
+      "player2": "Alexei Popyrin",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Raphael Collignon",
+        "p2_name": "Alexei Popyrin",
+        "p1_prob": 0.587,
+        "p2_prob": 0.413,
+        "predicted_winner": "Raphael Collignon",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.472139+00:00",
+      "result": {
+        "winner": "Raphael Collignon",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:28.472139+00:00"
+      }
+    },
+    "tml-2026-500-9": {
+      "match_id": "tml-2026-500-9",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Yannick Hanfmann",
+      "player2": "Joao Fonseca",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Yannick Hanfmann",
+        "p2_name": "Joao Fonseca",
+        "p1_prob": 0.3981,
+        "p2_prob": 0.6019,
+        "predicted_winner": "Joao Fonseca",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.525753+00:00",
+      "result": {
+        "winner": "Yannick Hanfmann",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:28.525753+00:00"
+      }
+    },
+    "tml-2026-500-10": {
+      "match_id": "tml-2026-500-10",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Ethan Quinn",
+      "player2": "Karen Khachanov",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ethan Quinn",
+        "p2_name": "Karen Khachanov",
+        "p1_prob": 0.4062,
+        "p2_prob": 0.5938,
+        "predicted_winner": "Karen Khachanov",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.546460+00:00",
+      "result": {
+        "winner": "Ethan Quinn",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:28.546460+00:00"
+      }
+    },
+    "tml-2026-500-11": {
+      "match_id": "tml-2026-500-11",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Sho Shimabukuro",
+      "player2": "Tallon Griekspoor",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Sho Shimabukuro",
+        "p2_name": "Tallon Griekspoor",
+        "p1_prob": 0.3357,
+        "p2_prob": 0.6643,
+        "predicted_winner": "Tallon Griekspoor",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.567162+00:00",
+      "result": {
+        "winner": "Sho Shimabukuro",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:28.567162+00:00"
+      }
+    },
+    "tml-2026-500-12": {
+      "match_id": "tml-2026-500-12",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Daniil Medvedev",
+      "player2": "Tomas Martin Etcheverry",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Tomas Martin Etcheverry",
+        "p1_prob": 0.8055,
+        "p2_prob": 0.1945,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.587974+00:00",
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:28.587974+00:00"
+      }
+    },
+    "tml-2026-500-13": {
+      "match_id": "tml-2026-500-13",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Alexander Zverev",
+      "player2": "Vit Kopriva",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Vit Kopriva",
+        "p1_prob": 0.9504,
+        "p2_prob": 0.0496,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.609083+00:00",
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:28.609083+00:00"
+      }
+    },
+    "tml-2026-500-14": {
+      "match_id": "tml-2026-500-14",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Fabian Marozsan",
+      "player2": "Miomir Kecmanovic",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Fabian Marozsan",
+        "p2_name": "Miomir Kecmanovic",
+        "p1_prob": 0.4198,
+        "p2_prob": 0.5802,
+        "predicted_winner": "Miomir Kecmanovic",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.630092+00:00",
+      "result": {
+        "winner": "Fabian Marozsan",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:28.630092+00:00"
+      }
+    },
+    "tml-2026-311-8": {
+      "match_id": "tml-2026-311-8",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Jiri Lehecka",
+      "player2": "Kamil Majchrzak",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Kamil Majchrzak",
+        "p1_prob": 0.6924,
+        "p2_prob": 0.3076,
+        "predicted_winner": "Jiri Lehecka",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.651733+00:00",
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:28.651733+00:00"
+      }
+    },
+    "tml-2026-311-9": {
+      "match_id": "tml-2026-311-9",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Alex De Minaur",
+      "player2": "Gabriel Diallo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alex De Minaur",
+        "p2_name": "Gabriel Diallo",
+        "p1_prob": 0.7085,
+        "p2_prob": 0.2915,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.672955+00:00",
+      "result": {
+        "winner": "Alex De Minaur",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:28.672955+00:00"
+      }
+    },
+    "tml-2026-311-10": {
+      "match_id": "tml-2026-311-10",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Alejandro Davidovich Fokina",
+      "player2": "Cameron Norrie",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alejandro Davidovich Fokina",
+        "p2_name": "Cameron Norrie",
+        "p1_prob": 0.502,
+        "p2_prob": 0.498,
+        "predicted_winner": "Alejandro Davidovich Fokina",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.694107+00:00",
+      "result": {
+        "winner": "Alejandro Davidovich Fokina",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:28.694107+00:00"
+      }
+    },
+    "tml-2026-311-11": {
+      "match_id": "tml-2026-311-11",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Hamad Medjedovic",
+      "player2": "Arthur Rinderknech",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Hamad Medjedovic",
+        "p2_name": "Arthur Rinderknech",
+        "p1_prob": 0.4549,
+        "p2_prob": 0.5451,
+        "predicted_winner": "Arthur Rinderknech",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.715073+00:00",
+      "result": {
+        "winner": "Hamad Medjedovic",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:28.715073+00:00"
+      }
+    },
+    "tml-2026-311-12": {
+      "match_id": "tml-2026-311-12",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Francisco Cerundolo",
+      "player2": "Aleksandar Kovacevic",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Francisco Cerundolo",
+        "p2_name": "Aleksandar Kovacevic",
+        "p1_prob": 0.752,
+        "p2_prob": 0.248,
+        "predicted_winner": "Francisco Cerundolo",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.736101+00:00",
+      "result": {
+        "winner": "Francisco Cerundolo",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:28.736101+00:00"
+      }
+    },
+    "tml-2026-311-13": {
+      "match_id": "tml-2026-311-13",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Jenson Brooksby",
+      "player2": "Martin Damm",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jenson Brooksby",
+        "p2_name": "Martin Damm",
+        "p1_prob": 0.6265,
+        "p2_prob": 0.3735,
+        "predicted_winner": "Jenson Brooksby",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.756960+00:00",
+      "result": {
+        "winner": "Jenson Brooksby",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:28.756960+00:00"
+      }
+    },
+    "tml-2026-311-14": {
+      "match_id": "tml-2026-311-14",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Rinky Hijikata",
+      "player2": "Alejandro Tabilo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Rinky Hijikata",
+        "p2_name": "Alejandro Tabilo",
+        "p1_prob": 0.4148,
+        "p2_prob": 0.5852,
+        "predicted_winner": "Alejandro Tabilo",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.777901+00:00",
+      "result": {
+        "winner": "Rinky Hijikata",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:28.777901+00:00"
+      }
+    },
+    "tml-2026-311-15": {
+      "match_id": "tml-2026-311-15",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Ugo Humbert",
+      "player2": "Marin Cilic",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ugo Humbert",
+        "p2_name": "Marin Cilic",
+        "p1_prob": 0.4911,
+        "p2_prob": 0.5089,
+        "predicted_winner": "Marin Cilic",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.798966+00:00",
+      "result": {
+        "winner": "Ugo Humbert",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:28.798966+00:00"
+      }
+    },
+    "tml-2026-311-16": {
+      "match_id": "tml-2026-311-16",
+      "commence_time": "2026-06-16T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Corentin Moutet",
+      "player2": "Giovanni Mpetshi Perricard",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Corentin Moutet",
+        "p2_name": "Giovanni Mpetshi Perricard",
+        "p1_prob": 0.5044,
+        "p2_prob": 0.4956,
+        "predicted_winner": "Corentin Moutet",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.820358+00:00",
+      "result": {
+        "winner": "Corentin Moutet",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:28.820358+00:00"
+      }
+    },
+    "tml-2026-311-17": {
+      "match_id": "tml-2026-311-17",
+      "commence_time": "2026-06-17T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Alex De Minaur",
+      "player2": "Denis Shapovalov",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alex De Minaur",
+        "p2_name": "Denis Shapovalov",
+        "p1_prob": 0.753,
+        "p2_prob": 0.247,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.841792+00:00",
+      "result": {
+        "winner": "Alex De Minaur",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:28.841792+00:00"
+      }
+    },
+    "tml-2026-311-18": {
+      "match_id": "tml-2026-311-18",
+      "commence_time": "2026-06-17T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Brandon Nakashima",
+      "player2": "Ignacio Buse",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Brandon Nakashima",
+        "p2_name": "Ignacio Buse",
+        "p1_prob": 0.5669,
+        "p2_prob": 0.4331,
+        "predicted_winner": "Brandon Nakashima",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.863026+00:00",
+      "result": {
+        "winner": "Brandon Nakashima",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:28.863026+00:00"
+      }
+    },
+    "tml-2026-500-15": {
+      "match_id": "tml-2026-500-15",
+      "commence_time": "2026-06-17T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Frances Tiafoe",
+      "player2": "Sho Shimabukuro",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Frances Tiafoe",
+        "p2_name": "Sho Shimabukuro",
+        "p1_prob": 0.7456,
+        "p2_prob": 0.2544,
+        "predicted_winner": "Frances Tiafoe",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.884162+00:00",
+      "result": {
+        "winner": "Frances Tiafoe",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:28.884162+00:00"
+      }
+    },
+    "tml-2026-500-16": {
+      "match_id": "tml-2026-500-16",
+      "commence_time": "2026-06-17T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Ben Shelton",
+      "player2": "Lorenzo Sonego",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ben Shelton",
+        "p2_name": "Lorenzo Sonego",
+        "p1_prob": 0.7928,
+        "p2_prob": 0.2072,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.905332+00:00",
+      "result": {
+        "winner": "Ben Shelton",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:28.905332+00:00"
+      }
+    },
+    "tml-2026-500-17": {
+      "match_id": "tml-2026-500-17",
+      "commence_time": "2026-06-17T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Taylor Fritz",
+      "player2": "Zizou Bergs",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Zizou Bergs",
+        "p1_prob": 0.7898,
+        "p2_prob": 0.2102,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.926604+00:00",
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:28.926604+00:00"
+      }
+    },
+    "tml-2026-311-19": {
+      "match_id": "tml-2026-311-19",
+      "commence_time": "2026-06-17T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Francisco Cerundolo",
+      "player2": "Jenson Brooksby",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Francisco Cerundolo",
+        "p2_name": "Jenson Brooksby",
+        "p1_prob": 0.575,
+        "p2_prob": 0.425,
+        "predicted_winner": "Francisco Cerundolo",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.947952+00:00",
+      "result": {
+        "winner": "Francisco Cerundolo",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:28.947952+00:00"
+      }
+    },
+    "tml-2026-311-20": {
+      "match_id": "tml-2026-311-20",
+      "commence_time": "2026-06-17T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Arthur Fery",
+      "player2": "Adrian Mannarino",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Arthur Fery",
+        "p2_name": "Adrian Mannarino",
+        "p1_prob": 0.4285,
+        "p2_prob": 0.5715,
+        "predicted_winner": "Adrian Mannarino",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.969174+00:00",
+      "result": {
+        "winner": "Arthur Fery",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:28.969174+00:00"
+      }
+    },
+    "tml-2026-500-18": {
+      "match_id": "tml-2026-500-18",
+      "commence_time": "2026-06-17T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Felix Auger-Aliassime",
+      "player2": "Learner Tien",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Felix Auger-Aliassime",
+        "p2_name": "Learner Tien",
+        "p1_prob": 0.6198,
+        "p2_prob": 0.3802,
+        "predicted_winner": "Felix Auger-Aliassime",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:28.990462+00:00",
+      "result": {
+        "winner": "Felix Auger-Aliassime",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:28.990462+00:00"
+      }
+    },
+    "tml-2026-500-19": {
+      "match_id": "tml-2026-500-19",
+      "commence_time": "2026-06-17T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Daniel Altmaier",
+      "player2": "Hubert Hurkacz",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Daniel Altmaier",
+        "p2_name": "Hubert Hurkacz",
+        "p1_prob": 0.3905,
+        "p2_prob": 0.6095,
+        "predicted_winner": "Hubert Hurkacz",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.011794+00:00",
+      "result": {
+        "winner": "Daniel Altmaier",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.011794+00:00"
+      }
+    },
+    "tml-2026-500-20": {
+      "match_id": "tml-2026-500-20",
+      "commence_time": "2026-06-17T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Daniil Medvedev",
+      "player2": "Terence Atmane",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Terence Atmane",
+        "p1_prob": 0.8163,
+        "p2_prob": 0.1837,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.033230+00:00",
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.033230+00:00"
+      }
+    },
+    "tml-2026-500-21": {
+      "match_id": "tml-2026-500-21",
+      "commence_time": "2026-06-18T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Ben Shelton",
+      "player2": "Ethan Quinn",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ben Shelton",
+        "p2_name": "Ethan Quinn",
+        "p1_prob": 0.7339,
+        "p2_prob": 0.2661,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.054516+00:00",
+      "result": {
+        "winner": "Ben Shelton",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.054516+00:00"
+      }
+    },
+    "tml-2026-500-22": {
+      "match_id": "tml-2026-500-22",
+      "commence_time": "2026-06-18T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Taylor Fritz",
+      "player2": "Fabian Marozsan",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Fabian Marozsan",
+        "p1_prob": 0.7898,
+        "p2_prob": 0.2102,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.075889+00:00",
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.075889+00:00"
+      }
+    },
+    "tml-2026-311-21": {
+      "match_id": "tml-2026-311-21",
+      "commence_time": "2026-06-18T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Tommy Paul",
+      "player2": "Botic Van De Zandschulp",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Tommy Paul",
+        "p2_name": "Botic Van De Zandschulp",
+        "p1_prob": 0.6152,
+        "p2_prob": 0.3848,
+        "predicted_winner": "Tommy Paul",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.097241+00:00",
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.097241+00:00"
+      }
+    },
+    "tml-2026-311-22": {
+      "match_id": "tml-2026-311-22",
+      "commence_time": "2026-06-18T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Alejandro Davidovich Fokina",
+      "player2": "Corentin Moutet",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alejandro Davidovich Fokina",
+        "p2_name": "Corentin Moutet",
+        "p1_prob": 0.5789,
+        "p2_prob": 0.4211,
+        "predicted_winner": "Alejandro Davidovich Fokina",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.118704+00:00",
+      "result": {
+        "winner": "Alejandro Davidovich Fokina",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.118704+00:00"
+      }
+    },
+    "tml-2026-500-23": {
+      "match_id": "tml-2026-500-23",
+      "commence_time": "2026-06-18T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Alexander Zverev",
+      "player2": "Yannick Hanfmann",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Yannick Hanfmann",
+        "p1_prob": 0.9105,
+        "p2_prob": 0.0895,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.140126+00:00",
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.140126+00:00"
+      }
+    },
+    "tml-2026-500-24": {
+      "match_id": "tml-2026-500-24",
+      "commence_time": "2026-06-18T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Raphael Collignon",
+      "player2": "Mattia Bellucci",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Raphael Collignon",
+        "p2_name": "Mattia Bellucci",
+        "p1_prob": 0.5601,
+        "p2_prob": 0.4399,
+        "predicted_winner": "Raphael Collignon",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.161653+00:00",
+      "result": {
+        "winner": "Raphael Collignon",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.161653+00:00"
+      }
+    },
+    "tml-2026-311-23": {
+      "match_id": "tml-2026-311-23",
+      "commence_time": "2026-06-18T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Rinky Hijikata",
+      "player2": "Jiri Lehecka",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Rinky Hijikata",
+        "p2_name": "Jiri Lehecka",
+        "p1_prob": 0.3,
+        "p2_prob": 0.7,
+        "predicted_winner": "Jiri Lehecka",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.183150+00:00",
+      "result": {
+        "winner": "Rinky Hijikata",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.183150+00:00"
+      }
+    },
+    "tml-2026-311-24": {
+      "match_id": "tml-2026-311-24",
+      "commence_time": "2026-06-19T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Brandon Nakashima",
+      "player2": "Alex De Minaur",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Brandon Nakashima",
+        "p2_name": "Alex De Minaur",
+        "p1_prob": 0.3963,
+        "p2_prob": 0.6037,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.204830+00:00",
+      "result": {
+        "winner": "Brandon Nakashima",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.204830+00:00"
+      }
+    },
+    "tml-2026-311-25": {
+      "match_id": "tml-2026-311-25",
+      "commence_time": "2026-06-19T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Ugo Humbert",
+      "player2": "Hamad Medjedovic",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ugo Humbert",
+        "p2_name": "Hamad Medjedovic",
+        "p1_prob": 0.5789,
+        "p2_prob": 0.4211,
+        "predicted_winner": "Ugo Humbert",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.226466+00:00",
+      "result": {
+        "winner": "Ugo Humbert",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.226466+00:00"
+      }
+    },
+    "tml-2026-500-25": {
+      "match_id": "tml-2026-500-25",
+      "commence_time": "2026-06-19T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Alexander Zverev",
+      "player2": "Raphael Collignon",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Raphael Collignon",
+        "p1_prob": 0.8471,
+        "p2_prob": 0.1529,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.247995+00:00",
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.247995+00:00"
+      }
+    },
+    "tml-2026-500-26": {
+      "match_id": "tml-2026-500-26",
+      "commence_time": "2026-06-19T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Taylor Fritz",
+      "player2": "Ben Shelton",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Ben Shelton",
+        "p1_prob": 0.4297,
+        "p2_prob": 0.5703,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.269582+00:00",
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.269582+00:00"
+      }
+    },
+    "tml-2026-311-26": {
+      "match_id": "tml-2026-311-26",
+      "commence_time": "2026-06-19T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Francisco Cerundolo",
+      "player2": "Arthur Fery",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Francisco Cerundolo",
+        "p2_name": "Arthur Fery",
+        "p1_prob": 0.7436,
+        "p2_prob": 0.2564,
+        "predicted_winner": "Francisco Cerundolo",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.291165+00:00",
+      "result": {
+        "winner": "Francisco Cerundolo",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.291165+00:00"
+      }
+    },
+    "tml-2026-500-27": {
+      "match_id": "tml-2026-500-27",
+      "commence_time": "2026-06-19T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Daniel Altmaier",
+      "player2": "Daniil Medvedev",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Daniel Altmaier",
+        "p2_name": "Daniil Medvedev",
+        "p1_prob": 0.1333,
+        "p2_prob": 0.8667,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.312866+00:00",
+      "result": {
+        "winner": "Daniel Altmaier",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.312866+00:00"
+      }
+    },
+    "tml-2026-311-27": {
+      "match_id": "tml-2026-311-27",
+      "commence_time": "2026-06-19T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Ugo Humbert",
+      "player2": "Rinky Hijikata",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ugo Humbert",
+        "p2_name": "Rinky Hijikata",
+        "p1_prob": 0.6467,
+        "p2_prob": 0.3533,
+        "predicted_winner": "Ugo Humbert",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.334517+00:00",
+      "result": {
+        "winner": "Ugo Humbert",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.334517+00:00"
+      }
+    },
+    "tml-2026-311-28": {
+      "match_id": "tml-2026-311-28",
+      "commence_time": "2026-06-19T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Tommy Paul",
+      "player2": "Alejandro Davidovich Fokina",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Tommy Paul",
+        "p2_name": "Alejandro Davidovich Fokina",
+        "p1_prob": 0.5793,
+        "p2_prob": 0.4207,
+        "predicted_winner": "Tommy Paul",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.356149+00:00",
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.356149+00:00"
+      }
+    },
+    "tml-2026-500-28": {
+      "match_id": "tml-2026-500-28",
+      "commence_time": "2026-06-19T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Frances Tiafoe",
+      "player2": "Felix Auger-Aliassime",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Frances Tiafoe",
+        "p2_name": "Felix Auger-Aliassime",
+        "p1_prob": 0.3822,
+        "p2_prob": 0.6178,
+        "predicted_winner": "Felix Auger-Aliassime",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.377853+00:00",
+      "result": {
+        "winner": "Frances Tiafoe",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.377853+00:00"
+      }
+    },
+    "tml-2026-311-29": {
+      "match_id": "tml-2026-311-29",
+      "commence_time": "2026-06-20T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Francisco Cerundolo",
+      "player2": "Brandon Nakashima",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Francisco Cerundolo",
+        "p2_name": "Brandon Nakashima",
+        "p1_prob": 0.4946,
+        "p2_prob": 0.5054,
+        "predicted_winner": "Brandon Nakashima",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.399590+00:00",
+      "result": {
+        "winner": "Francisco Cerundolo",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.399590+00:00"
+      }
+    },
+    "tml-2026-500-29": {
+      "match_id": "tml-2026-500-29",
+      "commence_time": "2026-06-20T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Taylor Fritz",
+      "player2": "Alexander Zverev",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Alexander Zverev",
+        "p1_prob": 0.3948,
+        "p2_prob": 0.6052,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.421364+00:00",
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.421364+00:00"
+      }
+    },
+    "tml-2026-311-30": {
+      "match_id": "tml-2026-311-30",
+      "commence_time": "2026-06-20T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Tommy Paul",
+      "player2": "Ugo Humbert",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Tommy Paul",
+        "p2_name": "Ugo Humbert",
+        "p1_prob": 0.5873,
+        "p2_prob": 0.4127,
+        "predicted_winner": "Tommy Paul",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.443138+00:00",
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.443138+00:00"
+      }
+    },
+    "tml-2026-500-30": {
+      "match_id": "tml-2026-500-30",
+      "commence_time": "2026-06-20T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Frances Tiafoe",
+      "player2": "Daniel Altmaier",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Frances Tiafoe",
+        "p2_name": "Daniel Altmaier",
+        "p1_prob": 0.7105,
+        "p2_prob": 0.2895,
+        "predicted_winner": "Frances Tiafoe",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.464937+00:00",
+      "result": {
+        "winner": "Frances Tiafoe",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.464937+00:00"
+      }
+    },
+    "tml-2026-500-31": {
+      "match_id": "tml-2026-500-31",
+      "commence_time": "2026-06-21T00:00:00+00:00",
+      "tournament": "Halle",
+      "surface": "Grass",
+      "player1": "Frances Tiafoe",
+      "player2": "Taylor Fritz",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Frances Tiafoe",
+        "p2_name": "Taylor Fritz",
+        "p1_prob": 0.3578,
+        "p2_prob": 0.6422,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.486816+00:00",
+      "result": {
+        "winner": "Frances Tiafoe",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.486816+00:00"
+      }
+    },
+    "tml-2026-311-31": {
+      "match_id": "tml-2026-311-31",
+      "commence_time": "2026-06-21T00:00:00+00:00",
+      "tournament": "Queen's Club",
+      "surface": "Grass",
+      "player1": "Francisco Cerundolo",
+      "player2": "Tommy Paul",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Francisco Cerundolo",
+        "p2_name": "Tommy Paul",
+        "p1_prob": 0.4769,
+        "p2_prob": 0.5231,
+        "predicted_winner": "Tommy Paul",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.508754+00:00",
+      "result": {
+        "winner": "Francisco Cerundolo",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.508754+00:00"
+      }
+    },
+    "tml-2026-8994-1": {
+      "match_id": "tml-2026-8994-1",
+      "commence_time": "2026-06-22T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Yannick Hanfmann",
+      "player2": "Adolfo Daniel Vallejo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Yannick Hanfmann",
+        "p2_name": "Adolfo Daniel Vallejo",
+        "p1_prob": 0.4743,
+        "p2_prob": 0.5257,
+        "predicted_winner": "Adolfo Daniel Vallejo",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.530667+00:00",
+      "result": {
+        "winner": "Yannick Hanfmann",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.530667+00:00"
+      }
+    },
+    "tml-2026-8994-2": {
+      "match_id": "tml-2026-8994-2",
+      "commence_time": "2026-06-22T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Lorenzo Sonego",
+      "player2": "Mariano Navone",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Lorenzo Sonego",
+        "p2_name": "Mariano Navone",
+        "p1_prob": 0.5817,
+        "p2_prob": 0.4183,
+        "predicted_winner": "Lorenzo Sonego",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.552515+00:00",
+      "result": {
+        "winner": "Lorenzo Sonego",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.552515+00:00"
+      }
+    },
+    "tml-2026-8994-3": {
+      "match_id": "tml-2026-8994-3",
+      "commence_time": "2026-06-22T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Nuno Borges",
+      "player2": "Adrian Mannarino",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Nuno Borges",
+        "p2_name": "Adrian Mannarino",
+        "p1_prob": 0.4473,
+        "p2_prob": 0.5527,
+        "predicted_winner": "Adrian Mannarino",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.574469+00:00",
+      "result": {
+        "winner": "Nuno Borges",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.574469+00:00"
+      }
+    },
+    "tml-2026-741-1": {
+      "match_id": "tml-2026-741-1",
+      "commence_time": "2026-06-22T00:00:00+00:00",
+      "tournament": "Eastbourne",
+      "surface": "Grass",
+      "player1": "Juan Manuel Cerundolo",
+      "player2": "Raphael Collignon",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Juan Manuel Cerundolo",
+        "p2_name": "Raphael Collignon",
+        "p1_prob": 0.339,
+        "p2_prob": 0.661,
+        "predicted_winner": "Raphael Collignon",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.596719+00:00",
+      "result": {
+        "winner": "Juan Manuel Cerundolo",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.596719+00:00"
+      }
+    },
+    "tml-2026-741-2": {
+      "match_id": "tml-2026-741-2",
+      "commence_time": "2026-06-22T00:00:00+00:00",
+      "tournament": "Eastbourne",
+      "surface": "Grass",
+      "player1": "Gabriel Diallo",
+      "player2": "Terence Atmane",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Gabriel Diallo",
+        "p2_name": "Terence Atmane",
+        "p1_prob": 0.6227,
+        "p2_prob": 0.3773,
+        "predicted_winner": "Gabriel Diallo",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.618893+00:00",
+      "result": {
+        "winner": "Gabriel Diallo",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.618893+00:00"
+      }
+    },
+    "tml-2026-741-3": {
+      "match_id": "tml-2026-741-3",
+      "commence_time": "2026-06-22T00:00:00+00:00",
+      "tournament": "Eastbourne",
+      "surface": "Grass",
+      "player1": "Jack Draper",
+      "player2": "Marcos Giron",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jack Draper",
+        "p2_name": "Marcos Giron",
+        "p1_prob": 0.8148,
+        "p2_prob": 0.1852,
+        "predicted_winner": "Jack Draper",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.641139+00:00",
+      "result": {
+        "winner": "Jack Draper",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.641139+00:00"
+      }
+    },
+    "tml-2026-741-4": {
+      "match_id": "tml-2026-741-4",
+      "commence_time": "2026-06-22T00:00:00+00:00",
+      "tournament": "Eastbourne",
+      "surface": "Grass",
+      "player1": "Jack Pinnington Jones",
+      "player2": "Marco Trungelliti",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jack Pinnington Jones",
+        "p2_name": "Marco Trungelliti",
+        "p1_prob": 0.5335,
+        "p2_prob": 0.4665,
+        "predicted_winner": "Jack Pinnington Jones",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.663211+00:00",
+      "result": {
+        "winner": "Jack Pinnington Jones",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.663211+00:00"
+      }
+    },
+    "tml-2026-8994-4": {
+      "match_id": "tml-2026-8994-4",
+      "commence_time": "2026-06-22T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Adam Walton",
+      "player2": "Nick Kyrgios",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Adam Walton",
+        "p2_name": "Nick Kyrgios",
+        "p1_prob": 0.368,
+        "p2_prob": 0.632,
+        "predicted_winner": "Nick Kyrgios",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.685211+00:00",
+      "result": {
+        "winner": "Adam Walton",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.685211+00:00"
+      }
+    },
+    "tml-2026-8994-7": {
+      "match_id": "tml-2026-8994-7",
+      "commence_time": "2026-06-22T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Fabian Marozsan",
+      "player2": "Alex Molcan",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Fabian Marozsan",
+        "p2_name": "Alex Molcan",
+        "p1_prob": 0.5385,
+        "p2_prob": 0.4615,
+        "predicted_winner": "Fabian Marozsan",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.707695+00:00",
+      "result": {
+        "winner": "Fabian Marozsan",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.707695+00:00"
+      }
+    },
+    "tml-2026-8994-8": {
+      "match_id": "tml-2026-8994-8",
+      "commence_time": "2026-06-22T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Ethan Quinn",
+      "player2": "Valentin Royer",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ethan Quinn",
+        "p2_name": "Valentin Royer",
+        "p1_prob": 0.5525,
+        "p2_prob": 0.4475,
+        "predicted_winner": "Ethan Quinn",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.729895+00:00",
+      "result": {
+        "winner": "Ethan Quinn",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.729895+00:00"
+      }
+    },
+    "tml-2026-8994-9": {
+      "match_id": "tml-2026-8994-9",
+      "commence_time": "2026-06-22T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Jan-Lennard Struff",
+      "player2": "Martin Landaluce",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jan-Lennard Struff",
+        "p2_name": "Martin Landaluce",
+        "p1_prob": 0.4358,
+        "p2_prob": 0.5642,
+        "predicted_winner": "Martin Landaluce",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.752077+00:00",
+      "result": {
+        "winner": "Jan-Lennard Struff",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.752077+00:00"
+      }
+    },
+    "tml-2026-741-5": {
+      "match_id": "tml-2026-741-5",
+      "commence_time": "2026-06-22T00:00:00+00:00",
+      "tournament": "Eastbourne",
+      "surface": "Grass",
+      "player1": "Jan Choinski",
+      "player2": "Alexei Popyrin",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jan Choinski",
+        "p2_name": "Alexei Popyrin",
+        "p1_prob": 0.4235,
+        "p2_prob": 0.5765,
+        "predicted_winner": "Alexei Popyrin",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.774236+00:00",
+      "result": {
+        "winner": "Jan Choinski",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.774236+00:00"
+      }
+    },
+    "tml-2026-741-6": {
+      "match_id": "tml-2026-741-6",
+      "commence_time": "2026-06-22T00:00:00+00:00",
+      "tournament": "Eastbourne",
+      "surface": "Grass",
+      "player1": "Zizou Bergs",
+      "player2": "Jaume Munar",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Zizou Bergs",
+        "p2_name": "Jaume Munar",
+        "p1_prob": 0.5754,
+        "p2_prob": 0.4246,
+        "predicted_winner": "Zizou Bergs",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.796363+00:00",
+      "result": {
+        "winner": "Zizou Bergs",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.796363+00:00"
+      }
+    },
+    "tml-2026-8994-10": {
+      "match_id": "tml-2026-8994-10",
+      "commence_time": "2026-06-23T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Nuno Borges",
+      "player2": "Jan-Lennard Struff",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Nuno Borges",
+        "p2_name": "Jan-Lennard Struff",
+        "p1_prob": 0.4382,
+        "p2_prob": 0.5618,
+        "predicted_winner": "Jan-Lennard Struff",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.818958+00:00",
+      "result": {
+        "winner": "Nuno Borges",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.818958+00:00"
+      }
+    },
+    "tml-2026-8994-11": {
+      "match_id": "tml-2026-8994-11",
+      "commence_time": "2026-06-23T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Fabian Marozsan",
+      "player2": "Alejandro Tabilo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Fabian Marozsan",
+        "p2_name": "Alejandro Tabilo",
+        "p1_prob": 0.3666,
+        "p2_prob": 0.6334,
+        "predicted_winner": "Alejandro Tabilo",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.841238+00:00",
+      "result": {
+        "winner": "Fabian Marozsan",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.841238+00:00"
+      }
+    },
+    "tml-2026-8994-12": {
+      "match_id": "tml-2026-8994-12",
+      "commence_time": "2026-06-23T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Grigor Dimitrov",
+      "player2": "Marc Polmans",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Grigor Dimitrov",
+        "p2_name": "Marc Polmans",
+        "p1_prob": 0.6933,
+        "p2_prob": 0.3067,
+        "predicted_winner": "Grigor Dimitrov",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.863583+00:00",
+      "result": {
+        "winner": "Grigor Dimitrov",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.863583+00:00"
+      }
+    },
+    "tml-2026-8994-13": {
+      "match_id": "tml-2026-8994-13",
+      "commence_time": "2026-06-23T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Vit Kopriva",
+      "player2": "Damir Dzumhur",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Vit Kopriva",
+        "p2_name": "Damir Dzumhur",
+        "p1_prob": 0.3847,
+        "p2_prob": 0.6153,
+        "predicted_winner": "Damir Dzumhur",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.885891+00:00",
+      "result": {
+        "winner": "Vit Kopriva",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.885891+00:00"
+      }
+    },
+    "tml-2026-741-10": {
+      "match_id": "tml-2026-741-10",
+      "commence_time": "2026-06-23T00:00:00+00:00",
+      "tournament": "Eastbourne",
+      "surface": "Grass",
+      "player1": "Daniel Altmaier",
+      "player2": "Aleksandar Kovacevic",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Daniel Altmaier",
+        "p2_name": "Aleksandar Kovacevic",
+        "p1_prob": 0.575,
+        "p2_prob": 0.425,
+        "predicted_winner": "Daniel Altmaier",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.908291+00:00",
+      "result": {
+        "winner": "Daniel Altmaier",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.908291+00:00"
+      }
+    },
+    "tml-2026-741-11": {
+      "match_id": "tml-2026-741-11",
+      "commence_time": "2026-06-23T00:00:00+00:00",
+      "tournament": "Eastbourne",
+      "surface": "Grass",
+      "player1": "Arthur Fery",
+      "player2": "Roman Andres Burruchaga",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Arthur Fery",
+        "p2_name": "Roman Andres Burruchaga",
+        "p1_prob": 0.4099,
+        "p2_prob": 0.5901,
+        "predicted_winner": "Roman Andres Burruchaga",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.930757+00:00",
+      "result": {
+        "winner": "Arthur Fery",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.930757+00:00"
+      }
+    },
+    "tml-2026-8994-14": {
+      "match_id": "tml-2026-8994-14",
+      "commence_time": "2026-06-23T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Miomir Kecmanovic",
+      "player2": "Lorenzo Sonego",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Miomir Kecmanovic",
+        "p2_name": "Lorenzo Sonego",
+        "p1_prob": 0.4566,
+        "p2_prob": 0.5434,
+        "predicted_winner": "Lorenzo Sonego",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.953133+00:00",
+      "result": {
+        "winner": "Miomir Kecmanovic",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:29.953133+00:00"
+      }
+    },
+    "tml-2026-8994-15": {
+      "match_id": "tml-2026-8994-15",
+      "commence_time": "2026-06-23T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Ignacio Buse",
+      "player2": "Stefanos Tsitsipas",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ignacio Buse",
+        "p2_name": "Stefanos Tsitsipas",
+        "p1_prob": 0.5093,
+        "p2_prob": 0.4907,
+        "predicted_winner": "Ignacio Buse",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.975569+00:00",
+      "result": {
+        "winner": "Ignacio Buse",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.975569+00:00"
+      }
+    },
+    "tml-2026-741-12": {
+      "match_id": "tml-2026-741-12",
+      "commence_time": "2026-06-23T00:00:00+00:00",
+      "tournament": "Eastbourne",
+      "surface": "Grass",
+      "player1": "Ugo Humbert",
+      "player2": "Mattia Bellucci",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ugo Humbert",
+        "p2_name": "Mattia Bellucci",
+        "p1_prob": 0.598,
+        "p2_prob": 0.402,
+        "predicted_winner": "Ugo Humbert",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:29.998023+00:00",
+      "result": {
+        "winner": "Ugo Humbert",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:29.998023+00:00"
+      }
+    },
+    "tml-2026-8994-16": {
+      "match_id": "tml-2026-8994-16",
+      "commence_time": "2026-06-23T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Luciano Darderi",
+      "player2": "Yannick Hanfmann",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Luciano Darderi",
+        "p2_name": "Yannick Hanfmann",
+        "p1_prob": 0.692,
+        "p2_prob": 0.308,
+        "predicted_winner": "Luciano Darderi",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:30.034273+00:00",
+      "result": {
+        "winner": "Luciano Darderi",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:30.034273+00:00"
+      }
+    },
+    "tml-2026-741-13": {
+      "match_id": "tml-2026-741-13",
+      "commence_time": "2026-06-24T00:00:00+00:00",
+      "tournament": "Eastbourne",
+      "surface": "Grass",
+      "player1": "Juan Manuel Cerundolo",
+      "player2": "Arthur Fery",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Juan Manuel Cerundolo",
+        "p2_name": "Arthur Fery",
+        "p1_prob": 0.5049,
+        "p2_prob": 0.4951,
+        "predicted_winner": "Juan Manuel Cerundolo",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:30.058994+00:00",
+      "result": {
+        "winner": "Juan Manuel Cerundolo",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:30.058994+00:00"
+      }
+    },
+    "tml-2026-8994-17": {
+      "match_id": "tml-2026-8994-17",
+      "commence_time": "2026-06-24T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Vit Kopriva",
+      "player2": "Ignacio Buse",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Vit Kopriva",
+        "p2_name": "Ignacio Buse",
+        "p1_prob": 0.3106,
+        "p2_prob": 0.6894,
+        "predicted_winner": "Ignacio Buse",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:30.083752+00:00",
+      "result": {
+        "winner": "Vit Kopriva",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:30.083752+00:00"
+      }
+    },
+    "tml-2026-741-16": {
+      "match_id": "tml-2026-741-16",
+      "commence_time": "2026-06-24T00:00:00+00:00",
+      "tournament": "Eastbourne",
+      "surface": "Grass",
+      "player1": "Ugo Humbert",
+      "player2": "Jenson Brooksby",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ugo Humbert",
+        "p2_name": "Jenson Brooksby",
+        "p1_prob": 0.5184,
+        "p2_prob": 0.4816,
+        "predicted_winner": "Ugo Humbert",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:30.107481+00:00",
+      "result": {
+        "winner": "Ugo Humbert",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:30.107481+00:00"
+      }
+    },
+    "tml-2026-741-17": {
+      "match_id": "tml-2026-741-17",
+      "commence_time": "2026-06-24T00:00:00+00:00",
+      "tournament": "Eastbourne",
+      "surface": "Grass",
+      "player1": "Zizou Bergs",
+      "player2": "Daniel Altmaier",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Zizou Bergs",
+        "p2_name": "Daniel Altmaier",
+        "p1_prob": 0.5727,
+        "p2_prob": 0.4273,
+        "predicted_winner": "Zizou Bergs",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:30.133565+00:00",
+      "result": {
+        "winner": "Zizou Bergs",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:30.133565+00:00"
+      }
+    },
+    "tml-2026-8994-19": {
+      "match_id": "tml-2026-8994-19",
+      "commence_time": "2026-06-24T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Alejandro Davidovich Fokina",
+      "player2": "Adam Walton",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alejandro Davidovich Fokina",
+        "p2_name": "Adam Walton",
+        "p1_prob": 0.739,
+        "p2_prob": 0.261,
+        "predicted_winner": "Alejandro Davidovich Fokina",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:30.156685+00:00",
+      "result": {
+        "winner": "Alejandro Davidovich Fokina",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:30.156685+00:00"
+      }
+    },
+    "tml-2026-741-18": {
+      "match_id": "tml-2026-741-18",
+      "commence_time": "2026-06-24T00:00:00+00:00",
+      "tournament": "Eastbourne",
+      "surface": "Grass",
+      "player1": "Gabriel Diallo",
+      "player2": "Tomas Martin Etcheverry",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Gabriel Diallo",
+        "p2_name": "Tomas Martin Etcheverry",
+        "p1_prob": 0.5844,
+        "p2_prob": 0.4156,
+        "predicted_winner": "Gabriel Diallo",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:30.179345+00:00",
+      "result": {
+        "winner": "Gabriel Diallo",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:30.179345+00:00"
+      }
+    },
+    "tml-2026-741-20": {
+      "match_id": "tml-2026-741-20",
+      "commence_time": "2026-06-24T00:00:00+00:00",
+      "tournament": "Eastbourne",
+      "surface": "Grass",
+      "player1": "Jack Draper",
+      "player2": "Jack Pinnington Jones",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jack Draper",
+        "p2_name": "Jack Pinnington Jones",
+        "p1_prob": 0.8475,
+        "p2_prob": 0.1525,
+        "predicted_winner": "Jack Draper",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:30.202282+00:00",
+      "result": {
+        "winner": "Jack Draper",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:30.202282+00:00"
+      }
+    },
+    "tml-2026-741-22": {
+      "match_id": "tml-2026-741-22",
+      "commence_time": "2026-06-25T00:00:00+00:00",
+      "tournament": "Eastbourne",
+      "surface": "Grass",
+      "player1": "Zizou Bergs",
+      "player2": "Jan Choinski",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Zizou Bergs",
+        "p2_name": "Jan Choinski",
+        "p1_prob": 0.6858,
+        "p2_prob": 0.3142,
+        "predicted_winner": "Zizou Bergs",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:30.225302+00:00",
+      "result": {
+        "winner": "Zizou Bergs",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:30.225302+00:00"
+      }
+    },
+    "tml-2026-741-23": {
+      "match_id": "tml-2026-741-23",
+      "commence_time": "2026-06-25T00:00:00+00:00",
+      "tournament": "Eastbourne",
+      "surface": "Grass",
+      "player1": "Jack Draper",
+      "player2": "Gabriel Diallo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jack Draper",
+        "p2_name": "Gabriel Diallo",
+        "p1_prob": 0.6697,
+        "p2_prob": 0.3303,
+        "predicted_winner": "Jack Draper",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:30.248058+00:00",
+      "result": {
+        "winner": "Jack Draper",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:30.248058+00:00"
+      }
+    },
+    "tml-2026-8994-21": {
+      "match_id": "tml-2026-8994-21",
+      "commence_time": "2026-06-25T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Fabian Marozsan",
+      "player2": "Miomir Kecmanovic",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Fabian Marozsan",
+        "p2_name": "Miomir Kecmanovic",
+        "p1_prob": 0.4198,
+        "p2_prob": 0.5802,
+        "predicted_winner": "Miomir Kecmanovic",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:30.270867+00:00",
+      "result": {
+        "winner": "Fabian Marozsan",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:30.270867+00:00"
+      }
+    },
+    "tml-2026-8994-22": {
+      "match_id": "tml-2026-8994-22",
+      "commence_time": "2026-06-25T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Nuno Borges",
+      "player2": "Luciano Darderi",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Nuno Borges",
+        "p2_name": "Luciano Darderi",
+        "p1_prob": 0.3264,
+        "p2_prob": 0.6736,
+        "predicted_winner": "Luciano Darderi",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:30.293693+00:00",
+      "result": {
+        "winner": "Nuno Borges",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:30.293693+00:00"
+      }
+    },
+    "tml-2026-8994-23": {
+      "match_id": "tml-2026-8994-23",
+      "commence_time": "2026-06-25T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Ethan Quinn",
+      "player2": "Vit Kopriva",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ethan Quinn",
+        "p2_name": "Vit Kopriva",
+        "p1_prob": 0.7094,
+        "p2_prob": 0.2906,
+        "predicted_winner": "Ethan Quinn",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:30.316616+00:00",
+      "result": {
+        "winner": "Ethan Quinn",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:30.316616+00:00"
+      }
+    },
+    "tml-2026-741-24": {
+      "match_id": "tml-2026-741-24",
+      "commence_time": "2026-06-25T00:00:00+00:00",
+      "tournament": "Eastbourne",
+      "surface": "Grass",
+      "player1": "Ugo Humbert",
+      "player2": "Quentin Halys",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ugo Humbert",
+        "p2_name": "Quentin Halys",
+        "p1_prob": 0.6155,
+        "p2_prob": 0.3845,
+        "predicted_winner": "Ugo Humbert",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:30.339580+00:00",
+      "result": {
+        "winner": "Ugo Humbert",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:30.339580+00:00"
+      }
+    },
+    "tml-2026-8994-24": {
+      "match_id": "tml-2026-8994-24",
+      "commence_time": "2026-06-25T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Alejandro Davidovich Fokina",
+      "player2": "Grigor Dimitrov",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alejandro Davidovich Fokina",
+        "p2_name": "Grigor Dimitrov",
+        "p1_prob": 0.5116,
+        "p2_prob": 0.4884,
+        "predicted_winner": "Alejandro Davidovich Fokina",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:30.362468+00:00",
+      "result": {
+        "winner": "Alejandro Davidovich Fokina",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:30.362468+00:00"
+      }
+    },
+    "tml-2026-8994-25": {
+      "match_id": "tml-2026-8994-25",
+      "commence_time": "2026-06-26T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Ethan Quinn",
+      "player2": "Nuno Borges",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ethan Quinn",
+        "p2_name": "Nuno Borges",
+        "p1_prob": 0.5915,
+        "p2_prob": 0.4085,
+        "predicted_winner": "Ethan Quinn",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:30.385340+00:00",
+      "result": {
+        "winner": "Ethan Quinn",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:30.385340+00:00"
+      }
+    },
+    "tml-2026-741-26": {
+      "match_id": "tml-2026-741-26",
+      "commence_time": "2026-06-26T00:00:00+00:00",
+      "tournament": "Eastbourne",
+      "surface": "Grass",
+      "player1": "Ugo Humbert",
+      "player2": "Jack Draper",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ugo Humbert",
+        "p2_name": "Jack Draper",
+        "p1_prob": 0.3863,
+        "p2_prob": 0.6137,
+        "predicted_winner": "Jack Draper",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:30.408454+00:00",
+      "result": {
+        "winner": "Ugo Humbert",
+        "correct": false,
+        "settled_at": "2026-06-30T16:22:30.408454+00:00"
+      }
+    },
+    "tml-2026-8994-27": {
+      "match_id": "tml-2026-8994-27",
+      "commence_time": "2026-06-27T00:00:00+00:00",
+      "tournament": "Mallorca",
+      "surface": "Grass",
+      "player1": "Alejandro Davidovich Fokina",
+      "player2": "Ethan Quinn",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alejandro Davidovich Fokina",
+        "p2_name": "Ethan Quinn",
+        "p1_prob": 0.5748,
+        "p2_prob": 0.4252,
+        "predicted_winner": "Alejandro Davidovich Fokina",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-06-30T16:22:30.431481+00:00",
+      "result": {
+        "winner": "Alejandro Davidovich Fokina",
+        "correct": true,
+        "settled_at": "2026-06-30T16:22:30.431481+00:00"
+      }
     }
   },
-  "last_updated": "2026-06-30T10:54:14.931506+00:00"
+  "last_updated": "2026-06-30T16:22:30.434352+00:00"
 }
