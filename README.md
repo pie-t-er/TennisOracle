@@ -27,6 +27,8 @@ TennisOracle/
 │   ├── scripts/
 │   │   ├── collect.py        Fetch upcoming matches → run model → save predictions
 │   │   ├── update_results.py Fetch completed scores → settle predictions
+│   │   ├── backfill_predictions.py  Predict+settle matches outside Odds API coverage (TML)
+│   │   ├── remodel_pending.py  Recompute pending predictions after a retrain
 │   │   └── backtest.py       Retroactive accuracy report on historical fixtures
 │   ├── fixtures/
 │   │   └── sample_matches.json   13 confirmed 2024 matches for backtesting
@@ -107,11 +109,9 @@ Open **http://localhost:3000**
 
 ## ML model
 
-The model is pre-trained and committed as `backend/ml/model.joblib`, trained on 2010–2023 data.
-It has **not** been retrained on the 2024–2026 data in `ATP_Matches/` — that data only feeds live
-player profiles (rank, recent form, h2h) at inference time, which is the intended use of those
-features. Re-train if you want the model itself to learn from the newer matches too, or if you add
-more data and want to experiment.
+The model is pre-trained and committed as `backend/ml/model.joblib`. It's retrained periodically
+on the full `ATP_Matches/` corpus (currently 2010–2026) — not on every data refresh, since that's
+a deliberate step (see below), but the model isn't pinned to its original 2010–2023 training data.
 
 To refresh match data beyond what's committed, download newer `{year}.csv` files from
 [stats.tennismylife.org/data/](https://stats.tennismylife.org/data/) (free, MIT-licensed, no API
@@ -124,14 +124,34 @@ cd backend
 python ml/train.py
 ```
 
-Training takes ~30 seconds. It evaluates both Logistic Regression and XGBoost with 10-fold cross-validation and picks the better one, then calibrates probabilities using isotonic regression. The 2023 season is held out as a test set.
+Training takes ~30 seconds. It evaluates both Logistic Regression and XGBoost with 10-fold
+cross-validation and picks the better one, then calibrates probabilities using isotonic
+regression. The split is time-based: trains on everything through the second-most-recent complete
+calendar year, holds out the most recent *complete* year as the test set, and deliberately
+excludes the current partial year from training entirely (training on matches chronologically
+after the test period would leak information even though each row's features are already
+point-in-time correct on their own).
 
 ```
-LogisticRegression  CV acc: 0.6821 ± 0.0041
-XGBoost             CV acc: 0.6934 ± 0.0038
+LogisticRegression  CV acc: 0.6592 ± 0.0061
+XGBoost             CV acc: 0.6622 ± 0.0063
   → XGBoost selected as best model
-2023 holdout — accuracy: 0.6891 | log-loss: 0.6012
+2025 holdout — accuracy: 0.6527 | log-loss: 0.6281
 ```
+
+(Lower than the original 2010–2023-only numbers — expected, not concerning: a longer, more
+diverse time span is a harder generalization test, not a regression in methodology.)
+
+After retraining, any **pending** (not-yet-settled) predictions in `live_predictions.json` can be
+recomputed with the new model:
+
+```bash
+python scripts/remodel_pending.py
+```
+
+This only touches pending entries — already-settled predictions are left alone, so the historical
+accuracy record reflects what was actually predicted at the time, not retroactive hindsight from
+a newer model.
 
 ---
 

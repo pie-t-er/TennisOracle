@@ -230,12 +230,16 @@ def train():
     X, y, dates = build_training_data(df)
     print(f"  {len(X):,} training samples built ({N_FEATURES} features each)")
 
-    # Time-based split: train on ≤2022, test on 2023
-    train_mask = dates.dt.year <= 2022
-    test_mask = dates.dt.year == 2023
+    # Time-based split: train on ≤2024, test on 2025 (most recent complete season).
+    # 2026 is deliberately excluded from training here, not just testing - it's
+    # only a partial season, and including matches chronologically after the
+    # test year would be a form of look-ahead leakage even though each row's
+    # features are already point-in-time correct on their own.
+    train_mask = dates.dt.year <= 2024
+    test_mask = dates.dt.year == 2025
     X_train, y_train = X[train_mask], y[train_mask]
     X_test, y_test = X[test_mask], y[test_mask]
-    print(f"  Train: {len(X_train):,} | Test (2023): {len(X_test):,}")
+    print(f"  Train: {len(X_train):,} | Test (2025): {len(X_test):,}")
 
     cv = StratifiedKFold(n_splits=10, shuffle=True, random_state=42)
 
@@ -278,11 +282,11 @@ def train():
     calibrated = CalibratedClassifierCV(best_model, method="isotonic", cv=5)
     calibrated.fit(X_train, y_train)
 
-    # --- Evaluate on 2023 holdout ---
+    # --- Evaluate on 2025 holdout ---
     if len(X_test) > 0:
         test_acc = accuracy_score(y_test, calibrated.predict(X_test))
         test_ll = log_loss(y_test, calibrated.predict_proba(X_test))
-        print(f"2023 holdout — accuracy: {test_acc:.4f} | log-loss: {test_ll:.4f}")
+        print(f"2025 holdout — accuracy: {test_acc:.4f} | log-loss: {test_ll:.4f}")
 
     # Sanity check: probabilities sum to 1
     sample_prob = calibrated.predict_proba(X_test[:5])

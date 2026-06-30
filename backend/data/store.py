@@ -60,6 +60,24 @@ def upsert(match_id: str, entry: dict) -> bool:
         return True
 
 
+def update_prediction(match_id: str, prediction: dict) -> bool:
+    """
+    Overwrite the prediction for a still-pending match (e.g. after retraining
+    the model). Refuses to touch already-settled matches, to avoid rewriting
+    a historical track record with hindsight from a newer model.
+    Returns True if updated, False if unknown match_id or already settled.
+    """
+    with _lock:
+        data = _load()
+        if match_id not in data["predictions"]:
+            return False
+        if data["predictions"][match_id].get("result"):
+            return False
+        data["predictions"][match_id]["prediction"] = prediction
+        _write(data)
+        return True
+
+
 def update_result(match_id: str, winner_name: str, correct: bool) -> bool:
     """
     Record the actual result for a settled match.
