@@ -6154,7 +6154,11 @@
         "p2_edge": 0.0671
       },
       "collected_at": "2026-06-27T17:05:36.952105+00:00",
-      "result": null
+      "result": {
+        "winner": "Zizou Bergs",
+        "correct": false,
+        "settled_at": "2026-06-30T10:54:14.931485+00:00"
+      }
     },
     "ee20d897e6bd85c863ddea6c7c960906": {
       "match_id": "ee20d897e6bd85c863ddea6c7c960906",
@@ -7805,5 +7809,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-06-30T02:54:09.109129+00:00"
+  "last_updated": "2026-06-30T10:54:14.931506+00:00"
 }
