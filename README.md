@@ -92,7 +92,7 @@ The server loads all ATP match data and builds player profiles at startup (~5 se
 
 ```
 Loading ATP match data...
-  921 player profiles built
+  ~920 player profiles built
   Model loaded ✓
 ```
 
