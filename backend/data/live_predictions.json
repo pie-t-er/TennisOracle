@@ -10402,7 +10402,183 @@
         "correct": true,
         "settled_at": "2026-06-30T16:22:30.431481+00:00"
       }
+    },
+    "e8389cd2a90193f0774dd9a0efe2e13c": {
+      "match_id": "e8389cd2a90193f0774dd9a0efe2e13c",
+      "commence_time": "2026-07-01T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Alex de Minaur",
+      "player2": "Adrian Mannarino",
+      "bookmakers": {
+        "coolbet": {
+          "Adrian Mannarino": 3.8,
+          "Alex de Minaur": 1.3
+        },
+        "sport888": {
+          "Adrian Mannarino": 4.0,
+          "Alex de Minaur": 1.25
+        },
+        "gtbets": {
+          "Adrian Mannarino": 3.89,
+          "Alex de Minaur": 1.26
+        },
+        "draftkings": {
+          "Adrian Mannarino": 3.98,
+          "Alex de Minaur": 1.24
+        },
+        "matchbook": {
+          "Adrian Mannarino": 5.0,
+          "Alex de Minaur": 1.2
+        },
+        "onexbet": {
+          "Adrian Mannarino": 4.24,
+          "Alex de Minaur": 1.27
+        },
+        "marathonbet": {
+          "Adrian Mannarino": 3.92,
+          "Alex de Minaur": 1.25
+        },
+        "betfair_ex_eu": {
+          "Adrian Mannarino": 5.0,
+          "Alex de Minaur": 1.2
+        },
+        "unibet_fr": {
+          "Adrian Mannarino": 3.55,
+          "Alex de Minaur": 1.19
+        },
+        "betclic_fr": {
+          "Adrian Mannarino": 3.65,
+          "Alex de Minaur": 1.21
+        },
+        "fanduel": {
+          "Adrian Mannarino": 4.4,
+          "Alex de Minaur": 1.22
+        },
+        "codere_it": {
+          "Adrian Mannarino": 4.1,
+          "Alex de Minaur": 1.23
+        },
+        "mybookieag": {
+          "Adrian Mannarino": 4.1,
+          "Alex de Minaur": 1.23
+        },
+        "winamax_fr": {
+          "Adrian Mannarino": 3.6,
+          "Alex de Minaur": 1.19
+        },
+        "winamax_de": {
+          "Adrian Mannarino": 4.1,
+          "Alex de Minaur": 1.23
+        },
+        "tipico_de": {
+          "Adrian Mannarino": 4.1,
+          "Alex de Minaur": 1.22
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex De Minaur",
+        "p2_name": "Adrian Mannarino",
+        "p1_prob": 0.8356,
+        "p2_prob": 0.1644,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": 0.0664,
+        "p2_edge": -0.0356
+      },
+      "collected_at": "2026-06-30T17:50:07.687677+00:00",
+      "result": null
+    },
+    "57ccf4d5f11f84a3ed959a6e16e6b4a6": {
+      "match_id": "57ccf4d5f11f84a3ed959a6e16e6b4a6",
+      "commence_time": "2026-07-01T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Arthur Fery",
+      "player2": "Otto Virtanen",
+      "bookmakers": {
+        "marathonbet": {
+          "Arthur Fery": 2.27,
+          "Otto Virtanen": 1.63
+        },
+        "winamax_de": {
+          "Arthur Fery": 2.2,
+          "Otto Virtanen": 1.64
+        },
+        "coolbet": {
+          "Arthur Fery": 2.3,
+          "Otto Virtanen": 1.68
+        },
+        "betfair_ex_eu": {
+          "Arthur Fery": 1.35,
+          "Otto Virtanen": 1.35
+        },
+        "gtbets": {
+          "Arthur Fery": 2.26,
+          "Otto Virtanen": 1.65
+        },
+        "winamax_fr": {
+          "Arthur Fery": 2.05,
+          "Otto Virtanen": 1.56
+        },
+        "sport888": {
+          "Arthur Fery": 2.2,
+          "Otto Virtanen": 1.67
+        },
+        "unibet_fr": {
+          "Arthur Fery": 2.1,
+          "Otto Virtanen": 1.57
+        },
+        "betclic_fr": {
+          "Arthur Fery": 2.12,
+          "Otto Virtanen": 1.59
+        },
+        "onexbet": {
+          "Arthur Fery": 2.35,
+          "Otto Virtanen": 1.68
+        },
+        "draftkings": {
+          "Arthur Fery": 2.24,
+          "Otto Virtanen": 1.64
+        },
+        "mybookieag": {
+          "Arthur Fery": 2.22,
+          "Otto Virtanen": 1.64
+        },
+        "codere_it": {
+          "Arthur Fery": 2.22,
+          "Otto Virtanen": 1.64
+        },
+        "tipico_de": {
+          "Arthur Fery": 2.2,
+          "Otto Virtanen": 1.65
+        },
+        "fanduel": {
+          "Arthur Fery": 2.28,
+          "Otto Virtanen": 1.65
+        },
+        "matchbook": {
+          "Arthur Fery": 1.35,
+          "Otto Virtanen": 1.35
+        },
+        "williamhill": {
+          "Arthur Fery": 2.2,
+          "Otto Virtanen": 1.67
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Fery",
+        "p2_name": "Otto Virtanen",
+        "p1_prob": 0.5172,
+        "p2_prob": 0.4828,
+        "predicted_winner": "Arthur Fery",
+        "confidence": "low",
+        "p1_edge": 0.0917,
+        "p2_edge": -0.1124
+      },
+      "collected_at": "2026-06-30T17:50:07.711673+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-06-30T16:22:30.434352+00:00"
+  "last_updated": "2026-06-30T17:50:07.714666+00:00"
 }
