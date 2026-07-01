@@ -7390,7 +7390,11 @@
         "p2_edge": 0.0776
       },
       "collected_at": "2026-06-30T02:54:08.963922+00:00",
-      "result": null
+      "result": {
+        "winner": "Alejandro Davidovich Fokina",
+        "correct": true,
+        "settled_at": "2026-07-01T11:21:04.112107+00:00"
+      }
     },
     "f1cfadd09d36d7f95e5e29af4f986d38": {
       "match_id": "f1cfadd09d36d7f95e5e29af4f986d38",
@@ -10487,7 +10491,11 @@
         "p2_edge": -0.0257
       },
       "collected_at": "2026-06-30T17:50:07.687677+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex de Minaur",
+        "correct": true,
+        "settled_at": "2026-07-01T11:21:04.131598+00:00"
+      }
     },
     "57ccf4d5f11f84a3ed959a6e16e6b4a6": {
       "match_id": "57ccf4d5f11f84a3ed959a6e16e6b4a6",
@@ -11681,5 +11689,5 @@
       }
     }
   },
-  "last_updated": "2026-07-01T02:59:58.992019+00:00"
+  "last_updated": "2026-07-01T11:21:04.131608+00:00"
 }
