@@ -2,13 +2,15 @@
 Optuna hyperparameter search for the XGBoost match predictor.
 Run from backend/ directory:
 
-  python ml/tune.py                   # 50 trials, full 2010–2024 window
-  python ml/tune.py --trials 20       # faster smoke-test
-  python ml/tune.py --start 2010      # override training window start year
-  python ml/tune.py --save            # save best model + feature_importance.json if it beats current
+  python ml/tune.py                        # 50 trials, optimise CV accuracy
+  python ml/tune.py --objective logloss    # optimise CV log-loss instead
+  python ml/tune.py --trials 20            # faster smoke-test
+  python ml/tune.py --start 2010           # override training window start year
+  python ml/tune.py --save                 # save if it beats current model
 
-The objective is 5-fold CV accuracy on the training set (2010–2024).
-Best params are printed and a final 2025 holdout is reported.
+Objective choices:
+  accuracy  — maximise 5-fold CV accuracy (default)
+  logloss   — minimise 5-fold CV log-loss (better for calibration quality)
 """
 import argparse
 import json
@@ -46,7 +48,7 @@ MODEL_PATH  = Path(__file__).parent / "model.joblib"
 FI_PATH     = Path(__file__).parent / "feature_importance.json"
 
 
-def objective(trial, X_train, y_train):
+def objective(trial, X_train, y_train, metric: str):
     params = {
         "n_estimators":     trial.suggest_int("n_estimators",    100, 600),
         "max_depth":        trial.suggest_int("max_depth",         3,   8),
@@ -58,9 +60,11 @@ def objective(trial, X_train, y_train):
         "eval_metric":      "logloss",
         "random_state":     42,
     }
-    clf = XGBClassifier(**params)
-    cv  = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
-    scores = cross_val_score(clf, X_train, y_train, cv=cv, scoring="accuracy", n_jobs=-1)
+    clf    = XGBClassifier(**params)
+    cv     = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
+    # neg_log_loss so higher = better (Optuna always maximises)
+    scoring = "accuracy" if metric == "accuracy" else "neg_log_loss"
+    scores  = cross_val_score(clf, X_train, y_train, cv=cv, scoring=scoring, n_jobs=-1)
     return scores.mean()
 
 
@@ -91,9 +95,11 @@ def save_model(calibrated, label: str):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--trials", type=int,  default=50,   help="Number of Optuna trials")
-    parser.add_argument("--start",  type=int,  default=2010, help="Training window start year")
-    parser.add_argument("--save",   action="store_true",     help="Save model if it beats current holdout")
+    parser.add_argument("--trials",    type=int,  default=50,       help="Number of Optuna trials")
+    parser.add_argument("--start",     type=int,  default=2010,     help="Training window start year")
+    parser.add_argument("--objective", choices=["accuracy","logloss"], default="accuracy",
+                        help="CV metric to optimise (default: accuracy)")
+    parser.add_argument("--save",      action="store_true",          help="Save model if it beats current holdout")
     args = parser.parse_args()
 
     print("Loading ATP match data...")
@@ -108,18 +114,22 @@ def main():
     X_test,  y_test  = X[test_mask],  y[test_mask]
     print(f"  Train ({args.start}–2024): {len(X_train):,} | Test (2025): {len(X_test):,}")
 
-    print(f"\nRunning {args.trials} Optuna trials (5-fold CV)…")
+    metric = args.objective
+    print(f"\nRunning {args.trials} Optuna trials (5-fold CV, optimising {metric})…")
     study = optuna.create_study(direction="maximize")
     study.optimize(
-        lambda trial: objective(trial, X_train, y_train),
+        lambda trial: objective(trial, X_train, y_train, metric),
         n_trials=args.trials,
         show_progress_bar=True,
     )
 
-    best = study.best_params
+    best    = study.best_params
     best_cv = study.best_value
+    # neg_log_loss is negative; convert for display
+    cv_display = best_cv if metric == "accuracy" else -best_cv
+    cv_label   = "Best CV accuracy" if metric == "accuracy" else "Best CV log-loss"
     print(f"\n{'─'*50}")
-    print(f"Best CV accuracy : {best_cv:.4f}")
+    print(f"{cv_label} : {cv_display:.4f}")
     print(f"Best params      :")
     for k, v in best.items():
         print(f"  {k:<22} {v}")
@@ -134,19 +144,28 @@ def main():
     print(f"2025 holdout — accuracy: {holdout_acc:.4f} | log-loss: {holdout_ll:.4f}")
 
     if args.save:
-        existing_acc = None
+        existing_acc = existing_ll = None
         if MODEL_PATH.exists():
             try:
-                existing = joblib.load(MODEL_PATH)
+                existing     = joblib.load(MODEL_PATH)
                 existing_acc = accuracy_score(y_test, existing.predict(X_test))
-                print(f"Current model 2025 accuracy: {existing_acc:.4f}")
+                existing_ll  = log_loss(y_test, existing.predict_proba(X_test))
+                print(f"Current model — accuracy: {existing_acc:.4f}  log-loss: {existing_ll:.4f}")
             except Exception:
                 pass
 
-        if existing_acc is None or holdout_acc > existing_acc:
+        if metric == "accuracy":
+            better = existing_acc is None or holdout_acc > existing_acc
+            reason = f"accuracy {holdout_acc:.4f} vs {existing_acc:.4f}"
+        else:
+            better = existing_ll is None or holdout_ll < existing_ll
+            reason = f"log-loss {holdout_ll:.4f} vs {existing_ll:.4f}"
+
+        if better:
+            print(f"Tuned model is better ({reason}) — saving.")
             save_model(calibrated, label=f"tuned {args.start}–2024")
         else:
-            print(f"Tuned model ({holdout_acc:.4f}) doesn't beat current ({existing_acc:.4f}) — not saved.")
+            print(f"Tuned model doesn't improve on current ({reason}) — not saved.")
 
 
 if __name__ == "__main__":

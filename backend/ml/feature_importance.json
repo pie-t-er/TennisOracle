@@ -1,98 +1,98 @@
 [
   {
     "feature": "rank_points_diff",
-    "importance": 0.313778
+    "importance": 0.290141
   },
   {
     "feature": "rank_diff",
-    "importance": 0.128431
+    "importance": 0.140585
   },
   {
     "feature": "p1_surface_win_pct",
-    "importance": 0.043499
+    "importance": 0.049124
   },
   {
     "feature": "p2_surface_win_pct",
-    "importance": 0.043239
+    "importance": 0.047424
   },
   {
     "feature": "p2_career_win_pct",
-    "importance": 0.042529
+    "importance": 0.042795
   },
   {
     "feature": "p1_career_win_pct",
-    "importance": 0.040166
+    "importance": 0.041084
   },
   {
     "feature": "p2_h2h_win_pct",
-    "importance": 0.031823
-  },
-  {
-    "feature": "p1_rank_points",
-    "importance": 0.030878
+    "importance": 0.036028
   },
   {
     "feature": "p1_h2h_win_pct",
-    "importance": 0.029154
-  },
-  {
-    "feature": "p2_rank",
-    "importance": 0.026319
-  },
-  {
-    "feature": "p2_rank_points",
-    "importance": 0.026022
+    "importance": 0.034475
   },
   {
     "feature": "p2_bmi",
-    "importance": 0.025721
-  },
-  {
-    "feature": "p1_rank",
-    "importance": 0.02571
+    "importance": 0.028696
   },
   {
     "feature": "p1_bmi",
-    "importance": 0.024609
-  },
-  {
-    "feature": "p1_career_matches",
-    "importance": 0.019308
+    "importance": 0.028132
   },
   {
     "feature": "p2_career_matches",
-    "importance": 0.018867
-  },
-  {
-    "feature": "p1_minutes_per_match",
-    "importance": 0.018797
+    "importance": 0.020834
   },
   {
     "feature": "p2_minutes_per_match",
-    "importance": 0.018762
+    "importance": 0.020793
   },
   {
-    "feature": "p2_recent_win_pct",
-    "importance": 0.017992
+    "feature": "p1_minutes_per_match",
+    "importance": 0.020732
+  },
+  {
+    "feature": "p1_career_matches",
+    "importance": 0.020508
   },
   {
     "feature": "p1_recent_win_pct",
-    "importance": 0.01766
+    "importance": 0.020169
   },
   {
-    "feature": "p2_ace_rate",
-    "importance": 0.015704
+    "feature": "p2_recent_win_pct",
+    "importance": 0.018911
+  },
+  {
+    "feature": "p1_rank_points",
+    "importance": 0.018695
   },
   {
     "feature": "p1_ace_rate",
-    "importance": 0.015686
+    "importance": 0.018094
+  },
+  {
+    "feature": "p2_rank_points",
+    "importance": 0.017812
+  },
+  {
+    "feature": "p2_ace_rate",
+    "importance": 0.017567
+  },
+  {
+    "feature": "p1_rank",
+    "importance": 0.017026
+  },
+  {
+    "feature": "p2_rank",
+    "importance": 0.016985
   },
   {
     "feature": "p2_hand",
-    "importance": 0.012819
+    "importance": 0.016983
   },
   {
     "feature": "p1_hand",
-    "importance": 0.012527
+    "importance": 0.016405
   }
 ]
