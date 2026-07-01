@@ -1,6 +1,6 @@
 # TennisOracle
 
-ATP tennis match predictor. Logistic regression / XGBoost model trained on 2010–2023 ATP data, calibrated to produce well-grounded win probabilities. Player profiles (rank, recent form, head-to-head) are rebuilt at startup from match data that now extends through the current season, so live predictions use each player's actual current state rather than a frozen 2023 snapshot. Predictions are tracked against live bookmaker odds to check how the model's probabilities hold up against a real market.
+ATP tennis match predictor. XGBoost model trained on 2016–2024 ATP data, calibrated to produce well-grounded win probabilities. Player profiles (rank, recent form, head-to-head) are rebuilt at startup from match data that extends through the current season. Predictions are tracked against live bookmaker odds; the `/live` page shows running accuracy and simulated P&L. The `/model` page exposes feature importances, a calibration curve, rolling accuracy, and surface breakdowns.
 
 **Live demo:** [tennis-oracle.vercel.app](https://tennis-oracle.vercel.app/) — backend hosted on [Render](https://tennisoracle.onrender.com).
 
@@ -17,13 +17,16 @@ TennisOracle/
 │   │   ├── store.py          Append-only predictions store (live_predictions.json)
 │   │   └── live_predictions.json   Accumulated live predictions + results
 │   ├── ml/
-│   │   ├── train.py          Model training script
+│   │   ├── train.py          Model training script (TRAIN_START_YEAR=2016)
 │   │   ├── features.py       Feature engineering (shared by train + inference)
-│   │   └── model.joblib      Trained model (re-generate with ml/train.py)
+│   │   ├── model.joblib      Trained model (re-generate with ml/train.py)
+│   │   └── feature_importance.json  XGBoost importances, saved at train time
 │   ├── routers/
-│   │   ├── players.py        GET /api/players
+│   │   ├── players.py        GET /api/players, GET /api/players/{name}
 │   │   ├── predict.py        POST /api/predict
-│   │   └── odds.py           GET /api/odds/*
+│   │   ├── odds.py           GET /api/odds/*
+│   │   ├── model.py          GET /api/model/info
+│   │   └── feedback.py       POST /api/feedback (creates GitHub issue)
 │   ├── scripts/
 │   │   ├── collect.py        Fetch upcoming matches → run model → save predictions
 │   │   ├── update_results.py Fetch completed scores → settle predictions
@@ -35,11 +38,11 @@ TennisOracle/
 │   ├── odds_client.py        The Odds API wrapper (caching, surface inference)
 │   ├── main.py               FastAPI app entry point
 │   ├── requirements.txt
-│   ├── .env                  API keys (gitignored — see .env.example)
+│   └── .env                  API keys (gitignored — see .env.example)
 ├── frontend/             Next.js 15 web app
-│   ├── app/              Routes (/, /players, /players/[slug])
-│   ├── components/       UI components
-│   └── lib/api.ts        Typed API client
+│   ├── app/              Routes: / (predict), /players, /players/[slug], /live, /model
+│   ├── components/       UI components (cards, log table, tour, feedback modal)
+│   └── lib/              api.ts (typed fetch client), betting.ts ($10 bet simulation)
 └── notebooks/            Model exploration (model_v1.ipynb, model_v2.ipynb)
 ```
 
@@ -278,9 +281,11 @@ The backend exposes these routes (all prefixed with `/api`):
 | `GET` | `/api/players` | Player list. Params: `search`, `limit` |
 | `GET` | `/api/players/{name}` | Single player profile + recent form |
 | `POST` | `/api/predict` | Match prediction. Body: `{player1, player2, surface}` |
-| `GET` | `/api/odds/upcoming` | Live odds + model predictions for upcoming matches. Param: `force=true` to bypass cache |
+| `GET` | `/api/odds/upcoming` | Live odds + model predictions for upcoming matches |
 | `GET` | `/api/odds/predictions` | All stored predictions. Param: `settled_only=true` |
 | `GET` | `/api/odds/summary` | Running accuracy stats |
+| `GET` | `/api/model/info` | XGBoost feature importances (from `ml/feature_importance.json`) |
+| `POST` | `/api/feedback` | Create GitHub issue from in-app feedback. Body: `{type, description}` |
 
 Interactive docs: **http://localhost:8000/docs** (local) or
 **https://tennisoracle.onrender.com/docs** (deployed)
@@ -295,6 +300,7 @@ All variables go in `backend/.env`. See `backend/.env.example` for the template.
 |---|---|---|---|
 | `ODDS_API_KEY` | Yes | — | API key from [the-odds-api.com](https://the-odds-api.com) (free: 500 credits/month) |
 | `ODDS_CACHE_TTL` | No | `900` | Seconds to cache odds responses. Raise to conserve credits. |
+| `GITHUB_TOKEN` | Yes (feedback) | — | GitHub PAT with `public_repo` scope. Required for the in-app feedback button to create issues. Without it, feedback submissions return 503. |
 
 ---
 
@@ -306,7 +312,7 @@ Frontend → **Vercel**, backend → **Render** (Docker).
 1. New Web Service → connect this GitHub repo.
 2. Root Directory: repo root. Dockerfile path: `backend/Dockerfile` (the build context is the
    repo root since `data/loader.py` reads `../ATP_Matches` at startup).
-3. Env vars: `ODDS_API_KEY`, `ODDS_CACHE_TTL=900`, `ALLOWED_ORIGINS=https://<your-vercel-domain>`.
+3. Env vars: `ODDS_API_KEY`, `ODDS_CACHE_TTL=900`, `ALLOWED_ORIGINS=https://<your-vercel-domain>`, `GITHUB_TOKEN=<PAT with public_repo scope>`.
 4. Enable Auto-Deploy with a build filter on `backend/**` — this also picks up the daily commits
    from `live-predictions.yml`, so the deployed instance's prediction history stays current without
    needing a persistent volume.
