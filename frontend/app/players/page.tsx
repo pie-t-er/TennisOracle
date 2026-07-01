@@ -3,6 +3,33 @@
 import { useEffect, useState, useCallback, useRef } from "react";
 import Link from "next/link";
 import { getPlayers, Player } from "@/lib/api";
+import PageHelp from "@/components/PageHelp";
+
+const TOUR_STEPS = [
+  {
+    target: "#players-header",
+    title: "Player Database",
+    content: "Over 300 ATP players from 2010 to present, built from the same match data the model trains on.",
+    disableBeacon: true,
+  },
+  {
+    target: "#player-search",
+    title: "Search",
+    content: "Type a name to filter instantly — or use the handedness dropdown to compare left vs right-handed players.",
+  },
+  {
+    target: "#players-grid-heading",
+    title: "Player cards",
+    content: "Career win rate, recent form (last 20 matches), and surface splits at a glance. Click any card for the full profile.",
+    placement: "bottom" as const,
+  },
+  {
+    target: "#page-help",
+    title: "Need help?",
+    content: "Use these buttons to relaunch this walkthrough or send feedback — reports go straight to the project backlog as GitHub issues.",
+    placement: "top" as const,
+  },
+];
 
 const HANDS = [
   { value: "", label: "Any hand" },
@@ -120,7 +147,7 @@ export default function PlayersPage() {
 
   return (
     <div className="space-y-6">
-      <div>
+      <div id="players-header">
         <h1 className="text-3xl font-bold">Player Database</h1>
         <p className="text-gray-400 mt-1">
           {players.length.toLocaleString()} players · ATP 2010–present
@@ -128,7 +155,7 @@ export default function PlayersPage() {
       </div>
 
       {/* Filters */}
-      <div className="flex flex-wrap gap-3">
+      <div id="player-search" className="flex flex-wrap gap-3">
         <input
           type="text"
           value={query}
@@ -161,7 +188,10 @@ export default function PlayersPage() {
         </div>
       ) : (
         <>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          <p id="players-grid-heading" className="text-xs text-gray-600">
+            {players.length.toLocaleString()} result{players.length !== 1 ? "s" : ""}
+          </p>
+          <div id="players-grid" className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {visiblePlayers.map((p) => (
               <PlayerCard key={p.name} player={p} />
             ))}
@@ -177,6 +207,8 @@ export default function PlayersPage() {
           )}
         </>
       )}
+
+      <PageHelp steps={TOUR_STEPS} />
     </div>
   );
 }

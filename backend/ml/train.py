@@ -3,6 +3,7 @@ Training script. Run from backend/ directory:
   python ml/train.py
 Produces ml/model.joblib.
 """
+import json
 import sys
 import warnings
 from pathlib import Path
@@ -230,16 +231,17 @@ def train():
     X, y, dates = build_training_data(df)
     print(f"  {len(X):,} training samples built ({N_FEATURES} features each)")
 
-    # Time-based split: train on ≤2024, test on 2025 (most recent complete season).
-    # 2026 is deliberately excluded from training here, not just testing - it's
-    # only a partial season, and including matches chronologically after the
-    # test year would be a form of look-ahead leakage even though each row's
-    # features are already point-in-time correct on their own.
-    train_mask = dates.dt.year <= 2024
+    # Time-based split: train on TRAIN_START_YEAR–2024, test on 2025.
+    # 2026 is deliberately excluded — only a partial season, and including it
+    # would be look-ahead leakage relative to the 2025 test set.
+    # TRAIN_START_YEAR: raising this drops retired-player noise at the cost of
+    # less data. 2016 = 10-year window; 2010 = full corpus. Benchmark both.
+    TRAIN_START_YEAR = 2016
+    train_mask = (dates.dt.year >= TRAIN_START_YEAR) & (dates.dt.year <= 2024)
     test_mask = dates.dt.year == 2025
     X_train, y_train = X[train_mask], y[train_mask]
     X_test, y_test = X[test_mask], y[test_mask]
-    print(f"  Train: {len(X_train):,} | Test (2025): {len(X_test):,}")
+    print(f"  Train ({TRAIN_START_YEAR}–2024): {len(X_train):,} | Test (2025): {len(X_test):,}")
 
     cv = StratifiedKFold(n_splits=10, shuffle=True, random_state=42)
 
@@ -295,6 +297,33 @@ def train():
 
     joblib.dump(calibrated, MODEL_PATH)
     print(f"\nModel saved → {MODEL_PATH}")
+
+    # Save feature importance for the /model analytics page.
+    # Average importances across all calibration folds; works for both XGBoost
+    # (feature_importances_) and LogisticRegression (|coef_|).
+    fi_path = Path(__file__).parent / "feature_importance.json"
+    try:
+        importances = np.zeros(N_FEATURES)
+        for cal_clf in calibrated.calibrated_classifiers_:
+            clf = getattr(cal_clf.estimator, "named_steps", {}).get("clf", cal_clf.estimator)
+            if hasattr(clf, "feature_importances_"):
+                importances += clf.feature_importances_
+            elif hasattr(clf, "coef_"):
+                importances += np.abs(clf.coef_[0])
+        importances /= len(calibrated.calibrated_classifiers_)
+        total = importances.sum()
+        if total > 0:
+            importances /= total
+
+        fi_data = [
+            {"feature": name, "importance": round(float(imp), 6)}
+            for name, imp in sorted(zip(FEATURE_NAMES, importances), key=lambda x: x[1], reverse=True)
+        ]
+        with open(fi_path, "w") as f:
+            json.dump(fi_data, f, indent=2)
+        print(f"Feature importance saved → {fi_path}")
+    except Exception as exc:
+        print(f"  Warning: could not save feature importance: {exc}")
 
 
 if __name__ == "__main__":

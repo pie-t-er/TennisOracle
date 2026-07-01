@@ -1,4 +1,5 @@
 import { UpcomingMatch, MatchPrediction } from "@/lib/api";
+import { STAKE, upcomingPayout, bestUpcomingOdds } from "@/lib/betting";
 import ProbabilityBar from "./ProbabilityBar";
 
 const SURFACE_CLASS: Record<string, string> = {
@@ -106,6 +107,7 @@ function OddsSide({
   );
 }
 
+
 export default function LivePredictionCard({ match }: { match: UpcomingMatch }) {
   const { player1, player2, surface, tournament, commence_time, prediction, best_odds } =
     match;
@@ -119,9 +121,11 @@ export default function LivePredictionCard({ match }: { match: UpcomingMatch }) 
     hour: "2-digit", minute: "2-digit",
   });
 
-  const p1Odds = best_odds[player1];
-  const p2Odds = best_odds[player2];
-  const edge   = modelEdge(prediction);
+  const p1Odds   = bestUpcomingOdds(best_odds, player1) ?? undefined;
+  const p2Odds   = bestUpcomingOdds(best_odds, player2) ?? undefined;
+  const edge     = modelEdge(prediction);
+  const payout   = upcomingPayout(best_odds, prediction.predicted_winner);
+  const lastName = (name: string) => name.split(" ").slice(-1)[0];
 
   const edgeIsP1 = edge?.name === prediction.p1_name;
   const edgeIsP2 = edge?.name === prediction.p2_name;
@@ -147,6 +151,18 @@ export default function LivePredictionCard({ match }: { match: UpcomingMatch }) 
         p2Prob={prediction.p2_prob}
         confidence={prediction.confidence}
       />
+
+      {/* $10 bet payout */}
+      {payout != null && (
+        <div className="flex items-center justify-between rounded-lg bg-gray-800/60 border border-gray-700/50 px-4 py-2.5">
+          <span className="text-xs text-gray-400">
+            ${STAKE} bet → {lastName(prediction.predicted_winner)} wins
+          </span>
+          <span className="font-mono text-lg font-bold text-emerald-400 tabular-nums">
+            +${payout.toFixed(2)}
+          </span>
+        </div>
+      )}
 
       {/* Odds comparison */}
       <div className="border-t border-gray-800 pt-4 grid grid-cols-2 gap-6">

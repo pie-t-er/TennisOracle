@@ -59,6 +59,28 @@ export interface BetTotals {
   totalStaked: number;
 }
 
+/** Best decimal odds for a player from an upcoming match's `best_odds` map (case-insensitive). */
+export function bestUpcomingOdds(
+  best_odds: Record<string, number>,
+  playerName: string,
+): number | null {
+  const target = playerName.toLowerCase();
+  return (
+    best_odds[playerName] ??
+    Object.entries(best_odds).find(([k]) => k.toLowerCase() === target)?.[1] ??
+    null
+  );
+}
+
+/** Potential profit from a flat $STAKE bet on the predicted winner in an upcoming match. */
+export function upcomingPayout(
+  best_odds: Record<string, number>,
+  predictedWinner: string,
+): number | null {
+  const odds = bestUpcomingOdds(best_odds, predictedWinner);
+  return odds != null ? Math.round(STAKE * (odds - 1) * 100) / 100 : null;
+}
+
 /** Aggregate simulated $STAKE-per-game betting results across a set of predictions. */
 export function aggregateBets(preds: StoredPrediction[]): BetTotals {
   let betsPlaced = 0;

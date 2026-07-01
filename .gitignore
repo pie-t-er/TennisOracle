@@ -67,3 +67,4 @@ yarn-error.log*
 backend/data/.odds_cache.json
 
 CLAUDE.md
+.claude/

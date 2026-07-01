@@ -3,7 +3,39 @@
 import { useState } from "react";
 import PlayerSearch from "@/components/PlayerSearch";
 import MatchupCard from "@/components/MatchupCard";
+import PageHelp from "@/components/PageHelp";
 import { predict, PredictResult } from "@/lib/api";
+
+const TOUR_STEPS = [
+  {
+    target: "#main-nav",
+    title: "Navigate the app",
+    content: "Predict runs one-off match predictions. Players is the full ATP database. Live tracks the model's predictions against real bookmaker odds in real time. Model shows how the model was built and how it's performing.",
+    disableBeacon: true,
+    placement: "bottom" as const,
+  },
+  {
+    target: "#predict-form",
+    title: "Match Predictor",
+    content: "Pick any two ATP players and a surface. The model looks up their current stats from the 2010–present database.",
+  },
+  {
+    target: "#surface-selector",
+    title: "Surface matters",
+    content: "Hard, clay, and grass win rates are tracked separately — the model knows Nadal on clay is a different beast than Nadal on hard.",
+  },
+  {
+    target: "#predict-btn",
+    title: "Run the prediction",
+    content: "Calibrated win probabilities: a 70% prediction means the model expects that player to win roughly 7 times in 10 — not just a ranking comparison.",
+  },
+  {
+    target: "#page-help",
+    title: "Need help?",
+    content: "Use these buttons to relaunch this walkthrough or send feedback — reports go straight to the project backlog as GitHub issues.",
+    placement: "top" as const,
+  },
+];
 
 const SURFACES = ["Hard", "Clay", "Grass"];
 
@@ -45,7 +77,7 @@ export default function HomePage() {
       </div>
 
       {/* Prediction form */}
-      <div className="card max-w-2xl mx-auto space-y-5">
+      <div id="predict-form" className="card max-w-2xl mx-auto space-y-5">
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <PlayerSearch
             label="Player 1"
@@ -62,7 +94,7 @@ export default function HomePage() {
         </div>
 
         {/* Surface selector */}
-        <div>
+        <div id="surface-selector">
           <p className="text-xs font-medium text-gray-500 mb-2 uppercase tracking-wide">
             Surface
           </p>
@@ -88,6 +120,7 @@ export default function HomePage() {
         </div>
 
         <button
+          id="predict-btn"
           onClick={handlePredict}
           disabled={!canPredict || loading}
           className="btn-primary w-full"
@@ -123,6 +156,8 @@ export default function HomePage() {
           ))}
         </div>
       )}
+
+      <PageHelp steps={TOUR_STEPS} />
     </div>
   );
 }

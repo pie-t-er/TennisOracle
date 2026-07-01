@@ -24,7 +24,7 @@ export default function RootLayout({
               <span className="text-2xl">🎾</span>
               <span>TennisOracle</span>
             </Link>
-            <nav className="flex items-center gap-6 text-sm text-gray-400">
+            <nav id="main-nav" className="flex items-center gap-6 text-sm text-gray-400">
               <Link href="/" className="hover:text-white transition-colors">
                 Predict
               </Link>
@@ -34,6 +34,9 @@ export default function RootLayout({
               <Link href="/live" className="hover:text-white transition-colors flex items-center gap-1.5">
                 <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse" />
                 Live
+              </Link>
+              <Link href="/model" className="hover:text-white transition-colors">
+                Model
               </Link>
             </nav>
           </div>

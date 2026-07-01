@@ -155,3 +155,38 @@ export function getStoredPredictions(settledOnly = false): Promise<StoredPredict
 export function getOddsSummary(): Promise<OddsSummary> {
   return apiFetch<OddsSummary>("/api/odds/summary");
 }
+
+// ── Model analytics ───────────────────────────────────────────────────────────
+
+export interface FeatureImportance {
+  feature: string;
+  importance: number;
+}
+
+export interface ModelInfo {
+  feature_importance: FeatureImportance[];
+}
+
+export function getModelInfo(): Promise<ModelInfo> {
+  return apiFetch<ModelInfo>("/api/model/info");
+}
+
+// ── Feedback ──────────────────────────────────────────────────────────────────
+
+export interface FeedbackRequest {
+  type: "bug" | "feature" | "insight";
+  description: string;
+}
+
+export interface FeedbackResponse {
+  issue_url: string;
+  issue_number: number;
+}
+
+export function submitFeedback(req: FeedbackRequest): Promise<FeedbackResponse> {
+  return apiFetch<FeedbackResponse>("/api/feedback", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(req),
+  });
+}

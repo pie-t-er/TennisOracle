@@ -14,6 +14,8 @@ from data.loader import PlayerDB, load_all_matches
 from routers import predict as predict_router
 from routers import players as players_router
 from routers import odds as odds_router
+from routers import model as model_router
+from routers import feedback as feedback_router
 
 MODEL_PATH = Path(__file__).parent / "ml" / "model.joblib"
 
@@ -54,6 +56,8 @@ app.add_middleware(
 app.include_router(predict_router.router)
 app.include_router(players_router.router)
 app.include_router(odds_router.router)
+app.include_router(model_router.router)
+app.include_router(feedback_router.router)
 
 
 @app.get("/api/health")
