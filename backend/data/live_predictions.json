@@ -11687,7 +11687,701 @@
         "correct": true,
         "settled_at": "2026-07-01T02:59:58.987174+00:00"
       }
+    },
+    "efb5613b7fb513944c45f5272aa25690": {
+      "match_id": "efb5613b7fb513944c45f5272aa25690",
+      "commence_time": "2026-07-02T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Alejandro Davidovich Fokina",
+      "player2": "Marton Fucsovics",
+      "bookmakers": {
+        "draftkings": {
+          "Alejandro Davidovich Fokina": 1.27,
+          "Marton Fucsovics": 3.7
+        },
+        "betfair_ex_eu": {
+          "Alejandro Davidovich Fokina": 1.31,
+          "Marton Fucsovics": 3.9
+        },
+        "marathonbet": {
+          "Alejandro Davidovich Fokina": 1.31,
+          "Marton Fucsovics": 3.44
+        },
+        "betclic_fr": {
+          "Alejandro Davidovich Fokina": 1.27,
+          "Marton Fucsovics": 3.2
+        },
+        "sport888": {
+          "Alejandro Davidovich Fokina": 1.29,
+          "Marton Fucsovics": 3.6
+        },
+        "onexbet": {
+          "Alejandro Davidovich Fokina": 1.34,
+          "Marton Fucsovics": 3.64
+        },
+        "unibet_fr": {
+          "Alejandro Davidovich Fokina": 1.25,
+          "Marton Fucsovics": 3.15
+        },
+        "codere_it": {
+          "Alejandro Davidovich Fokina": 1.29,
+          "Marton Fucsovics": 3.5
+        },
+        "fanduel": {
+          "Alejandro Davidovich Fokina": 1.29,
+          "Marton Fucsovics": 3.7
+        },
+        "winamax_fr": {
+          "Alejandro Davidovich Fokina": 1.25,
+          "Marton Fucsovics": 3.2
+        },
+        "winamax_de": {
+          "Alejandro Davidovich Fokina": 1.29,
+          "Marton Fucsovics": 3.55
+        },
+        "mybookieag": {
+          "Alejandro Davidovich Fokina": 1.3,
+          "Marton Fucsovics": 3.42
+        },
+        "gtbets": {
+          "Alejandro Davidovich Fokina": 1.31,
+          "Marton Fucsovics": 3.49
+        },
+        "williamhill": {
+          "Alejandro Davidovich Fokina": 1.33,
+          "Marton Fucsovics": 3.3
+        },
+        "tipico_de": {
+          "Alejandro Davidovich Fokina": 1.27,
+          "Marton Fucsovics": 3.6
+        },
+        "betrivers": {
+          "Alejandro Davidovich Fokina": 1.3,
+          "Marton Fucsovics": 3.3
+        },
+        "leovegas_se": {
+          "Alejandro Davidovich Fokina": 1.3,
+          "Marton Fucsovics": 3.3
+        },
+        "unibet_nl": {
+          "Alejandro Davidovich Fokina": 1.3,
+          "Marton Fucsovics": 3.3
+        },
+        "unibet_se": {
+          "Alejandro Davidovich Fokina": 1.3,
+          "Marton Fucsovics": 3.3
+        },
+        "pmu_fr": {
+          "Alejandro Davidovich Fokina": 1.29,
+          "Marton Fucsovics": 3.25
+        },
+        "pinnacle": {
+          "Alejandro Davidovich Fokina": 1.33,
+          "Marton Fucsovics": 3.6
+        },
+        "betmgm": {
+          "Alejandro Davidovich Fokina": 1.31,
+          "Marton Fucsovics": 3.4
+        }
+      },
+      "prediction": {
+        "p1_name": "Alejandro Davidovich Fokina",
+        "p2_name": "Marton Fucsovics",
+        "p1_prob": 0.6426,
+        "p2_prob": 0.3574,
+        "predicted_winner": "Alejandro Davidovich Fokina",
+        "confidence": "high",
+        "p1_edge": -0.1037,
+        "p2_edge": 0.101
+      },
+      "collected_at": "2026-07-01T17:51:52.172245+00:00",
+      "result": null
+    },
+    "f136c958bf05964358323eb663a07b22": {
+      "match_id": "f136c958bf05964358323eb663a07b22",
+      "commence_time": "2026-07-02T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Hubert Hurkacz",
+      "player2": "Tommy Paul",
+      "bookmakers": {
+        "draftkings": {
+          "Hubert Hurkacz": 2.47,
+          "Tommy Paul": 1.53
+        },
+        "betfair_ex_eu": {
+          "Hubert Hurkacz": 2.64,
+          "Tommy Paul": 1.55
+        },
+        "marathonbet": {
+          "Hubert Hurkacz": 2.49,
+          "Tommy Paul": 1.53
+        },
+        "onexbet": {
+          "Hubert Hurkacz": 2.57,
+          "Tommy Paul": 1.58
+        },
+        "sport888": {
+          "Hubert Hurkacz": 2.5,
+          "Tommy Paul": 1.53
+        },
+        "codere_it": {
+          "Hubert Hurkacz": 2.46,
+          "Tommy Paul": 1.53
+        },
+        "unibet_fr": {
+          "Hubert Hurkacz": 2.3,
+          "Tommy Paul": 1.46
+        },
+        "betclic_fr": {
+          "Hubert Hurkacz": 2.34,
+          "Tommy Paul": 1.49
+        },
+        "fanduel": {
+          "Hubert Hurkacz": 2.5,
+          "Tommy Paul": 1.54
+        },
+        "winamax_fr": {
+          "Hubert Hurkacz": 2.3,
+          "Tommy Paul": 1.47
+        },
+        "winamax_de": {
+          "Hubert Hurkacz": 2.5,
+          "Tommy Paul": 1.52
+        },
+        "mybookieag": {
+          "Hubert Hurkacz": 2.46,
+          "Tommy Paul": 1.53
+        },
+        "gtbets": {
+          "Hubert Hurkacz": 2.48,
+          "Tommy Paul": 1.59
+        },
+        "williamhill": {
+          "Hubert Hurkacz": 2.3,
+          "Tommy Paul": 1.62
+        },
+        "tipico_de": {
+          "Hubert Hurkacz": 2.55,
+          "Tommy Paul": 1.5
+        },
+        "unibet_nl": {
+          "Hubert Hurkacz": 2.45,
+          "Tommy Paul": 1.51
+        },
+        "leovegas_se": {
+          "Hubert Hurkacz": 2.45,
+          "Tommy Paul": 1.51
+        },
+        "unibet_se": {
+          "Hubert Hurkacz": 2.45,
+          "Tommy Paul": 1.51
+        },
+        "pmu_fr": {
+          "Hubert Hurkacz": 2.4,
+          "Tommy Paul": 1.5
+        },
+        "betrivers": {
+          "Hubert Hurkacz": 2.45,
+          "Tommy Paul": 1.51
+        },
+        "pinnacle": {
+          "Hubert Hurkacz": 2.62,
+          "Tommy Paul": 1.54
+        }
+      },
+      "prediction": {
+        "p1_name": "Hubert Hurkacz",
+        "p2_name": "Tommy Paul",
+        "p1_prob": 0.3935,
+        "p2_prob": 0.6065,
+        "predicted_winner": "Tommy Paul",
+        "confidence": "high",
+        "p1_edge": 0.0147,
+        "p2_edge": -0.0108
+      },
+      "collected_at": "2026-07-01T17:51:52.198004+00:00",
+      "result": null
+    },
+    "9bfd909d4eef99d70716f0655c1dc8da": {
+      "match_id": "9bfd909d4eef99d70716f0655c1dc8da",
+      "commence_time": "2026-07-02T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Jannik Sinner",
+      "player2": "Jenson Brooksby",
+      "bookmakers": {
+        "onexbet": {
+          "Jannik Sinner": 1.01,
+          "Jenson Brooksby": 28.0
+        },
+        "marathonbet": {
+          "Jannik Sinner": 1.01,
+          "Jenson Brooksby": 14.5
+        },
+        "betfair_ex_eu": {
+          "Jannik Sinner": 1.03,
+          "Jenson Brooksby": 15.0
+        },
+        "sport888": {
+          "Jannik Sinner": 1.01,
+          "Jenson Brooksby": 21.0
+        },
+        "unibet_fr": {
+          "Jannik Sinner": 1.01,
+          "Jenson Brooksby": 7.7
+        },
+        "codere_it": {
+          "Jannik Sinner": 1.02,
+          "Jenson Brooksby": 13.0
+        },
+        "betclic_fr": {
+          "Jannik Sinner": 1.01,
+          "Jenson Brooksby": 9.0
+        },
+        "fanduel": {
+          "Jannik Sinner": 1.02,
+          "Jenson Brooksby": 17.0
+        },
+        "draftkings": {
+          "Jannik Sinner": 1.0,
+          "Jenson Brooksby": 17.8
+        },
+        "williamhill": {
+          "Jannik Sinner": 1.02,
+          "Jenson Brooksby": 15.0
+        },
+        "winamax_fr": {
+          "Jannik Sinner": 1.01,
+          "Jenson Brooksby": 8.0
+        },
+        "winamax_de": {
+          "Jannik Sinner": 1.01,
+          "Jenson Brooksby": 14.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Jannik Sinner",
+        "p2_name": "Jenson Brooksby",
+        "p1_prob": 0.9287,
+        "p2_prob": 0.0713,
+        "predicted_winner": "Jannik Sinner",
+        "confidence": "high",
+        "p1_edge": -0.0422,
+        "p2_edge": 0.0356
+      },
+      "collected_at": "2026-07-01T17:51:52.223846+00:00",
+      "result": null
+    },
+    "2625a7c32791e4d4771b9b00699e9fbd": {
+      "match_id": "2625a7c32791e4d4771b9b00699e9fbd",
+      "commence_time": "2026-07-02T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Roman Safiullin",
+      "player2": "Joao Fonseca",
+      "bookmakers": {
+        "draftkings": {
+          "Joao Fonseca": 1.41,
+          "Roman Safiullin": 2.86
+        },
+        "onexbet": {
+          "Joao Fonseca": 1.44,
+          "Roman Safiullin": 3.04
+        },
+        "gtbets": {
+          "Joao Fonseca": 1.37,
+          "Roman Safiullin": 2.99
+        },
+        "betfair_ex_eu": {
+          "Joao Fonseca": 1.07,
+          "Roman Safiullin": 1.07
+        },
+        "marathonbet": {
+          "Joao Fonseca": 1.4,
+          "Roman Safiullin": 2.94
+        },
+        "fanduel": {
+          "Joao Fonseca": 1.38,
+          "Roman Safiullin": 3.1
+        },
+        "unibet_fr": {
+          "Joao Fonseca": 1.34,
+          "Roman Safiullin": 2.7
+        },
+        "sport888": {
+          "Joao Fonseca": 1.4,
+          "Roman Safiullin": 2.9
+        },
+        "codere_it": {
+          "Joao Fonseca": 1.39,
+          "Roman Safiullin": 2.95
+        },
+        "betclic_fr": {
+          "Joao Fonseca": 1.35,
+          "Roman Safiullin": 2.75
+        },
+        "mybookieag": {
+          "Joao Fonseca": 1.39,
+          "Roman Safiullin": 2.94
+        },
+        "winamax_fr": {
+          "Joao Fonseca": 1.34,
+          "Roman Safiullin": 2.7
+        },
+        "winamax_de": {
+          "Joao Fonseca": 1.39,
+          "Roman Safiullin": 2.95
+        }
+      },
+      "prediction": {
+        "p1_name": "Roman Safiullin",
+        "p2_name": "Joao Fonseca",
+        "p1_prob": 0.3594,
+        "p2_prob": 0.6406,
+        "predicted_winner": "Joao Fonseca",
+        "confidence": "high",
+        "p1_edge": 0.0368,
+        "p2_edge": -0.0538
+      },
+      "collected_at": "2026-07-01T17:51:52.249711+00:00",
+      "result": null
+    },
+    "aed2eee3003707dd3092f0e35a79a06c": {
+      "match_id": "aed2eee3003707dd3092f0e35a79a06c",
+      "commence_time": "2026-07-02T13:30:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Jiri Lehecka",
+      "player2": "Alex Molcan",
+      "bookmakers": {
+        "winamax_fr": {
+          "Alex Molcan": 3.85,
+          "Jiri Lehecka": 1.18
+        },
+        "unibet_fr": {
+          "Alex Molcan": 3.9,
+          "Jiri Lehecka": 1.18
+        },
+        "matchbook": {
+          "Alex Molcan": 4.7,
+          "Jiri Lehecka": 1.24
+        },
+        "marathonbet": {
+          "Alex Molcan": 4.4,
+          "Jiri Lehecka": 1.21
+        },
+        "betfair_ex_eu": {
+          "Alex Molcan": 4.7,
+          "Jiri Lehecka": 1.24
+        },
+        "winamax_de": {
+          "Alex Molcan": 4.3,
+          "Jiri Lehecka": 1.21
+        },
+        "sport888": {
+          "Alex Molcan": 4.2,
+          "Jiri Lehecka": 1.22
+        },
+        "onexbet": {
+          "Alex Molcan": 4.8,
+          "Jiri Lehecka": 1.23
+        },
+        "betclic_fr": {
+          "Alex Molcan": 3.9,
+          "Jiri Lehecka": 1.19
+        },
+        "draftkings": {
+          "Alex Molcan": 4.33,
+          "Jiri Lehecka": 1.21
+        },
+        "fanduel": {
+          "Alex Molcan": 4.75,
+          "Jiri Lehecka": 1.2
+        },
+        "unibet_nl": {
+          "Alex Molcan": 4.35,
+          "Jiri Lehecka": 1.22
+        },
+        "leovegas_se": {
+          "Alex Molcan": 4.35,
+          "Jiri Lehecka": 1.22
+        },
+        "codere_it": {
+          "Alex Molcan": 4.3,
+          "Jiri Lehecka": 1.21
+        },
+        "unibet_se": {
+          "Alex Molcan": 4.35,
+          "Jiri Lehecka": 1.22
+        },
+        "pmu_fr": {
+          "Alex Molcan": 4.2,
+          "Jiri Lehecka": 1.19
+        },
+        "betrivers": {
+          "Alex Molcan": 4.35,
+          "Jiri Lehecka": 1.22
+        },
+        "mybookieag": {
+          "Alex Molcan": 4.4,
+          "Jiri Lehecka": 1.22
+        },
+        "gtbets": {
+          "Alex Molcan": 4.27,
+          "Jiri Lehecka": 1.25
+        },
+        "williamhill": {
+          "Alex Molcan": 4.2,
+          "Jiri Lehecka": 1.22
+        },
+        "tipico_de": {
+          "Alex Molcan": 4.4,
+          "Jiri Lehecka": 1.2
+        },
+        "nordicbet": {
+          "Alex Molcan": 4.29,
+          "Jiri Lehecka": 1.2
+        },
+        "betsson": {
+          "Alex Molcan": 4.29,
+          "Jiri Lehecka": 1.2
+        },
+        "pinnacle": {
+          "Alex Molcan": 4.61,
+          "Jiri Lehecka": 1.23
+        },
+        "betmgm": {
+          "Alex Molcan": 4.25,
+          "Jiri Lehecka": 1.21
+        }
+      },
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Alex Molcan",
+        "p1_prob": 0.7992,
+        "p2_prob": 0.2008,
+        "predicted_winner": "Jiri Lehecka",
+        "confidence": "high",
+        "p1_edge": -0.0008,
+        "p2_edge": -0.0075
+      },
+      "collected_at": "2026-07-01T17:51:52.395426+00:00",
+      "result": null
+    },
+    "2b12534ecdcaab534f59119c12dbca56": {
+      "match_id": "2b12534ecdcaab534f59119c12dbca56",
+      "commence_time": "2026-07-02T13:30:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "James Duckworth",
+      "player2": "Flavio Cobolli",
+      "bookmakers": {
+        "draftkings": {
+          "Flavio Cobolli": 1.29,
+          "James Duckworth": 3.58
+        },
+        "matchbook": {
+          "Flavio Cobolli": 1.35,
+          "James Duckworth": 3.6
+        },
+        "betfair_ex_eu": {
+          "Flavio Cobolli": 1.35,
+          "James Duckworth": 3.6
+        },
+        "marathonbet": {
+          "Flavio Cobolli": 1.32,
+          "James Duckworth": 3.36
+        },
+        "winamax_de": {
+          "Flavio Cobolli": 1.32,
+          "James Duckworth": 3.35
+        },
+        "onexbet": {
+          "Flavio Cobolli": 1.35,
+          "James Duckworth": 3.56
+        },
+        "sport888": {
+          "Flavio Cobolli": 1.33,
+          "James Duckworth": 3.3
+        },
+        "winamax_fr": {
+          "Flavio Cobolli": 1.28,
+          "James Duckworth": 3.1
+        },
+        "unibet_fr": {
+          "Flavio Cobolli": 1.3,
+          "James Duckworth": 3.2
+        },
+        "betclic_fr": {
+          "Flavio Cobolli": 1.29,
+          "James Duckworth": 3.1
+        },
+        "fanduel": {
+          "Flavio Cobolli": 1.32,
+          "James Duckworth": 3.5
+        },
+        "codere_it": {
+          "Flavio Cobolli": 1.32,
+          "James Duckworth": 3.35
+        },
+        "leovegas_se": {
+          "Flavio Cobolli": 1.35,
+          "James Duckworth": 3.2
+        },
+        "unibet_nl": {
+          "Flavio Cobolli": 1.35,
+          "James Duckworth": 3.2
+        },
+        "unibet_se": {
+          "Flavio Cobolli": 1.35,
+          "James Duckworth": 3.2
+        },
+        "pmu_fr": {
+          "Flavio Cobolli": 1.33,
+          "James Duckworth": 3.1
+        },
+        "betrivers": {
+          "Flavio Cobolli": 1.35,
+          "James Duckworth": 3.2
+        },
+        "mybookieag": {
+          "Flavio Cobolli": 1.32,
+          "James Duckworth": 3.38
+        },
+        "gtbets": {
+          "Flavio Cobolli": 1.35,
+          "James Duckworth": 3.44
+        },
+        "williamhill": {
+          "Flavio Cobolli": 1.33,
+          "James Duckworth": 3.3
+        },
+        "tipico_de": {
+          "Flavio Cobolli": 1.3,
+          "James Duckworth": 3.4
+        },
+        "betsson": {
+          "Flavio Cobolli": 1.31,
+          "James Duckworth": 3.35
+        },
+        "nordicbet": {
+          "Flavio Cobolli": 1.31,
+          "James Duckworth": 3.35
+        },
+        "pinnacle": {
+          "Flavio Cobolli": 1.33,
+          "James Duckworth": 3.6
+        }
+      },
+      "prediction": {
+        "p1_name": "James Duckworth",
+        "p2_name": "Flavio Cobolli",
+        "p1_prob": 0.2025,
+        "p2_prob": 0.7975,
+        "predicted_winner": "Flavio Cobolli",
+        "confidence": "high",
+        "p1_edge": -0.0753,
+        "p2_edge": 0.0568
+      },
+      "collected_at": "2026-07-01T17:51:52.421686+00:00",
+      "result": null
+    },
+    "12aa9566b8347a7b4d31415a1b9c6965": {
+      "match_id": "12aa9566b8347a7b4d31415a1b9c6965",
+      "commence_time": "2026-07-02T13:30:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Frances Tiafoe",
+      "player2": "Jan Choinski",
+      "bookmakers": {
+        "draftkings": {
+          "Frances Tiafoe": 1.13,
+          "Jan Choinski": 5.85
+        },
+        "onexbet": {
+          "Frances Tiafoe": 1.15,
+          "Jan Choinski": 6.79
+        },
+        "betfair_ex_eu": {
+          "Frances Tiafoe": 1.16,
+          "Jan Choinski": 6.4
+        },
+        "matchbook": {
+          "Frances Tiafoe": 1.16,
+          "Jan Choinski": 6.4
+        },
+        "nordicbet": {
+          "Frances Tiafoe": 1.13,
+          "Jan Choinski": 5.53
+        },
+        "unibet_fr": {
+          "Frances Tiafoe": 1.14,
+          "Jan Choinski": 5.5
+        },
+        "sport888": {
+          "Frances Tiafoe": 1.12,
+          "Jan Choinski": 6.0
+        },
+        "betsson": {
+          "Frances Tiafoe": 1.13,
+          "Jan Choinski": 5.53
+        },
+        "betclic_fr": {
+          "Frances Tiafoe": 1.12,
+          "Jan Choinski": 4.8
+        },
+        "codere_it": {
+          "Frances Tiafoe": 1.14,
+          "Jan Choinski": 5.4
+        },
+        "fanduel": {
+          "Frances Tiafoe": 1.14,
+          "Jan Choinski": 6.0
+        },
+        "mybookieag": {
+          "Frances Tiafoe": 1.14,
+          "Jan Choinski": 5.7
+        },
+        "winamax_de": {
+          "Frances Tiafoe": 1.14,
+          "Jan Choinski": 5.6
+        },
+        "winamax_fr": {
+          "Frances Tiafoe": 1.11,
+          "Jan Choinski": 4.8
+        },
+        "gtbets": {
+          "Frances Tiafoe": 1.13,
+          "Jan Choinski": 5.58
+        },
+        "williamhill": {
+          "Frances Tiafoe": 1.14,
+          "Jan Choinski": 5.5
+        },
+        "marathonbet": {
+          "Frances Tiafoe": 1.13,
+          "Jan Choinski": 5.85
+        },
+        "pinnacle": {
+          "Frances Tiafoe": 1.15,
+          "Jan Choinski": 6.13
+        }
+      },
+      "prediction": {
+        "p1_name": "Frances Tiafoe",
+        "p2_name": "Jan Choinski",
+        "p1_prob": 0.7592,
+        "p2_prob": 0.2408,
+        "predicted_winner": "Frances Tiafoe",
+        "confidence": "high",
+        "p1_edge": -0.1029,
+        "p2_edge": 0.0935
+      },
+      "collected_at": "2026-07-01T17:51:52.448039+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-01T11:21:04.131608+00:00"
+  "last_updated": "2026-07-01T17:51:52.451446+00:00"
 }
