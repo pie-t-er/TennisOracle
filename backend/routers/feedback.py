@@ -70,7 +70,11 @@ async def submit_feedback(body: FeedbackRequest):
         )
 
     if not resp.is_success:
-        raise HTTPException(502, "GitHub API error — feedback not submitted")
+        try:
+            gh_message = resp.json().get("message", resp.text)
+        except Exception:
+            gh_message = resp.text
+        raise HTTPException(502, f"GitHub API error {resp.status_code}: {gh_message}")
 
     data = resp.json()
     return {"issue_url": data["html_url"], "issue_number": data["number"]}
