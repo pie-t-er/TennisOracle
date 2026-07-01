@@ -1,8 +1,11 @@
 """
 Training script. Run from backend/ directory:
-  python ml/train.py
-Produces ml/model.joblib.
+  python ml/train.py                  # normal train + save
+  python ml/train.py --start 2020     # override training window start year
+  python ml/train.py --benchmark      # print numbers only, don't save model/fi
+Produces ml/model.joblib (unless --benchmark).
 """
+import argparse
 import json
 import sys
 import warnings
@@ -222,7 +225,7 @@ def build_training_data(df: pd.DataFrame):
     return X, y, dates
 
 
-def train():
+def train(start_year: int = 2016, save: bool = True):
     print("Loading ATP match data...")
     df = load_all_matches()
     print(f"  {len(df):,} matches loaded ({df['tourney_date'].dt.year.min()}–{df['tourney_date'].dt.year.max()})")
@@ -231,12 +234,9 @@ def train():
     X, y, dates = build_training_data(df)
     print(f"  {len(X):,} training samples built ({N_FEATURES} features each)")
 
-    # Time-based split: train on TRAIN_START_YEAR–2024, test on 2025.
-    # 2026 is deliberately excluded — only a partial season, and including it
-    # would be look-ahead leakage relative to the 2025 test set.
-    # TRAIN_START_YEAR: raising this drops retired-player noise at the cost of
-    # less data. 2016 = 10-year window; 2010 = full corpus. Benchmark both.
-    TRAIN_START_YEAR = 2016
+    # Time-based split: train on start_year–2024, test on 2025.
+    # 2026 is deliberately excluded — partial season, look-ahead leakage risk.
+    TRAIN_START_YEAR = start_year
     train_mask = (dates.dt.year >= TRAIN_START_YEAR) & (dates.dt.year <= 2024)
     test_mask = dates.dt.year == 2025
     X_train, y_train = X[train_mask], y[train_mask]
@@ -295,12 +295,13 @@ def train():
     assert np.allclose(sample_prob.sum(axis=1), 1.0), "predict_proba rows don't sum to 1"
     print("predict_proba sanity check passed ✓")
 
+    if not save:
+        return
+
     joblib.dump(calibrated, MODEL_PATH)
     print(f"\nModel saved → {MODEL_PATH}")
 
     # Save feature importance for the /model analytics page.
-    # Average importances across all calibration folds; works for both XGBoost
-    # (feature_importances_) and LogisticRegression (|coef_|).
     fi_path = Path(__file__).parent / "feature_importance.json"
     try:
         importances = np.zeros(N_FEATURES)
@@ -327,4 +328,8 @@ def train():
 
 
 if __name__ == "__main__":
-    train()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--start", type=int, default=2010, help="First training year (default 2010)")
+    parser.add_argument("--benchmark", action="store_true", help="Print numbers only, skip saving model")
+    args = parser.parse_args()
+    train(start_year=args.start, save=not args.benchmark)
