@@ -2,6 +2,13 @@ import { StoredPrediction } from "./api";
 
 export const STAKE = 10;
 
+/** Minimum |p1_prob - p2_prob| margin to qualify as a strategy pick. */
+export const STRATEGY_MARGIN = 0.35;
+
+export function isStrategyPick(pred: StoredPrediction): boolean {
+  return Math.abs(pred.prediction.p1_prob - pred.prediction.p2_prob) >= STRATEGY_MARGIN;
+}
+
 /**
  * Best decimal odds across all bookmakers for the given player name.
  * Case-insensitive: our model's name casing and the Odds API's own name

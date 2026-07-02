@@ -2,7 +2,7 @@
 
 import { useState, useMemo, useEffect } from "react";
 import { StoredPrediction, MatchPrediction } from "@/lib/api";
-import { simulateBet, bestOdds, STAKE } from "@/lib/betting";
+import { simulateBet, bestOdds, isStrategyPick, STAKE } from "@/lib/betting";
 
 const PAGE_SIZE = 25;
 
@@ -218,9 +218,10 @@ export default function PredictionLogTable({
 
                 <tbody className="divide-y divide-gray-800/40">
                   {pageSlice.map((pred) => {
-                    const p       = pred.prediction;
-                    const edge    = modelEdge(p);
-                    const bet     = simulateBet(pred);
+                    const p          = pred.prediction;
+                    const edge       = modelEdge(p);
+                    const bet        = simulateBet(pred);
+                    const isStrategy = isStrategyPick(pred);
 
                     const edgeOdds = edge
                       ? bestOdds(
@@ -261,6 +262,11 @@ export default function PredictionLogTable({
                             >
                               {pred.surface}
                             </span>
+                            {isStrategy && (
+                              <span className="text-[10px] px-1.5 py-0 rounded font-semibold bg-amber-900/40 text-amber-300 border border-amber-700/50">
+                                ★
+                              </span>
+                            )}
                           </div>
                         </td>
 
