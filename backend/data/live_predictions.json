@@ -1148,7 +1148,11 @@
         "p2_edge": 0.1468
       },
       "collected_at": "2026-06-27T10:02:45.735611+00:00",
-      "result": null
+      "result": {
+        "winner": "Alejandro Davidovich Fokina",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:35.535715+00:00"
+      }
     },
     "358d9f8f061afe1f32bc74d63fd80a18": {
       "match_id": "358d9f8f061afe1f32bc74d63fd80a18",
@@ -1246,7 +1250,11 @@
         "p2_edge": -0.0058
       },
       "collected_at": "2026-06-27T10:02:45.745290+00:00",
-      "result": null
+      "result": {
+        "winner": "Botic van de Zandschulp",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:35.549672+00:00"
+      }
     },
     "1f461af14cf88f5bb39b82541e8f7a8c": {
       "match_id": "1f461af14cf88f5bb39b82541e8f7a8c",
@@ -1320,7 +1328,11 @@
         "p2_edge": 0.0675
       },
       "collected_at": "2026-06-27T10:02:45.755025+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex Molcan",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:35.563504+00:00"
+      }
     },
     "48c25244147846976df612a9a36e7867": {
       "match_id": "48c25244147846976df612a9a36e7867",
@@ -1414,7 +1426,11 @@
         "p2_edge": -0.1014
       },
       "collected_at": "2026-06-27T10:02:45.764868+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:35.577264+00:00"
+      }
     },
     "e9f9c481cc21d1a81bc66eb5a280e6ba": {
       "match_id": "e9f9c481cc21d1a81bc66eb5a280e6ba",
@@ -1504,7 +1520,11 @@
         "p2_edge": 0.0294
       },
       "collected_at": "2026-06-27T10:02:45.775770+00:00",
-      "result": null
+      "result": {
+        "winner": "Brandon Nakashima",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:35.597866+00:00"
+      }
     },
     "69332957db75f96119b6693f1d3e7972": {
       "match_id": "69332957db75f96119b6693f1d3e7972",
@@ -1570,7 +1590,11 @@
         "p2_edge": 0.1603
       },
       "collected_at": "2026-06-27T10:02:45.785927+00:00",
-      "result": null
+      "result": {
+        "winner": "Ethan Quinn",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:35.611873+00:00"
+      }
     },
     "3738018d9203149afd4afebc5ac08b32": {
       "match_id": "3738018d9203149afd4afebc5ac08b32",
@@ -1636,7 +1660,11 @@
         "p2_edge": -0.081
       },
       "collected_at": "2026-06-27T10:02:45.796332+00:00",
-      "result": null
+      "result": {
+        "winner": "Matteo Berrettini",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:35.625737+00:00"
+      }
     },
     "85318dc3ac6a4d71ba495e169a98a0e2": {
       "match_id": "85318dc3ac6a4d71ba495e169a98a0e2",
@@ -1836,7 +1864,11 @@
         "p2_edge": -0.1557
       },
       "collected_at": "2026-06-27T10:02:45.817372+00:00",
-      "result": null
+      "result": {
+        "winner": "Roman Safiullin",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:35.639744+00:00"
+      }
     },
     "a906a642efaf305fcae90cf8324938cf": {
       "match_id": "a906a642efaf305fcae90cf8324938cf",
@@ -1934,7 +1966,11 @@
         "p2_edge": -0.1127
       },
       "collected_at": "2026-06-27T10:02:45.828316+00:00",
-      "result": null
+      "result": {
+        "winner": "Learner Tien",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:35.653734+00:00"
+      }
     },
     "2af6193491a1eaeeba23d9b48c069d29": {
       "match_id": "2af6193491a1eaeeba23d9b48c069d29",
@@ -2032,7 +2068,11 @@
         "p2_edge": 0.0697
       },
       "collected_at": "2026-06-27T10:02:45.839410+00:00",
-      "result": null
+      "result": {
+        "winner": "Pablo Carreno Busta",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:35.678479+00:00"
+      }
     },
     "81a7afb323fe95aec4531fb018ca024d": {
       "match_id": "81a7afb323fe95aec4531fb018ca024d",
@@ -2126,7 +2166,11 @@
         "p2_edge": 0.0979
       },
       "collected_at": "2026-06-27T10:02:45.850732+00:00",
-      "result": null
+      "result": {
+        "winner": "Ignacio Buse",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:35.694027+00:00"
+      }
     },
     "24437f0313581ed4096a6bdf264b65bc": {
       "match_id": "24437f0313581ed4096a6bdf264b65bc",
@@ -2224,7 +2268,11 @@
         "p2_edge": -0.0995
       },
       "collected_at": "2026-06-27T10:02:45.863165+00:00",
-      "result": null
+      "result": {
+        "winner": "Marton Fucsovics",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:35.708085+00:00"
+      }
     },
     "7cfbcb8496407d13034b29b455f88b40": {
       "match_id": "7cfbcb8496407d13034b29b455f88b40",
@@ -2314,7 +2362,11 @@
         "p2_edge": -0.0587
       },
       "collected_at": "2026-06-27T10:02:45.875340+00:00",
-      "result": null
+      "result": {
+        "winner": "Martin Damm",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:35.721861+00:00"
+      }
     },
     "53b0d7fe180b9254ce15cbca0ad73acb": {
       "match_id": "53b0d7fe180b9254ce15cbca0ad73acb",
@@ -2384,7 +2436,11 @@
         "p2_edge": -0.1671
       },
       "collected_at": "2026-06-27T10:02:45.887937+00:00",
-      "result": null
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:35.752393+00:00"
+      }
     },
     "35090f59026ece4c7ffb98c0066d7ad8": {
       "match_id": "35090f59026ece4c7ffb98c0066d7ad8",
@@ -2478,7 +2534,11 @@
         "p2_edge": 0.0342
       },
       "collected_at": "2026-06-27T10:02:45.900112+00:00",
-      "result": null
+      "result": {
+        "winner": "Michael Zheng",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:35.765883+00:00"
+      }
     },
     "9fd8a8357bfa58b092f899d246021ea6": {
       "match_id": "9fd8a8357bfa58b092f899d246021ea6",
@@ -2576,7 +2636,11 @@
         "p2_edge": -0.2005
       },
       "collected_at": "2026-06-27T10:02:45.912794+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniel Merida",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:35.779440+00:00"
+      }
     },
     "f4fda566e17927780cfdff7db18e2a81": {
       "match_id": "f4fda566e17927780cfdff7db18e2a81",
@@ -2674,7 +2738,11 @@
         "p2_edge": -0.2432
       },
       "collected_at": "2026-06-27T10:02:45.925917+00:00",
-      "result": null
+      "result": {
+        "winner": "Hubert Hurkacz",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:35.792987+00:00"
+      }
     },
     "1e236c7f0ccd5b912738250955aa804f": {
       "match_id": "1e236c7f0ccd5b912738250955aa804f",
@@ -2768,7 +2836,11 @@
         "p2_edge": 0.075
       },
       "collected_at": "2026-06-27T10:02:45.938761+00:00",
-      "result": null
+      "result": {
+        "winner": "Sebastian Ofner",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:35.806875+00:00"
+      }
     },
     "580a29d7179ba84bc37aa5419f2b5890": {
       "match_id": "580a29d7179ba84bc37aa5419f2b5890",
@@ -2862,7 +2934,11 @@
         "p2_edge": -0.0264
       },
       "collected_at": "2026-06-27T10:02:45.951981+00:00",
-      "result": null
+      "result": {
+        "winner": "Stefanos Tsitsipas",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:35.820991+00:00"
+      }
     },
     "32c9d5eb4778378aec022519a0e31702": {
       "match_id": "32c9d5eb4778378aec022519a0e31702",
@@ -2940,7 +3016,11 @@
         "p2_edge": 0.1082
       },
       "collected_at": "2026-06-27T10:02:45.965752+00:00",
-      "result": null
+      "result": {
+        "winner": "Soonwoo Kwon",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:35.847619+00:00"
+      }
     },
     "c561667371bd2ea3fa083b0ffd6defaa": {
       "match_id": "c561667371bd2ea3fa083b0ffd6defaa",
@@ -3034,7 +3114,11 @@
         "p2_edge": 0.1431
       },
       "collected_at": "2026-06-27T10:02:45.982949+00:00",
-      "result": null
+      "result": {
+        "winner": "Nuno Borges",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:35.861723+00:00"
+      }
     },
     "bccd57db28819aad77c423add704c9bc": {
       "match_id": "bccd57db28819aad77c423add704c9bc",
@@ -3128,7 +3212,11 @@
         "p2_edge": 0.0317
       },
       "collected_at": "2026-06-27T10:02:45.997141+00:00",
-      "result": null
+      "result": {
+        "winner": "Dino Prizmic",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:35.875814+00:00"
+      }
     },
     "0e2d2738b36d452faae8d24caa13a7c5": {
       "match_id": "0e2d2738b36d452faae8d24caa13a7c5",
@@ -3194,7 +3282,11 @@
         "p2_edge": 0.0148
       },
       "collected_at": "2026-06-27T10:02:46.011130+00:00",
-      "result": null
+      "result": {
+        "winner": "Jannik Sinner",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:35.890225+00:00"
+      }
     },
     "1068d5b1ea5defa8627fba4b0edec622": {
       "match_id": "1068d5b1ea5defa8627fba4b0edec622",
@@ -3272,7 +3364,11 @@
         "p2_edge": 0.02
       },
       "collected_at": "2026-06-27T10:02:46.025329+00:00",
-      "result": null
+      "result": {
+        "winner": "Nicolas Mejia",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:35.904660+00:00"
+      }
     },
     "beb90503058a173462df0b15039b6ce0": {
       "match_id": "beb90503058a173462df0b15039b6ce0",
@@ -3346,7 +3442,11 @@
         "p2_edge": 0.0949
       },
       "collected_at": "2026-06-27T10:02:46.039764+00:00",
-      "result": null
+      "result": {
+        "winner": "Felix Auger-Aliassime",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:35.918832+00:00"
+      }
     },
     "accbf9acb0b25cf8764f18f0e9bbae2f": {
       "match_id": "accbf9acb0b25cf8764f18f0e9bbae2f",
@@ -3432,7 +3532,11 @@
         "p2_edge": -0.3072
       },
       "collected_at": "2026-06-27T10:02:46.101553+00:00",
-      "result": null
+      "result": {
+        "winner": "Fabian Marozsan",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:35.933043+00:00"
+      }
     },
     "5892024d4ed6401503435d99df986404": {
       "match_id": "5892024d4ed6401503435d99df986404",
@@ -3522,7 +3626,11 @@
         "p2_edge": -0.1498
       },
       "collected_at": "2026-06-27T10:02:46.116243+00:00",
-      "result": null
+      "result": {
+        "winner": "Joao Fonseca",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:35.947440+00:00"
+      }
     },
     "68ba4da7fda72170ec9204bd16e38485": {
       "match_id": "68ba4da7fda72170ec9204bd16e38485",
@@ -3698,7 +3806,11 @@
         "p2_edge": 0.1292
       },
       "collected_at": "2026-06-27T10:02:46.146019+00:00",
-      "result": null
+      "result": {
+        "winner": "Jan-Lennard Struff",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:35.972328+00:00"
+      }
     },
     "c578da64810d91a5395285c9ec1e5d26": {
       "match_id": "c578da64810d91a5395285c9ec1e5d26",
@@ -3788,7 +3900,11 @@
         "p2_edge": -0.1071
       },
       "collected_at": "2026-06-27T10:02:46.161266+00:00",
-      "result": null
+      "result": {
+        "winner": "Jesper de Jong",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:35.986431+00:00"
+      }
     },
     "b504b767081c8cfde1fb8fd2f36016cb": {
       "match_id": "b504b767081c8cfde1fb8fd2f36016cb",
@@ -3882,7 +3998,11 @@
         "p2_edge": 0.1017
       },
       "collected_at": "2026-06-27T10:02:46.176887+00:00",
-      "result": null
+      "result": {
+        "winner": "Adrian Mannarino",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:36.000786+00:00"
+      }
     },
     "24a90ba03322c9d26e5f654e072992b8": {
       "match_id": "24a90ba03322c9d26e5f654e072992b8",
@@ -3972,7 +4092,11 @@
         "p2_edge": 0.2323
       },
       "collected_at": "2026-06-27T10:02:46.192061+00:00",
-      "result": null
+      "result": {
+        "winner": "Kamil Majchrzak",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:36.015179+00:00"
+      }
     },
     "14e1451c778870ff2953df9faeea10ec": {
       "match_id": "14e1451c778870ff2953df9faeea10ec",
@@ -4066,7 +4190,11 @@
         "p2_edge": -0.1539
       },
       "collected_at": "2026-06-27T10:02:46.207699+00:00",
-      "result": null
+      "result": {
+        "winner": "Jacob Fearnley",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:36.029548+00:00"
+      }
     },
     "b2957a20a6add0bae2029fc52472853b": {
       "match_id": "b2957a20a6add0bae2029fc52472853b",
@@ -4144,7 +4272,11 @@
         "p2_edge": 0.1434
       },
       "collected_at": "2026-06-27T10:02:46.223353+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex de Minaur",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.052773+00:00"
+      }
     },
     "1a76e2740082417247d02923fdbf8dd1": {
       "match_id": "1a76e2740082417247d02923fdbf8dd1",
@@ -4226,7 +4358,11 @@
         "p2_edge": 0.0581
       },
       "collected_at": "2026-06-27T10:02:46.238986+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Bublik",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.067390+00:00"
+      }
     },
     "bf95b92b1856ff46a8bd2b89958e4657": {
       "match_id": "bf95b92b1856ff46a8bd2b89958e4657",
@@ -4320,7 +4456,11 @@
         "p2_edge": 0.0014
       },
       "collected_at": "2026-06-27T10:02:46.254705+00:00",
-      "result": null
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.081730+00:00"
+      }
     },
     "bdd4cc16157f42d8f1c91c2b37c8c9ba": {
       "match_id": "bdd4cc16157f42d8f1c91c2b37c8c9ba",
@@ -4410,7 +4550,11 @@
         "p2_edge": -0.2367
       },
       "collected_at": "2026-06-27T10:02:46.270627+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fery",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.095720+00:00"
+      }
     },
     "11cb4a8d64c55c75fbbf745ae653a21f": {
       "match_id": "11cb4a8d64c55c75fbbf745ae653a21f",
@@ -4492,7 +4636,11 @@
         "p2_edge": 0.0398
       },
       "collected_at": "2026-06-27T10:02:46.286820+00:00",
-      "result": null
+      "result": {
+        "winner": "Otto Virtanen",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:36.114624+00:00"
+      }
     },
     "4c10f9c86780b761fa8b22928e0534f9": {
       "match_id": "4c10f9c86780b761fa8b22928e0534f9",
@@ -4586,7 +4734,11 @@
         "p2_edge": 0.083
       },
       "collected_at": "2026-06-27T10:02:46.302849+00:00",
-      "result": null
+      "result": {
+        "winner": "Gabriel Diallo",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.129105+00:00"
+      }
     },
     "a781545b6be54ba4f37eea8f21ed6695": {
       "match_id": "a781545b6be54ba4f37eea8f21ed6695",
@@ -4668,7 +4820,11 @@
         "p2_edge": 0.0165
       },
       "collected_at": "2026-06-27T10:02:46.318947+00:00",
-      "result": null
+      "result": {
+        "winner": "Karen Khachanov",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.143238+00:00"
+      }
     },
     "289a97fe64fe86154553f9dfdde13bcb": {
       "match_id": "289a97fe64fe86154553f9dfdde13bcb",
@@ -4762,7 +4918,11 @@
         "p2_edge": -0.1676
       },
       "collected_at": "2026-06-27T10:02:46.335217+00:00",
-      "result": null
+      "result": {
+        "winner": "Marcos Giron",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:36.157272+00:00"
+      }
     },
     "d85a15638614401bf53f2f4105ebea99": {
       "match_id": "d85a15638614401bf53f2f4105ebea99",
@@ -4856,7 +5016,11 @@
         "p2_edge": -0.1517
       },
       "collected_at": "2026-06-27T10:02:46.351479+00:00",
-      "result": null
+      "result": {
+        "winner": "Grigor Dimitrov",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.171596+00:00"
+      }
     },
     "8db5bd8b78df6f2384e180511464bc2f": {
       "match_id": "8db5bd8b78df6f2384e180511464bc2f",
@@ -4942,7 +5106,11 @@
         "p2_edge": -0.0939
       },
       "collected_at": "2026-06-27T10:02:46.368231+00:00",
-      "result": null
+      "result": {
+        "winner": "Flavio Cobolli",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.186216+00:00"
+      }
     },
     "be9660c95afe70b298a651e964aaebef": {
       "match_id": "be9660c95afe70b298a651e964aaebef",
@@ -5032,7 +5200,11 @@
         "p2_edge": 0.0953
       },
       "collected_at": "2026-06-27T10:02:46.384903+00:00",
-      "result": null
+      "result": {
+        "winner": "Frances Tiafoe",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.200711+00:00"
+      }
     },
     "9790547605ef70511264c7e5bb6122e9": {
       "match_id": "9790547605ef70511264c7e5bb6122e9",
@@ -5122,7 +5294,11 @@
         "p2_edge": -0.0141
       },
       "collected_at": "2026-06-27T10:02:46.401597+00:00",
-      "result": null
+      "result": {
+        "winner": "Jaume Munar",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:36.215031+00:00"
+      }
     },
     "2ba367a0a2de0261300b51574f55dde7": {
       "match_id": "2ba367a0a2de0261300b51574f55dde7",
@@ -5200,7 +5376,11 @@
         "p2_edge": -0.0409
       },
       "collected_at": "2026-06-27T10:02:46.418428+00:00",
-      "result": null
+      "result": {
+        "winner": "Yannick Hanfmann",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:36.229833+00:00"
+      }
     },
     "2953d0eade4d5062d058efbc9e7b1458": {
       "match_id": "2953d0eade4d5062d058efbc9e7b1458",
@@ -5360,7 +5540,11 @@
         "p2_edge": 0.081
       },
       "collected_at": "2026-06-27T10:02:46.452931+00:00",
-      "result": null
+      "result": {
+        "winner": "Jaime Faria",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.244976+00:00"
+      }
     },
     "90cdc9029092a0350246b5c70f7bc4c0": {
       "match_id": "90cdc9029092a0350246b5c70f7bc4c0",
@@ -5446,7 +5630,11 @@
         "p2_edge": -0.0293
       },
       "collected_at": "2026-06-27T10:02:46.470599+00:00",
-      "result": null
+      "result": {
+        "winner": "James Duckworth",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:36.259158+00:00"
+      }
     },
     "8e6925fad6057e0590572c11cf78188d": {
       "match_id": "8e6925fad6057e0590572c11cf78188d",
@@ -5524,7 +5712,11 @@
         "p2_edge": 0.0341
       },
       "collected_at": "2026-06-27T10:02:46.487901+00:00",
-      "result": null
+      "result": {
+        "winner": "Jan Choinski",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:36.273582+00:00"
+      }
     },
     "ac6f094b413a84d452192b5b4fb636a4": {
       "match_id": "ac6f094b413a84d452192b5b4fb636a4",
@@ -5618,7 +5810,11 @@
         "p2_edge": 0.2294
       },
       "collected_at": "2026-06-27T10:02:46.505219+00:00",
-      "result": null
+      "result": {
+        "winner": "Kyrian Jacquet",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:36.287913+00:00"
+      }
     },
     "6f5afd8b1147cc48f757ed20f14464d3": {
       "match_id": "6f5afd8b1147cc48f757ed20f14464d3",
@@ -5708,7 +5904,11 @@
         "p2_edge": -0.0836
       },
       "collected_at": "2026-06-27T10:02:46.522851+00:00",
-      "result": null
+      "result": {
+        "winner": "Lorenzo Sonego",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.302485+00:00"
+      }
     },
     "fb65964d02c99ad637e0a48d3afa66ad": {
       "match_id": "fb65964d02c99ad637e0a48d3afa66ad",
@@ -5790,7 +5990,11 @@
         "p2_edge": -0.1935
       },
       "collected_at": "2026-06-27T10:02:46.540470+00:00",
-      "result": null
+      "result": {
+        "winner": "Patrick Kypson",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:36.317205+00:00"
+      }
     },
     "4579733c9a884ba46e917832c215723c": {
       "match_id": "4579733c9a884ba46e917832c215723c",
@@ -5880,7 +6084,11 @@
         "p2_edge": 0.0985
       },
       "collected_at": "2026-06-27T10:02:46.558189+00:00",
-      "result": null
+      "result": {
+        "winner": "Quentin Halys",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.332335+00:00"
+      }
     },
     "cf27d2437d51cc92259b62ce0b8d7c23": {
       "match_id": "cf27d2437d51cc92259b62ce0b8d7c23",
@@ -6064,7 +6272,11 @@
         "p2_edge": 0.1582
       },
       "collected_at": "2026-06-27T17:05:36.925473+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fils",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.347902+00:00"
+      }
     },
     "804a341f757c8a347d3f786fd8870aa5": {
       "match_id": "804a341f757c8a347d3f786fd8870aa5",
@@ -6256,7 +6468,11 @@
         "p2_edge": -0.2678
       },
       "collected_at": "2026-06-29T12:28:37.605410+00:00",
-      "result": null
+      "result": {
+        "winner": "Zachary Svajda",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:36.362203+00:00"
+      }
     },
     "412eeb49c75adbe1d82b8ce388d5ed68": {
       "match_id": "412eeb49c75adbe1d82b8ce388d5ed68",
@@ -6322,7 +6538,11 @@
         "p2_edge": -0.0039
       },
       "collected_at": "2026-06-29T18:06:44.932386+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.380508+00:00"
+      }
     },
     "5e0919a8514a1242a386699a61e9eeaf": {
       "match_id": "5e0919a8514a1242a386699a61e9eeaf",
@@ -6428,7 +6648,11 @@
         "p2_edge": 0.1634
       },
       "collected_at": "2026-06-29T18:06:44.950465+00:00",
-      "result": null
+      "result": {
+        "winner": "Hubert Hurkacz",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.402002+00:00"
+      }
     },
     "3c42b7c1e9ae3bc7fe1935d6b4ba1ce3": {
       "match_id": "3c42b7c1e9ae3bc7fe1935d6b4ba1ce3",
@@ -6546,7 +6770,11 @@
         "p2_edge": 0.0945
       },
       "collected_at": "2026-06-29T18:06:44.968663+00:00",
-      "result": null
+      "result": {
+        "winner": "Jenson Brooksby",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:36.417104+00:00"
+      }
     },
     "1cc92b870b888720c9fc9f28d816fc22": {
       "match_id": "1cc92b870b888720c9fc9f28d816fc22",
@@ -6632,7 +6860,11 @@
         "p2_edge": 0.0239
       },
       "collected_at": "2026-06-29T18:06:44.987120+00:00",
-      "result": null
+      "result": {
+        "winner": "Jannik Sinner",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.437992+00:00"
+      }
     },
     "a6f428d1708c0f09427e17d371c12fe9": {
       "match_id": "a6f428d1708c0f09427e17d371c12fe9",
@@ -6746,7 +6978,11 @@
         "p2_edge": -0.0015
       },
       "collected_at": "2026-06-29T18:06:45.005695+00:00",
-      "result": null
+      "result": {
+        "winner": "Marton Fucsovics",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:36.454889+00:00"
+      }
     },
     "5cd62d41639d452d84d2114bd9713f4b": {
       "match_id": "5cd62d41639d452d84d2114bd9713f4b",
@@ -6966,7 +7202,11 @@
         "p2_edge": 0.046
       },
       "collected_at": "2026-06-29T18:06:45.096034+00:00",
-      "result": null
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.470784+00:00"
+      }
     },
     "d4b6014a3fd70fa23c0d1e164503c676": {
       "match_id": "d4b6014a3fd70fa23c0d1e164503c676",
@@ -7064,7 +7304,11 @@
         "p2_edge": 0.0244
       },
       "collected_at": "2026-06-29T18:06:45.249047+00:00",
-      "result": null
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.485097+00:00"
+      }
     },
     "15104fdfd9da4c652e14341586d49452": {
       "match_id": "15104fdfd9da4c652e14341586d49452",
@@ -7174,7 +7418,11 @@
         "p2_edge": 0.0854
       },
       "collected_at": "2026-06-29T18:06:45.357616+00:00",
-      "result": null
+      "result": {
+        "winner": "Roman Safiullin",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:36.499250+00:00"
+      }
     },
     "2c5814f4000161cebfb97c1313c1dcf1": {
       "match_id": "2c5814f4000161cebfb97c1313c1dcf1",
@@ -7276,7 +7524,11 @@
         "p2_edge": -0.0129
       },
       "collected_at": "2026-06-29T18:06:45.376819+00:00",
-      "result": null
+      "result": {
+        "winner": "Shintaro Mochizuki",
+        "correct": false,
+        "settled_at": "2026-07-02T14:20:36.513391+00:00"
+      }
     },
     "2aeb4c2ce6f9d40df199c7bf9d5ae103": {
       "match_id": "2aeb4c2ce6f9d40df199c7bf9d5ae103",
@@ -7504,7 +7756,11 @@
         "p2_edge": 0.1127
       },
       "collected_at": "2026-06-30T02:54:08.993147+00:00",
-      "result": null
+      "result": {
+        "winner": "Felix Auger-Aliassime",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.527625+00:00"
+      }
     },
     "33d48e57dec8f2e2510dbd1635404c3b": {
       "match_id": "33d48e57dec8f2e2510dbd1635404c3b",
@@ -7606,7 +7862,11 @@
         "p2_edge": -0.1749
       },
       "collected_at": "2026-06-30T02:54:09.048548+00:00",
-      "result": null
+      "result": {
+        "winner": "Michael Zheng",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.541724+00:00"
+      }
     },
     "f862917ef3b7e4a9fe68430ad34b25c4": {
       "match_id": "f862917ef3b7e4a9fe68430ad34b25c4",
@@ -7696,7 +7956,11 @@
         "p2_edge": -0.0373
       },
       "collected_at": "2026-06-30T02:54:09.068326+00:00",
-      "result": null
+      "result": {
+        "winner": "Novak Djokovic",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.561968+00:00"
+      }
     },
     "71790f2a558b5f35b391c2f2895110c0": {
       "match_id": "71790f2a558b5f35b391c2f2895110c0",
@@ -7810,7 +8074,11 @@
         "p2_edge": -0.0396
       },
       "collected_at": "2026-06-30T02:54:09.106997+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Rinderknech",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.576841+00:00"
+      }
     },
     "b2cb08043dfe196ce2a3db3739453419": {
       "match_id": "b2cb08043dfe196ce2a3db3739453419",
@@ -8022,7 +8290,11 @@
         "p2_edge": -0.1688
       },
       "collected_at": "2026-06-30T16:22:21.974469+00:00",
-      "result": null
+      "result": {
+        "winner": "Joao Fonseca",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:36.592003+00:00"
+      }
     },
     "c2791b0b5f6904fd21d85b31fe9ce021": {
       "match_id": "c2791b0b5f6904fd21d85b31fe9ce021",
@@ -12613,7 +12885,147 @@
       },
       "collected_at": "2026-07-02T02:50:08.904074+00:00",
       "result": null
+    },
+    "822b6b2962cd83ad6445472ff916af0e": {
+      "match_id": "822b6b2962cd83ad6445472ff916af0e",
+      "commence_time": "2026-07-03T10:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Jan-Lennard Struff",
+      "player2": "Daniil Medvedev",
+      "bookmakers": {
+        "betrivers": {
+          "Daniil Medvedev": 1.19,
+          "Jan-Lennard Struff": 4.3
+        },
+        "unibet_nl": {
+          "Daniil Medvedev": 1.19,
+          "Jan-Lennard Struff": 4.3
+        },
+        "draftkings": {
+          "Daniil Medvedev": 1.2,
+          "Jan-Lennard Struff": 4.5
+        },
+        "unibet_se": {
+          "Daniil Medvedev": 1.19,
+          "Jan-Lennard Struff": 4.3
+        },
+        "gtbets": {
+          "Daniil Medvedev": 1.2,
+          "Jan-Lennard Struff": 4.55
+        },
+        "leovegas_se": {
+          "Daniil Medvedev": 1.19,
+          "Jan-Lennard Struff": 4.3
+        },
+        "marathonbet": {
+          "Daniil Medvedev": 1.2,
+          "Jan-Lennard Struff": 4.55
+        },
+        "pmu_fr": {
+          "Daniil Medvedev": 1.17,
+          "Jan-Lennard Struff": 4.3
+        },
+        "unibet_fr": {
+          "Daniil Medvedev": 1.2,
+          "Jan-Lennard Struff": 4.4
+        },
+        "betfair_ex_eu": {
+          "Daniil Medvedev": 1.12,
+          "Jan-Lennard Struff": 1.12
+        },
+        "coolbet": {
+          "Daniil Medvedev": 1.22,
+          "Jan-Lennard Struff": 4.75
+        },
+        "betsson": {
+          "Daniil Medvedev": 1.15,
+          "Jan-Lennard Struff": 5.06
+        },
+        "winamax_fr": {
+          "Daniil Medvedev": 1.14,
+          "Jan-Lennard Struff": 4.4
+        },
+        "nordicbet": {
+          "Daniil Medvedev": 1.2,
+          "Jan-Lennard Struff": 4.4
+        },
+        "winamax_de": {
+          "Daniil Medvedev": 1.2,
+          "Jan-Lennard Struff": 4.5
+        },
+        "betclic_fr": {
+          "Daniil Medvedev": 1.18,
+          "Jan-Lennard Struff": 4.0
+        },
+        "codere_it": {
+          "Daniil Medvedev": 1.2,
+          "Jan-Lennard Struff": 4.4
+        }
+      },
+      "prediction": {
+        "p1_name": "Jan-Lennard Struff",
+        "p2_name": "Daniil Medvedev",
+        "p1_prob": 0.1611,
+        "p2_prob": 0.8389,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": -0.0365,
+        "p2_edge": 0.0192
+      },
+      "collected_at": "2026-07-02T14:20:41.577162+00:00",
+      "result": null
+    },
+    "tml-2026-540-30": {
+      "match_id": "tml-2026-540-30",
+      "commence_time": "2026-06-29T00:00:00+00:00",
+      "tournament": "Wimbledon",
+      "surface": "Grass",
+      "player1": "Novak Djokovic",
+      "player2": "Yibing Wu",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Novak Djokovic",
+        "p2_name": "Yibing Wu",
+        "p1_prob": 0.9102,
+        "p2_prob": 0.0898,
+        "predicted_winner": "Novak Djokovic",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-02T14:20:46.989545+00:00",
+      "result": {
+        "winner": "Novak Djokovic",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:46.989545+00:00"
+      }
+    },
+    "tml-2026-540-53": {
+      "match_id": "tml-2026-540-53",
+      "commence_time": "2026-06-30T00:00:00+00:00",
+      "tournament": "Wimbledon",
+      "surface": "Grass",
+      "player1": "Jakub Mensik",
+      "player2": "Toby Samuel",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jakub Mensik",
+        "p2_name": "Toby Samuel",
+        "p1_prob": 0.7646,
+        "p2_prob": 0.2354,
+        "predicted_winner": "Jakub Mensik",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-02T14:20:47.010677+00:00",
+      "result": {
+        "winner": "Jakub Mensik",
+        "correct": true,
+        "settled_at": "2026-07-02T14:20:47.010677+00:00"
+      }
     }
   },
-  "last_updated": "2026-07-02T02:50:08.907135+00:00"
+  "last_updated": "2026-07-02T14:20:47.013146+00:00"
 }
