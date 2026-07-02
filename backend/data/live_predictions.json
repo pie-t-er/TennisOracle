@@ -12381,7 +12381,239 @@
       },
       "collected_at": "2026-07-01T17:51:52.448039+00:00",
       "result": null
+    },
+    "720ec280fb8636fb10d54d200ea3144a": {
+      "match_id": "720ec280fb8636fb10d54d200ea3144a",
+      "commence_time": "2026-07-03T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Arthur Rinderknech",
+      "player2": "Novak Djokovic",
+      "bookmakers": {
+        "onexbet": {
+          "Arthur Rinderknech": 8.05,
+          "Novak Djokovic": 1.11
+        },
+        "draftkings": {
+          "Arthur Rinderknech": 9.0,
+          "Novak Djokovic": 1.06
+        },
+        "betfair_ex_eu": {
+          "Arthur Rinderknech": 6.4,
+          "Novak Djokovic": 1.14
+        },
+        "codere_it": {
+          "Arthur Rinderknech": 6.2,
+          "Novak Djokovic": 1.11
+        },
+        "unibet_fr": {
+          "Arthur Rinderknech": 5.4,
+          "Novak Djokovic": 1.09
+        },
+        "sport888": {
+          "Arthur Rinderknech": 11.0,
+          "Novak Djokovic": 1.04
+        },
+        "gtbets": {
+          "Arthur Rinderknech": 6.8,
+          "Novak Djokovic": 1.13
+        },
+        "mybookieag": {
+          "Arthur Rinderknech": 6.2,
+          "Novak Djokovic": 1.11
+        },
+        "fanduel": {
+          "Arthur Rinderknech": 6.9,
+          "Novak Djokovic": 1.11
+        },
+        "betclic_fr": {
+          "Arthur Rinderknech": 5.4,
+          "Novak Djokovic": 1.09
+        },
+        "marathonbet": {
+          "Arthur Rinderknech": 6.65,
+          "Novak Djokovic": 1.1
+        },
+        "betrivers": {
+          "Arthur Rinderknech": 6.5,
+          "Novak Djokovic": 1.1
+        },
+        "unibet_se": {
+          "Arthur Rinderknech": 6.5,
+          "Novak Djokovic": 1.1
+        },
+        "pmu_fr": {
+          "Arthur Rinderknech": 6.1,
+          "Novak Djokovic": 1.09
+        },
+        "leovegas_se": {
+          "Arthur Rinderknech": 6.5,
+          "Novak Djokovic": 1.1
+        },
+        "unibet_nl": {
+          "Arthur Rinderknech": 6.5,
+          "Novak Djokovic": 1.1
+        },
+        "winamax_fr": {
+          "Arthur Rinderknech": 5.0,
+          "Novak Djokovic": 1.09
+        },
+        "winamax_de": {
+          "Arthur Rinderknech": 6.0,
+          "Novak Djokovic": 1.12
+        },
+        "williamhill": {
+          "Arthur Rinderknech": 11.0,
+          "Novak Djokovic": 1.04
+        },
+        "matchbook": {
+          "Arthur Rinderknech": 5.7,
+          "Novak Djokovic": 1.14
+        },
+        "everygame": {
+          "Arthur Rinderknech": 6.5,
+          "Novak Djokovic": 1.1
+        },
+        "betmgm": {
+          "Arthur Rinderknech": 6.25,
+          "Novak Djokovic": 1.11
+        },
+        "bovada": {
+          "Arthur Rinderknech": 7.25,
+          "Novak Djokovic": 1.1
+        },
+        "tipico_de": {
+          "Arthur Rinderknech": 6.0,
+          "Novak Djokovic": 1.12
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Rinderknech",
+        "p2_name": "Novak Djokovic",
+        "p1_prob": 0.1668,
+        "p2_prob": 0.8332,
+        "predicted_winner": "Novak Djokovic",
+        "confidence": "high",
+        "p1_edge": 0.0759,
+        "p2_edge": -0.044
+      },
+      "collected_at": "2026-07-02T02:50:08.878692+00:00",
+      "result": null
+    },
+    "d0cbc86603cb62460f6d14ed211e488b": {
+      "match_id": "d0cbc86603cb62460f6d14ed211e488b",
+      "commence_time": "2026-07-03T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Felix Auger-Aliassime",
+      "player2": "Michael Zheng",
+      "bookmakers": {
+        "draftkings": {
+          "Felix Auger-Aliassime": 1.17,
+          "Michael Zheng": 5.02
+        },
+        "codere_it": {
+          "Felix Auger-Aliassime": 1.17,
+          "Michael Zheng": 4.9
+        },
+        "betfair_ex_eu": {
+          "Felix Auger-Aliassime": 1.13,
+          "Michael Zheng": 4.8
+        },
+        "marathonbet": {
+          "Felix Auger-Aliassime": 1.18,
+          "Michael Zheng": 4.9
+        },
+        "sport888": {
+          "Felix Auger-Aliassime": 1.17,
+          "Michael Zheng": 5.0
+        },
+        "fanduel": {
+          "Felix Auger-Aliassime": 1.18,
+          "Michael Zheng": 4.9
+        },
+        "unibet_fr": {
+          "Felix Auger-Aliassime": 1.15,
+          "Michael Zheng": 4.4
+        },
+        "mybookieag": {
+          "Felix Auger-Aliassime": 1.17,
+          "Michael Zheng": 4.9
+        },
+        "onexbet": {
+          "Felix Auger-Aliassime": 1.19,
+          "Michael Zheng": 5.5
+        },
+        "betclic_fr": {
+          "Felix Auger-Aliassime": 1.16,
+          "Michael Zheng": 4.6
+        },
+        "gtbets": {
+          "Felix Auger-Aliassime": 1.16,
+          "Michael Zheng": 5.09
+        },
+        "tipico_de": {
+          "Felix Auger-Aliassime": 1.16,
+          "Michael Zheng": 5.0
+        },
+        "matchbook": {
+          "Felix Auger-Aliassime": 1.12,
+          "Michael Zheng": 4.8
+        },
+        "unibet_se": {
+          "Felix Auger-Aliassime": 1.17,
+          "Michael Zheng": 5.0
+        },
+        "betrivers": {
+          "Felix Auger-Aliassime": 1.17,
+          "Michael Zheng": 5.0
+        },
+        "pmu_fr": {
+          "Felix Auger-Aliassime": 1.16,
+          "Michael Zheng": 4.8
+        },
+        "unibet_nl": {
+          "Felix Auger-Aliassime": 1.17,
+          "Michael Zheng": 5.0
+        },
+        "leovegas_se": {
+          "Felix Auger-Aliassime": 1.17,
+          "Michael Zheng": 5.0
+        },
+        "winamax_de": {
+          "Felix Auger-Aliassime": 1.17,
+          "Michael Zheng": 5.0
+        },
+        "winamax_fr": {
+          "Felix Auger-Aliassime": 1.14,
+          "Michael Zheng": 4.2
+        },
+        "everygame": {
+          "Felix Auger-Aliassime": 1.16,
+          "Michael Zheng": 5.0
+        },
+        "betmgm": {
+          "Felix Auger-Aliassime": 1.16,
+          "Michael Zheng": 5.0
+        },
+        "bovada": {
+          "Felix Auger-Aliassime": 1.18,
+          "Michael Zheng": 5.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Felix Auger-Aliassime",
+        "p2_name": "Michael Zheng",
+        "p1_prob": 0.8031,
+        "p2_prob": 0.1969,
+        "predicted_winner": "Felix Auger-Aliassime",
+        "confidence": "high",
+        "p1_edge": -0.0372,
+        "p2_edge": 0.0151
+      },
+      "collected_at": "2026-07-02T02:50:08.904074+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-01T17:51:52.451446+00:00"
+  "last_updated": "2026-07-02T02:50:08.907135+00:00"
 }
