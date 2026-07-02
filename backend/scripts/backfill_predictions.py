@@ -38,16 +38,29 @@ from data.loader  import load_all_matches, PlayerDB
 from data.store   import load_all, upsert, summary
 from ml.features  import build_feature_vector
 
-MODEL_PATH    = Path(__file__).resolve().parent.parent / "ml" / "model.joblib"
-TML_DATA_URL  = "https://stats.tennismylife.org/data/{year}.csv"
-DEDUP_DAYS    = 21  # generous window; tourney_date is the tournament's start, not the match date
+MODEL_PATH      = Path(__file__).resolve().parent.parent / "ml" / "model.joblib"
+TML_DATA_URL    = "https://stats.tennismylife.org/data/{year}.csv"
+TML_ONGOING_URL = "https://stats.tennismylife.org/data/ongoing_tourneys.csv"
+DEDUP_DAYS      = 21  # generous window; tourney_date is the tournament's start, not the match date
 
 
 def _fetch_tml_matches(year: int) -> list[dict]:
-    """Download stats.tennismylife.org's match results for one year. No API key needed."""
+    """Download TML match results for one year, merged with the ongoing-tournaments file."""
     resp = httpx.get(TML_DATA_URL.format(year=year), timeout=20)
     resp.raise_for_status()
-    return list(csv.DictReader(io.StringIO(resp.text)))
+    rows = list(csv.DictReader(io.StringIO(resp.text)))
+
+    try:
+        ongoing_resp = httpx.get(TML_ONGOING_URL, timeout=20)
+        ongoing_resp.raise_for_status()
+        ongoing_rows = list(csv.DictReader(io.StringIO(ongoing_resp.text)))
+        existing_keys = {(r.get("tourney_id"), r.get("match_num")) for r in rows}
+        rows.extend(r for r in ongoing_rows if (r.get("tourney_id"), r.get("match_num")) not in existing_keys)
+        print(f"  +{len(ongoing_rows)} rows from ongoing_tourneys.csv (merged, deduped)")
+    except Exception as e:
+        print(f"  ⚠  Could not fetch TML ongoing file: {e}")
+
+    return rows
 
 
 def _names_match(a: str, b: str) -> bool:
@@ -78,7 +91,7 @@ def run(days: int = 14) -> None:
     cutoff = datetime.now(timezone.utc).date() - timedelta(days=days)
     year   = datetime.now(timezone.utc).year
 
-    print(f"Fetching {year} results from stats.tennismylife.org…")
+    print(f"Fetching {year} results + ongoing tournaments from stats.tennismylife.org…")
     try:
         rows = _fetch_tml_matches(year)
     except Exception as e:

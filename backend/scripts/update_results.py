@@ -35,7 +35,8 @@ load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 from data.store  import load_all, update_result, summary
 from odds_client import fetch_scores
 
-TML_DATA_URL = "https://stats.tennismylife.org/data/{year}.csv"
+TML_DATA_URL    = "https://stats.tennismylife.org/data/{year}.csv"
+TML_ONGOING_URL = "https://stats.tennismylife.org/data/ongoing_tourneys.csv"
 
 
 def _winner_from_scores(score_list: list) -> str | None:
@@ -60,10 +61,21 @@ def _names_match(a: str, b: str) -> bool:
 
 
 def _fetch_tml_matches(year: int) -> list[dict]:
-    """Download stats.tennismylife.org's match results for one year. No API key needed."""
+    """Download TML match results for one year, merged with the ongoing-tournaments file."""
     resp = httpx.get(TML_DATA_URL.format(year=year), timeout=20)
     resp.raise_for_status()
-    return list(csv.DictReader(io.StringIO(resp.text)))
+    rows = list(csv.DictReader(io.StringIO(resp.text)))
+
+    try:
+        ongoing_resp = httpx.get(TML_ONGOING_URL, timeout=20)
+        ongoing_resp.raise_for_status()
+        ongoing_rows = list(csv.DictReader(io.StringIO(ongoing_resp.text)))
+        existing_keys = {(r.get("tourney_id"), r.get("match_num")) for r in rows}
+        rows.extend(r for r in ongoing_rows if (r.get("tourney_id"), r.get("match_num")) not in existing_keys)
+    except Exception as e:
+        print(f"  ⚠  Could not fetch TML ongoing file: {e}")
+
+    return rows
 
 
 def _find_tml_result(rows: list[dict], player1: str, player2: str, commence_iso: str) -> Optional[str]:
