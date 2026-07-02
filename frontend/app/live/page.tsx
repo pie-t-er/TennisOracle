@@ -13,7 +13,7 @@ import LivePredictionCard from "@/components/LivePredictionCard";
 import CompactPredictionCard from "@/components/CompactPredictionCard";
 import PredictionLogTable from "@/components/PredictionLogTable";
 import PageHelp from "@/components/PageHelp";
-import { aggregateBets, isStrategyPick, STAKE, STRATEGY_MARGIN } from "@/lib/betting";
+import { aggregateBets, isValueBet, STAKE, STRATEGY_MARGIN, STRATEGY_ODDS_MAX } from "@/lib/betting";
 
 const TOUR_STEPS = [
   {
@@ -160,7 +160,7 @@ export default function LivePage() {
     summary?.accuracy == null    ? "neutral" :
     summary.accuracy >= 0.65     ? "green"   : "red";
 
-  const betTotals = aggregateBets(log.filter(isStrategyPick));
+  const betTotals = aggregateBets(log.filter(isValueBet));
   const plAccent =
     betTotals.betsPlaced === 0 ? "neutral" :
     betTotals.totalProfit >= 0 ? "green"   : "red";
@@ -222,8 +222,8 @@ export default function LivePage() {
             }
             sub={
               betTotals.betsPlaced > 0
-                ? `${betTotals.betsWon}/${betTotals.betsPlaced} won · ≥${(STRATEGY_MARGIN * 100).toFixed(0)}% margin`
-                : `≥${(STRATEGY_MARGIN * 100).toFixed(0)}% margin picks only`
+                ? `${betTotals.betsWon}/${betTotals.betsPlaced} won · odds <${STRATEGY_ODDS_MAX} · ≥${(STRATEGY_MARGIN * 100).toFixed(0)}% margin`
+                : `odds <${STRATEGY_ODDS_MAX} · ≥${(STRATEGY_MARGIN * 100).toFixed(0)}% margin`
             }
             accent={plAccent}
           />

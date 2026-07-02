@@ -2,11 +2,22 @@ import { StoredPrediction } from "./api";
 
 export const STAKE = 10;
 
-/** Minimum |p1_prob - p2_prob| margin to qualify as a strategy pick. */
+/** Minimum |p1_prob - p2_prob| margin to qualify as a strategy pick (used for ★ badge). */
 export const STRATEGY_MARGIN = 0.35;
+
+/** Maximum decimal odds for the profitable short-odds value bet bucket. */
+export const STRATEGY_ODDS_MAX = 1.4;
 
 export function isStrategyPick(pred: StoredPrediction): boolean {
   return Math.abs(pred.prediction.p1_prob - pred.prediction.p2_prob) >= STRATEGY_MARGIN;
+}
+
+/** True if this prediction qualifies for the value-bet P&L simulation:
+ *  high confidence margin AND bookmaker odds in the profitable short-odds bucket. */
+export function isValueBet(pred: StoredPrediction): boolean {
+  if (!isStrategyPick(pred)) return false;
+  const odds = bestOdds(pred.bookmakers, pred.prediction.predicted_winner);
+  return odds != null && odds < STRATEGY_ODDS_MAX;
 }
 
 /**
