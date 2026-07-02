@@ -11833,7 +11833,11 @@
         "p2_edge": 0.0991
       },
       "collected_at": "2026-07-01T02:59:52.524383+00:00",
-      "result": null
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-07-02T17:42:38.220094+00:00"
+      }
     },
     "tml-2026-8994-5": {
       "match_id": "tml-2026-8994-5",
@@ -13025,7 +13029,589 @@
         "correct": true,
         "settled_at": "2026-07-02T14:20:47.010677+00:00"
       }
+    },
+    "1799a6bae91d8976d456143df5b616df": {
+      "match_id": "1799a6bae91d8976d456143df5b616df",
+      "commence_time": "2026-07-03T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Alex de Minaur",
+      "player2": "Zachary Svajda",
+      "bookmakers": {
+        "betsson": {
+          "Alex de Minaur": 1.15,
+          "Zachary Svajda": 5.12
+        },
+        "williamhill": {
+          "Alex de Minaur": 1.14,
+          "Zachary Svajda": 5.5
+        },
+        "matchbook": {
+          "Alex de Minaur": 1.19,
+          "Zachary Svajda": 5.6
+        },
+        "marathonbet": {
+          "Alex de Minaur": 1.17,
+          "Zachary Svajda": 5.05
+        },
+        "betfair_ex_eu": {
+          "Alex de Minaur": 1.19,
+          "Zachary Svajda": 5.5
+        },
+        "sport888": {
+          "Alex de Minaur": 1.17,
+          "Zachary Svajda": 5.0
+        },
+        "draftkings": {
+          "Alex de Minaur": 1.16,
+          "Zachary Svajda": 5.2
+        },
+        "nordicbet": {
+          "Alex de Minaur": 1.15,
+          "Zachary Svajda": 5.12
+        },
+        "onexbet": {
+          "Alex de Minaur": 1.19,
+          "Zachary Svajda": 5.66
+        },
+        "betclic_fr": {
+          "Alex de Minaur": 1.13,
+          "Zachary Svajda": 4.6
+        },
+        "unibet_fr": {
+          "Alex de Minaur": 1.12,
+          "Zachary Svajda": 4.35
+        },
+        "fanduel": {
+          "Alex de Minaur": 1.14,
+          "Zachary Svajda": 5.8
+        },
+        "mybookieag": {
+          "Alex de Minaur": 1.15,
+          "Zachary Svajda": 5.1
+        },
+        "codere_it": {
+          "Alex de Minaur": 1.16,
+          "Zachary Svajda": 5.2
+        },
+        "gtbets": {
+          "Alex de Minaur": 1.19,
+          "Zachary Svajda": 4.84
+        },
+        "tipico_de": {
+          "Alex de Minaur": 1.14,
+          "Zachary Svajda": 5.5
+        },
+        "winamax_fr": {
+          "Alex de Minaur": 1.12,
+          "Zachary Svajda": 4.4
+        },
+        "winamax_de": {
+          "Alex de Minaur": 1.16,
+          "Zachary Svajda": 5.2
+        },
+        "pmu_fr": {
+          "Alex de Minaur": 1.16,
+          "Zachary Svajda": 4.5
+        },
+        "betrivers": {
+          "Alex de Minaur": 1.17,
+          "Zachary Svajda": 4.5
+        },
+        "leovegas_se": {
+          "Alex de Minaur": 1.17,
+          "Zachary Svajda": 4.5
+        },
+        "unibet_se": {
+          "Alex de Minaur": 1.17,
+          "Zachary Svajda": 4.5
+        },
+        "unibet_nl": {
+          "Alex de Minaur": 1.17,
+          "Zachary Svajda": 4.5
+        },
+        "pinnacle": {
+          "Alex de Minaur": 1.19,
+          "Zachary Svajda": 5.31
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex De Minaur",
+        "p2_name": "Zachary Svajda",
+        "p1_prob": 0.8386,
+        "p2_prob": 0.1614,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": -0.0017,
+        "p2_edge": -0.011
+      },
+      "collected_at": "2026-07-02T17:42:42.248402+00:00",
+      "result": null
+    },
+    "40f075c68595d809bd4835c234817431": {
+      "match_id": "40f075c68595d809bd4835c234817431",
+      "commence_time": "2026-07-03T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Taylor Fritz",
+      "player2": "Lorenzo Sonego",
+      "bookmakers": {
+        "betsson": {
+          "Lorenzo Sonego": 6.09,
+          "Taylor Fritz": 1.11
+        },
+        "marathonbet": {
+          "Lorenzo Sonego": 6.05,
+          "Taylor Fritz": 1.12
+        },
+        "betfair_ex_eu": {
+          "Lorenzo Sonego": 6.8,
+          "Taylor Fritz": 1.15
+        },
+        "nordicbet": {
+          "Lorenzo Sonego": 6.09,
+          "Taylor Fritz": 1.11
+        },
+        "sport888": {
+          "Lorenzo Sonego": 6.5,
+          "Taylor Fritz": 1.11
+        },
+        "unibet_fr": {
+          "Lorenzo Sonego": 4.9,
+          "Taylor Fritz": 1.09
+        },
+        "onexbet": {
+          "Lorenzo Sonego": 7.12,
+          "Taylor Fritz": 1.14
+        },
+        "gtbets": {
+          "Lorenzo Sonego": 5.69,
+          "Taylor Fritz": 1.19
+        },
+        "draftkings": {
+          "Lorenzo Sonego": 5.7,
+          "Taylor Fritz": 1.14
+        },
+        "williamhill": {
+          "Lorenzo Sonego": 5.0,
+          "Taylor Fritz": 1.17
+        },
+        "codere_it": {
+          "Lorenzo Sonego": 6.0,
+          "Taylor Fritz": 1.12
+        },
+        "fanduel": {
+          "Lorenzo Sonego": 6.9,
+          "Taylor Fritz": 1.11
+        },
+        "mybookieag": {
+          "Lorenzo Sonego": 6.0,
+          "Taylor Fritz": 1.12
+        },
+        "betclic_fr": {
+          "Lorenzo Sonego": 5.2,
+          "Taylor Fritz": 1.1
+        },
+        "winamax_fr": {
+          "Lorenzo Sonego": 5.0,
+          "Taylor Fritz": 1.09
+        },
+        "winamax_de": {
+          "Lorenzo Sonego": 6.0,
+          "Taylor Fritz": 1.12
+        },
+        "tipico_de": {
+          "Lorenzo Sonego": 6.2,
+          "Taylor Fritz": 1.11
+        },
+        "betrivers": {
+          "Lorenzo Sonego": 5.4,
+          "Taylor Fritz": 1.15
+        },
+        "unibet_nl": {
+          "Lorenzo Sonego": 5.4,
+          "Taylor Fritz": 1.15
+        },
+        "leovegas_se": {
+          "Lorenzo Sonego": 5.4,
+          "Taylor Fritz": 1.15
+        },
+        "unibet_se": {
+          "Lorenzo Sonego": 5.4,
+          "Taylor Fritz": 1.15
+        },
+        "pmu_fr": {
+          "Lorenzo Sonego": 5.1,
+          "Taylor Fritz": 1.12
+        },
+        "matchbook": {
+          "Lorenzo Sonego": 7.0,
+          "Taylor Fritz": 1.15
+        },
+        "bovada": {
+          "Lorenzo Sonego": 6.25,
+          "Taylor Fritz": 1.12
+        },
+        "pinnacle": {
+          "Lorenzo Sonego": 6.62,
+          "Taylor Fritz": 1.14
+        }
+      },
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Lorenzo Sonego",
+        "p1_prob": 0.755,
+        "p2_prob": 0.245,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "high",
+        "p1_edge": -0.0853,
+        "p2_edge": 0.1046
+      },
+      "collected_at": "2026-07-02T17:42:42.262970+00:00",
+      "result": null
+    },
+    "406c1338806c9708394e54c4f97c77e6": {
+      "match_id": "406c1338806c9708394e54c4f97c77e6",
+      "commence_time": "2026-07-03T11:30:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Rafael Jodar",
+      "player2": "Shintaro Mochizuki",
+      "bookmakers": {
+        "matchbook": {
+          "Rafael Jodar": 1.35,
+          "Shintaro Mochizuki": 3.75
+        },
+        "draftkings": {
+          "Rafael Jodar": 1.32,
+          "Shintaro Mochizuki": 3.38
+        },
+        "unibet_fr": {
+          "Rafael Jodar": 1.27,
+          "Shintaro Mochizuki": 3.1
+        },
+        "gtbets": {
+          "Rafael Jodar": 1.29,
+          "Shintaro Mochizuki": 3.65
+        },
+        "betfair_ex_eu": {
+          "Rafael Jodar": 1.35,
+          "Shintaro Mochizuki": 3.75
+        },
+        "winamax_fr": {
+          "Rafael Jodar": 1.28,
+          "Shintaro Mochizuki": 3.1
+        },
+        "winamax_de": {
+          "Rafael Jodar": 1.32,
+          "Shintaro Mochizuki": 3.4
+        },
+        "marathonbet": {
+          "Rafael Jodar": 1.27,
+          "Shintaro Mochizuki": 3.74
+        },
+        "codere_it": {
+          "Rafael Jodar": 1.32,
+          "Shintaro Mochizuki": 3.4
+        },
+        "tipico_de": {
+          "Rafael Jodar": 1.3,
+          "Shintaro Mochizuki": 3.4
+        },
+        "fanduel": {
+          "Rafael Jodar": 1.3,
+          "Shintaro Mochizuki": 3.6
+        },
+        "betclic_fr": {
+          "Rafael Jodar": 1.28,
+          "Shintaro Mochizuki": 3.15
+        },
+        "onexbet": {
+          "Rafael Jodar": 1.3,
+          "Shintaro Mochizuki": 4.01
+        },
+        "mybookieag": {
+          "Rafael Jodar": 1.26,
+          "Shintaro Mochizuki": 3.85
+        },
+        "betsson": {
+          "Rafael Jodar": 1.31,
+          "Shintaro Mochizuki": 3.35
+        },
+        "nordicbet": {
+          "Rafael Jodar": 1.31,
+          "Shintaro Mochizuki": 3.35
+        },
+        "leovegas_se": {
+          "Rafael Jodar": 1.26,
+          "Shintaro Mochizuki": 3.85
+        },
+        "unibet_se": {
+          "Rafael Jodar": 1.26,
+          "Shintaro Mochizuki": 3.85
+        },
+        "pmu_fr": {
+          "Rafael Jodar": 1.23,
+          "Shintaro Mochizuki": 3.7
+        },
+        "betrivers": {
+          "Rafael Jodar": 1.26,
+          "Shintaro Mochizuki": 3.85
+        },
+        "unibet_nl": {
+          "Rafael Jodar": 1.26,
+          "Shintaro Mochizuki": 3.85
+        },
+        "sport888": {
+          "Rafael Jodar": 1.33,
+          "Shintaro Mochizuki": 3.3
+        },
+        "williamhill": {
+          "Rafael Jodar": 1.25,
+          "Shintaro Mochizuki": 4.0
+        },
+        "bovada": {
+          "Rafael Jodar": 1.31,
+          "Shintaro Mochizuki": 3.6
+        },
+        "pinnacle": {
+          "Rafael Jodar": 1.34,
+          "Shintaro Mochizuki": 3.5
+        }
+      },
+      "prediction": {
+        "p1_name": "Rafael Jodar",
+        "p2_name": "Shintaro Mochizuki",
+        "p1_prob": 0.8092,
+        "p2_prob": 0.1908,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "high",
+        "p1_edge": 0.0685,
+        "p2_edge": -0.0586
+      },
+      "collected_at": "2026-07-02T17:42:42.287369+00:00",
+      "result": null
+    },
+    "12df758952eccf871f7ebc3ebc5e4f7d": {
+      "match_id": "12df758952eccf871f7ebc3ebc5e4f7d",
+      "commence_time": "2026-07-04T10:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Marcos Giron",
+      "player2": "Alexander Zverev",
+      "bookmakers": {
+        "pmu_fr": {
+          "Alexander Zverev": 1.06,
+          "Marcos Giron": 7.5
+        },
+        "unibet_se": {
+          "Alexander Zverev": 1.06,
+          "Marcos Giron": 7.5
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.06,
+          "Marcos Giron": 7.5
+        },
+        "betrivers": {
+          "Alexander Zverev": 1.06,
+          "Marcos Giron": 7.5
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.06,
+          "Marcos Giron": 7.5
+        },
+        "marathonbet": {
+          "Alexander Zverev": 1.07,
+          "Marcos Giron": 8.5
+        },
+        "sport888": {
+          "Alexander Zverev": 1.04,
+          "Marcos Giron": 11.0
+        },
+        "onexbet": {
+          "Alexander Zverev": 1.07,
+          "Marcos Giron": 11.6
+        },
+        "betfair_ex_eu": {
+          "Alexander Zverev": 1.06,
+          "Marcos Giron": 10.0
+        },
+        "draftkings": {
+          "Alexander Zverev": 1.05,
+          "Marcos Giron": 9.9
+        },
+        "nordicbet": {
+          "Alexander Zverev": 1.06,
+          "Marcos Giron": 8.03
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 1.06,
+          "Marcos Giron": 6.6
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.05,
+          "Marcos Giron": 5.9
+        },
+        "betsson": {
+          "Alexander Zverev": 1.06,
+          "Marcos Giron": 8.03
+        },
+        "fanduel": {
+          "Alexander Zverev": 1.06,
+          "Marcos Giron": 9.6
+        },
+        "gtbets": {
+          "Alexander Zverev": 1.09,
+          "Marcos Giron": 8.23
+        },
+        "mybookieag": {
+          "Alexander Zverev": 1.06,
+          "Marcos Giron": 8.3
+        },
+        "codere_it": {
+          "Alexander Zverev": 1.07,
+          "Marcos Giron": 8.0
+        },
+        "matchbook": {
+          "Alexander Zverev": 1.06,
+          "Marcos Giron": 9.2
+        },
+        "williamhill": {
+          "Alexander Zverev": 1.06,
+          "Marcos Giron": 9.0
+        },
+        "tipico_de": {
+          "Alexander Zverev": 1.07,
+          "Marcos Giron": 8.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Marcos Giron",
+        "p2_name": "Alexander Zverev",
+        "p1_prob": 0.0877,
+        "p2_prob": 0.9123,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": 0.0015,
+        "p2_edge": -0.0051
+      },
+      "collected_at": "2026-07-02T17:42:42.374806+00:00",
+      "result": null
+    },
+    "f96720ebe957199507985213c07f5afb": {
+      "match_id": "f96720ebe957199507985213c07f5afb",
+      "commence_time": "2026-07-04T10:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Zizou Bergs",
+      "player2": "Arthur Fery",
+      "bookmakers": {
+        "pmu_fr": {
+          "Arthur Fery": 2.23,
+          "Zizou Bergs": 1.57
+        },
+        "marathonbet": {
+          "Arthur Fery": 2.31,
+          "Zizou Bergs": 1.61
+        },
+        "betfair_ex_eu": {
+          "Arthur Fery": 2.28,
+          "Zizou Bergs": 1.52
+        },
+        "matchbook": {
+          "Arthur Fery": 2.08,
+          "Zizou Bergs": 1.53
+        },
+        "leovegas_se": {
+          "Arthur Fery": 2.23,
+          "Zizou Bergs": 1.57
+        },
+        "onexbet": {
+          "Arthur Fery": 2.39,
+          "Zizou Bergs": 1.66
+        },
+        "sport888": {
+          "Arthur Fery": 2.3,
+          "Zizou Bergs": 1.61
+        },
+        "unibet_se": {
+          "Arthur Fery": 2.23,
+          "Zizou Bergs": 1.57
+        },
+        "betrivers": {
+          "Arthur Fery": 2.23,
+          "Zizou Bergs": 1.57
+        },
+        "unibet_nl": {
+          "Arthur Fery": 2.23,
+          "Zizou Bergs": 1.57
+        },
+        "betsson": {
+          "Arthur Fery": 2.22,
+          "Zizou Bergs": 1.63
+        },
+        "draftkings": {
+          "Arthur Fery": 2.34,
+          "Zizou Bergs": 1.59
+        },
+        "nordicbet": {
+          "Arthur Fery": 2.22,
+          "Zizou Bergs": 1.63
+        },
+        "winamax_fr": {
+          "Arthur Fery": 2.1,
+          "Zizou Bergs": 1.56
+        },
+        "winamax_de": {
+          "Arthur Fery": 2.25,
+          "Zizou Bergs": 1.64
+        },
+        "unibet_fr": {
+          "Arthur Fery": 2.1,
+          "Zizou Bergs": 1.56
+        },
+        "fanduel": {
+          "Arthur Fery": 2.28,
+          "Zizou Bergs": 1.65
+        },
+        "williamhill": {
+          "Arthur Fery": 2.3,
+          "Zizou Bergs": 1.62
+        },
+        "codere_it": {
+          "Arthur Fery": 2.23,
+          "Zizou Bergs": 1.64
+        },
+        "betclic_fr": {
+          "Arthur Fery": 2.13,
+          "Zizou Bergs": 1.59
+        },
+        "mybookieag": {
+          "Arthur Fery": 2.23,
+          "Zizou Bergs": 1.64
+        },
+        "gtbets": {
+          "Arthur Fery": 2.31,
+          "Zizou Bergs": 1.62
+        },
+        "tipico_de": {
+          "Arthur Fery": 2.25,
+          "Zizou Bergs": 1.62
+        }
+      },
+      "prediction": {
+        "p1_name": "Zizou Bergs",
+        "p2_name": "Arthur Fery",
+        "p1_prob": 0.6685,
+        "p2_prob": 0.3315,
+        "predicted_winner": "Zizou Bergs",
+        "confidence": "high",
+        "p1_edge": 0.0661,
+        "p2_edge": -0.0869
+      },
+      "collected_at": "2026-07-02T17:42:42.390657+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-02T14:20:47.013146+00:00"
+  "last_updated": "2026-07-02T17:42:42.392590+00:00"
 }
