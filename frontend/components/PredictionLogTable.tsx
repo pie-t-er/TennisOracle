@@ -263,7 +263,7 @@ export default function PredictionLogTable({
                               {pred.surface}
                             </span>
                             {isStrategy && (
-                              <span className="text-[10px] px-1.5 py-0 rounded font-semibold bg-amber-900/40 text-amber-300 border border-amber-700/50">
+                              <span className="inline-flex items-center justify-center leading-none text-[10px] px-1.5 py-0.5 rounded bg-amber-900/40 text-amber-300 border border-amber-700/50">
                                 ★
                               </span>
                             )}
