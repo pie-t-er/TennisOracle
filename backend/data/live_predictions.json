@@ -10983,7 +10983,11 @@
         "p2_edge": 0.0292
       },
       "collected_at": "2026-07-01T02:59:52.288798+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Bublik",
+        "correct": true,
+        "settled_at": "2026-07-03T17:21:01.246743+00:00"
+      }
     },
     "bf6a95af213cd848efe457438509a999": {
       "match_id": "bf6a95af213cd848efe457438509a999",
@@ -11351,7 +11355,11 @@
         "p2_edge": -0.0518
       },
       "collected_at": "2026-07-01T02:59:52.399208+00:00",
-      "result": null
+      "result": {
+        "winner": "Grigor Dimitrov",
+        "correct": false,
+        "settled_at": "2026-07-03T17:21:01.266959+00:00"
+      }
     },
     "2a1634e9fe0b4381b834507184b0c0ae": {
       "match_id": "2a1634e9fe0b4381b834507184b0c0ae",
@@ -12366,7 +12374,11 @@
         "p2_edge": -0.0538
       },
       "collected_at": "2026-07-01T17:51:52.249711+00:00",
-      "result": null
+      "result": {
+        "winner": "Roman Safiullin",
+        "correct": false,
+        "settled_at": "2026-07-03T17:21:01.289579+00:00"
+      }
     },
     "aed2eee3003707dd3092f0e35a79a06c": {
       "match_id": "aed2eee3003707dd3092f0e35a79a06c",
@@ -12708,7 +12720,11 @@
         "p2_edge": 0.0935
       },
       "collected_at": "2026-07-01T17:51:52.448039+00:00",
-      "result": null
+      "result": {
+        "winner": "Frances Tiafoe",
+        "correct": true,
+        "settled_at": "2026-07-03T17:21:01.309818+00:00"
+      }
     },
     "720ec280fb8636fb10d54d200ea3144a": {
       "match_id": "720ec280fb8636fb10d54d200ea3144a",
@@ -14175,7 +14191,219 @@
       },
       "collected_at": "2026-07-03T02:33:15.206194+00:00",
       "result": null
+    },
+    "33d743c6c7f340fc12116afe18357802": {
+      "match_id": "33d743c6c7f340fc12116afe18357802",
+      "commence_time": "2026-07-05T10:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Jannik Sinner",
+      "player2": "Shintaro Mochizuki",
+      "bookmakers": {
+        "onexbet": {
+          "Jannik Sinner": 1.02,
+          "Shintaro Mochizuki": 23.0
+        },
+        "coolbet": {
+          "Jannik Sinner": 1.02,
+          "Shintaro Mochizuki": 20.0
+        },
+        "leovegas_se": {
+          "Jannik Sinner": 1.01,
+          "Shintaro Mochizuki": 18.0
+        },
+        "betrivers": {
+          "Jannik Sinner": 1.01,
+          "Shintaro Mochizuki": 18.0
+        },
+        "unibet_nl": {
+          "Jannik Sinner": 1.01,
+          "Shintaro Mochizuki": 18.0
+        },
+        "unibet_se": {
+          "Jannik Sinner": 1.01,
+          "Shintaro Mochizuki": 18.0
+        },
+        "betfair_ex_eu": {
+          "Jannik Sinner": 1.03,
+          "Shintaro Mochizuki": 26.0
+        },
+        "marathonbet": {
+          "Jannik Sinner": 1.0,
+          "Shintaro Mochizuki": 17.5
+        },
+        "williamhill": {
+          "Jannik Sinner": 1.01,
+          "Shintaro Mochizuki": 23.0
+        },
+        "nordicbet": {
+          "Jannik Sinner": 1.01,
+          "Shintaro Mochizuki": 16.0
+        },
+        "winamax_de": {
+          "Jannik Sinner": 1.01,
+          "Shintaro Mochizuki": 16.0
+        },
+        "betsson": {
+          "Jannik Sinner": 1.01,
+          "Shintaro Mochizuki": 16.0
+        },
+        "winamax_fr": {
+          "Jannik Sinner": 1.0,
+          "Shintaro Mochizuki": 8.5
+        },
+        "fanduel": {
+          "Jannik Sinner": 1.01,
+          "Shintaro Mochizuki": 21.0
+        },
+        "codere_it": {
+          "Jannik Sinner": 1.01,
+          "Shintaro Mochizuki": 14.0
+        },
+        "betclic_fr": {
+          "Jannik Sinner": 1.01,
+          "Shintaro Mochizuki": 9.4
+        },
+        "tipico_de": {
+          "Jannik Sinner": 1.01,
+          "Shintaro Mochizuki": 14.0
+        },
+        "sport888": {
+          "Jannik Sinner": 1.01,
+          "Shintaro Mochizuki": 21.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Jannik Sinner",
+        "p2_name": "Shintaro Mochizuki",
+        "p1_prob": 0.9657,
+        "p2_prob": 0.0343,
+        "predicted_winner": "Jannik Sinner",
+        "confidence": "high",
+        "p1_edge": -0.0052,
+        "p2_edge": -0.0042
+      },
+      "collected_at": "2026-07-03T17:21:06.682838+00:00",
+      "result": null
+    },
+    "44a55068b95674016667af4bf1a49145": {
+      "match_id": "44a55068b95674016667af4bf1a49145",
+      "commence_time": "2026-07-05T10:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Roman Safiullin",
+      "player2": "Novak Djokovic",
+      "bookmakers": {
+        "coolbet": {
+          "Novak Djokovic": 1.17,
+          "Roman Safiullin": 5.7
+        },
+        "betrivers": {
+          "Novak Djokovic": 1.11,
+          "Roman Safiullin": 5.75
+        },
+        "leovegas_se": {
+          "Novak Djokovic": 1.11,
+          "Roman Safiullin": 5.75
+        },
+        "pmu_fr": {
+          "Novak Djokovic": 1.11,
+          "Roman Safiullin": 5.75
+        },
+        "betfair_ex_eu": {
+          "Novak Djokovic": 1.16,
+          "Roman Safiullin": 4.4
+        },
+        "unibet_nl": {
+          "Novak Djokovic": 1.11,
+          "Roman Safiullin": 5.75
+        },
+        "onexbet": {
+          "Novak Djokovic": 1.15,
+          "Roman Safiullin": 6.75
+        },
+        "unibet_se": {
+          "Novak Djokovic": 1.11,
+          "Roman Safiullin": 5.75
+        },
+        "sport888": {
+          "Novak Djokovic": 1.12,
+          "Roman Safiullin": 6.0
+        },
+        "marathonbet": {
+          "Novak Djokovic": 1.14,
+          "Roman Safiullin": 5.7
+        },
+        "draftkings": {
+          "Novak Djokovic": 1.15,
+          "Roman Safiullin": 5.32
+        },
+        "williamhill": {
+          "Novak Djokovic": 1.14,
+          "Roman Safiullin": 5.5
+        },
+        "unibet_fr": {
+          "Novak Djokovic": 1.11,
+          "Roman Safiullin": 4.6
+        },
+        "nordicbet": {
+          "Novak Djokovic": 1.14,
+          "Roman Safiullin": 5.45
+        },
+        "winamax_de": {
+          "Novak Djokovic": 1.14,
+          "Roman Safiullin": 5.5
+        },
+        "betsson": {
+          "Novak Djokovic": 1.14,
+          "Roman Safiullin": 5.45
+        },
+        "winamax_fr": {
+          "Novak Djokovic": 1.11,
+          "Roman Safiullin": 4.6
+        },
+        "gtbets": {
+          "Novak Djokovic": 1.14,
+          "Roman Safiullin": 5.48
+        },
+        "fanduel": {
+          "Novak Djokovic": 1.13,
+          "Roman Safiullin": 6.2
+        },
+        "codere_it": {
+          "Novak Djokovic": 1.14,
+          "Roman Safiullin": 5.6
+        },
+        "betclic_fr": {
+          "Novak Djokovic": 1.12,
+          "Roman Safiullin": 4.8
+        },
+        "mybookieag": {
+          "Novak Djokovic": 1.14,
+          "Roman Safiullin": 5.4
+        },
+        "tipico_de": {
+          "Novak Djokovic": 1.15,
+          "Roman Safiullin": 5.3
+        },
+        "matchbook": {
+          "Novak Djokovic": 1.16,
+          "Roman Safiullin": 5.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Roman Safiullin",
+        "p2_name": "Novak Djokovic",
+        "p1_prob": 0.1082,
+        "p2_prob": 0.8918,
+        "predicted_winner": "Novak Djokovic",
+        "confidence": "high",
+        "p1_edge": -0.0399,
+        "p2_edge": 0.0371
+      },
+      "collected_at": "2026-07-03T17:21:06.710672+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-03T02:33:15.248864+00:00"
+  "last_updated": "2026-07-03T17:21:06.714146+00:00"
 }
