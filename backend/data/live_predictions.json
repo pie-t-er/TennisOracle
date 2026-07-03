@@ -7104,7 +7104,11 @@
         "p2_edge": -0.0613
       },
       "collected_at": "2026-06-29T18:06:45.076912+00:00",
-      "result": null
+      "result": {
+        "winner": "Rafael Jodar",
+        "correct": true,
+        "settled_at": "2026-07-03T02:33:08.361066+00:00"
+      }
     },
     "62d9401b4e524150c2992b29bb460a1a": {
       "match_id": "62d9401b4e524150c2992b29bb460a1a",
@@ -8180,7 +8184,11 @@
         "p2_edge": 0.1311
       },
       "collected_at": "2026-06-30T16:22:21.954158+00:00",
-      "result": null
+      "result": {
+        "winner": "Jan-Lennard Struff",
+        "correct": false,
+        "settled_at": "2026-07-03T02:33:08.379863+00:00"
+      }
     },
     "daeaedb477e01f4db0186e37a820bbf0": {
       "match_id": "daeaedb477e01f4db0186e37a820bbf0",
@@ -8352,7 +8360,11 @@
         "p2_edge": -0.0248
       },
       "collected_at": "2026-06-30T16:22:22.022470+00:00",
-      "result": null
+      "result": {
+        "winner": "Zachary Svajda",
+        "correct": false,
+        "settled_at": "2026-07-03T02:33:08.398583+00:00"
+      }
     },
     "tml-2026-311-4": {
       "match_id": "tml-2026-311-4",
@@ -10857,7 +10869,11 @@
         "p2_edge": -0.0979
       },
       "collected_at": "2026-06-30T17:50:07.711673+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fery",
+        "correct": true,
+        "settled_at": "2026-07-03T02:33:08.417361+00:00"
+      }
     },
     "5316dcc5c0e7a6949cca3612252e4062": {
       "match_id": "5316dcc5c0e7a6949cca3612252e4062",
@@ -11049,7 +11065,11 @@
         "p2_edge": -0.0271
       },
       "collected_at": "2026-07-01T02:59:52.313144+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-07-03T02:33:08.438233+00:00"
+      }
     },
     "9d5f5d50421cb63cd02de4f11ad91baa": {
       "match_id": "9d5f5d50421cb63cd02de4f11ad91baa",
@@ -11143,7 +11163,11 @@
         "p2_edge": 0.0011
       },
       "collected_at": "2026-07-01T02:59:52.348706+00:00",
-      "result": null
+      "result": {
+        "winner": "Matteo Berrettini",
+        "correct": false,
+        "settled_at": "2026-07-03T02:33:08.457402+00:00"
+      }
     },
     "6f6bf7e8a3cf4f51b6e4a1275a8ab192": {
       "match_id": "6f6bf7e8a3cf4f51b6e4a1275a8ab192",
@@ -11233,7 +11257,11 @@
         "p2_edge": -0.0378
       },
       "collected_at": "2026-07-01T02:59:52.373871+00:00",
-      "result": null
+      "result": {
+        "winner": "Lorenzo Sonego",
+        "correct": false,
+        "settled_at": "2026-07-03T02:33:08.476448+00:00"
+      }
     },
     "fd09cf3c860ea9a59a315a30c7dd6edf": {
       "match_id": "fd09cf3c860ea9a59a315a30c7dd6edf",
@@ -11433,7 +11461,11 @@
         "p2_edge": -0.1223
       },
       "collected_at": "2026-07-01T02:59:52.424202+00:00",
-      "result": null
+      "result": {
+        "winner": "Jaume Munar",
+        "correct": false,
+        "settled_at": "2026-07-03T02:33:08.496137+00:00"
+      }
     },
     "e5d6695710cc298e0db270379849262d": {
       "match_id": "e5d6695710cc298e0db270379849262d",
@@ -11543,7 +11575,11 @@
         "p2_edge": -0.0045
       },
       "collected_at": "2026-07-01T02:59:52.448798+00:00",
-      "result": null
+      "result": {
+        "winner": "Zizou Bergs",
+        "correct": true,
+        "settled_at": "2026-07-03T02:33:08.515017+00:00"
+      }
     },
     "377d4696b263ff2928903f63e3fb4267": {
       "match_id": "377d4696b263ff2928903f63e3fb4267",
@@ -11649,7 +11685,11 @@
         "p2_edge": -0.0396
       },
       "collected_at": "2026-07-01T02:59:52.473907+00:00",
-      "result": null
+      "result": {
+        "winner": "Karen Khachanov",
+        "correct": true,
+        "settled_at": "2026-07-03T02:33:08.533944+00:00"
+      }
     },
     "aa6224b44f576d8ed159ea20228dbda7": {
       "match_id": "aa6224b44f576d8ed159ea20228dbda7",
@@ -11735,7 +11775,11 @@
         "p2_edge": -0.0481
       },
       "collected_at": "2026-07-01T02:59:52.499239+00:00",
-      "result": null
+      "result": {
+        "winner": "Marcos Giron",
+        "correct": false,
+        "settled_at": "2026-07-03T02:33:08.552959+00:00"
+      }
     },
     "8410e2f4af6e059adc7db5233459178d": {
       "match_id": "8410e2f4af6e059adc7db5233459178d",
@@ -12444,7 +12488,11 @@
         "p2_edge": -0.0075
       },
       "collected_at": "2026-07-01T17:51:52.395426+00:00",
-      "result": null
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": true,
+        "settled_at": "2026-07-03T02:33:08.575067+00:00"
+      }
     },
     "2b12534ecdcaab534f59119c12dbca56": {
       "match_id": "2b12534ecdcaab534f59119c12dbca56",
@@ -12562,7 +12610,11 @@
         "p2_edge": 0.0568
       },
       "collected_at": "2026-07-01T17:51:52.421686+00:00",
-      "result": null
+      "result": {
+        "winner": "Flavio Cobolli",
+        "correct": true,
+        "settled_at": "2026-07-03T02:33:08.593977+00:00"
+      }
     },
     "12aa9566b8347a7b4d31415a1b9c6965": {
       "match_id": "12aa9566b8347a7b4d31415a1b9c6965",
@@ -13611,7 +13663,519 @@
       },
       "collected_at": "2026-07-02T17:42:42.390657+00:00",
       "result": null
+    },
+    "0dcdb7b775c9c9802fb54feb8b1f1593": {
+      "match_id": "0dcdb7b775c9c9802fb54feb8b1f1593",
+      "commence_time": "2026-07-04T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Frances Tiafoe",
+      "player2": "Alexander Bublik",
+      "bookmakers": {
+        "unibet_fr": {
+          "Alexander Bublik": 2.05,
+          "Frances Tiafoe": 1.68
+        },
+        "nordicbet": {
+          "Alexander Bublik": 2.1,
+          "Frances Tiafoe": 1.7
+        },
+        "winamax_fr": {
+          "Alexander Bublik": 2.0,
+          "Frances Tiafoe": 1.62
+        },
+        "winamax_de": {
+          "Alexander Bublik": 2.1,
+          "Frances Tiafoe": 1.72
+        },
+        "betfair_ex_eu": {
+          "Alexander Bublik": 2.12,
+          "Frances Tiafoe": 1.62
+        },
+        "draftkings": {
+          "Alexander Bublik": 2.11,
+          "Frances Tiafoe": 1.71
+        },
+        "gtbets": {
+          "Alexander Bublik": 2.08,
+          "Frances Tiafoe": 1.76
+        },
+        "betsson": {
+          "Alexander Bublik": 2.1,
+          "Frances Tiafoe": 1.7
+        },
+        "sport888": {
+          "Alexander Bublik": 2.1,
+          "Frances Tiafoe": 1.73
+        },
+        "mybookieag": {
+          "Alexander Bublik": 2.11,
+          "Frances Tiafoe": 1.71
+        },
+        "codere_it": {
+          "Alexander Bublik": 2.11,
+          "Frances Tiafoe": 1.71
+        },
+        "betclic_fr": {
+          "Alexander Bublik": 2.02,
+          "Frances Tiafoe": 1.65
+        },
+        "coolbet": {
+          "Alexander Bublik": 2.15,
+          "Frances Tiafoe": 1.77
+        },
+        "onexbet": {
+          "Alexander Bublik": 2.18,
+          "Frances Tiafoe": 1.78
+        },
+        "fanduel": {
+          "Alexander Bublik": 2.14,
+          "Frances Tiafoe": 1.73
+        },
+        "marathonbet": {
+          "Alexander Bublik": 2.11,
+          "Frances Tiafoe": 1.72
+        },
+        "betmgm": {
+          "Alexander Bublik": 2.1,
+          "Frances Tiafoe": 1.71
+        },
+        "matchbook": {
+          "Alexander Bublik": 2.1,
+          "Frances Tiafoe": 1.63
+        },
+        "williamhill": {
+          "Alexander Bublik": 2.1,
+          "Frances Tiafoe": 1.73
+        },
+        "pmu_fr": {
+          "Alexander Bublik": 2.05,
+          "Frances Tiafoe": 1.68
+        },
+        "unibet_nl": {
+          "Alexander Bublik": 2.1,
+          "Frances Tiafoe": 1.73
+        },
+        "betrivers": {
+          "Alexander Bublik": 2.1,
+          "Frances Tiafoe": 1.73
+        },
+        "leovegas_se": {
+          "Alexander Bublik": 2.1,
+          "Frances Tiafoe": 1.73
+        },
+        "unibet_se": {
+          "Alexander Bublik": 2.1,
+          "Frances Tiafoe": 1.73
+        },
+        "tipico_de": {
+          "Alexander Bublik": 2.1,
+          "Frances Tiafoe": 1.7
+        },
+        "everygame": {
+          "Alexander Bublik": 2.1,
+          "Frances Tiafoe": 1.7
+        },
+        "bovada": {
+          "Alexander Bublik": 2.15,
+          "Frances Tiafoe": 1.71
+        }
+      },
+      "prediction": {
+        "p1_name": "Frances Tiafoe",
+        "p2_name": "Alexander Bublik",
+        "p1_prob": 0.4341,
+        "p2_prob": 0.5659,
+        "predicted_winner": "Alexander Bublik",
+        "confidence": "medium",
+        "p1_edge": -0.1277,
+        "p2_edge": 0.1072
+      },
+      "collected_at": "2026-07-03T02:33:15.122873+00:00",
+      "result": null
+    },
+    "7524184c36ede122c2c1cc353af1b2d3": {
+      "match_id": "7524184c36ede122c2c1cc353af1b2d3",
+      "commence_time": "2026-07-04T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Karen Khachanov",
+      "player2": "Flavio Cobolli",
+      "bookmakers": {
+        "marathonbet": {
+          "Flavio Cobolli": 1.98,
+          "Karen Khachanov": 1.82
+        },
+        "nordicbet": {
+          "Flavio Cobolli": 2.03,
+          "Karen Khachanov": 1.75
+        },
+        "betfair_ex_eu": {
+          "Flavio Cobolli": 2.16,
+          "Karen Khachanov": 1.84
+        },
+        "unibet_fr": {
+          "Flavio Cobolli": 1.95,
+          "Karen Khachanov": 1.77
+        },
+        "sport888": {
+          "Flavio Cobolli": 1.95,
+          "Karen Khachanov": 1.85
+        },
+        "draftkings": {
+          "Flavio Cobolli": 1.93,
+          "Karen Khachanov": 1.85
+        },
+        "betsson": {
+          "Flavio Cobolli": 2.03,
+          "Karen Khachanov": 1.75
+        },
+        "onexbet": {
+          "Flavio Cobolli": 2.04,
+          "Karen Khachanov": 1.89
+        },
+        "fanduel": {
+          "Flavio Cobolli": 2.0,
+          "Karen Khachanov": 1.83
+        },
+        "betclic_fr": {
+          "Flavio Cobolli": 1.91,
+          "Karen Khachanov": 1.74
+        },
+        "codere_it": {
+          "Flavio Cobolli": 1.98,
+          "Karen Khachanov": 1.8
+        },
+        "mybookieag": {
+          "Flavio Cobolli": 1.98,
+          "Karen Khachanov": 1.8
+        },
+        "gtbets": {
+          "Flavio Cobolli": 2.04,
+          "Karen Khachanov": 1.78
+        },
+        "williamhill": {
+          "Flavio Cobolli": 1.95,
+          "Karen Khachanov": 1.85
+        },
+        "bovada": {
+          "Flavio Cobolli": 2.0,
+          "Karen Khachanov": 1.83
+        },
+        "coolbet": {
+          "Flavio Cobolli": 2.05,
+          "Karen Khachanov": 1.84
+        },
+        "matchbook": {
+          "Flavio Cobolli": 2.16,
+          "Karen Khachanov": 1.84
+        },
+        "tipico_de": {
+          "Flavio Cobolli": 1.97,
+          "Karen Khachanov": 1.8
+        },
+        "winamax_de": {
+          "Flavio Cobolli": 2.0,
+          "Karen Khachanov": 1.8
+        },
+        "winamax_fr": {
+          "Flavio Cobolli": 1.88,
+          "Karen Khachanov": 1.72
+        },
+        "pmu_fr": {
+          "Flavio Cobolli": 1.94,
+          "Karen Khachanov": 1.75
+        },
+        "unibet_nl": {
+          "Flavio Cobolli": 1.95,
+          "Karen Khachanov": 1.77
+        },
+        "leovegas_se": {
+          "Flavio Cobolli": 1.95,
+          "Karen Khachanov": 1.77
+        },
+        "betrivers": {
+          "Flavio Cobolli": 1.95,
+          "Karen Khachanov": 1.77
+        },
+        "unibet_se": {
+          "Flavio Cobolli": 1.95,
+          "Karen Khachanov": 1.77
+        },
+        "betmgm": {
+          "Flavio Cobolli": 1.98,
+          "Karen Khachanov": 1.8
+        },
+        "everygame": {
+          "Flavio Cobolli": 2.05,
+          "Karen Khachanov": 1.75
+        }
+      },
+      "prediction": {
+        "p1_name": "Karen Khachanov",
+        "p2_name": "Flavio Cobolli",
+        "p1_prob": 0.5014,
+        "p2_prob": 0.4986,
+        "predicted_winner": "Karen Khachanov",
+        "confidence": "low",
+        "p1_edge": -0.0277,
+        "p2_edge": 0.0356
+      },
+      "collected_at": "2026-07-03T02:33:15.150576+00:00",
+      "result": null
+    },
+    "cfc02240ad5be9509d5cb936e79e02ed": {
+      "match_id": "cfc02240ad5be9509d5cb936e79e02ed",
+      "commence_time": "2026-07-04T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Grigor Dimitrov",
+      "player2": "Matteo Berrettini",
+      "bookmakers": {
+        "mybookieag": {
+          "Grigor Dimitrov": 2.07,
+          "Matteo Berrettini": 1.74
+        },
+        "betfair_ex_eu": {
+          "Grigor Dimitrov": 2.16,
+          "Matteo Berrettini": 1.67
+        },
+        "nordicbet": {
+          "Grigor Dimitrov": 2.06,
+          "Matteo Berrettini": 1.73
+        },
+        "betsson": {
+          "Grigor Dimitrov": 2.06,
+          "Matteo Berrettini": 1.73
+        },
+        "gtbets": {
+          "Grigor Dimitrov": 2.1,
+          "Matteo Berrettini": 1.75
+        },
+        "onexbet": {
+          "Grigor Dimitrov": 2.17,
+          "Matteo Berrettini": 1.79
+        },
+        "unibet_fr": {
+          "Grigor Dimitrov": 2.05,
+          "Matteo Berrettini": 1.71
+        },
+        "sport888": {
+          "Grigor Dimitrov": 2.1,
+          "Matteo Berrettini": 1.73
+        },
+        "betclic_fr": {
+          "Grigor Dimitrov": 1.98,
+          "Matteo Berrettini": 1.68
+        },
+        "draftkings": {
+          "Grigor Dimitrov": 2.07,
+          "Matteo Berrettini": 1.74
+        },
+        "codere_it": {
+          "Grigor Dimitrov": 2.07,
+          "Matteo Berrettini": 1.73
+        },
+        "fanduel": {
+          "Grigor Dimitrov": 2.16,
+          "Matteo Berrettini": 1.71
+        },
+        "matchbook": {
+          "Grigor Dimitrov": 2.18,
+          "Matteo Berrettini": 1.71
+        },
+        "marathonbet": {
+          "Grigor Dimitrov": 2.1,
+          "Matteo Berrettini": 1.73
+        },
+        "winamax_de": {
+          "Grigor Dimitrov": 2.05,
+          "Matteo Berrettini": 1.74
+        },
+        "williamhill": {
+          "Grigor Dimitrov": 2.1,
+          "Matteo Berrettini": 1.73
+        },
+        "winamax_fr": {
+          "Grigor Dimitrov": 1.96,
+          "Matteo Berrettini": 1.66
+        },
+        "coolbet": {
+          "Grigor Dimitrov": 2.13,
+          "Matteo Berrettini": 1.78
+        },
+        "tipico_de": {
+          "Grigor Dimitrov": 2.0,
+          "Matteo Berrettini": 1.77
+        },
+        "unibet_nl": {
+          "Grigor Dimitrov": 2.08,
+          "Matteo Berrettini": 1.75
+        },
+        "leovegas_se": {
+          "Grigor Dimitrov": 2.08,
+          "Matteo Berrettini": 1.75
+        },
+        "betrivers": {
+          "Grigor Dimitrov": 2.08,
+          "Matteo Berrettini": 1.75
+        },
+        "unibet_se": {
+          "Grigor Dimitrov": 2.08,
+          "Matteo Berrettini": 1.75
+        },
+        "pmu_fr": {
+          "Grigor Dimitrov": 2.02,
+          "Matteo Berrettini": 1.7
+        },
+        "betmgm": {
+          "Grigor Dimitrov": 2.1,
+          "Matteo Berrettini": 1.71
+        },
+        "everygame": {
+          "Grigor Dimitrov": 2.05,
+          "Matteo Berrettini": 1.75
+        },
+        "bovada": {
+          "Grigor Dimitrov": 2.1,
+          "Matteo Berrettini": 1.77
+        }
+      },
+      "prediction": {
+        "p1_name": "Grigor Dimitrov",
+        "p2_name": "Matteo Berrettini",
+        "p1_prob": 0.4152,
+        "p2_prob": 0.5848,
+        "predicted_winner": "Matteo Berrettini",
+        "confidence": "medium",
+        "p1_edge": -0.0435,
+        "p2_edge": 0.0261
+      },
+      "collected_at": "2026-07-03T02:33:15.178305+00:00",
+      "result": null
+    },
+    "dd93a7888832b140093619ea10177409": {
+      "match_id": "dd93a7888832b140093619ea10177409",
+      "commence_time": "2026-07-04T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Jiri Lehecka",
+      "player2": "Jaume Munar",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Jaume Munar": 3.55,
+          "Jiri Lehecka": 1.21
+        },
+        "nordicbet": {
+          "Jaume Munar": 3.35,
+          "Jiri Lehecka": 1.31
+        },
+        "draftkings": {
+          "Jaume Munar": 3.45,
+          "Jiri Lehecka": 1.3
+        },
+        "betsson": {
+          "Jaume Munar": 3.35,
+          "Jiri Lehecka": 1.31
+        },
+        "gtbets": {
+          "Jaume Munar": 3.34,
+          "Jiri Lehecka": 1.37
+        },
+        "onexbet": {
+          "Jaume Munar": 3.56,
+          "Jiri Lehecka": 1.35
+        },
+        "unibet_fr": {
+          "Jaume Munar": 3.25,
+          "Jiri Lehecka": 1.3
+        },
+        "fanduel": {
+          "Jaume Munar": 3.4,
+          "Jiri Lehecka": 1.33
+        },
+        "betclic_fr": {
+          "Jaume Munar": 3.1,
+          "Jiri Lehecka": 1.28
+        },
+        "matchbook": {
+          "Jaume Munar": 3.55,
+          "Jiri Lehecka": 1.32
+        },
+        "mybookieag": {
+          "Jaume Munar": 3.34,
+          "Jiri Lehecka": 1.31
+        },
+        "codere_it": {
+          "Jaume Munar": 3.35,
+          "Jiri Lehecka": 1.31
+        },
+        "tipico_de": {
+          "Jaume Munar": 3.4,
+          "Jiri Lehecka": 1.3
+        },
+        "marathonbet": {
+          "Jaume Munar": 3.36,
+          "Jiri Lehecka": 1.32
+        },
+        "coolbet": {
+          "Jaume Munar": 3.5,
+          "Jiri Lehecka": 1.34
+        },
+        "winamax_fr": {
+          "Jaume Munar": 3.05,
+          "Jiri Lehecka": 1.27
+        },
+        "winamax_de": {
+          "Jaume Munar": 3.4,
+          "Jiri Lehecka": 1.32
+        },
+        "betmgm": {
+          "Jaume Munar": 3.4,
+          "Jiri Lehecka": 1.31
+        },
+        "betrivers": {
+          "Jaume Munar": 3.5,
+          "Jiri Lehecka": 1.3
+        },
+        "leovegas_se": {
+          "Jaume Munar": 3.5,
+          "Jiri Lehecka": 1.3
+        },
+        "unibet_se": {
+          "Jaume Munar": 3.5,
+          "Jiri Lehecka": 1.3
+        },
+        "pmu_fr": {
+          "Jaume Munar": 3.35,
+          "Jiri Lehecka": 1.27
+        },
+        "unibet_nl": {
+          "Jaume Munar": 3.5,
+          "Jiri Lehecka": 1.3
+        },
+        "bovada": {
+          "Jaume Munar": 3.4,
+          "Jiri Lehecka": 1.33
+        },
+        "everygame": {
+          "Jaume Munar": 3.2,
+          "Jiri Lehecka": 1.33
+        }
+      },
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Jaume Munar",
+        "p1_prob": 0.7936,
+        "p2_prob": 0.2064,
+        "predicted_winner": "Jiri Lehecka",
+        "confidence": "high",
+        "p1_edge": 0.0637,
+        "p2_edge": -0.0745
+      },
+      "collected_at": "2026-07-03T02:33:15.206194+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-02T17:42:42.392590+00:00"
+  "last_updated": "2026-07-03T02:33:15.248864+00:00"
 }
