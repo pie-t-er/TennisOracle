@@ -12124,7 +12124,11 @@
         "p2_edge": 0.101
       },
       "collected_at": "2026-07-01T17:51:52.172245+00:00",
-      "result": null
+      "result": {
+        "winner": "Alejandro Davidovich Fokina",
+        "correct": true,
+        "settled_at": "2026-07-04T02:30:23.741029+00:00"
+      }
     },
     "f136c958bf05964358323eb663a07b22": {
       "match_id": "f136c958bf05964358323eb663a07b22",
@@ -12230,7 +12234,11 @@
         "p2_edge": -0.0108
       },
       "collected_at": "2026-07-01T17:51:52.198004+00:00",
-      "result": null
+      "result": {
+        "winner": "Hubert Hurkacz",
+        "correct": false,
+        "settled_at": "2026-07-04T02:30:23.761301+00:00"
+      }
     },
     "9bfd909d4eef99d70716f0655c1dc8da": {
       "match_id": "9bfd909d4eef99d70716f0655c1dc8da",
@@ -12300,7 +12308,11 @@
         "p2_edge": 0.0356
       },
       "collected_at": "2026-07-01T17:51:52.223846+00:00",
-      "result": null
+      "result": {
+        "winner": "Jannik Sinner",
+        "correct": true,
+        "settled_at": "2026-07-04T02:30:23.781221+00:00"
+      }
     },
     "2625a7c32791e4d4771b9b00699e9fbd": {
       "match_id": "2625a7c32791e4d4771b9b00699e9fbd",
@@ -12842,7 +12854,11 @@
         "p2_edge": -0.044
       },
       "collected_at": "2026-07-02T02:50:08.878692+00:00",
-      "result": null
+      "result": {
+        "winner": "Novak Djokovic",
+        "correct": true,
+        "settled_at": "2026-07-04T02:30:23.800921+00:00"
+      }
     },
     "d0cbc86603cb62460f6d14ed211e488b": {
       "match_id": "d0cbc86603cb62460f6d14ed211e488b",
@@ -12956,7 +12972,11 @@
         "p2_edge": 0.0151
       },
       "collected_at": "2026-07-02T02:50:08.904074+00:00",
-      "result": null
+      "result": {
+        "winner": "Felix Auger-Aliassime",
+        "correct": true,
+        "settled_at": "2026-07-04T02:30:23.822846+00:00"
+      }
     },
     "822b6b2962cd83ad6445472ff916af0e": {
       "match_id": "822b6b2962cd83ad6445472ff916af0e",
@@ -13046,7 +13066,11 @@
         "p2_edge": 0.0192
       },
       "collected_at": "2026-07-02T14:20:41.577162+00:00",
-      "result": null
+      "result": {
+        "winner": "Jan-Lennard Struff",
+        "correct": false,
+        "settled_at": "2026-07-04T02:30:23.843250+00:00"
+      }
     },
     "tml-2026-540-30": {
       "match_id": "tml-2026-540-30",
@@ -13458,7 +13482,11 @@
         "p2_edge": -0.0586
       },
       "collected_at": "2026-07-02T17:42:42.287369+00:00",
-      "result": null
+      "result": {
+        "winner": "Shintaro Mochizuki",
+        "correct": false,
+        "settled_at": "2026-07-04T02:30:23.865160+00:00"
+      }
     },
     "12df758952eccf871f7ebc3ebc5e4f7d": {
       "match_id": "12df758952eccf871f7ebc3ebc5e4f7d",
@@ -14403,7 +14431,267 @@
       },
       "collected_at": "2026-07-03T17:21:06.710672+00:00",
       "result": null
+    },
+    "6dc8c06e342c397dfa3fa2076f31bfc9": {
+      "match_id": "6dc8c06e342c397dfa3fa2076f31bfc9",
+      "commence_time": "2026-07-05T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Hubert Hurkacz",
+      "player2": "Jan-Lennard Struff",
+      "bookmakers": {
+        "draftkings": {
+          "Hubert Hurkacz": 1.39,
+          "Jan-Lennard Struff": 2.97
+        },
+        "betfair_ex_eu": {
+          "Hubert Hurkacz": 1.38,
+          "Jan-Lennard Struff": 3.5
+        },
+        "betclic_fr": {
+          "Hubert Hurkacz": 1.36,
+          "Jan-Lennard Struff": 2.75
+        },
+        "nordicbet": {
+          "Hubert Hurkacz": 1.39,
+          "Jan-Lennard Struff": 2.91
+        },
+        "coolbet": {
+          "Hubert Hurkacz": 1.42,
+          "Jan-Lennard Struff": 3.05
+        },
+        "onexbet": {
+          "Hubert Hurkacz": 1.44,
+          "Jan-Lennard Struff": 3.04
+        },
+        "sport888": {
+          "Hubert Hurkacz": 1.4,
+          "Jan-Lennard Struff": 2.9
+        },
+        "gtbets": {
+          "Hubert Hurkacz": 1.44,
+          "Jan-Lennard Struff": 3.01
+        },
+        "unibet_fr": {
+          "Hubert Hurkacz": 1.38,
+          "Jan-Lennard Struff": 2.85
+        },
+        "betsson": {
+          "Hubert Hurkacz": 1.39,
+          "Jan-Lennard Struff": 2.91
+        },
+        "marathonbet": {
+          "Hubert Hurkacz": 1.4,
+          "Jan-Lennard Struff": 2.94
+        },
+        "fanduel": {
+          "Hubert Hurkacz": 1.39,
+          "Jan-Lennard Struff": 3.05
+        },
+        "codere_it": {
+          "Hubert Hurkacz": 1.39,
+          "Jan-Lennard Struff": 2.9
+        },
+        "mybookieag": {
+          "Hubert Hurkacz": 1.39,
+          "Jan-Lennard Struff": 2.92
+        },
+        "bovada": {
+          "Hubert Hurkacz": 1.4,
+          "Jan-Lennard Struff": 3.0
+        },
+        "williamhill": {
+          "Hubert Hurkacz": 1.4,
+          "Jan-Lennard Struff": 2.9
+        },
+        "winamax_fr": {
+          "Hubert Hurkacz": 1.35,
+          "Jan-Lennard Struff": 2.7
+        },
+        "winamax_de": {
+          "Hubert Hurkacz": 1.4,
+          "Jan-Lennard Struff": 2.95
+        },
+        "tipico_de": {
+          "Hubert Hurkacz": 1.4,
+          "Jan-Lennard Struff": 2.9
+        },
+        "leovegas_se": {
+          "Hubert Hurkacz": 1.38,
+          "Jan-Lennard Struff": 2.85
+        },
+        "betrivers": {
+          "Hubert Hurkacz": 1.38,
+          "Jan-Lennard Struff": 2.85
+        },
+        "pmu_fr": {
+          "Hubert Hurkacz": 1.38,
+          "Jan-Lennard Struff": 2.85
+        },
+        "unibet_nl": {
+          "Hubert Hurkacz": 1.38,
+          "Jan-Lennard Struff": 2.85
+        },
+        "unibet_se": {
+          "Hubert Hurkacz": 1.38,
+          "Jan-Lennard Struff": 2.85
+        },
+        "matchbook": {
+          "Hubert Hurkacz": 1.38,
+          "Jan-Lennard Struff": 3.1
+        },
+        "betmgm": {
+          "Hubert Hurkacz": 1.4,
+          "Jan-Lennard Struff": 2.9
+        },
+        "everygame": {
+          "Hubert Hurkacz": 1.4,
+          "Jan-Lennard Struff": 2.9
+        }
+      },
+      "prediction": {
+        "p1_name": "Hubert Hurkacz",
+        "p2_name": "Jan-Lennard Struff",
+        "p1_prob": 0.5945,
+        "p2_prob": 0.4055,
+        "predicted_winner": "Hubert Hurkacz",
+        "confidence": "medium",
+        "p1_edge": -0.0999,
+        "p2_edge": 0.1198
+      },
+      "collected_at": "2026-07-04T02:30:29.156455+00:00",
+      "result": null
+    },
+    "f59c600f7d2c247754d2707ccc62f228": {
+      "match_id": "f59c600f7d2c247754d2707ccc62f228",
+      "commence_time": "2026-07-05T10:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Felix Auger-Aliassime",
+      "player2": "Alejandro Davidovich Fokina",
+      "bookmakers": {
+        "betrivers": {
+          "Alejandro Davidovich Fokina": 2.95,
+          "Felix Auger-Aliassime": 1.36
+        },
+        "unibet_nl": {
+          "Alejandro Davidovich Fokina": 2.95,
+          "Felix Auger-Aliassime": 1.36
+        },
+        "pmu_fr": {
+          "Alejandro Davidovich Fokina": 2.95,
+          "Felix Auger-Aliassime": 1.36
+        },
+        "leovegas_se": {
+          "Alejandro Davidovich Fokina": 2.95,
+          "Felix Auger-Aliassime": 1.36
+        },
+        "unibet_se": {
+          "Alejandro Davidovich Fokina": 2.95,
+          "Felix Auger-Aliassime": 1.36
+        },
+        "onexbet": {
+          "Alejandro Davidovich Fokina": 2.79,
+          "Felix Auger-Aliassime": 1.51
+        },
+        "gtbets": {
+          "Alejandro Davidovich Fokina": 2.85,
+          "Felix Auger-Aliassime": 1.47
+        },
+        "betfair_ex_eu": {
+          "Alejandro Davidovich Fokina": 2.66,
+          "Felix Auger-Aliassime": 1.45
+        },
+        "draftkings": {
+          "Alejandro Davidovich Fokina": 2.62,
+          "Felix Auger-Aliassime": 1.48
+        },
+        "matchbook": {
+          "Alejandro Davidovich Fokina": 2.68,
+          "Felix Auger-Aliassime": 1.46
+        },
+        "coolbet": {
+          "Alejandro Davidovich Fokina": 2.75,
+          "Felix Auger-Aliassime": 1.5
+        },
+        "sport888": {
+          "Alejandro Davidovich Fokina": 2.6,
+          "Felix Auger-Aliassime": 1.5
+        },
+        "unibet_fr": {
+          "Alejandro Davidovich Fokina": 2.55,
+          "Felix Auger-Aliassime": 1.45
+        },
+        "betsson": {
+          "Alejandro Davidovich Fokina": 2.62,
+          "Felix Auger-Aliassime": 1.47
+        },
+        "nordicbet": {
+          "Alejandro Davidovich Fokina": 2.62,
+          "Felix Auger-Aliassime": 1.47
+        },
+        "winamax_de": {
+          "Alejandro Davidovich Fokina": 2.7,
+          "Felix Auger-Aliassime": 1.5
+        },
+        "betclic_fr": {
+          "Alejandro Davidovich Fokina": 2.5,
+          "Felix Auger-Aliassime": 1.43
+        },
+        "winamax_fr": {
+          "Alejandro Davidovich Fokina": 2.65,
+          "Felix Auger-Aliassime": 1.47
+        },
+        "mybookieag": {
+          "Alejandro Davidovich Fokina": 2.64,
+          "Felix Auger-Aliassime": 1.47
+        },
+        "fanduel": {
+          "Alejandro Davidovich Fokina": 2.72,
+          "Felix Auger-Aliassime": 1.48
+        },
+        "williamhill": {
+          "Alejandro Davidovich Fokina": 2.6,
+          "Felix Auger-Aliassime": 1.5
+        },
+        "codere_it": {
+          "Alejandro Davidovich Fokina": 2.65,
+          "Felix Auger-Aliassime": 1.47
+        },
+        "tipico_de": {
+          "Alejandro Davidovich Fokina": 2.7,
+          "Felix Auger-Aliassime": 1.45
+        },
+        "marathonbet": {
+          "Alejandro Davidovich Fokina": 2.7,
+          "Felix Auger-Aliassime": 1.46
+        },
+        "everygame": {
+          "Alejandro Davidovich Fokina": 2.7,
+          "Felix Auger-Aliassime": 1.45
+        },
+        "betmgm": {
+          "Alejandro Davidovich Fokina": 2.55,
+          "Felix Auger-Aliassime": 1.5
+        },
+        "bovada": {
+          "Alejandro Davidovich Fokina": 2.65,
+          "Felix Auger-Aliassime": 1.5
+        }
+      },
+      "prediction": {
+        "p1_name": "Felix Auger-Aliassime",
+        "p2_name": "Alejandro Davidovich Fokina",
+        "p1_prob": 0.6291,
+        "p2_prob": 0.3709,
+        "predicted_winner": "Felix Auger-Aliassime",
+        "confidence": "high",
+        "p1_edge": -0.0332,
+        "p2_edge": 0.0319
+      },
+      "collected_at": "2026-07-04T02:30:29.184357+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-03T17:21:06.714146+00:00"
+  "last_updated": "2026-07-04T02:30:29.187856+00:00"
 }
