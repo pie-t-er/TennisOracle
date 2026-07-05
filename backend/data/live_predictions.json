@@ -13364,7 +13364,11 @@
         "p2_edge": 0.1046
       },
       "collected_at": "2026-07-02T17:42:42.262970+00:00",
-      "result": null
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-07-05T10:08:19.593980+00:00"
+      }
     },
     "406c1338806c9708394e54c4f97c77e6": {
       "match_id": "406c1338806c9708394e54c4f97c77e6",
@@ -13848,7 +13852,11 @@
         "p2_edge": 0.1072
       },
       "collected_at": "2026-07-03T02:33:15.122873+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Bublik",
+        "correct": true,
+        "settled_at": "2026-07-05T10:08:19.615083+00:00"
+      }
     },
     "7524184c36ede122c2c1cc353af1b2d3": {
       "match_id": "7524184c36ede122c2c1cc353af1b2d3",
@@ -14112,7 +14120,11 @@
         "p2_edge": 0.0261
       },
       "collected_at": "2026-07-03T02:33:15.178305+00:00",
-      "result": null
+      "result": {
+        "winner": "Grigor Dimitrov",
+        "correct": false,
+        "settled_at": "2026-07-05T10:08:19.636043+00:00"
+      }
     },
     "dd93a7888832b140093619ea10177409": {
       "match_id": "dd93a7888832b140093619ea10177409",
@@ -15185,5 +15197,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-07-05T02:40:29.445031+00:00"
+  "last_updated": "2026-07-05T10:08:19.636052+00:00"
 }
