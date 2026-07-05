@@ -13238,7 +13238,11 @@
         "p2_edge": -0.011
       },
       "collected_at": "2026-07-02T17:42:42.248402+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex de Minaur",
+        "correct": true,
+        "settled_at": "2026-07-05T02:40:22.912808+00:00"
+      }
     },
     "40f075c68595d809bd4835c234817431": {
       "match_id": "40f075c68595d809bd4835c234817431",
@@ -13592,7 +13596,11 @@
         "p2_edge": -0.0051
       },
       "collected_at": "2026-07-02T17:42:42.374806+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-07-05T02:40:22.933692+00:00"
+      }
     },
     "f96720ebe957199507985213c07f5afb": {
       "match_id": "f96720ebe957199507985213c07f5afb",
@@ -13706,7 +13714,11 @@
         "p2_edge": -0.0869
       },
       "collected_at": "2026-07-02T17:42:42.390657+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fery",
+        "correct": false,
+        "settled_at": "2026-07-05T02:40:22.953630+00:00"
+      }
     },
     "0dcdb7b775c9c9802fb54feb8b1f1593": {
       "match_id": "0dcdb7b775c9c9802fb54feb8b1f1593",
@@ -13966,7 +13978,11 @@
         "p2_edge": 0.0356
       },
       "collected_at": "2026-07-03T02:33:15.150576+00:00",
-      "result": null
+      "result": {
+        "winner": "Flavio Cobolli",
+        "correct": false,
+        "settled_at": "2026-07-05T02:40:22.974451+00:00"
+      }
     },
     "cfc02240ad5be9509d5cb936e79e02ed": {
       "match_id": "cfc02240ad5be9509d5cb936e79e02ed",
@@ -14218,7 +14234,11 @@
         "p2_edge": -0.0745
       },
       "collected_at": "2026-07-03T02:33:15.206194+00:00",
-      "result": null
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": true,
+        "settled_at": "2026-07-05T02:40:22.996684+00:00"
+      }
     },
     "33d743c6c7f340fc12116afe18357802": {
       "match_id": "33d743c6c7f340fc12116afe18357802",
@@ -14691,7 +14711,479 @@
       },
       "collected_at": "2026-07-04T02:30:29.184357+00:00",
       "result": null
+    },
+    "5aadb0dbbad4128c3faf3df033ae5878": {
+      "match_id": "5aadb0dbbad4128c3faf3df033ae5878",
+      "commence_time": "2026-07-06T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Alex de Minaur",
+      "player2": "Flavio Cobolli",
+      "bookmakers": {
+        "unibet_fr": {
+          "Alex de Minaur": 1.24,
+          "Flavio Cobolli": 3.7
+        },
+        "draftkings": {
+          "Alex de Minaur": 1.24,
+          "Flavio Cobolli": 4.05
+        },
+        "onexbet": {
+          "Alex de Minaur": 1.29,
+          "Flavio Cobolli": 4.12
+        },
+        "betfair_ex_eu": {
+          "Alex de Minaur": 1.28,
+          "Flavio Cobolli": 4.4
+        },
+        "matchbook": {
+          "Alex de Minaur": 1.28,
+          "Flavio Cobolli": 4.4
+        },
+        "sport888": {
+          "Alex de Minaur": 1.25,
+          "Flavio Cobolli": 4.0
+        },
+        "nordicbet": {
+          "Alex de Minaur": 1.24,
+          "Flavio Cobolli": 3.86
+        },
+        "codere_it": {
+          "Alex de Minaur": 1.25,
+          "Flavio Cobolli": 3.85
+        },
+        "betsson": {
+          "Alex de Minaur": 1.24,
+          "Flavio Cobolli": 3.86
+        },
+        "fanduel": {
+          "Alex de Minaur": 1.27,
+          "Flavio Cobolli": 4.0
+        },
+        "betclic_fr": {
+          "Alex de Minaur": 1.22,
+          "Flavio Cobolli": 3.55
+        },
+        "marathonbet": {
+          "Alex de Minaur": 1.26,
+          "Flavio Cobolli": 3.84
+        },
+        "mybookieag": {
+          "Alex de Minaur": 1.25,
+          "Flavio Cobolli": 3.85
+        },
+        "gtbets": {
+          "Alex de Minaur": 1.26,
+          "Flavio Cobolli": 3.89
+        },
+        "winamax_de": {
+          "Alex de Minaur": 1.25,
+          "Flavio Cobolli": 3.9
+        },
+        "winamax_fr": {
+          "Alex de Minaur": 1.21,
+          "Flavio Cobolli": 3.45
+        },
+        "williamhill": {
+          "Alex de Minaur": 1.25,
+          "Flavio Cobolli": 4.0
+        },
+        "coolbet": {
+          "Alex de Minaur": 1.27,
+          "Flavio Cobolli": 4.1
+        },
+        "bovada": {
+          "Alex de Minaur": 1.25,
+          "Flavio Cobolli": 4.0
+        },
+        "leovegas_se": {
+          "Alex de Minaur": 1.29,
+          "Flavio Cobolli": 3.65
+        },
+        "unibet_se": {
+          "Alex de Minaur": 1.29,
+          "Flavio Cobolli": 3.65
+        },
+        "unibet_nl": {
+          "Alex de Minaur": 1.29,
+          "Flavio Cobolli": 3.65
+        },
+        "betrivers": {
+          "Alex de Minaur": 1.29,
+          "Flavio Cobolli": 3.65
+        },
+        "pmu_fr": {
+          "Alex de Minaur": 1.27,
+          "Flavio Cobolli": 3.6
+        },
+        "tipico_de": {
+          "Alex de Minaur": 1.25,
+          "Flavio Cobolli": 3.8
+        },
+        "everygame": {
+          "Alex de Minaur": 1.25,
+          "Flavio Cobolli": 3.75
+        },
+        "betmgm": {
+          "Alex de Minaur": 1.24,
+          "Flavio Cobolli": 3.9
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex De Minaur",
+        "p2_name": "Flavio Cobolli",
+        "p1_prob": 0.61,
+        "p2_prob": 0.39,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": -0.1652,
+        "p2_edge": 0.1627
+      },
+      "collected_at": "2026-07-05T02:40:29.354838+00:00",
+      "result": null
+    },
+    "a66a7b940b5acab677add3367c1bef0e": {
+      "match_id": "a66a7b940b5acab677add3367c1bef0e",
+      "commence_time": "2026-07-06T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Taylor Fritz",
+      "player2": "Alexander Bublik",
+      "bookmakers": {
+        "unibet_fr": {
+          "Alexander Bublik": 2.3,
+          "Taylor Fritz": 1.55
+        },
+        "gtbets": {
+          "Alexander Bublik": 2.38,
+          "Taylor Fritz": 1.58
+        },
+        "draftkings": {
+          "Alexander Bublik": 2.43,
+          "Taylor Fritz": 1.55
+        },
+        "matchbook": {
+          "Alexander Bublik": 2.42,
+          "Taylor Fritz": 1.18
+        },
+        "onexbet": {
+          "Alexander Bublik": 2.47,
+          "Taylor Fritz": 1.62
+        },
+        "betsson": {
+          "Alexander Bublik": 2.36,
+          "Taylor Fritz": 1.56
+        },
+        "betfair_ex_eu": {
+          "Alexander Bublik": 2.26,
+          "Taylor Fritz": 1.37
+        },
+        "sport888": {
+          "Alexander Bublik": 2.38,
+          "Taylor Fritz": 1.57
+        },
+        "williamhill": {
+          "Alexander Bublik": 2.38,
+          "Taylor Fritz": 1.57
+        },
+        "winamax_de": {
+          "Alexander Bublik": 2.35,
+          "Taylor Fritz": 1.58
+        },
+        "nordicbet": {
+          "Alexander Bublik": 2.36,
+          "Taylor Fritz": 1.56
+        },
+        "betclic_fr": {
+          "Alexander Bublik": 2.25,
+          "Taylor Fritz": 1.52
+        },
+        "bovada": {
+          "Alexander Bublik": 2.45,
+          "Taylor Fritz": 1.57
+        },
+        "winamax_fr": {
+          "Alexander Bublik": 2.2,
+          "Taylor Fritz": 1.5
+        },
+        "mybookieag": {
+          "Alexander Bublik": 2.36,
+          "Taylor Fritz": 1.57
+        },
+        "fanduel": {
+          "Alexander Bublik": 2.46,
+          "Taylor Fritz": 1.57
+        },
+        "marathonbet": {
+          "Alexander Bublik": 2.39,
+          "Taylor Fritz": 1.57
+        },
+        "codere_it": {
+          "Alexander Bublik": 2.36,
+          "Taylor Fritz": 1.57
+        },
+        "tipico_de": {
+          "Alexander Bublik": 2.4,
+          "Taylor Fritz": 1.55
+        },
+        "coolbet": {
+          "Alexander Bublik": 2.45,
+          "Taylor Fritz": 1.61
+        },
+        "betmgm": {
+          "Alexander Bublik": 2.35,
+          "Taylor Fritz": 1.57
+        }
+      },
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Alexander Bublik",
+        "p1_prob": 0.5596,
+        "p2_prob": 0.4404,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "medium",
+        "p1_edge": -0.0577,
+        "p2_edge": 0.0355
+      },
+      "collected_at": "2026-07-05T02:40:29.383445+00:00",
+      "result": null
+    },
+    "f0620d5ff3f64875ff71939d62f51d91": {
+      "match_id": "f0620d5ff3f64875ff71939d62f51d91",
+      "commence_time": "2026-07-06T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Jiri Lehecka",
+      "player2": "Alexander Zverev",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Alexander Zverev": 1.33,
+          "Jiri Lehecka": 3.9
+        },
+        "draftkings": {
+          "Alexander Zverev": 1.29,
+          "Jiri Lehecka": 3.55
+        },
+        "betsson": {
+          "Alexander Zverev": 1.28,
+          "Jiri Lehecka": 3.52
+        },
+        "marathonbet": {
+          "Alexander Zverev": 1.31,
+          "Jiri Lehecka": 3.44
+        },
+        "bovada": {
+          "Alexander Zverev": 1.31,
+          "Jiri Lehecka": 3.6
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.27,
+          "Jiri Lehecka": 3.4
+        },
+        "sport888": {
+          "Alexander Zverev": 1.3,
+          "Jiri Lehecka": 3.5
+        },
+        "gtbets": {
+          "Alexander Zverev": 1.34,
+          "Jiri Lehecka": 3.51
+        },
+        "onexbet": {
+          "Alexander Zverev": 1.34,
+          "Jiri Lehecka": 3.64
+        },
+        "nordicbet": {
+          "Alexander Zverev": 1.28,
+          "Jiri Lehecka": 3.52
+        },
+        "codere_it": {
+          "Alexander Zverev": 1.29,
+          "Jiri Lehecka": 3.5
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 1.26,
+          "Jiri Lehecka": 3.25
+        },
+        "fanduel": {
+          "Alexander Zverev": 1.29,
+          "Jiri Lehecka": 3.7
+        },
+        "mybookieag": {
+          "Alexander Zverev": 1.29,
+          "Jiri Lehecka": 3.5
+        },
+        "winamax_fr": {
+          "Alexander Zverev": 1.25,
+          "Jiri Lehecka": 3.2
+        },
+        "winamax_de": {
+          "Alexander Zverev": 1.29,
+          "Jiri Lehecka": 3.55
+        },
+        "coolbet": {
+          "Alexander Zverev": 1.31,
+          "Jiri Lehecka": 3.75
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.32,
+          "Jiri Lehecka": 3.35
+        },
+        "pmu_fr": {
+          "Alexander Zverev": 1.32,
+          "Jiri Lehecka": 3.35
+        },
+        "betrivers": {
+          "Alexander Zverev": 1.32,
+          "Jiri Lehecka": 3.35
+        },
+        "unibet_se": {
+          "Alexander Zverev": 1.32,
+          "Jiri Lehecka": 3.35
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.32,
+          "Jiri Lehecka": 3.35
+        },
+        "williamhill": {
+          "Alexander Zverev": 1.3,
+          "Jiri Lehecka": 3.5
+        },
+        "matchbook": {
+          "Alexander Zverev": 1.33,
+          "Jiri Lehecka": 3.9
+        },
+        "tipico_de": {
+          "Alexander Zverev": 1.27,
+          "Jiri Lehecka": 3.7
+        },
+        "everygame": {
+          "Alexander Zverev": 1.28,
+          "Jiri Lehecka": 3.55
+        },
+        "betmgm": {
+          "Alexander Zverev": 1.31,
+          "Jiri Lehecka": 3.4
+        }
+      },
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Alexander Zverev",
+        "p1_prob": 0.331,
+        "p2_prob": 0.669,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": 0.0746,
+        "p2_edge": -0.0773
+      },
+      "collected_at": "2026-07-05T02:40:29.412126+00:00",
+      "result": null
+    },
+    "deb46b10eff833cb32c724e825c99114": {
+      "match_id": "deb46b10eff833cb32c724e825c99114",
+      "commence_time": "2026-07-06T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Grigor Dimitrov",
+      "player2": "Arthur Fery",
+      "bookmakers": {
+        "fanduel": {
+          "Arthur Fery": 2.72,
+          "Grigor Dimitrov": 1.48
+        },
+        "winamax_fr": {
+          "Arthur Fery": 2.55,
+          "Grigor Dimitrov": 1.38
+        },
+        "onexbet": {
+          "Arthur Fery": 2.85,
+          "Grigor Dimitrov": 1.49
+        },
+        "matchbook": {
+          "Arthur Fery": 2.8,
+          "Grigor Dimitrov": 1.54
+        },
+        "betsson": {
+          "Arthur Fery": 2.76,
+          "Grigor Dimitrov": 1.43
+        },
+        "betfair_ex_eu": {
+          "Arthur Fery": 2.8,
+          "Grigor Dimitrov": 1.54
+        },
+        "sport888": {
+          "Arthur Fery": 2.75,
+          "Grigor Dimitrov": 1.44
+        },
+        "gtbets": {
+          "Arthur Fery": 2.8,
+          "Grigor Dimitrov": 1.41
+        },
+        "unibet_fr": {
+          "Arthur Fery": 2.7,
+          "Grigor Dimitrov": 1.42
+        },
+        "williamhill": {
+          "Arthur Fery": 2.75,
+          "Grigor Dimitrov": 1.44
+        },
+        "nordicbet": {
+          "Arthur Fery": 2.76,
+          "Grigor Dimitrov": 1.43
+        },
+        "winamax_de": {
+          "Arthur Fery": 2.75,
+          "Grigor Dimitrov": 1.44
+        },
+        "betclic_fr": {
+          "Arthur Fery": 2.6,
+          "Grigor Dimitrov": 1.4
+        },
+        "draftkings": {
+          "Arthur Fery": 2.7,
+          "Grigor Dimitrov": 1.46
+        },
+        "marathonbet": {
+          "Arthur Fery": 2.76,
+          "Grigor Dimitrov": 1.44
+        },
+        "codere_it": {
+          "Arthur Fery": 2.75,
+          "Grigor Dimitrov": 1.43
+        },
+        "mybookieag": {
+          "Arthur Fery": 2.76,
+          "Grigor Dimitrov": 1.43
+        },
+        "bovada": {
+          "Arthur Fery": 2.75,
+          "Grigor Dimitrov": 1.47
+        },
+        "tipico_de": {
+          "Arthur Fery": 2.9,
+          "Grigor Dimitrov": 1.4
+        },
+        "coolbet": {
+          "Arthur Fery": 2.85,
+          "Grigor Dimitrov": 1.47
+        },
+        "betmgm": {
+          "Arthur Fery": 2.75,
+          "Grigor Dimitrov": 1.44
+        }
+      },
+      "prediction": {
+        "p1_name": "Grigor Dimitrov",
+        "p2_name": "Arthur Fery",
+        "p1_prob": 0.6202,
+        "p2_prob": 0.3798,
+        "predicted_winner": "Grigor Dimitrov",
+        "confidence": "high",
+        "p1_edge": -0.0292,
+        "p2_edge": 0.035
+      },
+      "collected_at": "2026-07-05T02:40:29.440923+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-04T02:30:29.187856+00:00"
+  "last_updated": "2026-07-05T02:40:29.445031+00:00"
 }
