@@ -14344,7 +14344,11 @@
         "p2_edge": -0.0042
       },
       "collected_at": "2026-07-03T17:21:06.682838+00:00",
-      "result": null
+      "result": {
+        "winner": "Jannik Sinner",
+        "correct": true,
+        "settled_at": "2026-07-06T02:45:02.076483+00:00"
+      }
     },
     "44a55068b95674016667af4bf1a49145": {
       "match_id": "44a55068b95674016667af4bf1a49145",
@@ -14462,7 +14466,11 @@
         "p2_edge": 0.0371
       },
       "collected_at": "2026-07-03T17:21:06.710672+00:00",
-      "result": null
+      "result": {
+        "winner": "Novak Djokovic",
+        "correct": true,
+        "settled_at": "2026-07-06T02:45:02.097849+00:00"
+      }
     },
     "6dc8c06e342c397dfa3fa2076f31bfc9": {
       "match_id": "6dc8c06e342c397dfa3fa2076f31bfc9",
@@ -14592,7 +14600,11 @@
         "p2_edge": 0.1198
       },
       "collected_at": "2026-07-04T02:30:29.156455+00:00",
-      "result": null
+      "result": {
+        "winner": "Jan-Lennard Struff",
+        "correct": false,
+        "settled_at": "2026-07-06T02:45:02.119158+00:00"
+      }
     },
     "f59c600f7d2c247754d2707ccc62f228": {
       "match_id": "f59c600f7d2c247754d2707ccc62f228",
@@ -14722,7 +14734,11 @@
         "p2_edge": 0.0319
       },
       "collected_at": "2026-07-04T02:30:29.184357+00:00",
-      "result": null
+      "result": {
+        "winner": "Felix Auger-Aliassime",
+        "correct": true,
+        "settled_at": "2026-07-06T02:45:02.140483+00:00"
+      }
     },
     "5aadb0dbbad4128c3faf3df033ae5878": {
       "match_id": "5aadb0dbbad4128c3faf3df033ae5878",
@@ -15195,7 +15211,231 @@
       },
       "collected_at": "2026-07-05T02:40:29.440923+00:00",
       "result": null
+    },
+    "c6cb9a245bef2e4059ab23b5a362cdce": {
+      "match_id": "c6cb9a245bef2e4059ab23b5a362cdce",
+      "commence_time": "2026-07-07T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Felix Auger-Aliassime",
+      "player2": "Novak Djokovic",
+      "bookmakers": {
+        "gtbets": {
+          "Felix Auger-Aliassime": 2.46,
+          "Novak Djokovic": 1.5
+        },
+        "onexbet": {
+          "Felix Auger-Aliassime": 2.58,
+          "Novak Djokovic": 1.58
+        },
+        "betsson": {
+          "Felix Auger-Aliassime": 2.46,
+          "Novak Djokovic": 1.52
+        },
+        "nordicbet": {
+          "Felix Auger-Aliassime": 2.46,
+          "Novak Djokovic": 1.52
+        },
+        "betclic_fr": {
+          "Felix Auger-Aliassime": 2.35,
+          "Novak Djokovic": 1.48
+        },
+        "draftkings": {
+          "Felix Auger-Aliassime": 2.47,
+          "Novak Djokovic": 1.55
+        },
+        "betfair_ex_eu": {
+          "Felix Auger-Aliassime": 2.64,
+          "Novak Djokovic": 1.6
+        },
+        "unibet_fr": {
+          "Felix Auger-Aliassime": 2.4,
+          "Novak Djokovic": 1.5
+        },
+        "sport888": {
+          "Felix Auger-Aliassime": 2.5,
+          "Novak Djokovic": 1.53
+        },
+        "mybookieag": {
+          "Felix Auger-Aliassime": 2.47,
+          "Novak Djokovic": 1.53
+        },
+        "coolbet": {
+          "Felix Auger-Aliassime": 2.55,
+          "Novak Djokovic": 1.57
+        },
+        "codere_it": {
+          "Felix Auger-Aliassime": 2.47,
+          "Novak Djokovic": 1.53
+        },
+        "fanduel": {
+          "Felix Auger-Aliassime": 2.55,
+          "Novak Djokovic": 1.54
+        },
+        "winamax_de": {
+          "Felix Auger-Aliassime": 2.55,
+          "Novak Djokovic": 1.56
+        },
+        "winamax_fr": {
+          "Felix Auger-Aliassime": 2.5,
+          "Novak Djokovic": 1.52
+        },
+        "williamhill": {
+          "Felix Auger-Aliassime": 2.5,
+          "Novak Djokovic": 1.53
+        },
+        "matchbook": {
+          "Felix Auger-Aliassime": 2.64,
+          "Novak Djokovic": 1.6
+        },
+        "marathonbet": {
+          "Felix Auger-Aliassime": 2.53,
+          "Novak Djokovic": 1.55
+        },
+        "tipico_de": {
+          "Felix Auger-Aliassime": 2.55,
+          "Novak Djokovic": 1.5
+        },
+        "betmgm": {
+          "Felix Auger-Aliassime": 2.45,
+          "Novak Djokovic": 1.53
+        },
+        "bovada": {
+          "Felix Auger-Aliassime": 2.5,
+          "Novak Djokovic": 1.56
+        },
+        "pinnacle": {
+          "Felix Auger-Aliassime": 2.53,
+          "Novak Djokovic": 1.58
+        },
+        "everygame": {
+          "Felix Auger-Aliassime": 2.4,
+          "Novak Djokovic": 1.55
+        }
+      },
+      "prediction": {
+        "p1_name": "Felix Auger-Aliassime",
+        "p2_name": "Novak Djokovic",
+        "p1_prob": 0.3828,
+        "p2_prob": 0.6172,
+        "predicted_winner": "Novak Djokovic",
+        "confidence": "high",
+        "p1_edge": 0.004,
+        "p2_edge": -0.0078
+      },
+      "collected_at": "2026-07-06T02:45:08.406890+00:00",
+      "result": null
+    },
+    "cec20beb38dbca67256225209c560a23": {
+      "match_id": "cec20beb38dbca67256225209c560a23",
+      "commence_time": "2026-07-07T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Jannik Sinner",
+      "player2": "Jan-Lennard Struff",
+      "bookmakers": {
+        "draftkings": {
+          "Jan-Lennard Struff": 13.6,
+          "Jannik Sinner": 1.03
+        },
+        "betsson": {
+          "Jan-Lennard Struff": 13.0,
+          "Jannik Sinner": 1.03
+        },
+        "betclic_fr": {
+          "Jan-Lennard Struff": 8.4,
+          "Jannik Sinner": 1.02
+        },
+        "nordicbet": {
+          "Jan-Lennard Struff": 13.0,
+          "Jannik Sinner": 1.03
+        },
+        "coolbet": {
+          "Jan-Lennard Struff": 14.5,
+          "Jannik Sinner": 1.04
+        },
+        "gtbets": {
+          "Jan-Lennard Struff": 12.58,
+          "Jannik Sinner": 1.03
+        },
+        "marathonbet": {
+          "Jan-Lennard Struff": 14.75,
+          "Jannik Sinner": 1.03
+        },
+        "betfair_ex_eu": {
+          "Jan-Lennard Struff": 17.5,
+          "Jannik Sinner": 1.05
+        },
+        "onexbet": {
+          "Jan-Lennard Struff": 19.5,
+          "Jannik Sinner": 1.03
+        },
+        "codere_it": {
+          "Jan-Lennard Struff": 12.0,
+          "Jannik Sinner": 1.03
+        },
+        "unibet_fr": {
+          "Jan-Lennard Struff": 9.9,
+          "Jannik Sinner": 1.02
+        },
+        "winamax_de": {
+          "Jan-Lennard Struff": 15.0,
+          "Jannik Sinner": 1.03
+        },
+        "fanduel": {
+          "Jan-Lennard Struff": 13.8,
+          "Jannik Sinner": 1.03
+        },
+        "matchbook": {
+          "Jan-Lennard Struff": 17.5,
+          "Jannik Sinner": 1.05
+        },
+        "winamax_fr": {
+          "Jan-Lennard Struff": 12.5,
+          "Jannik Sinner": 1.02
+        },
+        "tipico_de": {
+          "Jan-Lennard Struff": 11.0,
+          "Jannik Sinner": 1.03
+        },
+        "sport888": {
+          "Jan-Lennard Struff": 17.0,
+          "Jannik Sinner": 1.02
+        },
+        "pinnacle": {
+          "Jan-Lennard Struff": 14.2,
+          "Jannik Sinner": 1.04
+        },
+        "bovada": {
+          "Jan-Lennard Struff": 13.0,
+          "Jannik Sinner": 1.03
+        },
+        "betmgm": {
+          "Jan-Lennard Struff": 11.5,
+          "Jannik Sinner": 1.03
+        },
+        "williamhill": {
+          "Jan-Lennard Struff": 17.0,
+          "Jannik Sinner": 1.02
+        },
+        "everygame": {
+          "Jan-Lennard Struff": 11.0,
+          "Jannik Sinner": 1.03
+        }
+      },
+      "prediction": {
+        "p1_name": "Jannik Sinner",
+        "p2_name": "Jan-Lennard Struff",
+        "p1_prob": 0.9386,
+        "p2_prob": 0.0614,
+        "predicted_winner": "Jannik Sinner",
+        "confidence": "high",
+        "p1_edge": -0.0138,
+        "p2_edge": 0.0101
+      },
+      "collected_at": "2026-07-06T02:45:08.437436+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-05T10:08:19.636052+00:00"
+  "last_updated": "2026-07-06T02:45:08.441759+00:00"
 }
