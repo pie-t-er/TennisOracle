@@ -14978,7 +14978,11 @@
         "p2_edge": 0.0355
       },
       "collected_at": "2026-07-05T02:40:29.383445+00:00",
-      "result": null
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-07-07T02:41:04.138210+00:00"
+      }
     },
     "f0620d5ff3f64875ff71939d62f51d91": {
       "match_id": "f0620d5ff3f64875ff71939d62f51d91",
@@ -15214,7 +15218,11 @@
         "p2_edge": 0.035
       },
       "collected_at": "2026-07-05T02:40:29.440923+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fery",
+        "correct": false,
+        "settled_at": "2026-07-07T02:41:04.160290+00:00"
+      }
     },
     "c6cb9a245bef2e4059ab23b5a362cdce": {
       "match_id": "c6cb9a245bef2e4059ab23b5a362cdce",
@@ -15439,7 +15447,141 @@
       },
       "collected_at": "2026-07-06T02:45:08.437436+00:00",
       "result": null
+    },
+    "dddbd0f0e0bfc925a35cef4b17f733a8": {
+      "match_id": "dddbd0f0e0bfc925a35cef4b17f733a8",
+      "commence_time": "2026-07-08T10:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Flavio Cobolli",
+      "player2": "Arthur Fery",
+      "bookmakers": {
+        "onexbet": {
+          "Arthur Fery": 3.18,
+          "Flavio Cobolli": 1.42
+        },
+        "leovegas_se": {
+          "Arthur Fery": 3.0,
+          "Flavio Cobolli": 1.4
+        },
+        "betfair_ex_eu": {
+          "Arthur Fery": 3.25,
+          "Flavio Cobolli": 1.42
+        },
+        "betrivers": {
+          "Arthur Fery": 3.0,
+          "Flavio Cobolli": 1.4
+        },
+        "unibet_nl": {
+          "Arthur Fery": 3.0,
+          "Flavio Cobolli": 1.4
+        },
+        "unibet_se": {
+          "Arthur Fery": 3.0,
+          "Flavio Cobolli": 1.4
+        },
+        "gtbets": {
+          "Arthur Fery": 3.06,
+          "Flavio Cobolli": 1.39
+        },
+        "pmu_fr": {
+          "Arthur Fery": 2.95,
+          "Flavio Cobolli": 1.4
+        },
+        "draftkings": {
+          "Arthur Fery": 3.12,
+          "Flavio Cobolli": 1.37
+        },
+        "sport888": {
+          "Arthur Fery": 3.1,
+          "Flavio Cobolli": 1.36
+        },
+        "matchbook": {
+          "Arthur Fery": 3.25,
+          "Flavio Cobolli": 1.41
+        },
+        "williamhill": {
+          "Arthur Fery": 3.1,
+          "Flavio Cobolli": 1.36
+        },
+        "fanduel": {
+          "Arthur Fery": 3.1,
+          "Flavio Cobolli": 1.38
+        },
+        "coolbet": {
+          "Arthur Fery": 3.15,
+          "Flavio Cobolli": 1.4
+        },
+        "unibet_fr": {
+          "Arthur Fery": 2.9,
+          "Flavio Cobolli": 1.36
+        },
+        "mybookieag": {
+          "Arthur Fery": 3.02,
+          "Flavio Cobolli": 1.37
+        },
+        "nordicbet": {
+          "Arthur Fery": 3.01,
+          "Flavio Cobolli": 1.37
+        },
+        "marathonbet": {
+          "Arthur Fery": 3.12,
+          "Flavio Cobolli": 1.39
+        },
+        "betsson": {
+          "Arthur Fery": 3.01,
+          "Flavio Cobolli": 1.37
+        },
+        "betclic_fr": {
+          "Arthur Fery": 2.85,
+          "Flavio Cobolli": 1.34
+        },
+        "codere_it": {
+          "Arthur Fery": 3.0,
+          "Flavio Cobolli": 1.37
+        },
+        "winamax_de": {
+          "Arthur Fery": 3.05,
+          "Flavio Cobolli": 1.38
+        },
+        "winamax_fr": {
+          "Arthur Fery": 2.75,
+          "Flavio Cobolli": 1.33
+        },
+        "tipico_de": {
+          "Arthur Fery": 3.1,
+          "Flavio Cobolli": 1.35
+        },
+        "bovada": {
+          "Arthur Fery": 3.1,
+          "Flavio Cobolli": 1.38
+        },
+        "betmgm": {
+          "Arthur Fery": 3.0,
+          "Flavio Cobolli": 1.4
+        },
+        "pinnacle": {
+          "Arthur Fery": 3.18,
+          "Flavio Cobolli": 1.4
+        },
+        "betanysports": {
+          "Arthur Fery": 3.1,
+          "Flavio Cobolli": 1.38
+        }
+      },
+      "prediction": {
+        "p1_name": "Flavio Cobolli",
+        "p2_name": "Arthur Fery",
+        "p1_prob": 0.7366,
+        "p2_prob": 0.2634,
+        "predicted_winner": "Flavio Cobolli",
+        "confidence": "high",
+        "p1_edge": 0.0324,
+        "p2_edge": -0.0443
+      },
+      "collected_at": "2026-07-07T02:41:10.817135+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-06T18:08:38.752369+00:00"
+  "last_updated": "2026-07-07T02:41:10.821601+00:00"
 }
