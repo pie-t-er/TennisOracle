@@ -15581,7 +15581,121 @@
       },
       "collected_at": "2026-07-07T02:41:10.817135+00:00",
       "result": null
+    },
+    "b0b9cf08523f2d1226ac4bf525ae0439": {
+      "match_id": "b0b9cf08523f2d1226ac4bf525ae0439",
+      "commence_time": "2026-07-08T13:10:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Taylor Fritz",
+      "player2": "Alexander Zverev",
+      "bookmakers": {
+        "pmu_fr": {
+          "Alexander Zverev": 1.89,
+          "Taylor Fritz": 1.89
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.89,
+          "Taylor Fritz": 1.89
+        },
+        "betfair_ex_eu": {
+          "Alexander Zverev": 2.0,
+          "Taylor Fritz": 1.75
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.89,
+          "Taylor Fritz": 1.89
+        },
+        "unibet_se": {
+          "Alexander Zverev": 1.89,
+          "Taylor Fritz": 1.89
+        },
+        "betrivers": {
+          "Alexander Zverev": 1.89,
+          "Taylor Fritz": 1.89
+        },
+        "draftkings": {
+          "Alexander Zverev": 1.99,
+          "Taylor Fritz": 1.83
+        },
+        "gtbets": {
+          "Alexander Zverev": 1.91,
+          "Taylor Fritz": 1.9
+        },
+        "marathonbet": {
+          "Alexander Zverev": 1.96,
+          "Taylor Fritz": 1.89
+        },
+        "onexbet": {
+          "Alexander Zverev": 2.0,
+          "Taylor Fritz": 1.93
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.91,
+          "Taylor Fritz": 1.87
+        },
+        "betsson": {
+          "Alexander Zverev": 1.9,
+          "Taylor Fritz": 1.86
+        },
+        "nordicbet": {
+          "Alexander Zverev": 1.9,
+          "Taylor Fritz": 1.86
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 1.84,
+          "Taylor Fritz": 1.8
+        },
+        "fanduel": {
+          "Alexander Zverev": 1.98,
+          "Taylor Fritz": 1.85
+        },
+        "winamax_de": {
+          "Alexander Zverev": 1.92,
+          "Taylor Fritz": 1.88
+        },
+        "winamax_fr": {
+          "Alexander Zverev": 1.88,
+          "Taylor Fritz": 1.84
+        },
+        "codere_it": {
+          "Alexander Zverev": 1.91,
+          "Taylor Fritz": 1.87
+        },
+        "mybookieag": {
+          "Alexander Zverev": 1.93,
+          "Taylor Fritz": 1.88
+        },
+        "tipico_de": {
+          "Alexander Zverev": 1.85,
+          "Taylor Fritz": 1.93
+        },
+        "matchbook": {
+          "Alexander Zverev": 2.0,
+          "Taylor Fritz": 1.76
+        },
+        "coolbet": {
+          "Alexander Zverev": 2.0,
+          "Taylor Fritz": 1.88
+        },
+        "sport888": {
+          "Alexander Zverev": 1.95,
+          "Taylor Fritz": 1.85
+        }
+      },
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Alexander Zverev",
+        "p1_prob": 0.3588,
+        "p2_prob": 0.6412,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": -0.1593,
+        "p2_edge": 0.1412
+      },
+      "collected_at": "2026-07-07T17:56:12.595093+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-07T02:41:10.821601+00:00"
+  "last_updated": "2026-07-07T17:56:12.599212+00:00"
 }
