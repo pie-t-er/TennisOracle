@@ -15112,7 +15112,11 @@
         "p2_edge": -0.0773
       },
       "collected_at": "2026-07-05T02:40:29.412126+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-07-08T02:14:04.791843+00:00"
+      }
     },
     "deb46b10eff833cb32c724e825c99114": {
       "match_id": "deb46b10eff833cb32c724e825c99114",
@@ -15336,7 +15340,11 @@
         "p2_edge": -0.0078
       },
       "collected_at": "2026-07-06T02:45:08.406890+00:00",
-      "result": null
+      "result": {
+        "winner": "Novak Djokovic",
+        "correct": true,
+        "settled_at": "2026-07-08T02:14:04.813618+00:00"
+      }
     },
     "cec20beb38dbca67256225209c560a23": {
       "match_id": "cec20beb38dbca67256225209c560a23",
@@ -15446,7 +15454,11 @@
         "p2_edge": 0.0101
       },
       "collected_at": "2026-07-06T02:45:08.437436+00:00",
-      "result": null
+      "result": {
+        "winner": "Jannik Sinner",
+        "correct": true,
+        "settled_at": "2026-07-08T02:14:04.835066+00:00"
+      }
     },
     "dddbd0f0e0bfc925a35cef4b17f733a8": {
       "match_id": "dddbd0f0e0bfc925a35cef4b17f733a8",
@@ -15695,7 +15707,133 @@
       },
       "collected_at": "2026-07-07T17:56:12.595093+00:00",
       "result": null
+    },
+    "6f788a6edb5a38e19c4b09fdec863bcc": {
+      "match_id": "6f788a6edb5a38e19c4b09fdec863bcc",
+      "commence_time": "2026-07-09T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Jannik Sinner",
+      "player2": "Novak Djokovic",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Jannik Sinner": 1.26,
+          "Novak Djokovic": 4.1
+        },
+        "fanduel": {
+          "Jannik Sinner": 1.2,
+          "Novak Djokovic": 4.65
+        },
+        "betmgm": {
+          "Jannik Sinner": 1.22,
+          "Novak Djokovic": 4.25
+        },
+        "sport888": {
+          "Jannik Sinner": 1.22,
+          "Novak Djokovic": 4.2
+        },
+        "pinnacle": {
+          "Jannik Sinner": 1.24,
+          "Novak Djokovic": 4.47
+        },
+        "williamhill": {
+          "Jannik Sinner": 1.22,
+          "Novak Djokovic": 4.2
+        },
+        "draftkings": {
+          "Jannik Sinner": 1.22,
+          "Novak Djokovic": 4.44
+        },
+        "unibet_fr": {
+          "Jannik Sinner": 1.19,
+          "Novak Djokovic": 3.6
+        },
+        "onexbet": {
+          "Jannik Sinner": 1.26,
+          "Novak Djokovic": 4.38
+        },
+        "nordicbet": {
+          "Jannik Sinner": 1.22,
+          "Novak Djokovic": 4.12
+        },
+        "tipico_de": {
+          "Jannik Sinner": 1.22,
+          "Novak Djokovic": 4.1
+        },
+        "everygame": {
+          "Jannik Sinner": 1.22,
+          "Novak Djokovic": 4.2
+        },
+        "betrivers": {
+          "Jannik Sinner": 1.23,
+          "Novak Djokovic": 4.3
+        },
+        "gtbets": {
+          "Jannik Sinner": 1.26,
+          "Novak Djokovic": 4.35
+        },
+        "leovegas_se": {
+          "Jannik Sinner": 1.23,
+          "Novak Djokovic": 4.3
+        },
+        "winamax_fr": {
+          "Jannik Sinner": 1.19,
+          "Novak Djokovic": 3.65
+        },
+        "unibet_se": {
+          "Jannik Sinner": 1.23,
+          "Novak Djokovic": 4.3
+        },
+        "unibet_nl": {
+          "Jannik Sinner": 1.23,
+          "Novak Djokovic": 4.3
+        },
+        "codere_it": {
+          "Jannik Sinner": 1.23,
+          "Novak Djokovic": 4.1
+        },
+        "pmu_fr": {
+          "Jannik Sinner": 1.21,
+          "Novak Djokovic": 4.2
+        },
+        "winamax_de": {
+          "Jannik Sinner": 1.21,
+          "Novak Djokovic": 4.0
+        },
+        "betsson": {
+          "Jannik Sinner": 1.22,
+          "Novak Djokovic": 4.12
+        },
+        "mybookieag": {
+          "Jannik Sinner": 1.21,
+          "Novak Djokovic": 3.9
+        },
+        "marathonbet": {
+          "Jannik Sinner": 1.24,
+          "Novak Djokovic": 4.3
+        },
+        "betclic_fr": {
+          "Jannik Sinner": 1.2,
+          "Novak Djokovic": 3.75
+        },
+        "bovada": {
+          "Jannik Sinner": 1.22,
+          "Novak Djokovic": 4.5
+        }
+      },
+      "prediction": {
+        "p1_name": "Jannik Sinner",
+        "p2_name": "Novak Djokovic",
+        "p1_prob": 0.6987,
+        "p2_prob": 0.3013,
+        "predicted_winner": "Jannik Sinner",
+        "confidence": "high",
+        "p1_edge": -0.095,
+        "p2_edge": 0.0862
+      },
+      "collected_at": "2026-07-08T02:14:10.948254+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-07T17:56:12.599212+00:00"
+  "last_updated": "2026-07-08T02:14:10.952356+00:00"
 }
