@@ -15592,7 +15592,11 @@
         "p2_edge": -0.0443
       },
       "collected_at": "2026-07-07T02:41:10.817135+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fery",
+        "correct": false,
+        "settled_at": "2026-07-08T17:25:48.460006+00:00"
+      }
     },
     "b0b9cf08523f2d1226ac4bf525ae0439": {
       "match_id": "b0b9cf08523f2d1226ac4bf525ae0439",
@@ -15706,7 +15710,11 @@
         "p2_edge": 0.1412
       },
       "collected_at": "2026-07-07T17:56:12.595093+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-07-08T17:25:48.481859+00:00"
+      }
     },
     "6f788a6edb5a38e19c4b09fdec863bcc": {
       "match_id": "6f788a6edb5a38e19c4b09fdec863bcc",
@@ -15833,7 +15841,113 @@
       },
       "collected_at": "2026-07-08T02:14:10.948254+00:00",
       "result": null
+    },
+    "0c561997e491baec8cc3303e8a1000c1": {
+      "match_id": "0c561997e491baec8cc3303e8a1000c1",
+      "commence_time": "2026-07-10T12:30:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Arthur Fery",
+      "player2": "Alexander Zverev",
+      "bookmakers": {
+        "unibet_se": {
+          "Alexander Zverev": 1.13,
+          "Arthur Fery": 6.4
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.13,
+          "Arthur Fery": 6.4
+        },
+        "betrivers": {
+          "Alexander Zverev": 1.13,
+          "Arthur Fery": 6.4
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.13,
+          "Arthur Fery": 6.4
+        },
+        "betfair_ex_eu": {
+          "Alexander Zverev": 1.17,
+          "Arthur Fery": 6.2
+        },
+        "pmu_fr": {
+          "Alexander Zverev": 1.11,
+          "Arthur Fery": 6.1
+        },
+        "coolbet": {
+          "Alexander Zverev": 1.15,
+          "Arthur Fery": 6.25
+        },
+        "gtbets": {
+          "Alexander Zverev": 1.12,
+          "Arthur Fery": 5.72
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 1.12,
+          "Arthur Fery": 4.9
+        },
+        "betsson": {
+          "Alexander Zverev": 1.13,
+          "Arthur Fery": 5.53
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.11,
+          "Arthur Fery": 4.55
+        },
+        "fanduel": {
+          "Alexander Zverev": 1.14,
+          "Arthur Fery": 6.2
+        },
+        "nordicbet": {
+          "Alexander Zverev": 1.13,
+          "Arthur Fery": 5.53
+        },
+        "sport888": {
+          "Alexander Zverev": 1.12,
+          "Arthur Fery": 6.0
+        },
+        "matchbook": {
+          "Alexander Zverev": 1.14,
+          "Arthur Fery": 5.5
+        },
+        "tipico_de": {
+          "Alexander Zverev": 1.13,
+          "Arthur Fery": 5.7
+        },
+        "mybookieag": {
+          "Alexander Zverev": 1.14,
+          "Arthur Fery": 5.5
+        },
+        "betmgm": {
+          "Alexander Zverev": 1.15,
+          "Arthur Fery": 5.25
+        },
+        "codere_it": {
+          "Alexander Zverev": 1.14,
+          "Arthur Fery": 5.6
+        },
+        "draftkings": {
+          "Alexander Zverev": 1.13,
+          "Arthur Fery": 6.08
+        },
+        "marathonbet": {
+          "Alexander Zverev": 1.14,
+          "Arthur Fery": 6.05
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Fery",
+        "p2_name": "Alexander Zverev",
+        "p1_prob": 0.0793,
+        "p2_prob": 0.9207,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": -0.077,
+        "p2_edge": 0.066
+      },
+      "collected_at": "2026-07-08T17:25:54.898223+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-08T02:14:10.952356+00:00"
+  "last_updated": "2026-07-08T17:25:54.902496+00:00"
 }
