@@ -15946,7 +15946,11 @@
         "p2_edge": 0.066
       },
       "collected_at": "2026-07-08T17:25:54.898223+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-07-11T02:11:12.901336+00:00"
+      }
     },
     "71e7d45a06e1290d83ce9ce92e864f24": {
       "match_id": "71e7d45a06e1290d83ce9ce92e864f24",
@@ -16089,7 +16093,145 @@
       },
       "collected_at": "2026-07-09T10:50:58.154785+00:00",
       "result": null
+    },
+    "12e1ea184efd26935b074deb9ebd33b3": {
+      "match_id": "12e1ea184efd26935b074deb9ebd33b3",
+      "commence_time": "2026-07-12T09:00:00Z",
+      "tournament": "ATP Wimbledon",
+      "surface": "Grass",
+      "player1": "Jannik Sinner",
+      "player2": "Alexander Zverev",
+      "bookmakers": {
+        "winamax_de": {
+          "Alexander Zverev": 4.6,
+          "Jannik Sinner": 1.22
+        },
+        "winamax_fr": {
+          "Alexander Zverev": 4.4,
+          "Jannik Sinner": 1.21
+        },
+        "draftkings": {
+          "Alexander Zverev": 4.55,
+          "Jannik Sinner": 1.21
+        },
+        "betfair_ex_eu": {
+          "Alexander Zverev": 5.0,
+          "Jannik Sinner": 1.24
+        },
+        "fanduel": {
+          "Alexander Zverev": 4.85,
+          "Jannik Sinner": 1.19
+        },
+        "betrivers": {
+          "Alexander Zverev": 4.6,
+          "Jannik Sinner": 1.21
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 4.6,
+          "Jannik Sinner": 1.21
+        },
+        "unibet_se": {
+          "Alexander Zverev": 4.6,
+          "Jannik Sinner": 1.21
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 4.6,
+          "Jannik Sinner": 1.21
+        },
+        "pmu_fr": {
+          "Alexander Zverev": 4.5,
+          "Jannik Sinner": 1.2
+        },
+        "gtbets": {
+          "Alexander Zverev": 4.35,
+          "Jannik Sinner": 1.2
+        },
+        "marathonbet": {
+          "Alexander Zverev": 4.55,
+          "Jannik Sinner": 1.22
+        },
+        "coolbet": {
+          "Alexander Zverev": 4.75,
+          "Jannik Sinner": 1.22
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 3.65,
+          "Jannik Sinner": 1.18
+        },
+        "tipico_de": {
+          "Alexander Zverev": 4.1,
+          "Jannik Sinner": 1.22
+        },
+        "betsson": {
+          "Alexander Zverev": 4.18,
+          "Jannik Sinner": 1.21
+        },
+        "nordicbet": {
+          "Alexander Zverev": 4.18,
+          "Jannik Sinner": 1.21
+        },
+        "onexbet": {
+          "Alexander Zverev": 4.64,
+          "Jannik Sinner": 1.24
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 4.3,
+          "Jannik Sinner": 1.23
+        },
+        "pinnacle": {
+          "Alexander Zverev": 4.65,
+          "Jannik Sinner": 1.23
+        },
+        "codere_it": {
+          "Alexander Zverev": 4.2,
+          "Jannik Sinner": 1.22
+        },
+        "mybookieag": {
+          "Alexander Zverev": 4.2,
+          "Jannik Sinner": 1.22
+        },
+        "sport888": {
+          "Alexander Zverev": 4.8,
+          "Jannik Sinner": 1.22
+        },
+        "bovada": {
+          "Alexander Zverev": 4.5,
+          "Jannik Sinner": 1.22
+        },
+        "betmgm": {
+          "Alexander Zverev": 4.6,
+          "Jannik Sinner": 1.22
+        },
+        "betus": {
+          "Alexander Zverev": 4.25,
+          "Jannik Sinner": 1.22
+        },
+        "matchbook": {
+          "Alexander Zverev": 5.0,
+          "Jannik Sinner": 1.24
+        },
+        "williamhill": {
+          "Alexander Zverev": 4.8,
+          "Jannik Sinner": 1.2
+        },
+        "everygame": {
+          "Alexander Zverev": 4.5,
+          "Jannik Sinner": 1.2
+        }
+      },
+      "prediction": {
+        "p1_name": "Jannik Sinner",
+        "p2_name": "Alexander Zverev",
+        "p1_prob": 0.7346,
+        "p2_prob": 0.2654,
+        "predicted_winner": "Jannik Sinner",
+        "confidence": "high",
+        "p1_edge": -0.0719,
+        "p2_edge": 0.0654
+      },
+      "collected_at": "2026-07-11T02:11:18.839970+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-09T10:50:58.159849+00:00"
+  "last_updated": "2026-07-11T02:11:18.846851+00:00"
 }
