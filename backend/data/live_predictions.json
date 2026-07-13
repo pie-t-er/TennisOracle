@@ -15840,7 +15840,11 @@
         "p2_edge": 0.0862
       },
       "collected_at": "2026-07-08T02:14:10.948254+00:00",
-      "result": null
+      "result": {
+        "winner": "Jannik Sinner",
+        "correct": true,
+        "settled_at": "2026-07-13T02:22:58.310644+00:00"
+      }
     },
     "0c561997e491baec8cc3303e8a1000c1": {
       "match_id": "0c561997e491baec8cc3303e8a1000c1",
@@ -16092,7 +16096,11 @@
         "p2_edge": 0.1052
       },
       "collected_at": "2026-07-09T10:50:58.154785+00:00",
-      "result": null
+      "result": {
+        "winner": "Jannik Sinner",
+        "correct": true,
+        "settled_at": "2026-07-13T02:22:58.333524+00:00"
+      }
     },
     "12e1ea184efd26935b074deb9ebd33b3": {
       "match_id": "12e1ea184efd26935b074deb9ebd33b3",
@@ -16230,8 +16238,12 @@
         "p2_edge": 0.0654
       },
       "collected_at": "2026-07-11T02:11:18.839970+00:00",
-      "result": null
+      "result": {
+        "winner": "Jannik Sinner",
+        "correct": true,
+        "settled_at": "2026-07-13T02:22:58.355893+00:00"
+      }
     }
   },
-  "last_updated": "2026-07-11T02:11:18.846851+00:00"
+  "last_updated": "2026-07-13T02:22:58.355904+00:00"
 }
