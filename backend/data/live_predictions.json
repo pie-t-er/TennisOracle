@@ -16243,7 +16243,157 @@
         "correct": true,
         "settled_at": "2026-07-13T02:22:58.355893+00:00"
       }
+    },
+    "tml-2026-314-1": {
+      "match_id": "tml-2026-314-1",
+      "commence_time": "2026-07-13T00:00:00+00:00",
+      "tournament": "Gstaad",
+      "surface": "Clay",
+      "player1": "Dominic Stricker",
+      "player2": "Jaume Munar",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Dominic Stricker",
+        "p2_name": "Jaume Munar",
+        "p1_prob": 0.3664,
+        "p2_prob": 0.6336,
+        "predicted_winner": "Jaume Munar",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-14T02:03:01.066990+00:00",
+      "result": {
+        "winner": "Dominic Stricker",
+        "correct": false,
+        "settled_at": "2026-07-14T02:03:01.066990+00:00"
+      }
+    },
+    "tml-2026-314-2": {
+      "match_id": "tml-2026-314-2",
+      "commence_time": "2026-07-13T00:00:00+00:00",
+      "tournament": "Gstaad",
+      "surface": "Clay",
+      "player1": "Raphael Collignon",
+      "player2": "Timofey Skatov",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Raphael Collignon",
+        "p2_name": "Timofey Skatov",
+        "p1_prob": 0.6037,
+        "p2_prob": 0.3963,
+        "predicted_winner": "Raphael Collignon",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-14T02:03:01.091255+00:00",
+      "result": {
+        "winner": "Raphael Collignon",
+        "correct": true,
+        "settled_at": "2026-07-14T02:03:01.091255+00:00"
+      }
+    },
+    "tml-2026-314-5": {
+      "match_id": "tml-2026-314-5",
+      "commence_time": "2026-07-13T00:00:00+00:00",
+      "tournament": "Gstaad",
+      "surface": "Clay",
+      "player1": "Clement Tabur",
+      "player2": "Jurij Rodionov",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Clement Tabur",
+        "p2_name": "Jurij Rodionov",
+        "p1_prob": 0.3936,
+        "p2_prob": 0.6064,
+        "predicted_winner": "Jurij Rodionov",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-14T02:03:01.115529+00:00",
+      "result": {
+        "winner": "Clement Tabur",
+        "correct": false,
+        "settled_at": "2026-07-14T02:03:01.115529+00:00"
+      }
+    },
+    "tml-2026-316-1": {
+      "match_id": "tml-2026-316-1",
+      "commence_time": "2026-07-13T00:00:00+00:00",
+      "tournament": "Bastad",
+      "surface": "Clay",
+      "player1": "Jesper de Jong",
+      "player2": "Vilius Gaubas",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jesper de Jong",
+        "p2_name": "Vilius Gaubas",
+        "p1_prob": 0.5186,
+        "p2_prob": 0.4814,
+        "predicted_winner": "Jesper de Jong",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-14T02:03:01.139377+00:00",
+      "result": {
+        "winner": "Jesper de Jong",
+        "correct": true,
+        "settled_at": "2026-07-14T02:03:01.139377+00:00"
+      }
+    },
+    "tml-2026-439-1": {
+      "match_id": "tml-2026-439-1",
+      "commence_time": "2026-07-13T00:00:00+00:00",
+      "tournament": "Umag",
+      "surface": "Clay",
+      "player1": "Damir Dzumhur",
+      "player2": "Henrique Rocha",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Damir Dzumhur",
+        "p2_name": "Henrique Rocha",
+        "p1_prob": 0.5448,
+        "p2_prob": 0.4552,
+        "predicted_winner": "Damir Dzumhur",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-14T02:03:01.165376+00:00",
+      "result": {
+        "winner": "Damir Dzumhur",
+        "correct": true,
+        "settled_at": "2026-07-14T02:03:01.165376+00:00"
+      }
+    },
+    "tml-2026-439-2": {
+      "match_id": "tml-2026-439-2",
+      "commence_time": "2026-07-13T00:00:00+00:00",
+      "tournament": "Umag",
+      "surface": "Clay",
+      "player1": "Marco Trungelliti",
+      "player2": "Kyrian Jacquet",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Marco Trungelliti",
+        "p2_name": "Kyrian Jacquet",
+        "p1_prob": 0.5307,
+        "p2_prob": 0.4693,
+        "predicted_winner": "Marco Trungelliti",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-14T02:03:01.236848+00:00",
+      "result": {
+        "winner": "Marco Trungelliti",
+        "correct": true,
+        "settled_at": "2026-07-14T02:03:01.236848+00:00"
+      }
     }
   },
-  "last_updated": "2026-07-13T02:22:58.355904+00:00"
+  "last_updated": "2026-07-14T02:03:01.240079+00:00"
 }
