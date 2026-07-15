@@ -16843,7 +16843,82 @@
         "correct": false,
         "settled_at": "2026-07-15T01:59:50.275824+00:00"
       }
+    },
+    "tml-2026-314-13": {
+      "match_id": "tml-2026-314-13",
+      "commence_time": "2026-07-15T00:00:00+00:00",
+      "tournament": "Gstaad",
+      "surface": "Clay",
+      "player1": "Raphael Collignon",
+      "player2": "Lorenzo Sonego",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Raphael Collignon",
+        "p2_name": "Lorenzo Sonego",
+        "p1_prob": 0.518,
+        "p2_prob": 0.482,
+        "predicted_winner": "Raphael Collignon",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-15T17:13:52.428701+00:00",
+      "result": {
+        "winner": "Raphael Collignon",
+        "correct": true,
+        "settled_at": "2026-07-15T17:13:52.428701+00:00"
+      }
+    },
+    "tml-2026-316-13": {
+      "match_id": "tml-2026-316-13",
+      "commence_time": "2026-07-15T00:00:00+00:00",
+      "tournament": "Bastad",
+      "surface": "Clay",
+      "player1": "Nuno Borges",
+      "player2": "Grigor Dimitrov",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Nuno Borges",
+        "p2_name": "Grigor Dimitrov",
+        "p1_prob": 0.5193,
+        "p2_prob": 0.4807,
+        "predicted_winner": "Nuno Borges",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-15T17:13:52.462462+00:00",
+      "result": {
+        "winner": "Nuno Borges",
+        "correct": true,
+        "settled_at": "2026-07-15T17:13:52.462462+00:00"
+      }
+    },
+    "tml-2026-316-14": {
+      "match_id": "tml-2026-316-14",
+      "commence_time": "2026-07-15T00:00:00+00:00",
+      "tournament": "Bastad",
+      "surface": "Clay",
+      "player1": "Adolfo Daniel Vallejo",
+      "player2": "Botic Van De Zandschulp",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Adolfo Daniel Vallejo",
+        "p2_name": "Botic Van De Zandschulp",
+        "p1_prob": 0.461,
+        "p2_prob": 0.539,
+        "predicted_winner": "Botic Van De Zandschulp",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-15T17:13:52.494869+00:00",
+      "result": {
+        "winner": "Adolfo Daniel Vallejo",
+        "correct": false,
+        "settled_at": "2026-07-15T17:13:52.494869+00:00"
+      }
     }
   },
-  "last_updated": "2026-07-15T01:59:50.278328+00:00"
+  "last_updated": "2026-07-15T17:13:52.499400+00:00"
 }
