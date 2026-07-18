@@ -17418,7 +17418,332 @@
         "correct": false,
         "settled_at": "2026-07-17T02:12:50.230326+00:00"
       }
+    },
+    "tml-2026-314-20": {
+      "match_id": "tml-2026-314-20",
+      "commence_time": "2026-07-17T00:00:00+00:00",
+      "tournament": "Gstaad",
+      "surface": "Clay",
+      "player1": "Juan Manuel Cerundolo",
+      "player2": "Casper Ruud",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Juan Manuel Cerundolo",
+        "p2_name": "Casper Ruud",
+        "p1_prob": 0.2568,
+        "p2_prob": 0.7432,
+        "predicted_winner": "Casper Ruud",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-18T02:02:31.601075+00:00",
+      "result": {
+        "winner": "Juan Manuel Cerundolo",
+        "correct": false,
+        "settled_at": "2026-07-18T02:02:31.601075+00:00"
+      }
+    },
+    "tml-2026-314-21": {
+      "match_id": "tml-2026-314-21",
+      "commence_time": "2026-07-17T00:00:00+00:00",
+      "tournament": "Gstaad",
+      "surface": "Clay",
+      "player1": "Raphael Collignon",
+      "player2": "Valentin Vacherot",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Raphael Collignon",
+        "p2_name": "Valentin Vacherot",
+        "p1_prob": 0.4469,
+        "p2_prob": 0.5531,
+        "predicted_winner": "Valentin Vacherot",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-18T02:02:31.634182+00:00",
+      "result": {
+        "winner": "Raphael Collignon",
+        "correct": false,
+        "settled_at": "2026-07-18T02:02:31.634182+00:00"
+      }
+    },
+    "tml-2026-314-22": {
+      "match_id": "tml-2026-314-22",
+      "commence_time": "2026-07-17T00:00:00+00:00",
+      "tournament": "Gstaad",
+      "surface": "Clay",
+      "player1": "Quentin Halys",
+      "player2": "Alexander Bublik",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Quentin Halys",
+        "p2_name": "Alexander Bublik",
+        "p1_prob": 0.3401,
+        "p2_prob": 0.6599,
+        "predicted_winner": "Alexander Bublik",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-18T02:02:31.666884+00:00",
+      "result": {
+        "winner": "Quentin Halys",
+        "correct": false,
+        "settled_at": "2026-07-18T02:02:31.666884+00:00"
+      }
+    },
+    "tml-2026-314-23": {
+      "match_id": "tml-2026-314-23",
+      "commence_time": "2026-07-17T00:00:00+00:00",
+      "tournament": "Gstaad",
+      "surface": "Clay",
+      "player1": "Alexander Shevchenko",
+      "player2": "Dominic Stricker",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alexander Shevchenko",
+        "p2_name": "Dominic Stricker",
+        "p1_prob": 0.5933,
+        "p2_prob": 0.4067,
+        "predicted_winner": "Alexander Shevchenko",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-18T02:02:31.699490+00:00",
+      "result": {
+        "winner": "Alexander Shevchenko",
+        "correct": true,
+        "settled_at": "2026-07-18T02:02:31.699490+00:00"
+      }
+    },
+    "tml-2026-316-21": {
+      "match_id": "tml-2026-316-21",
+      "commence_time": "2026-07-17T00:00:00+00:00",
+      "tournament": "Bastad",
+      "surface": "Clay",
+      "player1": "Luciano Darderi",
+      "player2": "Nuno Borges",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Luciano Darderi",
+        "p2_name": "Nuno Borges",
+        "p1_prob": 0.6954,
+        "p2_prob": 0.3046,
+        "predicted_winner": "Luciano Darderi",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-18T02:02:31.734222+00:00",
+      "result": {
+        "winner": "Luciano Darderi",
+        "correct": true,
+        "settled_at": "2026-07-18T02:02:31.734222+00:00"
+      }
+    },
+    "tml-2026-316-22": {
+      "match_id": "tml-2026-316-22",
+      "commence_time": "2026-07-17T00:00:00+00:00",
+      "tournament": "Bastad",
+      "surface": "Clay",
+      "player1": "Alejandro Tabilo",
+      "player2": "Thiago Agustin Tirante",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alejandro Tabilo",
+        "p2_name": "Thiago Agustin Tirante",
+        "p1_prob": 0.5371,
+        "p2_prob": 0.4629,
+        "predicted_winner": "Alejandro Tabilo",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-18T02:02:31.805500+00:00",
+      "result": {
+        "winner": "Alejandro Tabilo",
+        "correct": true,
+        "settled_at": "2026-07-18T02:02:31.805500+00:00"
+      }
+    },
+    "tml-2026-316-23": {
+      "match_id": "tml-2026-316-23",
+      "commence_time": "2026-07-17T00:00:00+00:00",
+      "tournament": "Bastad",
+      "surface": "Clay",
+      "player1": "Adolfo Daniel Vallejo",
+      "player2": "Stefano Travaglia",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Adolfo Daniel Vallejo",
+        "p2_name": "Stefano Travaglia",
+        "p1_prob": 0.5809,
+        "p2_prob": 0.4191,
+        "predicted_winner": "Adolfo Daniel Vallejo",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-18T02:02:31.838557+00:00",
+      "result": {
+        "winner": "Adolfo Daniel Vallejo",
+        "correct": true,
+        "settled_at": "2026-07-18T02:02:31.838557+00:00"
+      }
+    },
+    "tml-2026-439-24": {
+      "match_id": "tml-2026-439-24",
+      "commence_time": "2026-07-17T00:00:00+00:00",
+      "tournament": "Umag",
+      "surface": "Clay",
+      "player1": "Alex Molcan",
+      "player2": "Alejandro Davidovich Fokina",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alex Molcan",
+        "p2_name": "Alejandro Davidovich Fokina",
+        "p1_prob": 0.4172,
+        "p2_prob": 0.5828,
+        "predicted_winner": "Alejandro Davidovich Fokina",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-18T02:02:31.871426+00:00",
+      "result": {
+        "winner": "Alex Molcan",
+        "correct": false,
+        "settled_at": "2026-07-18T02:02:31.871426+00:00"
+      }
+    },
+    "tml-2026-314-24": {
+      "match_id": "tml-2026-314-24",
+      "commence_time": "2026-07-17T00:00:00+00:00",
+      "tournament": "Gstaad",
+      "surface": "Clay",
+      "player1": "Stefanos Tsitsipas",
+      "player2": "Arthur Rinderknech",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Stefanos Tsitsipas",
+        "p2_name": "Arthur Rinderknech",
+        "p1_prob": 0.598,
+        "p2_prob": 0.402,
+        "predicted_winner": "Stefanos Tsitsipas",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-18T02:02:31.904494+00:00",
+      "result": {
+        "winner": "Stefanos Tsitsipas",
+        "correct": true,
+        "settled_at": "2026-07-18T02:02:31.904494+00:00"
+      }
+    },
+    "tml-2026-314-25": {
+      "match_id": "tml-2026-314-25",
+      "commence_time": "2026-07-17T00:00:00+00:00",
+      "tournament": "Gstaad",
+      "surface": "Clay",
+      "player1": "Alexander Shevchenko",
+      "player2": "Quentin Halys",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alexander Shevchenko",
+        "p2_name": "Quentin Halys",
+        "p1_prob": 0.5179,
+        "p2_prob": 0.4821,
+        "predicted_winner": "Alexander Shevchenko",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-18T02:02:31.937468+00:00",
+      "result": {
+        "winner": "Alexander Shevchenko",
+        "correct": true,
+        "settled_at": "2026-07-18T02:02:31.937468+00:00"
+      }
+    },
+    "tml-2026-316-24": {
+      "match_id": "tml-2026-316-24",
+      "commence_time": "2026-07-17T00:00:00+00:00",
+      "tournament": "Bastad",
+      "surface": "Clay",
+      "player1": "Andrey Rublev",
+      "player2": "Sebastian Baez",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Andrey Rublev",
+        "p2_name": "Sebastian Baez",
+        "p1_prob": 0.6391,
+        "p2_prob": 0.3609,
+        "predicted_winner": "Andrey Rublev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-18T02:02:31.970565+00:00",
+      "result": {
+        "winner": "Andrey Rublev",
+        "correct": true,
+        "settled_at": "2026-07-18T02:02:31.970565+00:00"
+      }
+    },
+    "tml-2026-439-25": {
+      "match_id": "tml-2026-439-25",
+      "commence_time": "2026-07-18T00:00:00+00:00",
+      "tournament": "Umag",
+      "surface": "Clay",
+      "player1": "Daniel Merida",
+      "player2": "Roman Andres Burruchaga",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Daniel Merida",
+        "p2_name": "Roman Andres Burruchaga",
+        "p1_prob": 0.5213,
+        "p2_prob": 0.4787,
+        "predicted_winner": "Daniel Merida",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-18T02:02:32.003837+00:00",
+      "result": {
+        "winner": "Daniel Merida",
+        "correct": true,
+        "settled_at": "2026-07-18T02:02:32.003837+00:00"
+      }
+    },
+    "tml-2026-439-26": {
+      "match_id": "tml-2026-439-26",
+      "commence_time": "2026-07-18T00:00:00+00:00",
+      "tournament": "Umag",
+      "surface": "Clay",
+      "player1": "Damir Dzumhur",
+      "player2": "Alex Molcan",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Damir Dzumhur",
+        "p2_name": "Alex Molcan",
+        "p1_prob": 0.427,
+        "p2_prob": 0.573,
+        "predicted_winner": "Alex Molcan",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-18T02:02:32.037061+00:00",
+      "result": {
+        "winner": "Damir Dzumhur",
+        "correct": false,
+        "settled_at": "2026-07-18T02:02:32.037061+00:00"
+      }
     }
   },
-  "last_updated": "2026-07-17T02:12:50.234860+00:00"
+  "last_updated": "2026-07-18T02:02:32.041902+00:00"
 }
