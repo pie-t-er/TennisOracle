@@ -17843,7 +17843,32 @@
         "correct": true,
         "settled_at": "2026-07-19T02:13:40.805223+00:00"
       }
+    },
+    "tml-2026-439-27": {
+      "match_id": "tml-2026-439-27",
+      "commence_time": "2026-07-19T00:00:00+00:00",
+      "tournament": "Umag",
+      "surface": "Clay",
+      "player1": "Daniel Merida",
+      "player2": "Damir Dzumhur",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Daniel Merida",
+        "p2_name": "Damir Dzumhur",
+        "p1_prob": 0.6107,
+        "p2_prob": 0.3893,
+        "predicted_winner": "Daniel Merida",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-19T09:48:39.510875+00:00",
+      "result": {
+        "winner": "Daniel Merida",
+        "correct": true,
+        "settled_at": "2026-07-19T09:48:39.510875+00:00"
+      }
     }
   },
-  "last_updated": "2026-07-19T02:13:40.812508+00:00"
+  "last_updated": "2026-07-19T09:48:39.516377+00:00"
 }
