@@ -17743,7 +17743,107 @@
         "correct": false,
         "settled_at": "2026-07-18T02:02:32.037061+00:00"
       }
+    },
+    "tml-2026-314-26": {
+      "match_id": "tml-2026-314-26",
+      "commence_time": "2026-07-18T00:00:00+00:00",
+      "tournament": "Gstaad",
+      "surface": "Clay",
+      "player1": "Stefanos Tsitsipas",
+      "player2": "Alexander Shevchenko",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Stefanos Tsitsipas",
+        "p2_name": "Alexander Shevchenko",
+        "p1_prob": 0.61,
+        "p2_prob": 0.39,
+        "predicted_winner": "Stefanos Tsitsipas",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-19T02:13:40.704926+00:00",
+      "result": {
+        "winner": "Stefanos Tsitsipas",
+        "correct": true,
+        "settled_at": "2026-07-19T02:13:40.704926+00:00"
+      }
+    },
+    "tml-2026-314-27": {
+      "match_id": "tml-2026-314-27",
+      "commence_time": "2026-07-18T00:00:00+00:00",
+      "tournament": "Gstaad",
+      "surface": "Clay",
+      "player1": "Raphael Collignon",
+      "player2": "Juan Manuel Cerundolo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Raphael Collignon",
+        "p2_name": "Juan Manuel Cerundolo",
+        "p1_prob": 0.5062,
+        "p2_prob": 0.4938,
+        "predicted_winner": "Raphael Collignon",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-19T02:13:40.738756+00:00",
+      "result": {
+        "winner": "Raphael Collignon",
+        "correct": true,
+        "settled_at": "2026-07-19T02:13:40.738756+00:00"
+      }
+    },
+    "tml-2026-316-25": {
+      "match_id": "tml-2026-316-25",
+      "commence_time": "2026-07-18T00:00:00+00:00",
+      "tournament": "Bastad",
+      "surface": "Clay",
+      "player1": "Luciano Darderi",
+      "player2": "Adolfo Daniel Vallejo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Luciano Darderi",
+        "p2_name": "Adolfo Daniel Vallejo",
+        "p1_prob": 0.7528,
+        "p2_prob": 0.2472,
+        "predicted_winner": "Luciano Darderi",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-19T02:13:40.772103+00:00",
+      "result": {
+        "winner": "Luciano Darderi",
+        "correct": true,
+        "settled_at": "2026-07-19T02:13:40.772103+00:00"
+      }
+    },
+    "tml-2026-316-26": {
+      "match_id": "tml-2026-316-26",
+      "commence_time": "2026-07-18T00:00:00+00:00",
+      "tournament": "Bastad",
+      "surface": "Clay",
+      "player1": "Andrey Rublev",
+      "player2": "Alejandro Tabilo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Andrey Rublev",
+        "p2_name": "Alejandro Tabilo",
+        "p1_prob": 0.6128,
+        "p2_prob": 0.3872,
+        "predicted_winner": "Andrey Rublev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-19T02:13:40.805223+00:00",
+      "result": {
+        "winner": "Andrey Rublev",
+        "correct": true,
+        "settled_at": "2026-07-19T02:13:40.805223+00:00"
+      }
     }
   },
-  "last_updated": "2026-07-18T02:02:32.041902+00:00"
+  "last_updated": "2026-07-19T02:13:40.812508+00:00"
 }
