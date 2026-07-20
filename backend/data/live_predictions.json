@@ -17918,7 +17918,32 @@
         "correct": true,
         "settled_at": "2026-07-20T02:34:22.921450+00:00"
       }
+    },
+    "tml-2026-319-1": {
+      "match_id": "tml-2026-319-1",
+      "commence_time": "2026-07-20T00:00:00+00:00",
+      "tournament": "Kitzbuhel",
+      "surface": "Clay",
+      "player1": "Mariano Navone",
+      "player2": "Alexandre Muller",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Mariano Navone",
+        "p2_name": "Alexandre Muller",
+        "p1_prob": 0.6338,
+        "p2_prob": 0.3662,
+        "predicted_winner": "Mariano Navone",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-20T17:57:23.716796+00:00",
+      "result": {
+        "winner": "Mariano Navone",
+        "correct": true,
+        "settled_at": "2026-07-20T17:57:23.716796+00:00"
+      }
     }
   },
-  "last_updated": "2026-07-20T02:34:22.926281+00:00"
+  "last_updated": "2026-07-20T17:57:23.722540+00:00"
 }
