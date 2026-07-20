@@ -17868,7 +17868,57 @@
         "correct": true,
         "settled_at": "2026-07-19T09:48:39.510875+00:00"
       }
+    },
+    "tml-2026-316-27": {
+      "match_id": "tml-2026-316-27",
+      "commence_time": "2026-07-19T00:00:00+00:00",
+      "tournament": "Bastad",
+      "surface": "Clay",
+      "player1": "Andrey Rublev",
+      "player2": "Luciano Darderi",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Andrey Rublev",
+        "p2_name": "Luciano Darderi",
+        "p1_prob": 0.5005,
+        "p2_prob": 0.4995,
+        "predicted_winner": "Andrey Rublev",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-20T02:34:22.886991+00:00",
+      "result": {
+        "winner": "Andrey Rublev",
+        "correct": true,
+        "settled_at": "2026-07-20T02:34:22.886991+00:00"
+      }
+    },
+    "tml-2026-314-28": {
+      "match_id": "tml-2026-314-28",
+      "commence_time": "2026-07-19T00:00:00+00:00",
+      "tournament": "Gstaad",
+      "surface": "Clay",
+      "player1": "Stefanos Tsitsipas",
+      "player2": "Raphael Collignon",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Stefanos Tsitsipas",
+        "p2_name": "Raphael Collignon",
+        "p1_prob": 0.5871,
+        "p2_prob": 0.4129,
+        "predicted_winner": "Stefanos Tsitsipas",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-20T02:34:22.921450+00:00",
+      "result": {
+        "winner": "Stefanos Tsitsipas",
+        "correct": true,
+        "settled_at": "2026-07-20T02:34:22.921450+00:00"
+      }
     }
   },
-  "last_updated": "2026-07-19T09:48:39.516377+00:00"
+  "last_updated": "2026-07-20T02:34:22.926281+00:00"
 }
