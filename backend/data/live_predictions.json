@@ -17943,7 +17943,157 @@
         "correct": true,
         "settled_at": "2026-07-20T17:57:23.716796+00:00"
       }
+    },
+    "tml-2026-319-2": {
+      "match_id": "tml-2026-319-2",
+      "commence_time": "2026-07-20T00:00:00+00:00",
+      "tournament": "Kitzbuhel",
+      "surface": "Clay",
+      "player1": "Facundo Diaz Acosta",
+      "player2": "Federico Cina",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Facundo Diaz Acosta",
+        "p2_name": "Federico Cina",
+        "p1_prob": 0.553,
+        "p2_prob": 0.447,
+        "predicted_winner": "Facundo Diaz Acosta",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-21T02:12:31.279628+00:00",
+      "result": {
+        "winner": "Facundo Diaz Acosta",
+        "correct": true,
+        "settled_at": "2026-07-21T02:12:31.279628+00:00"
+      }
+    },
+    "tml-2026-319-3": {
+      "match_id": "tml-2026-319-3",
+      "commence_time": "2026-07-20T00:00:00+00:00",
+      "tournament": "Kitzbuhel",
+      "surface": "Clay",
+      "player1": "Yannick Hanfmann",
+      "player2": "Lukas Neumayer",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Yannick Hanfmann",
+        "p2_name": "Lukas Neumayer",
+        "p1_prob": 0.7002,
+        "p2_prob": 0.2998,
+        "predicted_winner": "Yannick Hanfmann",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-21T02:12:31.313693+00:00",
+      "result": {
+        "winner": "Yannick Hanfmann",
+        "correct": true,
+        "settled_at": "2026-07-21T02:12:31.313693+00:00"
+      }
+    },
+    "tml-2026-7290-1": {
+      "match_id": "tml-2026-7290-1",
+      "commence_time": "2026-07-20T00:00:00+00:00",
+      "tournament": "Estoril",
+      "surface": "Clay",
+      "player1": "Titouan Droguet",
+      "player2": "Camilo Ugo Carabelli",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Titouan Droguet",
+        "p2_name": "Camilo Ugo Carabelli",
+        "p1_prob": 0.3903,
+        "p2_prob": 0.6097,
+        "predicted_winner": "Camilo Ugo Carabelli",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-21T02:12:31.347992+00:00",
+      "result": {
+        "winner": "Titouan Droguet",
+        "correct": false,
+        "settled_at": "2026-07-21T02:12:31.347992+00:00"
+      }
+    },
+    "tml-2026-319-5": {
+      "match_id": "tml-2026-319-5",
+      "commence_time": "2026-07-20T00:00:00+00:00",
+      "tournament": "Kitzbuhel",
+      "surface": "Clay",
+      "player1": "Ignacio Buse",
+      "player2": "Vit Kopriva",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ignacio Buse",
+        "p2_name": "Vit Kopriva",
+        "p1_prob": 0.5746,
+        "p2_prob": 0.4254,
+        "predicted_winner": "Ignacio Buse",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-21T02:12:31.381774+00:00",
+      "result": {
+        "winner": "Ignacio Buse",
+        "correct": true,
+        "settled_at": "2026-07-21T02:12:31.381774+00:00"
+      }
+    },
+    "tml-2026-7290-3": {
+      "match_id": "tml-2026-7290-3",
+      "commence_time": "2026-07-20T00:00:00+00:00",
+      "tournament": "Estoril",
+      "surface": "Clay",
+      "player1": "Luca Van Assche",
+      "player2": "Frederico Ferreira Silva",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Luca Van Assche",
+        "p2_name": "Frederico Ferreira Silva",
+        "p1_prob": 0.7435,
+        "p2_prob": 0.2565,
+        "predicted_winner": "Luca Van Assche",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-21T02:12:31.417866+00:00",
+      "result": {
+        "winner": "Luca Van Assche",
+        "correct": true,
+        "settled_at": "2026-07-21T02:12:31.417866+00:00"
+      }
+    },
+    "tml-2026-7290-4": {
+      "match_id": "tml-2026-7290-4",
+      "commence_time": "2026-07-20T00:00:00+00:00",
+      "tournament": "Estoril",
+      "surface": "Clay",
+      "player1": "Pedro Martinez",
+      "player2": "Henrique Rocha",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Pedro Martinez",
+        "p2_name": "Henrique Rocha",
+        "p1_prob": 0.6416,
+        "p2_prob": 0.3584,
+        "predicted_winner": "Pedro Martinez",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-21T02:12:31.492280+00:00",
+      "result": {
+        "winner": "Pedro Martinez",
+        "correct": true,
+        "settled_at": "2026-07-21T02:12:31.492280+00:00"
+      }
     }
   },
-  "last_updated": "2026-07-20T17:57:23.722540+00:00"
+  "last_updated": "2026-07-21T02:12:31.497291+00:00"
 }
