@@ -18618,7 +18618,207 @@
         "correct": true,
         "settled_at": "2026-07-23T02:22:25.026111+00:00"
       }
+    },
+    "tml-2026-319-22": {
+      "match_id": "tml-2026-319-22",
+      "commence_time": "2026-07-23T00:00:00+00:00",
+      "tournament": "Kitzbuhel",
+      "surface": "Clay",
+      "player1": "Tomas Martin Etcheverry",
+      "player2": "Ignacio Buse",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Tomas Martin Etcheverry",
+        "p2_name": "Ignacio Buse",
+        "p1_prob": 0.499,
+        "p2_prob": 0.501,
+        "predicted_winner": "Ignacio Buse",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-24T02:13:55.777459+00:00",
+      "result": {
+        "winner": "Tomas Martin Etcheverry",
+        "correct": false,
+        "settled_at": "2026-07-24T02:13:55.777459+00:00"
+      }
+    },
+    "tml-2026-319-23": {
+      "match_id": "tml-2026-319-23",
+      "commence_time": "2026-07-23T00:00:00+00:00",
+      "tournament": "Kitzbuhel",
+      "surface": "Clay",
+      "player1": "Quentin Halys",
+      "player2": "Mariano Navone",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Quentin Halys",
+        "p2_name": "Mariano Navone",
+        "p1_prob": 0.3767,
+        "p2_prob": 0.6233,
+        "predicted_winner": "Mariano Navone",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-24T02:13:55.812651+00:00",
+      "result": {
+        "winner": "Quentin Halys",
+        "correct": false,
+        "settled_at": "2026-07-24T02:13:55.812651+00:00"
+      }
+    },
+    "tml-2026-319-24": {
+      "match_id": "tml-2026-319-24",
+      "commence_time": "2026-07-23T00:00:00+00:00",
+      "tournament": "Kitzbuhel",
+      "surface": "Clay",
+      "player1": "Yannick Hanfmann",
+      "player2": "Sebastian Baez",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Yannick Hanfmann",
+        "p2_name": "Sebastian Baez",
+        "p1_prob": 0.5004,
+        "p2_prob": 0.4996,
+        "predicted_winner": "Yannick Hanfmann",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-24T02:13:55.847787+00:00",
+      "result": {
+        "winner": "Yannick Hanfmann",
+        "correct": true,
+        "settled_at": "2026-07-24T02:13:55.847787+00:00"
+      }
+    },
+    "tml-2026-7290-17": {
+      "match_id": "tml-2026-7290-17",
+      "commence_time": "2026-07-23T00:00:00+00:00",
+      "tournament": "Estoril",
+      "surface": "Clay",
+      "player1": "Luca Van Assche",
+      "player2": "Pablo Carreno Busta",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Luca Van Assche",
+        "p2_name": "Pablo Carreno Busta",
+        "p1_prob": 0.4993,
+        "p2_prob": 0.5007,
+        "predicted_winner": "Pablo Carreno Busta",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-24T02:13:55.884394+00:00",
+      "result": {
+        "winner": "Luca Van Assche",
+        "correct": false,
+        "settled_at": "2026-07-24T02:13:55.884394+00:00"
+      }
+    },
+    "tml-2026-7290-18": {
+      "match_id": "tml-2026-7290-18",
+      "commence_time": "2026-07-23T00:00:00+00:00",
+      "tournament": "Estoril",
+      "surface": "Clay",
+      "player1": "Jaime Faria",
+      "player2": "Gonzalo Bueno",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jaime Faria",
+        "p2_name": "Gonzalo Bueno",
+        "p1_prob": 0.717,
+        "p2_prob": 0.283,
+        "predicted_winner": "Jaime Faria",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-24T02:13:55.962000+00:00",
+      "result": {
+        "winner": "Jaime Faria",
+        "correct": true,
+        "settled_at": "2026-07-24T02:13:55.962000+00:00"
+      }
+    },
+    "tml-2026-319-25": {
+      "match_id": "tml-2026-319-25",
+      "commence_time": "2026-07-23T00:00:00+00:00",
+      "tournament": "Kitzbuhel",
+      "surface": "Clay",
+      "player1": "Alexander Bublik",
+      "player2": "Alex Molcan",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alexander Bublik",
+        "p2_name": "Alex Molcan",
+        "p1_prob": 0.575,
+        "p2_prob": 0.425,
+        "predicted_winner": "Alexander Bublik",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-24T02:13:55.996780+00:00",
+      "result": {
+        "winner": "Alexander Bublik",
+        "correct": true,
+        "settled_at": "2026-07-24T02:13:55.996780+00:00"
+      }
+    },
+    "tml-2026-7290-19": {
+      "match_id": "tml-2026-7290-19",
+      "commence_time": "2026-07-23T00:00:00+00:00",
+      "tournament": "Estoril",
+      "surface": "Clay",
+      "player1": "Andrey Rublev",
+      "player2": "Timofey Skatov",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Andrey Rublev",
+        "p2_name": "Timofey Skatov",
+        "p1_prob": 0.8054,
+        "p2_prob": 0.1946,
+        "predicted_winner": "Andrey Rublev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-24T02:13:56.032361+00:00",
+      "result": {
+        "winner": "Andrey Rublev",
+        "correct": true,
+        "settled_at": "2026-07-24T02:13:56.032361+00:00"
+      }
+    },
+    "tml-2026-7290-20": {
+      "match_id": "tml-2026-7290-20",
+      "commence_time": "2026-07-23T00:00:00+00:00",
+      "tournament": "Estoril",
+      "surface": "Clay",
+      "player1": "Luciano Darderi",
+      "player2": "Pedro Martinez",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Luciano Darderi",
+        "p2_name": "Pedro Martinez",
+        "p1_prob": 0.7897,
+        "p2_prob": 0.2103,
+        "predicted_winner": "Luciano Darderi",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-24T02:13:56.068881+00:00",
+      "result": {
+        "winner": "Luciano Darderi",
+        "correct": true,
+        "settled_at": "2026-07-24T02:13:56.068881+00:00"
+      }
     }
   },
-  "last_updated": "2026-07-23T02:22:25.031052+00:00"
+  "last_updated": "2026-07-24T02:13:56.074244+00:00"
 }
