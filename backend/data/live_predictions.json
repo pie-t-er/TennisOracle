@@ -18818,7 +18818,132 @@
         "correct": true,
         "settled_at": "2026-07-24T02:13:56.068881+00:00"
       }
+    },
+    "tml-2026-319-26": {
+      "match_id": "tml-2026-319-26",
+      "commence_time": "2026-07-24T00:00:00+00:00",
+      "tournament": "Kitzbuhel",
+      "surface": "Clay",
+      "player1": "Alexander Bublik",
+      "player2": "Tomas Martin Etcheverry",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alexander Bublik",
+        "p2_name": "Tomas Martin Etcheverry",
+        "p1_prob": 0.5371,
+        "p2_prob": 0.4629,
+        "predicted_winner": "Alexander Bublik",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-25T02:12:38.904214+00:00",
+      "result": {
+        "winner": "Alexander Bublik",
+        "correct": true,
+        "settled_at": "2026-07-25T02:12:38.904214+00:00"
+      }
+    },
+    "tml-2026-319-27": {
+      "match_id": "tml-2026-319-27",
+      "commence_time": "2026-07-24T00:00:00+00:00",
+      "tournament": "Kitzbuhel",
+      "surface": "Clay",
+      "player1": "Quentin Halys",
+      "player2": "Yannick Hanfmann",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Quentin Halys",
+        "p2_name": "Yannick Hanfmann",
+        "p1_prob": 0.434,
+        "p2_prob": 0.566,
+        "predicted_winner": "Yannick Hanfmann",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-25T02:12:38.938322+00:00",
+      "result": {
+        "winner": "Quentin Halys",
+        "correct": false,
+        "settled_at": "2026-07-25T02:12:38.938322+00:00"
+      }
+    },
+    "tml-2026-7290-21": {
+      "match_id": "tml-2026-7290-21",
+      "commence_time": "2026-07-24T00:00:00+00:00",
+      "tournament": "Estoril",
+      "surface": "Clay",
+      "player1": "Luca Van Assche",
+      "player2": "Andrey Rublev",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Luca Van Assche",
+        "p2_name": "Andrey Rublev",
+        "p1_prob": 0.2441,
+        "p2_prob": 0.7559,
+        "predicted_winner": "Andrey Rublev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-25T02:12:38.971376+00:00",
+      "result": {
+        "winner": "Luca Van Assche",
+        "correct": false,
+        "settled_at": "2026-07-25T02:12:38.971376+00:00"
+      }
+    },
+    "tml-2026-7290-23": {
+      "match_id": "tml-2026-7290-23",
+      "commence_time": "2026-07-24T00:00:00+00:00",
+      "tournament": "Estoril",
+      "surface": "Clay",
+      "player1": "Alexander Blockx",
+      "player2": "Roman Andres Burruchaga",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alexander Blockx",
+        "p2_name": "Roman Andres Burruchaga",
+        "p1_prob": 0.6633,
+        "p2_prob": 0.3367,
+        "predicted_winner": "Alexander Blockx",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-25T02:12:39.007373+00:00",
+      "result": {
+        "winner": "Alexander Blockx",
+        "correct": true,
+        "settled_at": "2026-07-25T02:12:39.007373+00:00"
+      }
+    },
+    "tml-2026-7290-24": {
+      "match_id": "tml-2026-7290-24",
+      "commence_time": "2026-07-24T00:00:00+00:00",
+      "tournament": "Estoril",
+      "surface": "Clay",
+      "player1": "Luciano Darderi",
+      "player2": "Jaime Faria",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Luciano Darderi",
+        "p2_name": "Jaime Faria",
+        "p1_prob": 0.7711,
+        "p2_prob": 0.2289,
+        "predicted_winner": "Luciano Darderi",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-25T02:12:39.083176+00:00",
+      "result": {
+        "winner": "Luciano Darderi",
+        "correct": true,
+        "settled_at": "2026-07-25T02:12:39.083176+00:00"
+      }
     }
   },
-  "last_updated": "2026-07-24T02:13:56.074244+00:00"
+  "last_updated": "2026-07-25T02:12:39.087792+00:00"
 }
