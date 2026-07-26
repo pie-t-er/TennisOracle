@@ -18943,7 +18943,57 @@
         "correct": true,
         "settled_at": "2026-07-25T02:12:39.083176+00:00"
       }
+    },
+    "tml-2026-7290-25": {
+      "match_id": "tml-2026-7290-25",
+      "commence_time": "2026-07-25T00:00:00+00:00",
+      "tournament": "Estoril",
+      "surface": "Clay",
+      "player1": "Luca Van Assche",
+      "player2": "Hugo Gaston",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Luca Van Assche",
+        "p2_name": "Hugo Gaston",
+        "p1_prob": 0.5508,
+        "p2_prob": 0.4492,
+        "predicted_winner": "Luca Van Assche",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-26T02:23:59.939189+00:00",
+      "result": {
+        "winner": "Luca Van Assche",
+        "correct": true,
+        "settled_at": "2026-07-26T02:23:59.939189+00:00"
+      }
+    },
+    "tml-2026-7290-26": {
+      "match_id": "tml-2026-7290-26",
+      "commence_time": "2026-07-26T00:00:00+00:00",
+      "tournament": "Estoril",
+      "surface": "Clay",
+      "player1": "Alexander Blockx",
+      "player2": "Luciano Darderi",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alexander Blockx",
+        "p2_name": "Luciano Darderi",
+        "p1_prob": 0.422,
+        "p2_prob": 0.578,
+        "predicted_winner": "Luciano Darderi",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-26T02:23:59.973966+00:00",
+      "result": {
+        "winner": "Alexander Blockx",
+        "correct": false,
+        "settled_at": "2026-07-26T02:23:59.973966+00:00"
+      }
     }
   },
-  "last_updated": "2026-07-25T02:12:39.087792+00:00"
+  "last_updated": "2026-07-26T02:23:59.979605+00:00"
 }
