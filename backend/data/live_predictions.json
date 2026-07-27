@@ -19608,7 +19608,571 @@
         "correct": false,
         "settled_at": "2026-07-27T02:30:57.386966+00:00"
       }
+    },
+    "f379d3b3b65df0df31caf9f446beb974": {
+      "match_id": "f379d3b3b65df0df31caf9f446beb974",
+      "commence_time": "2026-07-27T18:50:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Aleksandar Vukic",
+      "player2": "Zachary Svajda",
+      "bookmakers": {
+        "fanduel": {
+          "Aleksandar Vukic": 2.16,
+          "Zachary Svajda": 1.71
+        },
+        "betfair_ex_eu": {
+          "Aleksandar Vukic": 2.22,
+          "Zachary Svajda": 1.78
+        },
+        "sport888": {
+          "Aleksandar Vukic": 2.1,
+          "Zachary Svajda": 1.73
+        },
+        "draftkings": {
+          "Aleksandar Vukic": 2.13,
+          "Zachary Svajda": 1.73
+        },
+        "betrivers": {
+          "Aleksandar Vukic": 2.15,
+          "Zachary Svajda": 1.7
+        },
+        "unibet_se": {
+          "Aleksandar Vukic": 2.15,
+          "Zachary Svajda": 1.7
+        },
+        "unibet_nl": {
+          "Aleksandar Vukic": 2.15,
+          "Zachary Svajda": 1.7
+        },
+        "pmu_fr": {
+          "Aleksandar Vukic": 2.1,
+          "Zachary Svajda": 1.67
+        },
+        "leovegas_se": {
+          "Aleksandar Vukic": 2.15,
+          "Zachary Svajda": 1.7
+        },
+        "bovada": {
+          "Aleksandar Vukic": 2.15,
+          "Zachary Svajda": 1.71
+        },
+        "betmgm": {
+          "Aleksandar Vukic": 2.05,
+          "Zachary Svajda": 1.74
+        },
+        "pinnacle": {
+          "Aleksandar Vukic": 2.14,
+          "Zachary Svajda": 1.76
+        },
+        "matchbook": {
+          "Aleksandar Vukic": 2.22,
+          "Zachary Svajda": 1.78
+        },
+        "williamhill": {
+          "Aleksandar Vukic": 2.1,
+          "Zachary Svajda": 1.73
+        },
+        "unibet_fr": {
+          "Aleksandar Vukic": 2.1,
+          "Zachary Svajda": 1.7
+        },
+        "lowvig": {
+          "Aleksandar Vukic": 2.14,
+          "Zachary Svajda": 1.75
+        },
+        "betonlineag": {
+          "Aleksandar Vukic": 2.14,
+          "Zachary Svajda": 1.75
+        },
+        "winamax_de": {
+          "Aleksandar Vukic": 2.2,
+          "Zachary Svajda": 1.72
+        },
+        "winamax_fr": {
+          "Aleksandar Vukic": 2.15,
+          "Zachary Svajda": 1.68
+        },
+        "betclic_fr": {
+          "Aleksandar Vukic": 2.22,
+          "Zachary Svajda": 1.67
+        },
+        "onexbet": {
+          "Aleksandar Vukic": 2.14,
+          "Zachary Svajda": 1.74
+        },
+        "betsson": {
+          "Aleksandar Vukic": 2.07,
+          "Zachary Svajda": 1.73
+        },
+        "nordicbet": {
+          "Aleksandar Vukic": 2.07,
+          "Zachary Svajda": 1.73
+        },
+        "betanysports": {
+          "Aleksandar Vukic": 2.2,
+          "Zachary Svajda": 1.71
+        }
+      },
+      "prediction": {
+        "p1_name": "Aleksandar Vukic",
+        "p2_name": "Zachary Svajda",
+        "p1_prob": 0.5319,
+        "p2_prob": 0.4681,
+        "predicted_winner": "Aleksandar Vukic",
+        "confidence": "low",
+        "p1_edge": 0.0814,
+        "p2_edge": -0.0937
+      },
+      "collected_at": "2026-07-27T11:15:57.912888+00:00",
+      "result": null
+    },
+    "8a728897f2c89d140362ad0b2b8f9228": {
+      "match_id": "8a728897f2c89d140362ad0b2b8f9228",
+      "commence_time": "2026-07-28T15:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Ugo Humbert",
+      "player2": "Andrej Martin",
+      "bookmakers": {
+        "draftkings": {
+          "Andrej Martin": 4.25,
+          "Ugo Humbert": 1.23
+        },
+        "betfair_ex_eu": {
+          "Andrej Martin": 4.5,
+          "Ugo Humbert": 1.25
+        },
+        "sport888": {
+          "Andrej Martin": 4.2,
+          "Ugo Humbert": 1.22
+        },
+        "bovada": {
+          "Andrej Martin": 4.5,
+          "Ugo Humbert": 1.22
+        },
+        "fanduel": {
+          "Andrej Martin": 4.6,
+          "Ugo Humbert": 1.2
+        },
+        "williamhill": {
+          "Andrej Martin": 4.2,
+          "Ugo Humbert": 1.22
+        },
+        "pinnacle": {
+          "Andrej Martin": 4.63,
+          "Ugo Humbert": 1.22
+        },
+        "winamax_de": {
+          "Andrej Martin": 4.7,
+          "Ugo Humbert": 1.19
+        },
+        "winamax_fr": {
+          "Andrej Martin": 4.0,
+          "Ugo Humbert": 1.15
+        },
+        "betclic_fr": {
+          "Andrej Martin": 4.2,
+          "Ugo Humbert": 1.19
+        },
+        "onexbet": {
+          "Andrej Martin": 4.45,
+          "Ugo Humbert": 1.22
+        },
+        "betsson": {
+          "Andrej Martin": 4.4,
+          "Ugo Humbert": 1.2
+        },
+        "nordicbet": {
+          "Andrej Martin": 4.4,
+          "Ugo Humbert": 1.2
+        },
+        "lowvig": {
+          "Andrej Martin": 4.67,
+          "Ugo Humbert": 1.21
+        },
+        "betonlineag": {
+          "Andrej Martin": 4.67,
+          "Ugo Humbert": 1.21
+        }
+      },
+      "prediction": {
+        "p1_name": "Ugo Humbert",
+        "p2_name": "Andrej Martin",
+        "p1_prob": 0.7967,
+        "p2_prob": 0.2033,
+        "predicted_winner": "Ugo Humbert",
+        "confidence": "high",
+        "p1_edge": -0.0033,
+        "p2_edge": -0.0095
+      },
+      "collected_at": "2026-07-27T11:15:58.051673+00:00",
+      "result": null
+    },
+    "ac252b6173034d1c6165c0ead054ca5f": {
+      "match_id": "ac252b6173034d1c6165c0ead054ca5f",
+      "commence_time": "2026-07-28T15:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Ugo Humbert",
+      "player2": "Andres Martin",
+      "bookmakers": {
+        "unibet_nl": {
+          "Andres Martin": 4.3,
+          "Ugo Humbert": 1.21
+        },
+        "leovegas_se": {
+          "Andres Martin": 4.3,
+          "Ugo Humbert": 1.21
+        },
+        "unibet_se": {
+          "Andres Martin": 4.3,
+          "Ugo Humbert": 1.21
+        },
+        "betrivers": {
+          "Andres Martin": 4.3,
+          "Ugo Humbert": 1.21
+        },
+        "pmu_fr": {
+          "Andres Martin": 4.1,
+          "Ugo Humbert": 1.19
+        },
+        "betmgm": {
+          "Andres Martin": 4.33,
+          "Ugo Humbert": 1.21
+        }
+      },
+      "prediction": {
+        "p1_name": "Ugo Humbert",
+        "p2_name": "Andrej Martin",
+        "p1_prob": 0.7967,
+        "p2_prob": 0.2033,
+        "predicted_winner": "Ugo Humbert",
+        "confidence": "high",
+        "p1_edge": -0.0297,
+        "p2_edge": -0.0276
+      },
+      "collected_at": "2026-07-27T11:15:58.142949+00:00",
+      "result": null
+    },
+    "552aed3ad49ab701bd2fdffaa7fb6b5b": {
+      "match_id": "552aed3ad49ab701bd2fdffaa7fb6b5b",
+      "commence_time": "2026-07-28T15:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Martin Damm Jr.",
+      "player2": "Ben Shelton",
+      "bookmakers": {
+        "draftkings": {
+          "Ben Shelton": 1.36,
+          "Martin Damm Jr.": 3.2
+        },
+        "betfair_ex_eu": {
+          "Ben Shelton": 1.44,
+          "Martin Damm Jr.": 2.22
+        },
+        "sport888": {
+          "Ben Shelton": 1.36,
+          "Martin Damm Jr.": 3.1
+        },
+        "bovada": {
+          "Ben Shelton": 1.36,
+          "Martin Damm Jr.": 3.2
+        },
+        "pmu_fr": {
+          "Ben Shelton": 1.36,
+          "Martin Damm Jr.": 2.9
+        },
+        "leovegas_se": {
+          "Ben Shelton": 1.38,
+          "Martin Damm Jr.": 3.0
+        },
+        "betrivers": {
+          "Ben Shelton": 1.38,
+          "Martin Damm Jr.": 3.0
+        },
+        "unibet_se": {
+          "Ben Shelton": 1.38,
+          "Martin Damm Jr.": 3.0
+        },
+        "unibet_nl": {
+          "Ben Shelton": 1.38,
+          "Martin Damm Jr.": 3.0
+        },
+        "williamhill": {
+          "Ben Shelton": 1.36,
+          "Martin Damm Jr.": 3.1
+        },
+        "pinnacle": {
+          "Ben Shelton": 1.39,
+          "Martin Damm Jr.": 3.17
+        },
+        "unibet_fr": {
+          "Ben Shelton": 1.31,
+          "Martin Damm Jr.": 2.8
+        },
+        "betmgm": {
+          "Ben Shelton": 1.35,
+          "Martin Damm Jr.": 3.1
+        },
+        "winamax_de": {
+          "Ben Shelton": 1.36,
+          "Martin Damm Jr.": 3.1
+        },
+        "winamax_fr": {
+          "Ben Shelton": 1.31,
+          "Martin Damm Jr.": 2.85
+        },
+        "betclic_fr": {
+          "Ben Shelton": 1.34,
+          "Martin Damm Jr.": 3.0
+        },
+        "onexbet": {
+          "Ben Shelton": 1.39,
+          "Martin Damm Jr.": 3.12
+        },
+        "betsson": {
+          "Ben Shelton": 1.36,
+          "Martin Damm Jr.": 3.1
+        },
+        "nordicbet": {
+          "Ben Shelton": 1.36,
+          "Martin Damm Jr.": 3.1
+        },
+        "fanduel": {
+          "Ben Shelton": 1.34,
+          "Martin Damm Jr.": 3.2
+        },
+        "lowvig": {
+          "Ben Shelton": 1.37,
+          "Martin Damm Jr.": 3.2
+        },
+        "betonlineag": {
+          "Ben Shelton": 1.37,
+          "Martin Damm Jr.": 3.2
+        }
+      },
+      "prediction": {
+        "p1_name": "Martin Damm",
+        "p2_name": "Ben Shelton",
+        "p1_prob": 0.2224,
+        "p2_prob": 0.7776,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "high",
+        "p1_edge": -0.0901,
+        "p2_edge": 0.0832
+      },
+      "collected_at": "2026-07-27T11:15:58.179638+00:00",
+      "result": null
+    },
+    "b0a015fdd15f9ed459d8f09a5fcb3f35": {
+      "match_id": "b0a015fdd15f9ed459d8f09a5fcb3f35",
+      "commence_time": "2026-07-28T15:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Marcos Giron",
+      "player2": "Cruz Hewitt",
+      "bookmakers": {
+        "draftkings": {
+          "Cruz Hewitt": 10.1,
+          "Marcos Giron": 1.05
+        },
+        "betfair_ex_eu": {
+          "Cruz Hewitt": 9.2,
+          "Marcos Giron": 1.06
+        },
+        "bovada": {
+          "Cruz Hewitt": 10.0,
+          "Marcos Giron": 1.06
+        },
+        "sport888": {
+          "Cruz Hewitt": 9.0,
+          "Marcos Giron": 1.06
+        },
+        "pmu_fr": {
+          "Cruz Hewitt": 9.0,
+          "Marcos Giron": 1.03
+        },
+        "leovegas_se": {
+          "Cruz Hewitt": 9.5,
+          "Marcos Giron": 1.06
+        },
+        "betrivers": {
+          "Cruz Hewitt": 9.5,
+          "Marcos Giron": 1.06
+        },
+        "unibet_se": {
+          "Cruz Hewitt": 9.5,
+          "Marcos Giron": 1.06
+        },
+        "unibet_nl": {
+          "Cruz Hewitt": 9.5,
+          "Marcos Giron": 1.06
+        },
+        "williamhill": {
+          "Cruz Hewitt": 9.0,
+          "Marcos Giron": 1.06
+        },
+        "pinnacle": {
+          "Cruz Hewitt": 9.88,
+          "Marcos Giron": 1.07
+        },
+        "betmgm": {
+          "Cruz Hewitt": 9.0,
+          "Marcos Giron": 1.05
+        },
+        "winamax_de": {
+          "Cruz Hewitt": 9.0,
+          "Marcos Giron": 1.05
+        },
+        "winamax_fr": {
+          "Cruz Hewitt": 6.5,
+          "Marcos Giron": 1.04
+        },
+        "betclic_fr": {
+          "Cruz Hewitt": 8.0,
+          "Marcos Giron": 1.05
+        },
+        "onexbet": {
+          "Cruz Hewitt": 10.3,
+          "Marcos Giron": 1.06
+        },
+        "betsson": {
+          "Cruz Hewitt": 8.8,
+          "Marcos Giron": 1.06
+        },
+        "nordicbet": {
+          "Cruz Hewitt": 8.8,
+          "Marcos Giron": 1.06
+        },
+        "lowvig": {
+          "Cruz Hewitt": 10.1,
+          "Marcos Giron": 1.06
+        },
+        "betonlineag": {
+          "Cruz Hewitt": 10.1,
+          "Marcos Giron": 1.06
+        }
+      },
+      "prediction": {
+        "p1_name": "Marcos Giron",
+        "p2_name": "Lleyton Hewitt",
+        "p1_prob": 0.5593,
+        "p2_prob": 0.4407,
+        "predicted_winner": "Marcos Giron",
+        "confidence": "medium",
+        "p1_edge": -0.3753,
+        "p2_edge": 0.3436
+      },
+      "collected_at": "2026-07-27T11:15:58.215760+00:00",
+      "result": null
+    },
+    "4f26734aa4ded347ef4aa43b43b5fd56": {
+      "match_id": "4f26734aa4ded347ef4aa43b43b5fd56",
+      "commence_time": "2026-07-28T15:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Trevor Svajda",
+      "player2": "Jakub Mensik",
+      "bookmakers": {
+        "draftkings": {
+          "Jakub Mensik": 1.25,
+          "Trevor Svajda": 4.08
+        },
+        "bovada": {
+          "Jakub Mensik": 1.25,
+          "Trevor Svajda": 4.0
+        },
+        "betfair_ex_eu": {
+          "Jakub Mensik": 1.23,
+          "Trevor Svajda": 4.1
+        },
+        "sport888": {
+          "Jakub Mensik": 1.25,
+          "Trevor Svajda": 4.0
+        },
+        "fanduel": {
+          "Jakub Mensik": 1.21,
+          "Trevor Svajda": 4.5
+        },
+        "pmu_fr": {
+          "Jakub Mensik": 1.22,
+          "Trevor Svajda": 3.9
+        },
+        "leovegas_se": {
+          "Jakub Mensik": 1.24,
+          "Trevor Svajda": 4.0
+        },
+        "betrivers": {
+          "Jakub Mensik": 1.24,
+          "Trevor Svajda": 4.0
+        },
+        "unibet_se": {
+          "Jakub Mensik": 1.24,
+          "Trevor Svajda": 4.0
+        },
+        "unibet_nl": {
+          "Jakub Mensik": 1.24,
+          "Trevor Svajda": 4.0
+        },
+        "williamhill": {
+          "Jakub Mensik": 1.25,
+          "Trevor Svajda": 4.0
+        },
+        "pinnacle": {
+          "Jakub Mensik": 1.25,
+          "Trevor Svajda": 4.23
+        },
+        "winamax_de": {
+          "Jakub Mensik": 1.24,
+          "Trevor Svajda": 4.1
+        },
+        "winamax_fr": {
+          "Jakub Mensik": 1.2,
+          "Trevor Svajda": 3.6
+        },
+        "betclic_fr": {
+          "Jakub Mensik": 1.22,
+          "Trevor Svajda": 3.85
+        },
+        "betmgm": {
+          "Jakub Mensik": 1.22,
+          "Trevor Svajda": 4.1
+        },
+        "onexbet": {
+          "Jakub Mensik": 1.25,
+          "Trevor Svajda": 4.09
+        },
+        "betsson": {
+          "Jakub Mensik": 1.23,
+          "Trevor Svajda": 4.0
+        },
+        "nordicbet": {
+          "Jakub Mensik": 1.23,
+          "Trevor Svajda": 4.0
+        },
+        "lowvig": {
+          "Jakub Mensik": 1.24,
+          "Trevor Svajda": 4.15
+        },
+        "betonlineag": {
+          "Jakub Mensik": 1.24,
+          "Trevor Svajda": 4.15
+        }
+      },
+      "prediction": {
+        "p1_name": "Zachary Svajda",
+        "p2_name": "Jakub Mensik",
+        "p1_prob": 0.2031,
+        "p2_prob": 0.7969,
+        "predicted_winner": "Jakub Mensik",
+        "confidence": "high",
+        "p1_edge": -0.0191,
+        "p2_edge": -0.0031
+      },
+      "collected_at": "2026-07-27T11:15:58.252499+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-27T02:30:57.393071+00:00"
+  "last_updated": "2026-07-27T11:15:58.257404+00:00"
 }
