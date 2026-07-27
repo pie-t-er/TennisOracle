@@ -18993,7 +18993,622 @@
         "correct": false,
         "settled_at": "2026-07-26T02:23:59.973966+00:00"
       }
+    },
+    "e81136d8af2867898952ce896f71662f": {
+      "match_id": "e81136d8af2867898952ce896f71662f",
+      "commence_time": "2026-07-27T15:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Alejandro Tabilo",
+      "player2": "Tallon Griekspoor",
+      "bookmakers": {
+        "pinnacle": {
+          "Alejandro Tabilo": 2.12,
+          "Tallon Griekspoor": 1.78
+        },
+        "betanysports": {
+          "Alejandro Tabilo": 2.0,
+          "Tallon Griekspoor": 1.77
+        },
+        "betfair_ex_eu": {
+          "Alejandro Tabilo": 2.2,
+          "Tallon Griekspoor": 1.8
+        },
+        "betonlineag": {
+          "Alejandro Tabilo": 2.1,
+          "Tallon Griekspoor": 1.77
+        },
+        "bovada": {
+          "Alejandro Tabilo": 2.1,
+          "Tallon Griekspoor": 1.77
+        },
+        "fanduel": {
+          "Alejandro Tabilo": 2.14,
+          "Tallon Griekspoor": 1.72
+        },
+        "leovegas_se": {
+          "Alejandro Tabilo": 1.95,
+          "Tallon Griekspoor": 1.83
+        },
+        "lowvig": {
+          "Alejandro Tabilo": 2.1,
+          "Tallon Griekspoor": 1.77
+        }
+      },
+      "prediction": {
+        "p1_name": "Alejandro Tabilo",
+        "p2_name": "Tallon Griekspoor",
+        "p1_prob": 0.4956,
+        "p2_prob": 0.5044,
+        "predicted_winner": "Tallon Griekspoor",
+        "confidence": "low",
+        "p1_edge": 0.0411,
+        "p2_edge": -0.042
+      },
+      "collected_at": "2026-07-27T02:30:49.350558+00:00",
+      "result": null
+    },
+    "4c5845a68ef60155168b11c6c5e86b97": {
+      "match_id": "4c5845a68ef60155168b11c6c5e86b97",
+      "commence_time": "2026-07-27T17:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Matteo Arnaldi",
+      "player2": "Lorenzo Musetti",
+      "bookmakers": {
+        "pinnacle": {
+          "Lorenzo Musetti": 1.69,
+          "Matteo Arnaldi": 2.25
+        },
+        "betanysports": {
+          "Lorenzo Musetti": 1.67,
+          "Matteo Arnaldi": 2.2
+        },
+        "betfair_ex_eu": {
+          "Lorenzo Musetti": 1.71,
+          "Matteo Arnaldi": 2.38
+        },
+        "betonlineag": {
+          "Lorenzo Musetti": 1.69,
+          "Matteo Arnaldi": 2.25
+        },
+        "bovada": {
+          "Lorenzo Musetti": 1.65,
+          "Matteo Arnaldi": 2.3
+        },
+        "fanduel": {
+          "Lorenzo Musetti": 1.64,
+          "Matteo Arnaldi": 2.28
+        },
+        "leovegas_se": {
+          "Lorenzo Musetti": 1.61,
+          "Matteo Arnaldi": 2.32
+        },
+        "lowvig": {
+          "Lorenzo Musetti": 1.69,
+          "Matteo Arnaldi": 2.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Matteo Arnaldi",
+        "p2_name": "Lorenzo Musetti",
+        "p1_prob": 0.2601,
+        "p2_prob": 0.7399,
+        "predicted_winner": "Lorenzo Musetti",
+        "confidence": "high",
+        "p1_edge": -0.1601,
+        "p2_edge": 0.1551
+      },
+      "collected_at": "2026-07-27T02:30:49.386494+00:00",
+      "result": null
+    },
+    "a7d3eae7eac3a96a924111872bbf0cc2": {
+      "match_id": "a7d3eae7eac3a96a924111872bbf0cc2",
+      "commence_time": "2026-07-27T19:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Taylor Fritz",
+      "player2": "Zizou Bergs",
+      "bookmakers": {
+        "pinnacle": {
+          "Taylor Fritz": 1.27,
+          "Zizou Bergs": 4.01
+        },
+        "betanysports": {
+          "Taylor Fritz": 1.25,
+          "Zizou Bergs": 4.1
+        },
+        "betfair_ex_eu": {
+          "Taylor Fritz": 1.27,
+          "Zizou Bergs": 4.4
+        },
+        "betonlineag": {
+          "Taylor Fritz": 1.26,
+          "Zizou Bergs": 4.08
+        },
+        "bovada": {
+          "Taylor Fritz": 1.27,
+          "Zizou Bergs": 3.9
+        },
+        "fanduel": {
+          "Taylor Fritz": 1.22,
+          "Zizou Bergs": 4.4
+        },
+        "leovegas_se": {
+          "Taylor Fritz": 1.25,
+          "Zizou Bergs": 3.95
+        },
+        "lowvig": {
+          "Taylor Fritz": 1.26,
+          "Zizou Bergs": 4.08
+        }
+      },
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Zizou Bergs",
+        "p1_prob": 0.7338,
+        "p2_prob": 0.2662,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "high",
+        "p1_edge": -0.0536,
+        "p2_edge": 0.0389
+      },
+      "collected_at": "2026-07-27T02:30:49.422532+00:00",
+      "result": null
+    },
+    "8c72b0ebf1cece7509614e7551b084f9": {
+      "match_id": "8c72b0ebf1cece7509614e7551b084f9",
+      "commence_time": "2026-07-27T21:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Kei Nishikori",
+      "player2": "Juncheng Shang",
+      "bookmakers": {
+        "pinnacle": {
+          "Juncheng Shang": 1.46,
+          "Kei Nishikori": 2.88
+        },
+        "betanysports": {
+          "Juncheng Shang": 1.44,
+          "Kei Nishikori": 2.85
+        },
+        "betfair_ex_eu": {
+          "Juncheng Shang": 1.47,
+          "Kei Nishikori": 2.9
+        },
+        "betonlineag": {
+          "Juncheng Shang": 1.45,
+          "Kei Nishikori": 2.86
+        },
+        "bovada": {
+          "Juncheng Shang": 1.44,
+          "Kei Nishikori": 2.85
+        },
+        "fanduel": {
+          "Juncheng Shang": 1.43,
+          "Kei Nishikori": 2.82
+        },
+        "leovegas_se": {
+          "Juncheng Shang": 1.43,
+          "Kei Nishikori": 2.8
+        },
+        "lowvig": {
+          "Juncheng Shang": 1.45,
+          "Kei Nishikori": 2.86
+        }
+      },
+      "prediction": {
+        "p1_name": "Kei Nishikori",
+        "p2_name": "Juncheng Shang",
+        "p1_prob": 0.6956,
+        "p2_prob": 0.3044,
+        "predicted_winner": "Kei Nishikori",
+        "confidence": "high",
+        "p1_edge": 0.3508,
+        "p2_edge": -0.3759
+      },
+      "collected_at": "2026-07-27T02:30:49.458915+00:00",
+      "result": null
+    },
+    "02f0b6673ba022fb9765afc9f8a50e9c": {
+      "match_id": "02f0b6673ba022fb9765afc9f8a50e9c",
+      "commence_time": "2026-07-28T00:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Frances Tiafoe",
+      "player2": "Terence Atmane",
+      "bookmakers": {
+        "pinnacle": {
+          "Frances Tiafoe": 1.4,
+          "Terence Atmane": 3.11
+        },
+        "betanysports": {
+          "Frances Tiafoe": 1.38,
+          "Terence Atmane": 3.0
+        },
+        "betfair_ex_eu": {
+          "Frances Tiafoe": 1.42,
+          "Terence Atmane": 3.25
+        },
+        "betonlineag": {
+          "Frances Tiafoe": 1.39,
+          "Terence Atmane": 3.11
+        },
+        "bovada": {
+          "Frances Tiafoe": 1.38,
+          "Terence Atmane": 3.1
+        },
+        "fanduel": {
+          "Frances Tiafoe": 1.37,
+          "Terence Atmane": 3.1
+        },
+        "leovegas_se": {
+          "Frances Tiafoe": 1.4,
+          "Terence Atmane": 2.95
+        },
+        "lowvig": {
+          "Frances Tiafoe": 1.39,
+          "Terence Atmane": 3.11
+        }
+      },
+      "prediction": {
+        "p1_name": "Frances Tiafoe",
+        "p2_name": "Terence Atmane",
+        "p1_prob": 0.6373,
+        "p2_prob": 0.3627,
+        "predicted_winner": "Frances Tiafoe",
+        "confidence": "high",
+        "p1_edge": -0.0669,
+        "p2_edge": 0.055
+      },
+      "collected_at": "2026-07-27T02:30:49.495061+00:00",
+      "result": null
+    },
+    "30f0320d3a420d0f2c62b61b0e359c01": {
+      "match_id": "30f0320d3a420d0f2c62b61b0e359c01",
+      "commence_time": "2026-07-28T14:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Adrian Mannarino",
+      "player2": "Learner Tien",
+      "bookmakers": {
+        "pinnacle": {
+          "Adrian Mannarino": 4.0,
+          "Learner Tien": 1.28
+        },
+        "betanysports": {
+          "Adrian Mannarino": 3.75,
+          "Learner Tien": 1.29
+        },
+        "betfair_ex_eu": {
+          "Adrian Mannarino": 4.1,
+          "Learner Tien": 1.28
+        },
+        "betonlineag": {
+          "Adrian Mannarino": 3.68,
+          "Learner Tien": 1.29
+        },
+        "bovada": {
+          "Adrian Mannarino": 3.75,
+          "Learner Tien": 1.29
+        },
+        "fanduel": {
+          "Adrian Mannarino": 3.9,
+          "Learner Tien": 1.26
+        },
+        "leovegas_se": {
+          "Adrian Mannarino": 3.4,
+          "Learner Tien": 1.32
+        },
+        "lowvig": {
+          "Adrian Mannarino": 3.68,
+          "Learner Tien": 1.29
+        }
+      },
+      "prediction": {
+        "p1_name": "Adrian Mannarino",
+        "p2_name": "Learner Tien",
+        "p1_prob": 0.1891,
+        "p2_prob": 0.8109,
+        "predicted_winner": "Learner Tien",
+        "confidence": "high",
+        "p1_edge": -0.0548,
+        "p2_edge": 0.0533
+      },
+      "collected_at": "2026-07-27T02:30:49.530919+00:00",
+      "result": null
+    },
+    "af6a0b794885d32c2ab42f4906ba2e45": {
+      "match_id": "af6a0b794885d32c2ab42f4906ba2e45",
+      "commence_time": "2026-07-28T14:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Alex Michelsen",
+      "player2": "Jack Draper",
+      "bookmakers": {
+        "pinnacle": {
+          "Alex Michelsen": 2.2,
+          "Jack Draper": 1.73
+        },
+        "betfair_ex_eu": {
+          "Alex Michelsen": 2.3,
+          "Jack Draper": 1.73
+        },
+        "betonlineag": {
+          "Alex Michelsen": 2.18,
+          "Jack Draper": 1.72
+        },
+        "bovada": {
+          "Alex Michelsen": 2.3,
+          "Jack Draper": 1.65
+        },
+        "fanduel": {
+          "Alex Michelsen": 2.18,
+          "Jack Draper": 1.7
+        },
+        "leovegas_se": {
+          "Alex Michelsen": 2.18,
+          "Jack Draper": 1.68
+        },
+        "lowvig": {
+          "Alex Michelsen": 2.18,
+          "Jack Draper": 1.72
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex Michelsen",
+        "p2_name": "Jack Draper",
+        "p1_prob": 0.541,
+        "p2_prob": 0.459,
+        "predicted_winner": "Alex Michelsen",
+        "confidence": "medium",
+        "p1_edge": 0.1062,
+        "p2_edge": -0.119
+      },
+      "collected_at": "2026-07-27T02:30:49.566391+00:00",
+      "result": null
+    },
+    "cc2bdc2041cd08f06f6ea0a6f20b0b9b": {
+      "match_id": "cc2bdc2041cd08f06f6ea0a6f20b0b9b",
+      "commence_time": "2026-07-28T14:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Alex de Minaur",
+      "player2": "Stefanos Tsitsipas",
+      "bookmakers": {
+        "pinnacle": {
+          "Alex de Minaur": 1.65,
+          "Stefanos Tsitsipas": 2.33
+        },
+        "betanysports": {
+          "Alex de Minaur": 1.65,
+          "Stefanos Tsitsipas": 2.25
+        },
+        "betfair_ex_eu": {
+          "Alex de Minaur": 1.71,
+          "Stefanos Tsitsipas": 2.36
+        },
+        "betonlineag": {
+          "Alex de Minaur": 1.65,
+          "Stefanos Tsitsipas": 2.35
+        },
+        "bovada": {
+          "Alex de Minaur": 1.65,
+          "Stefanos Tsitsipas": 2.3
+        },
+        "fanduel": {
+          "Alex de Minaur": 1.69,
+          "Stefanos Tsitsipas": 2.18
+        },
+        "leovegas_se": {
+          "Alex de Minaur": 1.56,
+          "Stefanos Tsitsipas": 2.4
+        },
+        "lowvig": {
+          "Alex de Minaur": 1.65,
+          "Stefanos Tsitsipas": 2.35
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex De Minaur",
+        "p2_name": "Stefanos Tsitsipas",
+        "p1_prob": 0.6124,
+        "p2_prob": 0.3876,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": 0.0276,
+        "p2_edge": -0.0291
+      },
+      "collected_at": "2026-07-27T02:30:49.602078+00:00",
+      "result": null
+    },
+    "b09766dc03534a3e77f2ee6137e33f95": {
+      "match_id": "b09766dc03534a3e77f2ee6137e33f95",
+      "commence_time": "2026-07-28T14:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Arthur Fils",
+      "player2": "Rafael Jodar",
+      "bookmakers": {
+        "pinnacle": {
+          "Arthur Fils": 1.64,
+          "Rafael Jodar": 2.37
+        },
+        "betanysports": {
+          "Arthur Fils": 1.65,
+          "Rafael Jodar": 2.25
+        },
+        "betfair_ex_eu": {
+          "Arthur Fils": 1.69,
+          "Rafael Jodar": 2.38
+        },
+        "betonlineag": {
+          "Arthur Fils": 1.66,
+          "Rafael Jodar": 2.31
+        },
+        "bovada": {
+          "Arthur Fils": 1.65,
+          "Rafael Jodar": 2.3
+        },
+        "fanduel": {
+          "Arthur Fils": 1.66,
+          "Rafael Jodar": 2.24
+        },
+        "leovegas_se": {
+          "Arthur Fils": 1.65,
+          "Rafael Jodar": 2.25
+        },
+        "lowvig": {
+          "Arthur Fils": 1.66,
+          "Rafael Jodar": 2.31
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Fils",
+        "p2_name": "Rafael Jodar",
+        "p1_prob": 0.546,
+        "p2_prob": 0.454,
+        "predicted_winner": "Arthur Fils",
+        "confidence": "medium",
+        "p1_edge": -0.0457,
+        "p2_edge": 0.0338
+      },
+      "collected_at": "2026-07-27T02:30:49.637864+00:00",
+      "result": null
+    },
+    "ac4d7fbd351591b71a42ee82337d4c1d": {
+      "match_id": "ac4d7fbd351591b71a42ee82337d4c1d",
+      "commence_time": "2026-07-28T14:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Brandon Nakashima",
+      "player2": "Tomas Martin Etcheverry",
+      "bookmakers": {
+        "pinnacle": {
+          "Brandon Nakashima": 1.42,
+          "Tomas Martin Etcheverry": 3.04
+        },
+        "betanysports": {
+          "Brandon Nakashima": 1.4,
+          "Tomas Martin Etcheverry": 3.0
+        },
+        "betfair_ex_eu": {
+          "Brandon Nakashima": 1.43,
+          "Tomas Martin Etcheverry": 1.58
+        },
+        "betonlineag": {
+          "Brandon Nakashima": 1.4,
+          "Tomas Martin Etcheverry": 3.07
+        },
+        "bovada": {
+          "Brandon Nakashima": 1.4,
+          "Tomas Martin Etcheverry": 3.0
+        },
+        "fanduel": {
+          "Brandon Nakashima": 1.38,
+          "Tomas Martin Etcheverry": 3.05
+        },
+        "leovegas_se": {
+          "Brandon Nakashima": 1.4,
+          "Tomas Martin Etcheverry": 2.95
+        },
+        "lowvig": {
+          "Brandon Nakashima": 1.4,
+          "Tomas Martin Etcheverry": 3.07
+        }
+      },
+      "prediction": {
+        "p1_name": "Brandon Nakashima",
+        "p2_name": "Tomas Martin Etcheverry",
+        "p1_prob": 0.494,
+        "p2_prob": 0.506,
+        "predicted_winner": "Tomas Martin Etcheverry",
+        "confidence": "low",
+        "p1_edge": -0.2053,
+        "p2_edge": 0.1803
+      },
+      "collected_at": "2026-07-27T02:30:49.673675+00:00",
+      "result": null
+    },
+    "296715636308be675eb4fd454f74cd7f": {
+      "match_id": "296715636308be675eb4fd454f74cd7f",
+      "commence_time": "2026-07-28T14:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Kamil Majchrzak",
+      "player2": "Tommy Paul",
+      "bookmakers": {
+        "pinnacle": {
+          "Kamil Majchrzak": 3.63,
+          "Tommy Paul": 1.32
+        },
+        "betanysports": {
+          "Kamil Majchrzak": 3.45,
+          "Tommy Paul": 1.31
+        },
+        "betfair_ex_eu": {
+          "Kamil Majchrzak": 3.4,
+          "Tommy Paul": 1.25
+        },
+        "betonlineag": {
+          "Kamil Majchrzak": 3.47,
+          "Tommy Paul": 1.32
+        },
+        "bovada": {
+          "Kamil Majchrzak": 3.5,
+          "Tommy Paul": 1.32
+        },
+        "fanduel": {
+          "Kamil Majchrzak": 3.45,
+          "Tommy Paul": 1.31
+        },
+        "leovegas_se": {
+          "Kamil Majchrzak": 3.35,
+          "Tommy Paul": 1.33
+        },
+        "lowvig": {
+          "Kamil Majchrzak": 3.47,
+          "Tommy Paul": 1.32
+        }
+      },
+      "prediction": {
+        "p1_name": "Kamil Majchrzak",
+        "p2_name": "Tommy Paul",
+        "p1_prob": 0.3199,
+        "p2_prob": 0.6801,
+        "predicted_winner": "Tommy Paul",
+        "confidence": "high",
+        "p1_edge": 0.0444,
+        "p2_edge": -0.0718
+      },
+      "collected_at": "2026-07-27T02:30:49.709478+00:00",
+      "result": null
+    },
+    "tml-2026-7290-27": {
+      "match_id": "tml-2026-7290-27",
+      "commence_time": "2026-07-26T00:00:00+00:00",
+      "tournament": "Estoril",
+      "surface": "Clay",
+      "player1": "Luca Van Assche",
+      "player2": "Alexander Blockx",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Luca Van Assche",
+        "p2_name": "Alexander Blockx",
+        "p1_prob": 0.3219,
+        "p2_prob": 0.6781,
+        "predicted_winner": "Alexander Blockx",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-27T02:30:57.386966+00:00",
+      "result": {
+        "winner": "Luca Van Assche",
+        "correct": false,
+        "settled_at": "2026-07-27T02:30:57.386966+00:00"
+      }
     }
   },
-  "last_updated": "2026-07-26T02:23:59.979605+00:00"
+  "last_updated": "2026-07-27T02:30:57.393071+00:00"
 }
