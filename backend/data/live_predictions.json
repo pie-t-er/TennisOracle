@@ -20172,7 +20172,73 @@
       },
       "collected_at": "2026-07-27T11:15:58.252499+00:00",
       "result": null
+    },
+    "76f19fe0a08fb55b201f3b7735945d4a": {
+      "match_id": "76f19fe0a08fb55b201f3b7735945d4a",
+      "commence_time": "2026-07-28T16:30:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Alex Michelsen",
+      "player2": "Mackenzie McDonald",
+      "bookmakers": {
+        "pinnacle": {
+          "Alex Michelsen": 1.29,
+          "Mackenzie McDonald": 3.83
+        },
+        "sport888": {
+          "Alex Michelsen": 1.3,
+          "Mackenzie McDonald": 3.5
+        },
+        "williamhill": {
+          "Alex Michelsen": 1.3,
+          "Mackenzie McDonald": 3.5
+        },
+        "draftkings": {
+          "Alex Michelsen": 1.27,
+          "Mackenzie McDonald": 3.86
+        },
+        "unibet_fr": {
+          "Alex Michelsen": 1.27,
+          "Mackenzie McDonald": 3.4
+        },
+        "nordicbet": {
+          "Alex Michelsen": 1.29,
+          "Mackenzie McDonald": 3.55
+        },
+        "betsson": {
+          "Alex Michelsen": 1.29,
+          "Mackenzie McDonald": 3.55
+        },
+        "betclic_fr": {
+          "Alex Michelsen": 1.26,
+          "Mackenzie McDonald": 3.3
+        },
+        "betmgm": {
+          "Alex Michelsen": 1.29,
+          "Mackenzie McDonald": 3.6
+        },
+        "onexbet": {
+          "Alex Michelsen": 1.31,
+          "Mackenzie McDonald": 3.62
+        },
+        "bovada": {
+          "Alex Michelsen": 1.29,
+          "Mackenzie McDonald": 3.75
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex Michelsen",
+        "p2_name": "Mackenzie Mcdonald",
+        "p1_prob": 0.7445,
+        "p2_prob": 0.2555,
+        "predicted_winner": "Alex Michelsen",
+        "confidence": "high",
+        "p1_edge": -0.0189,
+        "p2_edge": -0.0036
+      },
+      "collected_at": "2026-07-28T02:06:34.581985+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-27T11:15:58.257404+00:00"
+  "last_updated": "2026-07-28T02:06:34.587192+00:00"
 }
