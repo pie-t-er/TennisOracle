@@ -19336,7 +19336,11 @@
         "p2_edge": 0.0533
       },
       "collected_at": "2026-07-27T02:30:49.530919+00:00",
-      "result": null
+      "result": {
+        "winner": "Adrian Mannarino",
+        "correct": false,
+        "settled_at": "2026-07-29T10:35:02.987552+00:00"
+      }
     },
     "af6a0b794885d32c2ab42f4906ba2e45": {
       "match_id": "af6a0b794885d32c2ab42f4906ba2e45",
@@ -19494,7 +19498,11 @@
         "p2_edge": 0.0338
       },
       "collected_at": "2026-07-27T02:30:49.637864+00:00",
-      "result": null
+      "result": {
+        "winner": "Rafael Jodar",
+        "correct": false,
+        "settled_at": "2026-07-29T10:35:03.041172+00:00"
+      }
     },
     "ac4d7fbd351591b71a42ee82337d4c1d": {
       "match_id": "ac4d7fbd351591b71a42ee82337d4c1d",
@@ -19548,7 +19556,11 @@
         "p2_edge": 0.1803
       },
       "collected_at": "2026-07-27T02:30:49.673675+00:00",
-      "result": null
+      "result": {
+        "winner": "Brandon Nakashima",
+        "correct": false,
+        "settled_at": "2026-07-29T10:35:03.121907+00:00"
+      }
     },
     "296715636308be675eb4fd454f74cd7f": {
       "match_id": "296715636308be675eb4fd454f74cd7f",
@@ -19995,7 +20007,11 @@
         "p2_edge": 0.0832
       },
       "collected_at": "2026-07-27T11:15:58.179638+00:00",
-      "result": null
+      "result": {
+        "winner": "Ben Shelton",
+        "correct": true,
+        "settled_at": "2026-07-29T10:35:03.068170+00:00"
+      }
     },
     "b0a015fdd15f9ed459d8f09a5fcb3f35": {
       "match_id": "b0a015fdd15f9ed459d8f09a5fcb3f35",
@@ -20097,7 +20113,11 @@
         "p2_edge": 0.3436
       },
       "collected_at": "2026-07-27T11:15:58.215760+00:00",
-      "result": null
+      "result": {
+        "winner": "Cruz Hewitt",
+        "correct": false,
+        "settled_at": "2026-07-29T10:35:03.094984+00:00"
+      }
     },
     "4f26734aa4ded347ef4aa43b43b5fd56": {
       "match_id": "4f26734aa4ded347ef4aa43b43b5fd56",
@@ -20203,7 +20223,11 @@
         "p2_edge": -0.0031
       },
       "collected_at": "2026-07-27T11:15:58.252499+00:00",
-      "result": null
+      "result": {
+        "winner": "Jakub Mensik",
+        "correct": true,
+        "settled_at": "2026-07-29T10:35:03.148690+00:00"
+      }
     },
     "76f19fe0a08fb55b201f3b7735945d4a": {
       "match_id": "76f19fe0a08fb55b201f3b7735945d4a",
@@ -20269,7 +20293,11 @@
         "p2_edge": -0.0036
       },
       "collected_at": "2026-07-28T02:06:34.581985+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex Michelsen",
+        "correct": true,
+        "settled_at": "2026-07-29T10:35:03.014413+00:00"
+      }
     },
     "03fd45966d7f69242b90a177bfc4fbac": {
       "match_id": "03fd45966d7f69242b90a177bfc4fbac",
@@ -20743,7 +20771,132 @@
       },
       "collected_at": "2026-07-29T02:09:25.615770+00:00",
       "result": null
+    },
+    "tml-2026-7480-6": {
+      "match_id": "tml-2026-7480-6",
+      "commence_time": "2026-07-29T00:00:00+00:00",
+      "tournament": "Los Cabos",
+      "surface": "Hard",
+      "player1": "Michael Zheng",
+      "player2": "Martin Landaluce",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Michael Zheng",
+        "p2_name": "Martin Landaluce",
+        "p1_prob": 0.4068,
+        "p2_prob": 0.5932,
+        "predicted_winner": "Martin Landaluce",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-29T10:35:18.704540+00:00",
+      "result": {
+        "winner": "Michael Zheng",
+        "correct": false,
+        "settled_at": "2026-07-29T10:35:18.704540+00:00"
+      }
+    },
+    "tml-2026-7480-7": {
+      "match_id": "tml-2026-7480-7",
+      "commence_time": "2026-07-29T00:00:00+00:00",
+      "tournament": "Los Cabos",
+      "surface": "Hard",
+      "player1": "Jenson Brooksby",
+      "player2": "Corentin Moutet",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jenson Brooksby",
+        "p2_name": "Corentin Moutet",
+        "p1_prob": 0.5261,
+        "p2_prob": 0.4739,
+        "predicted_winner": "Jenson Brooksby",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-29T10:35:18.741054+00:00",
+      "result": {
+        "winner": "Jenson Brooksby",
+        "correct": true,
+        "settled_at": "2026-07-29T10:35:18.741054+00:00"
+      }
+    },
+    "tml-2026-7480-8": {
+      "match_id": "tml-2026-7480-8",
+      "commence_time": "2026-07-29T00:00:00+00:00",
+      "tournament": "Los Cabos",
+      "surface": "Hard",
+      "player1": "Denis Shapovalov",
+      "player2": "Rinky Hijikata",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Denis Shapovalov",
+        "p2_name": "Rinky Hijikata",
+        "p1_prob": 0.6203,
+        "p2_prob": 0.3797,
+        "predicted_winner": "Denis Shapovalov",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-29T10:35:18.777120+00:00",
+      "result": {
+        "winner": "Denis Shapovalov",
+        "correct": true,
+        "settled_at": "2026-07-29T10:35:18.777120+00:00"
+      }
+    },
+    "tml-2026-7480-10": {
+      "match_id": "tml-2026-7480-10",
+      "commence_time": "2026-07-29T00:00:00+00:00",
+      "tournament": "Los Cabos",
+      "surface": "Hard",
+      "player1": "Arthur Gea",
+      "player2": "Soonwoo Kwon",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Arthur Gea",
+        "p2_name": "Soonwoo Kwon",
+        "p1_prob": 0.621,
+        "p2_prob": 0.379,
+        "predicted_winner": "Arthur Gea",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-29T10:35:18.815854+00:00",
+      "result": {
+        "winner": "Arthur Gea",
+        "correct": true,
+        "settled_at": "2026-07-29T10:35:18.815854+00:00"
+      }
+    },
+    "tml-2026-7480-11": {
+      "match_id": "tml-2026-7480-11",
+      "commence_time": "2026-07-29T00:00:00+00:00",
+      "tournament": "Los Cabos",
+      "surface": "Hard",
+      "player1": "Rodrigo Pacheco Mendez",
+      "player2": "Sho Shimabukuro",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Rodrigo Pacheco Mendez",
+        "p2_name": "Sho Shimabukuro",
+        "p1_prob": 0.5197,
+        "p2_prob": 0.4803,
+        "predicted_winner": "Rodrigo Pacheco Mendez",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-29T10:35:18.890806+00:00",
+      "result": {
+        "winner": "Rodrigo Pacheco Mendez",
+        "correct": true,
+        "settled_at": "2026-07-29T10:35:18.890806+00:00"
+      }
     }
   },
-  "last_updated": "2026-07-29T02:09:25.621201+00:00"
+  "last_updated": "2026-07-29T10:35:18.896531+00:00"
 }
