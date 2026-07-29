@@ -19602,7 +19602,11 @@
         "p2_edge": -0.0718
       },
       "collected_at": "2026-07-27T02:30:49.709478+00:00",
-      "result": null
+      "result": {
+        "winner": "Kamil Majchrzak",
+        "correct": false,
+        "settled_at": "2026-07-29T02:09:18.808880+00:00"
+      }
     },
     "tml-2026-7290-27": {
       "match_id": "tml-2026-7290-27",
@@ -19877,7 +19881,11 @@
         "p2_edge": -0.0276
       },
       "collected_at": "2026-07-27T11:15:58.142949+00:00",
-      "result": null
+      "result": {
+        "winner": "Ugo Humbert",
+        "correct": true,
+        "settled_at": "2026-07-29T02:09:18.836906+00:00"
+      }
     },
     "552aed3ad49ab701bd2fdffaa7fb6b5b": {
       "match_id": "552aed3ad49ab701bd2fdffaa7fb6b5b",
@@ -20501,7 +20509,241 @@
         "correct": true,
         "settled_at": "2026-07-28T10:31:18.397835+00:00"
       }
+    },
+    "c977a98236c5ca87f2a91672a67611e2": {
+      "match_id": "c977a98236c5ca87f2a91672a67611e2",
+      "commence_time": "2026-07-29T18:10:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Taylor Fritz",
+      "player2": "Kamil Majchrzak",
+      "bookmakers": {
+        "betclic_fr": {
+          "Kamil Majchrzak": 3.4,
+          "Taylor Fritz": 1.24
+        },
+        "betfair_ex_eu": {
+          "Kamil Majchrzak": 1.43,
+          "Taylor Fritz": 1.12
+        },
+        "sport888": {
+          "Kamil Majchrzak": 3.6,
+          "Taylor Fritz": 1.29
+        },
+        "matchbook": {
+          "Kamil Majchrzak": 1.13,
+          "Taylor Fritz": 1.2
+        },
+        "unibet_fr": {
+          "Kamil Majchrzak": 3.55,
+          "Taylor Fritz": 1.25
+        },
+        "onexbet": {
+          "Kamil Majchrzak": 3.79,
+          "Taylor Fritz": 1.29
+        },
+        "draftkings": {
+          "Kamil Majchrzak": 3.67,
+          "Taylor Fritz": 1.29
+        },
+        "williamhill": {
+          "Kamil Majchrzak": 3.6,
+          "Taylor Fritz": 1.29
+        },
+        "betsson": {
+          "Kamil Majchrzak": 3.7,
+          "Taylor Fritz": 1.27
+        },
+        "nordicbet": {
+          "Kamil Majchrzak": 3.7,
+          "Taylor Fritz": 1.27
+        },
+        "fanduel": {
+          "Kamil Majchrzak": 4.0,
+          "Taylor Fritz": 1.26
+        },
+        "winamax_de": {
+          "Kamil Majchrzak": 3.9,
+          "Taylor Fritz": 1.28
+        },
+        "winamax_fr": {
+          "Kamil Majchrzak": 3.75,
+          "Taylor Fritz": 1.27
+        },
+        "bovada": {
+          "Kamil Majchrzak": 3.75,
+          "Taylor Fritz": 1.29
+        }
+      },
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Kamil Majchrzak",
+        "p1_prob": 0.7831,
+        "p2_prob": 0.2169,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "high",
+        "p1_edge": 0.0079,
+        "p2_edge": -0.0331
+      },
+      "collected_at": "2026-07-29T02:09:25.541033+00:00",
+      "result": null
+    },
+    "3ab2f870de8bab9ec40066fd59c5fb0a": {
+      "match_id": "3ab2f870de8bab9ec40066fd59c5fb0a",
+      "commence_time": "2026-07-29T22:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Alex Michelsen",
+      "player2": "Adrian Mannarino",
+      "bookmakers": {
+        "draftkings": {
+          "Adrian Mannarino": 2.98,
+          "Alex Michelsen": 1.4
+        },
+        "matchbook": {
+          "Adrian Mannarino": 1.51,
+          "Alex Michelsen": 1.4
+        },
+        "betfair_ex_eu": {
+          "Adrian Mannarino": 2.66,
+          "Alex Michelsen": 1.46
+        },
+        "nordicbet": {
+          "Adrian Mannarino": 2.85,
+          "Alex Michelsen": 1.41
+        },
+        "onexbet": {
+          "Adrian Mannarino": 2.89,
+          "Alex Michelsen": 1.44
+        },
+        "unibet_fr": {
+          "Adrian Mannarino": 2.6,
+          "Alex Michelsen": 1.36
+        },
+        "betsson": {
+          "Adrian Mannarino": 2.85,
+          "Alex Michelsen": 1.41
+        },
+        "betclic_fr": {
+          "Adrian Mannarino": 2.7,
+          "Alex Michelsen": 1.38
+        },
+        "fanduel": {
+          "Adrian Mannarino": 2.92,
+          "Alex Michelsen": 1.41
+        },
+        "williamhill": {
+          "Adrian Mannarino": 2.9,
+          "Alex Michelsen": 1.4
+        },
+        "sport888": {
+          "Adrian Mannarino": 2.9,
+          "Alex Michelsen": 1.4
+        },
+        "winamax_de": {
+          "Adrian Mannarino": 2.85,
+          "Alex Michelsen": 1.42
+        },
+        "winamax_fr": {
+          "Adrian Mannarino": 2.65,
+          "Alex Michelsen": 1.37
+        },
+        "bovada": {
+          "Adrian Mannarino": 2.95,
+          "Alex Michelsen": 1.42
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex Michelsen",
+        "p2_name": "Adrian Mannarino",
+        "p1_prob": 0.7808,
+        "p2_prob": 0.2192,
+        "predicted_winner": "Alex Michelsen",
+        "confidence": "high",
+        "p1_edge": 0.0959,
+        "p2_edge": -0.1164
+      },
+      "collected_at": "2026-07-29T02:09:25.578613+00:00",
+      "result": null
+    },
+    "0d07dfc2c9f2bbc519adb05dc58e25fd": {
+      "match_id": "0d07dfc2c9f2bbc519adb05dc58e25fd",
+      "commence_time": "2026-07-29T23:40:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Rafael Jodar",
+      "player2": "Kei Nishikori",
+      "bookmakers": {
+        "draftkings": {
+          "Kei Nishikori": 4.36,
+          "Rafael Jodar": 1.22
+        },
+        "matchbook": {
+          "Kei Nishikori": 4.5,
+          "Rafael Jodar": 1.16
+        },
+        "betfair_ex_eu": {
+          "Kei Nishikori": 4.5,
+          "Rafael Jodar": 1.16
+        },
+        "nordicbet": {
+          "Kei Nishikori": 4.2,
+          "Rafael Jodar": 1.21
+        },
+        "onexbet": {
+          "Kei Nishikori": 4.3,
+          "Rafael Jodar": 1.24
+        },
+        "unibet_fr": {
+          "Kei Nishikori": 3.7,
+          "Rafael Jodar": 1.18
+        },
+        "betsson": {
+          "Kei Nishikori": 4.2,
+          "Rafael Jodar": 1.21
+        },
+        "betclic_fr": {
+          "Kei Nishikori": 3.85,
+          "Rafael Jodar": 1.19
+        },
+        "fanduel": {
+          "Kei Nishikori": 4.5,
+          "Rafael Jodar": 1.21
+        },
+        "williamhill": {
+          "Kei Nishikori": 4.2,
+          "Rafael Jodar": 1.22
+        },
+        "sport888": {
+          "Kei Nishikori": 4.2,
+          "Rafael Jodar": 1.22
+        },
+        "winamax_de": {
+          "Kei Nishikori": 4.3,
+          "Rafael Jodar": 1.21
+        },
+        "winamax_fr": {
+          "Kei Nishikori": 3.85,
+          "Rafael Jodar": 1.18
+        },
+        "bovada": {
+          "Kei Nishikori": 4.25,
+          "Rafael Jodar": 1.24
+        }
+      },
+      "prediction": {
+        "p1_name": "Rafael Jodar",
+        "p2_name": "Kei Nishikori",
+        "p1_prob": 0.6704,
+        "p2_prob": 0.3296,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "high",
+        "p1_edge": -0.1361,
+        "p2_edge": 0.1074
+      },
+      "collected_at": "2026-07-29T02:09:25.615770+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-28T10:31:18.406434+00:00"
+  "last_updated": "2026-07-29T02:09:25.621201+00:00"
 }
