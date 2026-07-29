@@ -20896,7 +20896,243 @@
         "correct": true,
         "settled_at": "2026-07-29T10:35:18.890806+00:00"
       }
+    },
+    "3986e5ef366f2ce439a3733e2033e34f": {
+      "match_id": "3986e5ef366f2ce439a3733e2033e34f",
+      "commence_time": "2026-07-30T15:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Ugo Humbert",
+      "player2": "Ben Shelton",
+      "bookmakers": {
+        "leovegas_se": {
+          "Ben Shelton": 1.5,
+          "Ugo Humbert": 2.55
+        },
+        "onexbet": {
+          "Ben Shelton": 1.55,
+          "Ugo Humbert": 2.52
+        },
+        "unibet_se": {
+          "Ben Shelton": 1.5,
+          "Ugo Humbert": 2.55
+        },
+        "betfair_ex_eu": {
+          "Ben Shelton": 1.6,
+          "Ugo Humbert": 2.54
+        },
+        "betrivers": {
+          "Ben Shelton": 1.5,
+          "Ugo Humbert": 2.55
+        },
+        "williamhill": {
+          "Ben Shelton": 1.57,
+          "Ugo Humbert": 2.38
+        },
+        "winamax_de": {
+          "Ben Shelton": 1.5,
+          "Ugo Humbert": 2.55
+        },
+        "betsson": {
+          "Ben Shelton": 1.53,
+          "Ugo Humbert": 2.47
+        },
+        "pmu_fr": {
+          "Ben Shelton": 1.48,
+          "Ugo Humbert": 2.5
+        },
+        "winamax_fr": {
+          "Ben Shelton": 1.45,
+          "Ugo Humbert": 2.4
+        },
+        "nordicbet": {
+          "Ben Shelton": 1.53,
+          "Ugo Humbert": 2.47
+        },
+        "betmgm": {
+          "Ben Shelton": 1.56,
+          "Ugo Humbert": 2.4
+        },
+        "draftkings": {
+          "Ben Shelton": 1.56,
+          "Ugo Humbert": 2.44
+        },
+        "sport888": {
+          "Ben Shelton": 1.57,
+          "Ugo Humbert": 2.38
+        },
+        "unibet_fr": {
+          "Ben Shelton": 1.46,
+          "Ugo Humbert": 2.3
+        },
+        "unibet_nl": {
+          "Ben Shelton": 1.5,
+          "Ugo Humbert": 2.55
+        },
+        "betclic_fr": {
+          "Ben Shelton": 1.53,
+          "Ugo Humbert": 2.47
+        },
+        "fanduel": {
+          "Ben Shelton": 1.54,
+          "Ugo Humbert": 2.52
+        },
+        "matchbook": {
+          "Ben Shelton": 1.6,
+          "Ugo Humbert": 2.54
+        },
+        "bovada": {
+          "Ben Shelton": 1.56,
+          "Ugo Humbert": 2.5
+        },
+        "pinnacle": {
+          "Ben Shelton": 1.58,
+          "Ugo Humbert": 2.52
+        },
+        "betonlineag": {
+          "Ben Shelton": 1.56,
+          "Ugo Humbert": 2.57
+        },
+        "lowvig": {
+          "Ben Shelton": 1.56,
+          "Ugo Humbert": 2.57
+        },
+        "betanysports": {
+          "Ben Shelton": 1.56,
+          "Ugo Humbert": 2.5
+        }
+      },
+      "prediction": {
+        "p1_name": "Ugo Humbert",
+        "p2_name": "Ben Shelton",
+        "p1_prob": 0.3027,
+        "p2_prob": 0.6973,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "high",
+        "p1_edge": -0.0864,
+        "p2_edge": 0.0723
+      },
+      "collected_at": "2026-07-29T17:11:28.792148+00:00",
+      "result": null
+    },
+    "89473e6c702f2fa3cc47e5794ec70c6b": {
+      "match_id": "89473e6c702f2fa3cc47e5794ec70c6b",
+      "commence_time": "2026-07-30T15:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Brandon Nakashima",
+      "player2": "Jakub Mensik",
+      "bookmakers": {
+        "draftkings": {
+          "Brandon Nakashima": 2.14,
+          "Jakub Mensik": 1.72
+        },
+        "betfair_ex_eu": {
+          "Brandon Nakashima": 2.26,
+          "Jakub Mensik": 1.73
+        },
+        "leovegas_se": {
+          "Brandon Nakashima": 2.04,
+          "Jakub Mensik": 1.77
+        },
+        "sport888": {
+          "Brandon Nakashima": 2.1,
+          "Jakub Mensik": 1.73
+        },
+        "unibet_fr": {
+          "Brandon Nakashima": 1.97,
+          "Jakub Mensik": 1.63
+        },
+        "unibet_nl": {
+          "Brandon Nakashima": 2.04,
+          "Jakub Mensik": 1.77
+        },
+        "winamax_de": {
+          "Brandon Nakashima": 2.1,
+          "Jakub Mensik": 1.72
+        },
+        "unibet_se": {
+          "Brandon Nakashima": 2.04,
+          "Jakub Mensik": 1.77
+        },
+        "betsson": {
+          "Brandon Nakashima": 2.1,
+          "Jakub Mensik": 1.71
+        },
+        "winamax_fr": {
+          "Brandon Nakashima": 2.0,
+          "Jakub Mensik": 1.64
+        },
+        "nordicbet": {
+          "Brandon Nakashima": 2.1,
+          "Jakub Mensik": 1.71
+        },
+        "betrivers": {
+          "Brandon Nakashima": 2.04,
+          "Jakub Mensik": 1.77
+        },
+        "williamhill": {
+          "Brandon Nakashima": 2.1,
+          "Jakub Mensik": 1.73
+        },
+        "pmu_fr": {
+          "Brandon Nakashima": 2.0,
+          "Jakub Mensik": 1.74
+        },
+        "betmgm": {
+          "Brandon Nakashima": 2.1,
+          "Jakub Mensik": 1.69
+        },
+        "onexbet": {
+          "Brandon Nakashima": 2.14,
+          "Jakub Mensik": 1.74
+        },
+        "betclic_fr": {
+          "Brandon Nakashima": 2.1,
+          "Jakub Mensik": 1.71
+        },
+        "fanduel": {
+          "Brandon Nakashima": 2.12,
+          "Jakub Mensik": 1.72
+        },
+        "matchbook": {
+          "Brandon Nakashima": 2.26,
+          "Jakub Mensik": 1.73
+        },
+        "bovada": {
+          "Brandon Nakashima": 2.15,
+          "Jakub Mensik": 1.71
+        },
+        "pinnacle": {
+          "Brandon Nakashima": 2.22,
+          "Jakub Mensik": 1.73
+        },
+        "lowvig": {
+          "Brandon Nakashima": 2.15,
+          "Jakub Mensik": 1.74
+        },
+        "betonlineag": {
+          "Brandon Nakashima": 2.15,
+          "Jakub Mensik": 1.74
+        },
+        "betanysports": {
+          "Brandon Nakashima": 2.1,
+          "Jakub Mensik": 1.71
+        }
+      },
+      "prediction": {
+        "p1_name": "Brandon Nakashima",
+        "p2_name": "Jakub Mensik",
+        "p1_prob": 0.3775,
+        "p2_prob": 0.6225,
+        "predicted_winner": "Jakub Mensik",
+        "confidence": "high",
+        "p1_edge": -0.065,
+        "p2_edge": 0.0575
+      },
+      "collected_at": "2026-07-29T17:11:28.829238+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-29T10:35:18.896531+00:00"
+  "last_updated": "2026-07-29T17:11:28.834796+00:00"
 }
