@@ -21525,7 +21525,132 @@
         "correct": true,
         "settled_at": "2026-07-30T10:21:30.175453+00:00"
       }
+    },
+    "tml-2026-7480-16": {
+      "match_id": "tml-2026-7480-16",
+      "commence_time": "2026-07-30T00:00:00+00:00",
+      "tournament": "Los Cabos",
+      "surface": "Hard",
+      "player1": "Dalibor Svrcina",
+      "player2": "Luciano Darderi",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Dalibor Svrcina",
+        "p2_name": "Luciano Darderi",
+        "p1_prob": 0.3452,
+        "p2_prob": 0.6548,
+        "predicted_winner": "Luciano Darderi",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-30T17:22:07.603919+00:00",
+      "result": {
+        "winner": "Dalibor Svrcina",
+        "correct": false,
+        "settled_at": "2026-07-30T17:22:07.603919+00:00"
+      }
+    },
+    "tml-2026-7480-17": {
+      "match_id": "tml-2026-7480-17",
+      "commence_time": "2026-07-30T00:00:00+00:00",
+      "tournament": "Los Cabos",
+      "surface": "Hard",
+      "player1": "Bernard Tomic",
+      "player2": "Karen Khachanov",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Bernard Tomic",
+        "p2_name": "Karen Khachanov",
+        "p1_prob": 0.2406,
+        "p2_prob": 0.7594,
+        "predicted_winner": "Karen Khachanov",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-30T17:22:07.641613+00:00",
+      "result": {
+        "winner": "Bernard Tomic",
+        "correct": false,
+        "settled_at": "2026-07-30T17:22:07.641613+00:00"
+      }
+    },
+    "tml-2026-7480-18": {
+      "match_id": "tml-2026-7480-18",
+      "commence_time": "2026-07-30T00:00:00+00:00",
+      "tournament": "Los Cabos",
+      "surface": "Hard",
+      "player1": "Denis Shapovalov",
+      "player2": "Rodrigo Pacheco Mendez",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Denis Shapovalov",
+        "p2_name": "Rodrigo Pacheco Mendez",
+        "p1_prob": 0.6757,
+        "p2_prob": 0.3243,
+        "predicted_winner": "Denis Shapovalov",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-30T17:22:07.679291+00:00",
+      "result": {
+        "winner": "Denis Shapovalov",
+        "correct": true,
+        "settled_at": "2026-07-30T17:22:07.679291+00:00"
+      }
+    },
+    "tml-2026-7480-19": {
+      "match_id": "tml-2026-7480-19",
+      "commence_time": "2026-07-30T00:00:00+00:00",
+      "tournament": "Los Cabos",
+      "surface": "Hard",
+      "player1": "Arthur Gea",
+      "player2": "Michael Zheng",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Arthur Gea",
+        "p2_name": "Michael Zheng",
+        "p1_prob": 0.4697,
+        "p2_prob": 0.5303,
+        "predicted_winner": "Michael Zheng",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-30T17:22:07.719701+00:00",
+      "result": {
+        "winner": "Arthur Gea",
+        "correct": false,
+        "settled_at": "2026-07-30T17:22:07.719701+00:00"
+      }
+    },
+    "tml-2026-7480-20": {
+      "match_id": "tml-2026-7480-20",
+      "commence_time": "2026-07-30T00:00:00+00:00",
+      "tournament": "Los Cabos",
+      "surface": "Hard",
+      "player1": "Cameron Norrie",
+      "player2": "James Duckworth",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Cameron Norrie",
+        "p2_name": "James Duckworth",
+        "p1_prob": 0.7365,
+        "p2_prob": 0.2635,
+        "predicted_winner": "Cameron Norrie",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-30T17:22:07.810023+00:00",
+      "result": {
+        "winner": "Cameron Norrie",
+        "correct": true,
+        "settled_at": "2026-07-30T17:22:07.810023+00:00"
+      }
     }
   },
-  "last_updated": "2026-07-30T10:21:30.181367+00:00"
+  "last_updated": "2026-07-30T17:22:07.815677+00:00"
 }
