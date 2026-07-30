@@ -21275,7 +21275,257 @@
         "correct": false,
         "settled_at": "2026-07-30T01:58:52.354900+00:00"
       }
+    },
+    "5787dd2544e1b79088510e275a0ebbc7": {
+      "match_id": "5787dd2544e1b79088510e275a0ebbc7",
+      "commence_time": "2026-07-31T15:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Taylor Fritz",
+      "player2": "Alex Michelsen",
+      "bookmakers": {
+        "winamax_fr": {
+          "Alex Michelsen": 2.75,
+          "Taylor Fritz": 1.45
+        },
+        "bovada": {
+          "Alex Michelsen": 2.7,
+          "Taylor Fritz": 1.48
+        },
+        "draftkings": {
+          "Alex Michelsen": 2.64,
+          "Taylor Fritz": 1.49
+        },
+        "sport888": {
+          "Alex Michelsen": 2.75,
+          "Taylor Fritz": 1.44
+        },
+        "matchbook": {
+          "Alex Michelsen": 2.74,
+          "Taylor Fritz": 1.42
+        },
+        "betfair_ex_eu": {
+          "Alex Michelsen": 3.05,
+          "Taylor Fritz": 1.46
+        },
+        "winamax_de": {
+          "Alex Michelsen": 2.85,
+          "Taylor Fritz": 1.47
+        },
+        "betrivers": {
+          "Alex Michelsen": 2.85,
+          "Taylor Fritz": 1.42
+        },
+        "onexbet": {
+          "Alex Michelsen": 2.79,
+          "Taylor Fritz": 1.46
+        },
+        "williamhill": {
+          "Alex Michelsen": 2.75,
+          "Taylor Fritz": 1.44
+        },
+        "unibet_se": {
+          "Alex Michelsen": 2.85,
+          "Taylor Fritz": 1.42
+        },
+        "leovegas_se": {
+          "Alex Michelsen": 2.85,
+          "Taylor Fritz": 1.42
+        },
+        "unibet_fr": {
+          "Alex Michelsen": 2.45,
+          "Taylor Fritz": 1.41
+        },
+        "nordicbet": {
+          "Alex Michelsen": 2.65,
+          "Taylor Fritz": 1.47
+        },
+        "betsson": {
+          "Alex Michelsen": 2.65,
+          "Taylor Fritz": 1.47
+        },
+        "pmu_fr": {
+          "Alex Michelsen": 2.8,
+          "Taylor Fritz": 1.4
+        },
+        "unibet_nl": {
+          "Alex Michelsen": 2.85,
+          "Taylor Fritz": 1.42
+        },
+        "betclic_fr": {
+          "Alex Michelsen": 2.65,
+          "Taylor Fritz": 1.47
+        },
+        "pinnacle": {
+          "Alex Michelsen": 2.82,
+          "Taylor Fritz": 1.48
+        },
+        "betmgm": {
+          "Alex Michelsen": 2.6,
+          "Taylor Fritz": 1.48
+        }
+      },
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Alex Michelsen",
+        "p1_prob": 0.5356,
+        "p2_prob": 0.4644,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "low",
+        "p1_edge": -0.1355,
+        "p2_edge": 0.1365
+      },
+      "collected_at": "2026-07-30T10:21:22.184903+00:00",
+      "result": null
+    },
+    "e68f95e5652963b0e4aaf11c24f7bc5e": {
+      "match_id": "e68f95e5652963b0e4aaf11c24f7bc5e",
+      "commence_time": "2026-07-31T15:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Rafael Jodar",
+      "player2": "Lorenzo Musetti",
+      "bookmakers": {
+        "bovada": {
+          "Lorenzo Musetti": 2.6,
+          "Rafael Jodar": 1.51
+        },
+        "draftkings": {
+          "Lorenzo Musetti": 2.68,
+          "Rafael Jodar": 1.48
+        },
+        "sport888": {
+          "Lorenzo Musetti": 2.6,
+          "Rafael Jodar": 1.5
+        },
+        "betmgm": {
+          "Lorenzo Musetti": 2.54,
+          "Rafael Jodar": 1.5
+        },
+        "winamax_de": {
+          "Lorenzo Musetti": 2.65,
+          "Rafael Jodar": 1.52
+        },
+        "betfair_ex_eu": {
+          "Lorenzo Musetti": 2.6,
+          "Rafael Jodar": 1.46
+        },
+        "williamhill": {
+          "Lorenzo Musetti": 2.6,
+          "Rafael Jodar": 1.5
+        },
+        "onexbet": {
+          "Lorenzo Musetti": 2.61,
+          "Rafael Jodar": 1.52
+        },
+        "betrivers": {
+          "Lorenzo Musetti": 2.63,
+          "Rafael Jodar": 1.49
+        },
+        "unibet_se": {
+          "Lorenzo Musetti": 2.63,
+          "Rafael Jodar": 1.49
+        },
+        "leovegas_se": {
+          "Lorenzo Musetti": 2.63,
+          "Rafael Jodar": 1.49
+        },
+        "unibet_fr": {
+          "Lorenzo Musetti": 2.35,
+          "Rafael Jodar": 1.44
+        },
+        "nordicbet": {
+          "Lorenzo Musetti": 2.55,
+          "Rafael Jodar": 1.5
+        },
+        "betsson": {
+          "Lorenzo Musetti": 2.55,
+          "Rafael Jodar": 1.5
+        },
+        "unibet_nl": {
+          "Lorenzo Musetti": 2.63,
+          "Rafael Jodar": 1.49
+        },
+        "pmu_fr": {
+          "Lorenzo Musetti": 2.55,
+          "Rafael Jodar": 1.45
+        },
+        "winamax_fr": {
+          "Lorenzo Musetti": 2.55,
+          "Rafael Jodar": 1.5
+        },
+        "betclic_fr": {
+          "Lorenzo Musetti": 2.55,
+          "Rafael Jodar": 1.5
+        },
+        "pinnacle": {
+          "Lorenzo Musetti": 2.65,
+          "Rafael Jodar": 1.53
+        }
+      },
+      "prediction": {
+        "p1_name": "Rafael Jodar",
+        "p2_name": "Lorenzo Musetti",
+        "p1_prob": 0.4776,
+        "p2_prob": 0.5224,
+        "predicted_winner": "Lorenzo Musetti",
+        "confidence": "low",
+        "p1_edge": -0.176,
+        "p2_edge": 0.1493
+      },
+      "collected_at": "2026-07-30T10:21:22.225335+00:00",
+      "result": null
+    },
+    "tml-2026-7480-13": {
+      "match_id": "tml-2026-7480-13",
+      "commence_time": "2026-07-30T00:00:00+00:00",
+      "tournament": "Los Cabos",
+      "surface": "Hard",
+      "player1": "Coleman Wong",
+      "player2": "Jiri Lehecka",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Coleman Wong",
+        "p2_name": "Jiri Lehecka",
+        "p1_prob": 0.3325,
+        "p2_prob": 0.6675,
+        "predicted_winner": "Jiri Lehecka",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-30T10:21:30.136044+00:00",
+      "result": {
+        "winner": "Coleman Wong",
+        "correct": false,
+        "settled_at": "2026-07-30T10:21:30.136044+00:00"
+      }
+    },
+    "tml-2026-7480-14": {
+      "match_id": "tml-2026-7480-14",
+      "commence_time": "2026-07-30T00:00:00+00:00",
+      "tournament": "Los Cabos",
+      "surface": "Hard",
+      "player1": "Francisco Cerundolo",
+      "player2": "Tristan Boyer",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Francisco Cerundolo",
+        "p2_name": "Tristan Boyer",
+        "p1_prob": 0.722,
+        "p2_prob": 0.278,
+        "predicted_winner": "Francisco Cerundolo",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-30T10:21:30.175453+00:00",
+      "result": {
+        "winner": "Francisco Cerundolo",
+        "correct": true,
+        "settled_at": "2026-07-30T10:21:30.175453+00:00"
+      }
     }
   },
-  "last_updated": "2026-07-30T01:58:52.361522+00:00"
+  "last_updated": "2026-07-30T10:21:30.181367+00:00"
 }
