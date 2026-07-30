@@ -19444,7 +19444,11 @@
         "p2_edge": -0.0291
       },
       "collected_at": "2026-07-27T02:30:49.602078+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex de Minaur",
+        "correct": true,
+        "settled_at": "2026-07-30T01:58:37.454348+00:00"
+      }
     },
     "b09766dc03534a3e77f2ee6137e33f95": {
       "match_id": "b09766dc03534a3e77f2ee6137e33f95",
@@ -20461,7 +20465,11 @@
         "p2_edge": 0.0858
       },
       "collected_at": "2026-07-28T10:31:11.408412+00:00",
-      "result": null
+      "result": {
+        "winner": "Lorenzo Musetti",
+        "correct": true,
+        "settled_at": "2026-07-30T01:58:37.398710+00:00"
+      }
     },
     "tml-2026-7480-2": {
       "match_id": "tml-2026-7480-2",
@@ -20614,7 +20622,11 @@
         "p2_edge": -0.0331
       },
       "collected_at": "2026-07-29T02:09:25.541033+00:00",
-      "result": null
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-07-30T01:58:37.426756+00:00"
+      }
     },
     "3ab2f870de8bab9ec40066fd59c5fb0a": {
       "match_id": "3ab2f870de8bab9ec40066fd59c5fb0a",
@@ -20692,7 +20704,11 @@
         "p2_edge": -0.1164
       },
       "collected_at": "2026-07-29T02:09:25.578613+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex Michelsen",
+        "correct": true,
+        "settled_at": "2026-07-30T01:58:37.482036+00:00"
+      }
     },
     "0d07dfc2c9f2bbc519adb05dc58e25fd": {
       "match_id": "0d07dfc2c9f2bbc519adb05dc58e25fd",
@@ -20770,7 +20786,11 @@
         "p2_edge": 0.1074
       },
       "collected_at": "2026-07-29T02:09:25.615770+00:00",
-      "result": null
+      "result": {
+        "winner": "Rafael Jodar",
+        "correct": true,
+        "settled_at": "2026-07-30T01:58:37.509443+00:00"
+      }
     },
     "tml-2026-7480-6": {
       "match_id": "tml-2026-7480-6",
@@ -21132,7 +21152,130 @@
       },
       "collected_at": "2026-07-29T17:11:28.829238+00:00",
       "result": null
+    },
+    "c17e55d9075b598b1bff5cbf14a36a59": {
+      "match_id": "c17e55d9075b598b1bff5cbf14a36a59",
+      "commence_time": "2026-07-30T17:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Alex de Minaur",
+      "player2": "Cruz Hewitt",
+      "bookmakers": {
+        "nordicbet": {
+          "Alex de Minaur": 1.08,
+          "Cruz Hewitt": 7.6
+        },
+        "matchbook": {
+          "Alex de Minaur": 1.1,
+          "Cruz Hewitt": 10.0
+        },
+        "betfair_ex_eu": {
+          "Alex de Minaur": 1.1,
+          "Cruz Hewitt": 10.0
+        },
+        "betsson": {
+          "Alex de Minaur": 1.08,
+          "Cruz Hewitt": 7.6
+        },
+        "draftkings": {
+          "Alex de Minaur": 1.06,
+          "Cruz Hewitt": 9.7
+        },
+        "bovada": {
+          "Alex de Minaur": 1.07,
+          "Cruz Hewitt": 8.75
+        },
+        "unibet_fr": {
+          "Alex de Minaur": 1.07,
+          "Cruz Hewitt": 6.8
+        },
+        "betclic_fr": {
+          "Alex de Minaur": 1.06,
+          "Cruz Hewitt": 6.2
+        },
+        "onexbet": {
+          "Alex de Minaur": 1.09,
+          "Cruz Hewitt": 8.05
+        },
+        "sport888": {
+          "Alex de Minaur": 1.06,
+          "Cruz Hewitt": 8.0
+        },
+        "williamhill": {
+          "Alex de Minaur": 1.07,
+          "Cruz Hewitt": 8.0
+        },
+        "winamax_fr": {
+          "Alex de Minaur": 1.06,
+          "Cruz Hewitt": 6.25
+        },
+        "winamax_de": {
+          "Alex de Minaur": 1.08,
+          "Cruz Hewitt": 7.75
+        },
+        "betmgm": {
+          "Alex de Minaur": 1.07,
+          "Cruz Hewitt": 7.75
+        },
+        "leovegas_se": {
+          "Alex de Minaur": 1.07,
+          "Cruz Hewitt": 8.5
+        },
+        "betrivers": {
+          "Alex de Minaur": 1.07,
+          "Cruz Hewitt": 8.5
+        },
+        "unibet_nl": {
+          "Alex de Minaur": 1.07,
+          "Cruz Hewitt": 8.5
+        },
+        "unibet_se": {
+          "Alex de Minaur": 1.07,
+          "Cruz Hewitt": 8.5
+        },
+        "pmu_fr": {
+          "Alex de Minaur": 1.05,
+          "Cruz Hewitt": 8.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex De Minaur",
+        "p2_name": "Lleyton Hewitt",
+        "p1_prob": 0.8251,
+        "p2_prob": 0.1749,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": -0.084,
+        "p2_edge": 0.0749
+      },
+      "collected_at": "2026-07-30T01:58:45.357547+00:00",
+      "result": null
+    },
+    "tml-2026-7480-12": {
+      "match_id": "tml-2026-7480-12",
+      "commence_time": "2026-07-30T00:00:00+00:00",
+      "tournament": "Los Cabos",
+      "surface": "Hard",
+      "player1": "Dalibor Svrcina",
+      "player2": "Adam Walton",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Dalibor Svrcina",
+        "p2_name": "Adam Walton",
+        "p1_prob": 0.4985,
+        "p2_prob": 0.5015,
+        "predicted_winner": "Adam Walton",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-30T01:58:52.354900+00:00",
+      "result": {
+        "winner": "Dalibor Svrcina",
+        "correct": false,
+        "settled_at": "2026-07-30T01:58:52.354900+00:00"
+      }
     }
   },
-  "last_updated": "2026-07-29T17:11:28.834796+00:00"
+  "last_updated": "2026-07-30T01:58:52.361522+00:00"
 }
