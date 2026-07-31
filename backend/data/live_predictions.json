@@ -20383,7 +20383,11 @@
         "p2_edge": 0.0606
       },
       "collected_at": "2026-07-28T10:31:11.370153+00:00",
-      "result": null
+      "result": {
+        "winner": "Alejandro Tabilo",
+        "correct": true,
+        "settled_at": "2026-07-31T02:23:38.578819+00:00"
+      }
     },
     "466307113ca293dab455d54d1e78c8d1": {
       "match_id": "466307113ca293dab455d54d1e78c8d1",
@@ -21033,7 +21037,11 @@
         "p2_edge": 0.0723
       },
       "collected_at": "2026-07-29T17:11:28.792148+00:00",
-      "result": null
+      "result": {
+        "winner": "Ben Shelton",
+        "correct": true,
+        "settled_at": "2026-07-31T02:23:38.607070+00:00"
+      }
     },
     "89473e6c702f2fa3cc47e5794ec70c6b": {
       "match_id": "89473e6c702f2fa3cc47e5794ec70c6b",
@@ -21151,7 +21159,11 @@
         "p2_edge": 0.0575
       },
       "collected_at": "2026-07-29T17:11:28.829238+00:00",
-      "result": null
+      "result": {
+        "winner": "Brandon Nakashima",
+        "correct": false,
+        "settled_at": "2026-07-31T02:23:38.521941+00:00"
+      }
     },
     "c17e55d9075b598b1bff5cbf14a36a59": {
       "match_id": "c17e55d9075b598b1bff5cbf14a36a59",
@@ -21249,7 +21261,11 @@
         "p2_edge": 0.0749
       },
       "collected_at": "2026-07-30T01:58:45.357547+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex de Minaur",
+        "correct": true,
+        "settled_at": "2026-07-31T02:23:38.550446+00:00"
+      }
     },
     "tml-2026-7480-12": {
       "match_id": "tml-2026-7480-12",
@@ -21650,7 +21666,125 @@
         "correct": true,
         "settled_at": "2026-07-30T17:22:07.810023+00:00"
       }
+    },
+    "58f955e5478d9fec4341c319144c6b41": {
+      "match_id": "58f955e5478d9fec4341c319144c6b41",
+      "commence_time": "2026-07-31T18:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Alex de Minaur",
+      "player2": "Brandon Nakashima",
+      "bookmakers": {
+        "nordicbet": {
+          "Alex de Minaur": 1.56,
+          "Brandon Nakashima": 2.39
+        },
+        "betfair_ex_eu": {
+          "Alex de Minaur": 1.59,
+          "Brandon Nakashima": 2.64
+        },
+        "matchbook": {
+          "Alex de Minaur": 1.58,
+          "Brandon Nakashima": 2.64
+        },
+        "draftkings": {
+          "Alex de Minaur": 1.55,
+          "Brandon Nakashima": 2.49
+        },
+        "williamhill": {
+          "Alex de Minaur": 1.57,
+          "Brandon Nakashima": 2.38
+        },
+        "sport888": {
+          "Alex de Minaur": 1.57,
+          "Brandon Nakashima": 2.38
+        },
+        "onexbet": {
+          "Alex de Minaur": 1.57,
+          "Brandon Nakashima": 2.47
+        },
+        "betsson": {
+          "Alex de Minaur": 1.56,
+          "Brandon Nakashima": 2.39
+        },
+        "fanduel": {
+          "Alex de Minaur": 1.56,
+          "Brandon Nakashima": 2.44
+        },
+        "bovada": {
+          "Alex de Minaur": 1.56,
+          "Brandon Nakashima": 2.5
+        },
+        "unibet_fr": {
+          "Alex de Minaur": 1.54,
+          "Brandon Nakashima": 2.35
+        },
+        "betclic_fr": {
+          "Alex de Minaur": 1.54,
+          "Brandon Nakashima": 2.33
+        },
+        "lowvig": {
+          "Alex de Minaur": 1.58,
+          "Brandon Nakashima": 2.5
+        },
+        "betonlineag": {
+          "Alex de Minaur": 1.58,
+          "Brandon Nakashima": 2.5
+        },
+        "betus": {
+          "Alex de Minaur": 1.56,
+          "Brandon Nakashima": 2.5
+        },
+        "winamax_fr": {
+          "Alex de Minaur": 1.5,
+          "Brandon Nakashima": 2.25
+        },
+        "winamax_de": {
+          "Alex de Minaur": 1.56,
+          "Brandon Nakashima": 2.4
+        },
+        "betmgm": {
+          "Alex de Minaur": 1.56,
+          "Brandon Nakashima": 2.4
+        },
+        "betanysports": {
+          "Alex de Minaur": 1.57,
+          "Brandon Nakashima": 2.5
+        },
+        "pmu_fr": {
+          "Alex de Minaur": 1.54,
+          "Brandon Nakashima": 2.35
+        },
+        "unibet_se": {
+          "Alex de Minaur": 1.56,
+          "Brandon Nakashima": 2.43
+        },
+        "leovegas_se": {
+          "Alex de Minaur": 1.56,
+          "Brandon Nakashima": 2.43
+        },
+        "unibet_nl": {
+          "Alex de Minaur": 1.56,
+          "Brandon Nakashima": 2.43
+        },
+        "betrivers": {
+          "Alex de Minaur": 1.56,
+          "Brandon Nakashima": 2.43
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex De Minaur",
+        "p2_name": "Brandon Nakashima",
+        "p1_prob": 0.6305,
+        "p2_prob": 0.3695,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": 0.0016,
+        "p2_edge": -0.0093
+      },
+      "collected_at": "2026-07-31T02:23:46.880143+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-30T17:22:07.815677+00:00"
+  "last_updated": "2026-07-31T02:23:46.886822+00:00"
 }
