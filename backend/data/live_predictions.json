@@ -21902,7 +21902,107 @@
       },
       "collected_at": "2026-07-31T10:34:50.941021+00:00",
       "result": null
+    },
+    "tml-2026-7480-21": {
+      "match_id": "tml-2026-7480-21",
+      "commence_time": "2026-07-31T00:00:00+00:00",
+      "tournament": "Los Cabos",
+      "surface": "Hard",
+      "player1": "Arthur Gea",
+      "player2": "Francisco Cerundolo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Arthur Gea",
+        "p2_name": "Francisco Cerundolo",
+        "p1_prob": 0.3323,
+        "p2_prob": 0.6677,
+        "predicted_winner": "Francisco Cerundolo",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-31T17:25:38.650188+00:00",
+      "result": {
+        "winner": "Arthur Gea",
+        "correct": false,
+        "settled_at": "2026-07-31T17:25:38.650188+00:00"
+      }
+    },
+    "tml-2026-7480-22": {
+      "match_id": "tml-2026-7480-22",
+      "commence_time": "2026-07-31T00:00:00+00:00",
+      "tournament": "Los Cabos",
+      "surface": "Hard",
+      "player1": "Coleman Wong",
+      "player2": "Jenson Brooksby",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Coleman Wong",
+        "p2_name": "Jenson Brooksby",
+        "p1_prob": 0.434,
+        "p2_prob": 0.566,
+        "predicted_winner": "Jenson Brooksby",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-31T17:25:38.689606+00:00",
+      "result": {
+        "winner": "Coleman Wong",
+        "correct": false,
+        "settled_at": "2026-07-31T17:25:38.689606+00:00"
+      }
+    },
+    "tml-2026-7480-23": {
+      "match_id": "tml-2026-7480-23",
+      "commence_time": "2026-07-31T00:00:00+00:00",
+      "tournament": "Los Cabos",
+      "surface": "Hard",
+      "player1": "Cameron Norrie",
+      "player2": "Bernard Tomic",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Cameron Norrie",
+        "p2_name": "Bernard Tomic",
+        "p1_prob": 0.7213,
+        "p2_prob": 0.2787,
+        "predicted_winner": "Cameron Norrie",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-31T17:25:38.729184+00:00",
+      "result": {
+        "winner": "Cameron Norrie",
+        "correct": true,
+        "settled_at": "2026-07-31T17:25:38.729184+00:00"
+      }
+    },
+    "tml-2026-7480-24": {
+      "match_id": "tml-2026-7480-24",
+      "commence_time": "2026-07-31T00:00:00+00:00",
+      "tournament": "Los Cabos",
+      "surface": "Hard",
+      "player1": "Denis Shapovalov",
+      "player2": "Dalibor Svrcina",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Denis Shapovalov",
+        "p2_name": "Dalibor Svrcina",
+        "p1_prob": 0.6419,
+        "p2_prob": 0.3581,
+        "predicted_winner": "Denis Shapovalov",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-07-31T17:25:38.769789+00:00",
+      "result": {
+        "winner": "Denis Shapovalov",
+        "correct": true,
+        "settled_at": "2026-07-31T17:25:38.769789+00:00"
+      }
     }
   },
-  "last_updated": "2026-07-31T10:34:50.945085+00:00"
+  "last_updated": "2026-07-31T17:25:38.814568+00:00"
 }
