@@ -21784,7 +21784,125 @@
       },
       "collected_at": "2026-07-31T02:23:46.880143+00:00",
       "result": null
+    },
+    "2feb46686f50b6edc3810fb37670d262": {
+      "match_id": "2feb46686f50b6edc3810fb37670d262",
+      "commence_time": "2026-08-01T00:00:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Alejandro Tabilo",
+      "player2": "Ben Shelton",
+      "bookmakers": {
+        "draftkings": {
+          "Alejandro Tabilo": 3.42,
+          "Ben Shelton": 1.32
+        },
+        "sport888": {
+          "Alejandro Tabilo": 3.5,
+          "Ben Shelton": 1.3
+        },
+        "betfair_ex_eu": {
+          "Alejandro Tabilo": 3.85,
+          "Ben Shelton": 1.34
+        },
+        "matchbook": {
+          "Alejandro Tabilo": 3.85,
+          "Ben Shelton": 1.34
+        },
+        "pmu_fr": {
+          "Alejandro Tabilo": 3.3,
+          "Ben Shelton": 1.3
+        },
+        "winamax_de": {
+          "Alejandro Tabilo": 3.65,
+          "Ben Shelton": 1.31
+        },
+        "betonlineag": {
+          "Alejandro Tabilo": 3.53,
+          "Ben Shelton": 1.32
+        },
+        "unibet_nl": {
+          "Alejandro Tabilo": 3.4,
+          "Ben Shelton": 1.32
+        },
+        "betanysports": {
+          "Alejandro Tabilo": 3.4,
+          "Ben Shelton": 1.32
+        },
+        "williamhill": {
+          "Alejandro Tabilo": 3.5,
+          "Ben Shelton": 1.3
+        },
+        "unibet_se": {
+          "Alejandro Tabilo": 3.4,
+          "Ben Shelton": 1.32
+        },
+        "leovegas_se": {
+          "Alejandro Tabilo": 3.4,
+          "Ben Shelton": 1.32
+        },
+        "nordicbet": {
+          "Alejandro Tabilo": 3.4,
+          "Ben Shelton": 1.3
+        },
+        "bovada": {
+          "Alejandro Tabilo": 3.6,
+          "Ben Shelton": 1.31
+        },
+        "betsson": {
+          "Alejandro Tabilo": 3.4,
+          "Ben Shelton": 1.3
+        },
+        "betrivers": {
+          "Alejandro Tabilo": 3.4,
+          "Ben Shelton": 1.32
+        },
+        "betmgm": {
+          "Alejandro Tabilo": 3.4,
+          "Ben Shelton": 1.31
+        },
+        "unibet_fr": {
+          "Alejandro Tabilo": 3.4,
+          "Ben Shelton": 1.3
+        },
+        "winamax_fr": {
+          "Alejandro Tabilo": 3.5,
+          "Ben Shelton": 1.3
+        },
+        "lowvig": {
+          "Alejandro Tabilo": 3.53,
+          "Ben Shelton": 1.32
+        },
+        "onexbet": {
+          "Alejandro Tabilo": 3.48,
+          "Ben Shelton": 1.32
+        },
+        "betclic_fr": {
+          "Alejandro Tabilo": 3.55,
+          "Ben Shelton": 1.32
+        },
+        "betus": {
+          "Alejandro Tabilo": 3.35,
+          "Ben Shelton": 1.32
+        },
+        "fanduel": {
+          "Alejandro Tabilo": 3.5,
+          "Ben Shelton": 1.3
+        }
+      },
+      "prediction": {
+        "p1_name": "Alejandro Tabilo",
+        "p2_name": "Ben Shelton",
+        "p1_prob": 0.2524,
+        "p2_prob": 0.7476,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "high",
+        "p1_edge": -0.0073,
+        "p2_edge": 0.0013
+      },
+      "collected_at": "2026-07-31T10:34:50.941021+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-31T02:23:46.886822+00:00"
+  "last_updated": "2026-07-31T10:34:50.945085+00:00"
 }
