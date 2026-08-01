@@ -21913,7 +21913,11 @@
         "p2_edge": 0.0013
       },
       "collected_at": "2026-07-31T10:34:50.941021+00:00",
-      "result": null
+      "result": {
+        "winner": "Alejandro Tabilo",
+        "correct": false,
+        "settled_at": "2026-08-01T09:54:16.610688+00:00"
+      }
     },
     "tml-2026-7480-21": {
       "match_id": "tml-2026-7480-21",
@@ -22128,7 +22132,495 @@
       },
       "collected_at": "2026-08-01T02:25:03.361234+00:00",
       "result": null
+    },
+    "e06aa856908b1792bbaeac215cd1f061": {
+      "match_id": "e06aa856908b1792bbaeac215cd1f061",
+      "commence_time": "2026-08-01T14:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Martin Damm Jr.",
+      "player2": "Henrique Rocha",
+      "bookmakers": {
+        "pinnacle": {
+          "Henrique Rocha": 2.62,
+          "Martin Damm Jr.": 1.51
+        }
+      },
+      "prediction": {
+        "p1_name": "Martin Damm",
+        "p2_name": "Henrique Rocha",
+        "p1_prob": 0.7867,
+        "p2_prob": 0.2133,
+        "predicted_winner": "Martin Damm",
+        "confidence": "high",
+        "p1_edge": 0.1244,
+        "p2_edge": -0.1684
+      },
+      "collected_at": "2026-08-01T09:54:25.057424+00:00",
+      "result": null
+    },
+    "44130cd6a4e313d2e5778f2c5c1d5458": {
+      "match_id": "44130cd6a4e313d2e5778f2c5c1d5458",
+      "commence_time": "2026-08-01T14:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Marcos Giron",
+      "player2": "Pablo Llamas Ruiz",
+      "bookmakers": {
+        "pinnacle": {
+          "Marcos Giron": 1.5,
+          "Pablo Llamas Ruiz": 2.65
+        }
+      },
+      "prediction": {
+        "p1_name": "Marcos Giron",
+        "p2_name": "Pablo Llamas Ruiz",
+        "p1_prob": 0.5219,
+        "p2_prob": 0.4781,
+        "predicted_winner": "Marcos Giron",
+        "confidence": "low",
+        "p1_edge": -0.1448,
+        "p2_edge": 0.1007
+      },
+      "collected_at": "2026-08-01T09:54:25.097735+00:00",
+      "result": null
+    },
+    "8bff6c01011320799403c1e56dd3e9f6": {
+      "match_id": "8bff6c01011320799403c1e56dd3e9f6",
+      "commence_time": "2026-08-01T14:35:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Alexander Shevchenko",
+      "player2": "Kyrian Jacquet",
+      "bookmakers": {
+        "pinnacle": {
+          "Alexander Shevchenko": 2.48,
+          "Kyrian Jacquet": 1.56
+        },
+        "marathonbet": {
+          "Alexander Shevchenko": 2.31,
+          "Kyrian Jacquet": 1.53
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Shevchenko",
+        "p2_name": "Kyrian Jacquet",
+        "p1_prob": 0.6411,
+        "p2_prob": 0.3589,
+        "predicted_winner": "Alexander Shevchenko",
+        "confidence": "high",
+        "p1_edge": 0.2379,
+        "p2_edge": -0.2821
+      },
+      "collected_at": "2026-08-01T09:54:25.137149+00:00",
+      "result": null
+    },
+    "867d56bbf1e4d3ffa8a5826451af2fbc": {
+      "match_id": "867d56bbf1e4d3ffa8a5826451af2fbc",
+      "commence_time": "2026-08-01T14:35:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Michael Zheng",
+      "player2": "Kei Nishikori",
+      "bookmakers": {
+        "pinnacle": {
+          "Kei Nishikori": 2.85,
+          "Michael Zheng": 1.44
+        },
+        "marathonbet": {
+          "Kei Nishikori": 2.68,
+          "Michael Zheng": 1.4
+        }
+      },
+      "prediction": {
+        "p1_name": "Michael Zheng",
+        "p2_name": "Kei Nishikori",
+        "p1_prob": 0.3659,
+        "p2_prob": 0.6341,
+        "predicted_winner": "Kei Nishikori",
+        "confidence": "high",
+        "p1_edge": -0.3285,
+        "p2_edge": 0.2832
+      },
+      "collected_at": "2026-08-01T09:54:25.177279+00:00",
+      "result": null
+    },
+    "65dd19e55f99792377726a8fb0a62a52": {
+      "match_id": "65dd19e55f99792377726a8fb0a62a52",
+      "commence_time": "2026-08-01T14:35:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Marco Trungelliti",
+      "player2": "Nicolas Mejia",
+      "bookmakers": {
+        "pinnacle": {
+          "Marco Trungelliti": 1.71,
+          "Nicolas Mejia": 2.18
+        },
+        "marathonbet": {
+          "Marco Trungelliti": 1.64,
+          "Nicolas Mejia": 2.1
+        }
+      },
+      "prediction": {
+        "p1_name": "Marco Trungelliti",
+        "p2_name": "Nicolas Mejia",
+        "p1_prob": 0.4995,
+        "p2_prob": 0.5005,
+        "predicted_winner": "Nicolas Mejia",
+        "confidence": "low",
+        "p1_edge": -0.0853,
+        "p2_edge": 0.0418
+      },
+      "collected_at": "2026-08-01T09:54:25.217201+00:00",
+      "result": null
+    },
+    "7a108f442918c304941e320fac514fec": {
+      "match_id": "7a108f442918c304941e320fac514fec",
+      "commence_time": "2026-08-01T16:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Aleksandar Vukic",
+      "player2": "Marcelo Tomas Barrios Vera",
+      "bookmakers": {
+        "pinnacle": {
+          "Aleksandar Vukic": 1.46,
+          "Marcelo Tomas Barrios Vera": 2.79
+        },
+        "marathonbet": {
+          "Aleksandar Vukic": 1.41,
+          "Marcelo Tomas Barrios Vera": 2.64
+        }
+      },
+      "prediction": {
+        "p1_name": "Aleksandar Vukic",
+        "p2_name": "Tomas Barrios Vera",
+        "p1_prob": 0.5799,
+        "p2_prob": 0.4201,
+        "predicted_winner": "Aleksandar Vukic",
+        "confidence": "medium",
+        "p1_edge": -0.105,
+        "p2_edge": 0.0617
+      },
+      "collected_at": "2026-08-01T09:54:25.257419+00:00",
+      "result": null
+    },
+    "7b302b558d3bdaf7f2f9523ec4d0fa48": {
+      "match_id": "7b302b558d3bdaf7f2f9523ec4d0fa48",
+      "commence_time": "2026-08-01T16:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Alexei Popyrin",
+      "player2": "Thanasi Kokkinakis",
+      "bookmakers": {
+        "pinnacle": {
+          "Alexei Popyrin": 2.58,
+          "Thanasi Kokkinakis": 1.53
+        },
+        "marathonbet": {
+          "Alexei Popyrin": 2.4,
+          "Thanasi Kokkinakis": 1.49
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexei Popyrin",
+        "p2_name": "Thanasi Kokkinakis",
+        "p1_prob": 0.6382,
+        "p2_prob": 0.3618,
+        "predicted_winner": "Alexei Popyrin",
+        "confidence": "high",
+        "p1_edge": 0.2506,
+        "p2_edge": -0.2918
+      },
+      "collected_at": "2026-08-01T09:54:25.297431+00:00",
+      "result": null
+    },
+    "c58e567550441a589339f16038fd3d3d": {
+      "match_id": "c58e567550441a589339f16038fd3d3d",
+      "commence_time": "2026-08-01T16:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Jacob Fearnley",
+      "player2": "Sebastian Ofner",
+      "bookmakers": {
+        "pinnacle": {
+          "Jacob Fearnley": 1.58,
+          "Sebastian Ofner": 2.44
+        },
+        "marathonbet": {
+          "Jacob Fearnley": 1.53,
+          "Sebastian Ofner": 2.31
+        }
+      },
+      "prediction": {
+        "p1_name": "Jacob Fearnley",
+        "p2_name": "Sebastian Ofner",
+        "p1_prob": 0.4775,
+        "p2_prob": 0.5225,
+        "predicted_winner": "Sebastian Ofner",
+        "confidence": "low",
+        "p1_edge": -0.1554,
+        "p2_edge": 0.1127
+      },
+      "collected_at": "2026-08-01T09:54:25.337387+00:00",
+      "result": null
+    },
+    "7604dde1c8a4a79b2e39eb1f72be00c3": {
+      "match_id": "7604dde1c8a4a79b2e39eb1f72be00c3",
+      "commence_time": "2026-08-01T16:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Sho Shimabukuro",
+      "player2": "Nicolai Budkov Kjaer",
+      "bookmakers": {
+        "pinnacle": {
+          "Nicolai Budkov Kjaer": 2.02,
+          "Sho Shimabukuro": 1.83
+        }
+      },
+      "prediction": {
+        "p1_name": "Sho Shimabukuro",
+        "p2_name": "Nicolai Budkov Kjaer",
+        "p1_prob": 0.411,
+        "p2_prob": 0.589,
+        "predicted_winner": "Nicolai Budkov Kjaer",
+        "confidence": "medium",
+        "p1_edge": -0.1354,
+        "p2_edge": 0.094
+      },
+      "collected_at": "2026-08-01T09:54:25.376875+00:00",
+      "result": null
+    },
+    "6638edcf1951091325eb55a11f0b5b27": {
+      "match_id": "6638edcf1951091325eb55a11f0b5b27",
+      "commence_time": "2026-08-01T18:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Benjamin Bonzi",
+      "player2": "Hugo Dellien",
+      "bookmakers": {
+        "pinnacle": {
+          "Benjamin Bonzi": 1.23,
+          "Hugo Dellien": 4.39
+        },
+        "marathonbet": {
+          "Benjamin Bonzi": 1.21,
+          "Hugo Dellien": 3.84
+        }
+      },
+      "prediction": {
+        "p1_name": "Benjamin Bonzi",
+        "p2_name": "Hugo Dellien",
+        "p1_prob": 0.7379,
+        "p2_prob": 0.2621,
+        "predicted_winner": "Benjamin Bonzi",
+        "confidence": "high",
+        "p1_edge": -0.0751,
+        "p2_edge": 0.0343
+      },
+      "collected_at": "2026-08-01T09:54:25.416005+00:00",
+      "result": null
+    },
+    "45335c73a0574cbab6f52305ef29b1eb": {
+      "match_id": "45335c73a0574cbab6f52305ef29b1eb",
+      "commence_time": "2026-08-01T18:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Jaime Faria",
+      "player2": "Christopher O'Connell",
+      "bookmakers": {
+        "pinnacle": {
+          "Christopher O'Connell": 2.63,
+          "Jaime Faria": 1.51
+        },
+        "marathonbet": {
+          "Christopher O'Connell": 2.55,
+          "Jaime Faria": 1.44
+        }
+      },
+      "prediction": {
+        "p1_name": "Jaime Faria",
+        "p2_name": "Christopher O'Connell",
+        "p1_prob": 0.5201,
+        "p2_prob": 0.4799,
+        "predicted_winner": "Jaime Faria",
+        "confidence": "low",
+        "p1_edge": -0.1422,
+        "p2_edge": 0.0997
+      },
+      "collected_at": "2026-08-01T09:54:25.455340+00:00",
+      "result": null
+    },
+    "3d0d71bc0ef1ece9f2d144b21392c416": {
+      "match_id": "3d0d71bc0ef1ece9f2d144b21392c416",
+      "commence_time": "2026-08-01T18:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Shintaro Mochizuki",
+      "player2": "Dane Sweeny",
+      "bookmakers": {
+        "pinnacle": {
+          "Dane Sweeny": 2.32,
+          "Shintaro Mochizuki": 1.63
+        },
+        "marathonbet": {
+          "Dane Sweeny": 2.24,
+          "Shintaro Mochizuki": 1.56
+        }
+      },
+      "prediction": {
+        "p1_name": "Shintaro Mochizuki",
+        "p2_name": "Dane Sweeny",
+        "p1_prob": 0.5641,
+        "p2_prob": 0.4359,
+        "predicted_winner": "Shintaro Mochizuki",
+        "confidence": "medium",
+        "p1_edge": -0.0494,
+        "p2_edge": 0.0049
+      },
+      "collected_at": "2026-08-01T09:54:25.494694+00:00",
+      "result": null
+    },
+    "4d5ea5451ac3ebe420186dc11354eb97": {
+      "match_id": "4d5ea5451ac3ebe420186dc11354eb97",
+      "commence_time": "2026-08-01T20:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Dalibor Svrcina",
+      "player2": "Titouan Droguet",
+      "bookmakers": {
+        "pinnacle": {
+          "Dalibor Svrcina": 1.85,
+          "Titouan Droguet": 1.99
+        },
+        "marathonbet": {
+          "Dalibor Svrcina": 1.86,
+          "Titouan Droguet": 1.82
+        }
+      },
+      "prediction": {
+        "p1_name": "Dalibor Svrcina",
+        "p2_name": "Titouan Droguet",
+        "p1_prob": 0.4693,
+        "p2_prob": 0.5307,
+        "predicted_winner": "Titouan Droguet",
+        "confidence": "low",
+        "p1_edge": -0.0683,
+        "p2_edge": 0.0282
+      },
+      "collected_at": "2026-08-01T09:54:25.534123+00:00",
+      "result": null
+    },
+    "4c80ce38653307c0d3827d1edb2d09c7": {
+      "match_id": "4c80ce38653307c0d3827d1edb2d09c7",
+      "commence_time": "2026-08-01T23:40:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Rafael Jodar",
+      "player2": "Alejandro Tabilo",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Alejandro Tabilo": 3.15,
+          "Rafael Jodar": 1.44
+        },
+        "nordicbet": {
+          "Alejandro Tabilo": 3.0,
+          "Rafael Jodar": 1.38
+        },
+        "onexbet": {
+          "Alejandro Tabilo": 3.08,
+          "Rafael Jodar": 1.4
+        },
+        "unibet_fr": {
+          "Alejandro Tabilo": 3.0,
+          "Rafael Jodar": 1.38
+        },
+        "betsson": {
+          "Alejandro Tabilo": 3.0,
+          "Rafael Jodar": 1.38
+        },
+        "betclic_fr": {
+          "Alejandro Tabilo": 3.1,
+          "Rafael Jodar": 1.4
+        },
+        "betmgm": {
+          "Alejandro Tabilo": 2.9,
+          "Rafael Jodar": 1.4
+        },
+        "draftkings": {
+          "Alejandro Tabilo": 3.06,
+          "Rafael Jodar": 1.38
+        },
+        "matchbook": {
+          "Alejandro Tabilo": 3.2,
+          "Rafael Jodar": 1.45
+        },
+        "winamax_fr": {
+          "Alejandro Tabilo": 3.05,
+          "Rafael Jodar": 1.38
+        },
+        "winamax_de": {
+          "Alejandro Tabilo": 3.15,
+          "Rafael Jodar": 1.39
+        },
+        "williamhill": {
+          "Alejandro Tabilo": 2.9,
+          "Rafael Jodar": 1.4
+        },
+        "sport888": {
+          "Alejandro Tabilo": 2.9,
+          "Rafael Jodar": 1.4
+        },
+        "bovada": {
+          "Alejandro Tabilo": 3.1,
+          "Rafael Jodar": 1.38
+        },
+        "betrivers": {
+          "Alejandro Tabilo": 3.2,
+          "Rafael Jodar": 1.35
+        },
+        "leovegas_se": {
+          "Alejandro Tabilo": 3.2,
+          "Rafael Jodar": 1.35
+        },
+        "unibet_se": {
+          "Alejandro Tabilo": 3.2,
+          "Rafael Jodar": 1.35
+        },
+        "unibet_nl": {
+          "Alejandro Tabilo": 3.2,
+          "Rafael Jodar": 1.35
+        },
+        "pmu_fr": {
+          "Alejandro Tabilo": 3.1,
+          "Rafael Jodar": 1.33
+        },
+        "betonlineag": {
+          "Alejandro Tabilo": 3.11,
+          "Rafael Jodar": 1.39
+        },
+        "lowvig": {
+          "Alejandro Tabilo": 3.11,
+          "Rafael Jodar": 1.39
+        },
+        "fanduel": {
+          "Alejandro Tabilo": 3.1,
+          "Rafael Jodar": 1.37
+        }
+      },
+      "prediction": {
+        "p1_name": "Rafael Jodar",
+        "p2_name": "Alejandro Tabilo",
+        "p1_prob": 0.6273,
+        "p2_prob": 0.3727,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "high",
+        "p1_edge": -0.0624,
+        "p2_edge": 0.0602
+      },
+      "collected_at": "2026-08-01T09:54:25.629658+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-01T02:25:03.365528+00:00"
+  "last_updated": "2026-08-01T09:54:25.635636+00:00"
 }
