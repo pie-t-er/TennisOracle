@@ -21392,7 +21392,11 @@
         "p2_edge": 0.1365
       },
       "collected_at": "2026-07-30T10:21:22.184903+00:00",
-      "result": null
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-08-01T02:24:57.683600+00:00"
+      }
     },
     "e68f95e5652963b0e4aaf11c24f7bc5e": {
       "match_id": "e68f95e5652963b0e4aaf11c24f7bc5e",
@@ -21490,7 +21494,11 @@
         "p2_edge": 0.1493
       },
       "collected_at": "2026-07-30T10:21:22.225335+00:00",
-      "result": null
+      "result": {
+        "winner": "Rafael Jodar",
+        "correct": false,
+        "settled_at": "2026-08-01T02:24:57.706139+00:00"
+      }
     },
     "tml-2026-7480-13": {
       "match_id": "tml-2026-7480-13",
@@ -21783,7 +21791,11 @@
         "p2_edge": -0.0093
       },
       "collected_at": "2026-07-31T02:23:46.880143+00:00",
-      "result": null
+      "result": {
+        "winner": "Brandon Nakashima",
+        "correct": false,
+        "settled_at": "2026-08-01T02:24:57.661534+00:00"
+      }
     },
     "2feb46686f50b6edc3810fb37670d262": {
       "match_id": "2feb46686f50b6edc3810fb37670d262",
@@ -22002,7 +22014,121 @@
         "correct": true,
         "settled_at": "2026-07-31T17:25:38.769789+00:00"
       }
+    },
+    "47f8a5f6294a8f78a47b84de7c4b63d1": {
+      "match_id": "47f8a5f6294a8f78a47b84de7c4b63d1",
+      "commence_time": "2026-08-01T22:30:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Brandon Nakashima",
+      "player2": "Taylor Fritz",
+      "bookmakers": {
+        "matchbook": {
+          "Brandon Nakashima": 2.56,
+          "Taylor Fritz": 1.62
+        },
+        "betfair_ex_eu": {
+          "Brandon Nakashima": 2.56,
+          "Taylor Fritz": 1.63
+        },
+        "winamax_de": {
+          "Brandon Nakashima": 2.4,
+          "Taylor Fritz": 1.56
+        },
+        "sport888": {
+          "Brandon Nakashima": 2.38,
+          "Taylor Fritz": 1.57
+        },
+        "nordicbet": {
+          "Brandon Nakashima": 2.41,
+          "Taylor Fritz": 1.55
+        },
+        "winamax_fr": {
+          "Brandon Nakashima": 2.25,
+          "Taylor Fritz": 1.5
+        },
+        "williamhill": {
+          "Brandon Nakashima": 2.38,
+          "Taylor Fritz": 1.57
+        },
+        "unibet_fr": {
+          "Brandon Nakashima": 2.25,
+          "Taylor Fritz": 1.48
+        },
+        "betsson": {
+          "Brandon Nakashima": 2.41,
+          "Taylor Fritz": 1.55
+        },
+        "betclic_fr": {
+          "Brandon Nakashima": 2.3,
+          "Taylor Fritz": 1.5
+        },
+        "fanduel": {
+          "Brandon Nakashima": 2.44,
+          "Taylor Fritz": 1.55
+        },
+        "onexbet": {
+          "Brandon Nakashima": 2.52,
+          "Taylor Fritz": 1.55
+        },
+        "lowvig": {
+          "Brandon Nakashima": 2.53,
+          "Taylor Fritz": 1.57
+        },
+        "betonlineag": {
+          "Brandon Nakashima": 2.53,
+          "Taylor Fritz": 1.57
+        },
+        "unibet_se": {
+          "Brandon Nakashima": 2.55,
+          "Taylor Fritz": 1.51
+        },
+        "leovegas_se": {
+          "Brandon Nakashima": 2.55,
+          "Taylor Fritz": 1.51
+        },
+        "betrivers": {
+          "Brandon Nakashima": 2.55,
+          "Taylor Fritz": 1.51
+        },
+        "pmu_fr": {
+          "Brandon Nakashima": 2.48,
+          "Taylor Fritz": 1.49
+        },
+        "unibet_nl": {
+          "Brandon Nakashima": 2.55,
+          "Taylor Fritz": 1.51
+        },
+        "betmgm": {
+          "Brandon Nakashima": 2.45,
+          "Taylor Fritz": 1.53
+        },
+        "draftkings": {
+          "Brandon Nakashima": 2.51,
+          "Taylor Fritz": 1.54
+        },
+        "pinnacle": {
+          "Brandon Nakashima": 2.55,
+          "Taylor Fritz": 1.57
+        },
+        "betus": {
+          "Brandon Nakashima": 2.45,
+          "Taylor Fritz": 1.57
+        }
+      },
+      "prediction": {
+        "p1_name": "Brandon Nakashima",
+        "p2_name": "Taylor Fritz",
+        "p1_prob": 0.381,
+        "p2_prob": 0.619,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "high",
+        "p1_edge": -0.0096,
+        "p2_edge": 0.0055
+      },
+      "collected_at": "2026-08-01T02:25:03.361234+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-07-31T17:25:38.814568+00:00"
+  "last_updated": "2026-08-01T02:25:03.365528+00:00"
 }
