@@ -22131,7 +22131,11 @@
         "p2_edge": 0.0055
       },
       "collected_at": "2026-08-01T02:25:03.361234+00:00",
-      "result": null
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-08-02T02:21:55.485394+00:00"
+      }
     },
     "e06aa856908b1792bbaeac215cd1f061": {
       "match_id": "e06aa856908b1792bbaeac215cd1f061",
@@ -23494,7 +23498,77 @@
         "correct": false,
         "settled_at": "2026-08-01T16:55:48.239174+00:00"
       }
+    },
+    "702197d604aee39050a66d572b226eee": {
+      "match_id": "702197d604aee39050a66d572b226eee",
+      "commence_time": "2026-08-02T15:00:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Aleksandar Kovacevic",
+      "player2": "Nuno Borges",
+      "bookmakers": {
+        "coolbet": {
+          "Aleksandar Kovacevic": 2.85,
+          "Nuno Borges": 1.47
+        },
+        "pmu_fr": {
+          "Aleksandar Kovacevic": 2.7,
+          "Nuno Borges": 1.47
+        },
+        "marathonbet": {
+          "Aleksandar Kovacevic": 2.7,
+          "Nuno Borges": 1.46
+        },
+        "leovegas_se": {
+          "Aleksandar Kovacevic": 2.7,
+          "Nuno Borges": 1.47
+        },
+        "unibet_se": {
+          "Aleksandar Kovacevic": 2.7,
+          "Nuno Borges": 1.47
+        },
+        "unibet_nl": {
+          "Aleksandar Kovacevic": 2.7,
+          "Nuno Borges": 1.47
+        },
+        "bovada": {
+          "Aleksandar Kovacevic": 2.85,
+          "Nuno Borges": 1.44
+        },
+        "pinnacle": {
+          "Aleksandar Kovacevic": 2.89,
+          "Nuno Borges": 1.45
+        },
+        "betonlineag": {
+          "Aleksandar Kovacevic": 2.89,
+          "Nuno Borges": 1.44
+        },
+        "lowvig": {
+          "Aleksandar Kovacevic": 2.89,
+          "Nuno Borges": 1.44
+        },
+        "sport888": {
+          "Aleksandar Kovacevic": 2.75,
+          "Nuno Borges": 1.44
+        },
+        "betus": {
+          "Aleksandar Kovacevic": 2.8,
+          "Nuno Borges": 1.45
+        }
+      },
+      "prediction": {
+        "p1_name": "Aleksandar Kovacevic",
+        "p2_name": "Nuno Borges",
+        "p1_prob": 0.4211,
+        "p2_prob": 0.5789,
+        "predicted_winner": "Nuno Borges",
+        "confidence": "medium",
+        "p1_edge": 0.0751,
+        "p2_edge": -0.1014
+      },
+      "collected_at": "2026-08-02T02:22:04.061139+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-01T16:55:48.245495+00:00"
+  "last_updated": "2026-08-02T02:22:04.067369+00:00"
 }
