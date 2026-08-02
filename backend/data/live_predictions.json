@@ -22623,7 +22623,11 @@
         "p2_edge": 0.0602
       },
       "collected_at": "2026-08-01T09:54:25.629658+00:00",
-      "result": null
+      "result": {
+        "winner": "Rafael Jodar",
+        "correct": true,
+        "settled_at": "2026-08-02T09:52:39.235030+00:00"
+      }
     },
     "015fd7847f4733822f68790fc1d3c88d": {
       "match_id": "015fd7847f4733822f68790fc1d3c88d",
@@ -23568,7 +23572,841 @@
       },
       "collected_at": "2026-08-02T02:22:04.061139+00:00",
       "result": null
+    },
+    "80d0f22c6bbb11363e8bf8cc51e172f5": {
+      "match_id": "80d0f22c6bbb11363e8bf8cc51e172f5",
+      "commence_time": "2026-08-02T15:00:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Michael Zheng",
+      "player2": "Miomir Kecmanovic",
+      "bookmakers": {
+        "marathonbet": {
+          "Michael Zheng": 1.69,
+          "Miomir Kecmanovic": 2.16
+        },
+        "coolbet": {
+          "Michael Zheng": 1.72,
+          "Miomir Kecmanovic": 2.23
+        },
+        "sport888": {
+          "Michael Zheng": 1.67,
+          "Miomir Kecmanovic": 2.2
+        },
+        "pmu_fr": {
+          "Michael Zheng": 1.68,
+          "Miomir Kecmanovic": 2.18
+        },
+        "unibet_se": {
+          "Michael Zheng": 1.68,
+          "Miomir Kecmanovic": 2.18
+        },
+        "unibet_nl": {
+          "Michael Zheng": 1.68,
+          "Miomir Kecmanovic": 2.18
+        },
+        "leovegas_se": {
+          "Michael Zheng": 1.68,
+          "Miomir Kecmanovic": 2.18
+        },
+        "bovada": {
+          "Michael Zheng": 1.69,
+          "Miomir Kecmanovic": 2.2
+        },
+        "pinnacle": {
+          "Michael Zheng": 1.69,
+          "Miomir Kecmanovic": 2.25
+        },
+        "betus": {
+          "Michael Zheng": 1.69,
+          "Miomir Kecmanovic": 2.15
+        }
+      },
+      "prediction": {
+        "p1_name": "Michael Zheng",
+        "p2_name": "Miomir Kecmanovic",
+        "p1_prob": 0.3999,
+        "p2_prob": 0.6001,
+        "predicted_winner": "Miomir Kecmanovic",
+        "confidence": "high",
+        "p1_edge": -0.1815,
+        "p2_edge": 0.1557
+      },
+      "collected_at": "2026-08-02T09:52:46.394310+00:00",
+      "result": null
+    },
+    "1b43ef0a26cd2d053abf7677cdbda305": {
+      "match_id": "1b43ef0a26cd2d053abf7677cdbda305",
+      "commence_time": "2026-08-02T16:10:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Aleksandar Vukic",
+      "player2": "Daniel Altmaier",
+      "bookmakers": {
+        "coolbet": {
+          "Aleksandar Vukic": 1.72,
+          "Daniel Altmaier": 2.23
+        },
+        "pmu_fr": {
+          "Aleksandar Vukic": 1.7,
+          "Daniel Altmaier": 2.15
+        },
+        "sport888": {
+          "Aleksandar Vukic": 1.67,
+          "Daniel Altmaier": 2.2
+        },
+        "unibet_se": {
+          "Aleksandar Vukic": 1.7,
+          "Daniel Altmaier": 2.15
+        },
+        "unibet_nl": {
+          "Aleksandar Vukic": 1.7,
+          "Daniel Altmaier": 2.15
+        },
+        "leovegas_se": {
+          "Aleksandar Vukic": 1.7,
+          "Daniel Altmaier": 2.15
+        },
+        "marathonbet": {
+          "Aleksandar Vukic": 1.68,
+          "Daniel Altmaier": 2.18
+        },
+        "bovada": {
+          "Aleksandar Vukic": 1.69,
+          "Daniel Altmaier": 2.2
+        },
+        "pinnacle": {
+          "Aleksandar Vukic": 1.69,
+          "Daniel Altmaier": 2.25
+        },
+        "betus": {
+          "Aleksandar Vukic": 1.69,
+          "Daniel Altmaier": 2.15
+        }
+      },
+      "prediction": {
+        "p1_name": "Aleksandar Vukic",
+        "p2_name": "Daniel Altmaier",
+        "p1_prob": 0.4983,
+        "p2_prob": 0.5017,
+        "predicted_winner": "Daniel Altmaier",
+        "confidence": "low",
+        "p1_edge": -0.0831,
+        "p2_edge": 0.0573
+      },
+      "collected_at": "2026-08-02T09:52:46.436121+00:00",
+      "result": null
+    },
+    "f709354ee8468a68f8cd8a020e75b699": {
+      "match_id": "f709354ee8468a68f8cd8a020e75b699",
+      "commence_time": "2026-08-02T16:10:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "James Duckworth",
+      "player2": "Christopher O'Connell",
+      "bookmakers": {
+        "coolbet": {
+          "Christopher O'Connell": 1.59,
+          "James Duckworth": 2.5
+        },
+        "sport888": {
+          "Christopher O'Connell": 1.57,
+          "James Duckworth": 2.38
+        },
+        "pmu_fr": {
+          "Christopher O'Connell": 1.55,
+          "James Duckworth": 2.45
+        },
+        "unibet_nl": {
+          "Christopher O'Connell": 1.55,
+          "James Duckworth": 2.45
+        },
+        "unibet_se": {
+          "Christopher O'Connell": 1.55,
+          "James Duckworth": 2.45
+        },
+        "leovegas_se": {
+          "Christopher O'Connell": 1.55,
+          "James Duckworth": 2.45
+        },
+        "marathonbet": {
+          "Christopher O'Connell": 1.55,
+          "James Duckworth": 2.44
+        },
+        "bovada": {
+          "Christopher O'Connell": 1.56,
+          "James Duckworth": 2.5
+        },
+        "pinnacle": {
+          "Christopher O'Connell": 1.59,
+          "James Duckworth": 2.47
+        },
+        "betus": {
+          "Christopher O'Connell": 1.56,
+          "James Duckworth": 2.5
+        }
+      },
+      "prediction": {
+        "p1_name": "James Duckworth",
+        "p2_name": "Christopher O'Connell",
+        "p1_prob": 0.4532,
+        "p2_prob": 0.5468,
+        "predicted_winner": "Christopher O'Connell",
+        "confidence": "medium",
+        "p1_edge": 0.0532,
+        "p2_edge": -0.0821
+      },
+      "collected_at": "2026-08-02T09:52:46.478285+00:00",
+      "result": null
+    },
+    "ebf84115a5515cbf9115f35102d69d3d": {
+      "match_id": "ebf84115a5515cbf9115f35102d69d3d",
+      "commence_time": "2026-08-02T16:10:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Nicolas Mejia",
+      "player2": "Martin Landaluce",
+      "bookmakers": {
+        "sport888": {
+          "Martin Landaluce": 1.4,
+          "Nicolas Mejia": 2.9
+        },
+        "pmu_fr": {
+          "Martin Landaluce": 1.38,
+          "Nicolas Mejia": 3.0
+        },
+        "unibet_nl": {
+          "Martin Landaluce": 1.38,
+          "Nicolas Mejia": 3.0
+        },
+        "unibet_se": {
+          "Martin Landaluce": 1.38,
+          "Nicolas Mejia": 3.0
+        },
+        "leovegas_se": {
+          "Martin Landaluce": 1.38,
+          "Nicolas Mejia": 3.0
+        },
+        "marathonbet": {
+          "Martin Landaluce": 1.39,
+          "Nicolas Mejia": 2.98
+        },
+        "bovada": {
+          "Martin Landaluce": 1.38,
+          "Nicolas Mejia": 3.1
+        },
+        "pinnacle": {
+          "Martin Landaluce": 1.4,
+          "Nicolas Mejia": 3.1
+        },
+        "betus": {
+          "Martin Landaluce": 1.38,
+          "Nicolas Mejia": 3.1
+        },
+        "lowvig": {
+          "Martin Landaluce": 1.39,
+          "Nicolas Mejia": 3.11
+        }
+      },
+      "prediction": {
+        "p1_name": "Nicolas Mejia",
+        "p2_name": "Martin Landaluce",
+        "p1_prob": 0.1833,
+        "p2_prob": 0.8167,
+        "predicted_winner": "Martin Landaluce",
+        "confidence": "high",
+        "p1_edge": -0.1382,
+        "p2_edge": 0.1024
+      },
+      "collected_at": "2026-08-02T09:52:46.532679+00:00",
+      "result": null
+    },
+    "e9ee4abeb226d92133c912d5b1d2eefe": {
+      "match_id": "e9ee4abeb226d92133c912d5b1d2eefe",
+      "commence_time": "2026-08-02T17:20:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Luca Van Assche",
+      "player2": "Titouan Droguet",
+      "bookmakers": {
+        "coolbet": {
+          "Luca Van Assche": 1.88,
+          "Titouan Droguet": 2.0
+        },
+        "sport888": {
+          "Luca Van Assche": 1.85,
+          "Titouan Droguet": 1.95
+        },
+        "pmu_fr": {
+          "Luca Van Assche": 1.88,
+          "Titouan Droguet": 1.92
+        },
+        "bovada": {
+          "Luca Van Assche": 1.87,
+          "Titouan Droguet": 1.95
+        },
+        "unibet_se": {
+          "Luca Van Assche": 1.88,
+          "Titouan Droguet": 1.92
+        },
+        "unibet_nl": {
+          "Luca Van Assche": 1.88,
+          "Titouan Droguet": 1.92
+        },
+        "marathonbet": {
+          "Luca Van Assche": 1.87,
+          "Titouan Droguet": 1.93
+        },
+        "leovegas_se": {
+          "Luca Van Assche": 1.88,
+          "Titouan Droguet": 1.92
+        },
+        "pinnacle": {
+          "Luca Van Assche": 1.89,
+          "Titouan Droguet": 1.98
+        },
+        "betus": {
+          "Luca Van Assche": 1.87,
+          "Titouan Droguet": 1.87
+        }
+      },
+      "prediction": {
+        "p1_name": "Luca Van Assche",
+        "p2_name": "Titouan Droguet",
+        "p1_prob": 0.4816,
+        "p2_prob": 0.5184,
+        "predicted_winner": "Titouan Droguet",
+        "confidence": "low",
+        "p1_edge": -0.0475,
+        "p2_edge": 0.0184
+      },
+      "collected_at": "2026-08-02T09:52:46.586564+00:00",
+      "result": null
+    },
+    "99f056f73df7df8250dc68a78321b005": {
+      "match_id": "99f056f73df7df8250dc68a78321b005",
+      "commence_time": "2026-08-02T22:00:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Sho Shimabukuro",
+      "player2": "Marin Cilic",
+      "bookmakers": {
+        "coolbet": {
+          "Marin Cilic": 1.7,
+          "Sho Shimabukuro": 2.27
+        },
+        "sport888": {
+          "Marin Cilic": 1.67,
+          "Sho Shimabukuro": 2.2
+        },
+        "pmu_fr": {
+          "Marin Cilic": 1.71,
+          "Sho Shimabukuro": 2.12
+        },
+        "bovada": {
+          "Marin Cilic": 1.67,
+          "Sho Shimabukuro": 2.25
+        },
+        "unibet_se": {
+          "Marin Cilic": 1.71,
+          "Sho Shimabukuro": 2.12
+        },
+        "unibet_nl": {
+          "Marin Cilic": 1.71,
+          "Sho Shimabukuro": 2.12
+        },
+        "marathonbet": {
+          "Marin Cilic": 1.68,
+          "Sho Shimabukuro": 2.18
+        },
+        "leovegas_se": {
+          "Marin Cilic": 1.71,
+          "Sho Shimabukuro": 2.12
+        },
+        "pinnacle": {
+          "Marin Cilic": 1.69,
+          "Sho Shimabukuro": 2.26
+        },
+        "betus": {
+          "Marin Cilic": 1.67,
+          "Sho Shimabukuro": 2.2
+        }
+      },
+      "prediction": {
+        "p1_name": "Sho Shimabukuro",
+        "p2_name": "Marin Cilic",
+        "p1_prob": 0.2534,
+        "p2_prob": 0.7466,
+        "predicted_winner": "Marin Cilic",
+        "confidence": "high",
+        "p1_edge": -0.1871,
+        "p2_edge": 0.1618
+      },
+      "collected_at": "2026-08-02T09:52:46.628109+00:00",
+      "result": null
+    },
+    "32fd756d34f7d41943763c9994e5fee9": {
+      "match_id": "32fd756d34f7d41943763c9994e5fee9",
+      "commence_time": "2026-08-02T23:00:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Gabriel Diallo",
+      "player2": "Kyrian Jacquet",
+      "bookmakers": {
+        "marathonbet": {
+          "Gabriel Diallo": 1.82,
+          "Kyrian Jacquet": 1.98
+        },
+        "leovegas_se": {
+          "Gabriel Diallo": 1.88,
+          "Kyrian Jacquet": 1.91
+        },
+        "coolbet": {
+          "Gabriel Diallo": 1.84,
+          "Kyrian Jacquet": 2.05
+        },
+        "sport888": {
+          "Gabriel Diallo": 1.8,
+          "Kyrian Jacquet": 2.0
+        },
+        "pmu_fr": {
+          "Gabriel Diallo": 1.88,
+          "Kyrian Jacquet": 1.91
+        },
+        "unibet_nl": {
+          "Gabriel Diallo": 1.88,
+          "Kyrian Jacquet": 1.91
+        },
+        "unibet_se": {
+          "Gabriel Diallo": 1.88,
+          "Kyrian Jacquet": 1.91
+        },
+        "bovada": {
+          "Gabriel Diallo": 1.8,
+          "Kyrian Jacquet": 2.05
+        },
+        "pinnacle": {
+          "Gabriel Diallo": 1.83,
+          "Kyrian Jacquet": 2.05
+        },
+        "betus": {
+          "Gabriel Diallo": 1.8,
+          "Kyrian Jacquet": 1.95
+        }
+      },
+      "prediction": {
+        "p1_name": "Gabriel Diallo",
+        "p2_name": "Kyrian Jacquet",
+        "p1_prob": 0.6589,
+        "p2_prob": 0.3411,
+        "predicted_winner": "Gabriel Diallo",
+        "confidence": "high",
+        "p1_edge": 0.127,
+        "p2_edge": -0.1467
+      },
+      "collected_at": "2026-08-02T09:52:46.670605+00:00",
+      "result": null
+    },
+    "4507bf7e74c2470db574de51cd05fa0f": {
+      "match_id": "4507bf7e74c2470db574de51cd05fa0f",
+      "commence_time": "2026-08-02T23:10:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Benjamin Bonzi",
+      "player2": "Yannick Hanfmann",
+      "bookmakers": {
+        "coolbet": {
+          "Benjamin Bonzi": 2.1,
+          "Yannick Hanfmann": 1.8
+        },
+        "sport888": {
+          "Benjamin Bonzi": 2.0,
+          "Yannick Hanfmann": 1.8
+        },
+        "pmu_fr": {
+          "Benjamin Bonzi": 2.08,
+          "Yannick Hanfmann": 1.75
+        },
+        "unibet_se": {
+          "Benjamin Bonzi": 2.08,
+          "Yannick Hanfmann": 1.75
+        },
+        "unibet_nl": {
+          "Benjamin Bonzi": 2.08,
+          "Yannick Hanfmann": 1.75
+        },
+        "leovegas_se": {
+          "Benjamin Bonzi": 2.08,
+          "Yannick Hanfmann": 1.75
+        },
+        "marathonbet": {
+          "Benjamin Bonzi": 2.06,
+          "Yannick Hanfmann": 1.76
+        },
+        "bovada": {
+          "Benjamin Bonzi": 2.1,
+          "Yannick Hanfmann": 1.77
+        },
+        "pinnacle": {
+          "Benjamin Bonzi": 2.08,
+          "Yannick Hanfmann": 1.81
+        }
+      },
+      "prediction": {
+        "p1_name": "Benjamin Bonzi",
+        "p2_name": "Yannick Hanfmann",
+        "p1_prob": 0.4868,
+        "p2_prob": 0.5132,
+        "predicted_winner": "Yannick Hanfmann",
+        "confidence": "low",
+        "p1_edge": 0.0106,
+        "p2_edge": -0.0393
+      },
+      "collected_at": "2026-08-02T09:52:46.773598+00:00",
+      "result": null
+    },
+    "341f3e5250be46d4bb3f0a9ac077f54f": {
+      "match_id": "341f3e5250be46d4bb3f0a9ac077f54f",
+      "commence_time": "2026-08-03T13:00:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Adam Walton",
+      "player2": "Jenson Brooksby",
+      "bookmakers": {
+        "pinnacle": {
+          "Adam Walton": 2.15,
+          "Jenson Brooksby": 1.76
+        },
+        "coolbet": {
+          "Adam Walton": 2.15,
+          "Jenson Brooksby": 1.77
+        },
+        "marathonbet": {
+          "Adam Walton": 2.11,
+          "Jenson Brooksby": 1.72
+        },
+        "sport888": {
+          "Adam Walton": 2.1,
+          "Jenson Brooksby": 1.73
+        }
+      },
+      "prediction": {
+        "p1_name": "Adam Walton",
+        "p2_name": "Jenson Brooksby",
+        "p1_prob": 0.3315,
+        "p2_prob": 0.6685,
+        "predicted_winner": "Jenson Brooksby",
+        "confidence": "high",
+        "p1_edge": -0.1336,
+        "p2_edge": 0.1035
+      },
+      "collected_at": "2026-08-02T09:52:46.829341+00:00",
+      "result": null
+    },
+    "9000d5a71073fa0e6b5e8ec2ef33c4db": {
+      "match_id": "9000d5a71073fa0e6b5e8ec2ef33c4db",
+      "commence_time": "2026-08-03T13:00:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Jacob Fearnley",
+      "player2": "Adrian Mannarino",
+      "bookmakers": {
+        "pinnacle": {
+          "Adrian Mannarino": 2.54,
+          "Jacob Fearnley": 1.56
+        },
+        "coolbet": {
+          "Adrian Mannarino": 2.52,
+          "Jacob Fearnley": 1.58
+        },
+        "marathonbet": {
+          "Adrian Mannarino": 2.42,
+          "Jacob Fearnley": 1.56
+        },
+        "sport888": {
+          "Adrian Mannarino": 2.5,
+          "Jacob Fearnley": 1.53
+        }
+      },
+      "prediction": {
+        "p1_name": "Jacob Fearnley",
+        "p2_name": "Adrian Mannarino",
+        "p1_prob": 0.5281,
+        "p2_prob": 0.4719,
+        "predicted_winner": "Jacob Fearnley",
+        "confidence": "low",
+        "p1_edge": -0.1048,
+        "p2_edge": 0.0782
+      },
+      "collected_at": "2026-08-02T09:52:46.871800+00:00",
+      "result": null
+    },
+    "0c212d85147c2b742bbfb0cdaaceaad6": {
+      "match_id": "0c212d85147c2b742bbfb0cdaaceaad6",
+      "commence_time": "2026-08-03T13:00:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Alexei Popyrin",
+      "player2": "Roman Andres Burruchaga",
+      "bookmakers": {
+        "pinnacle": {
+          "Alexei Popyrin": 1.7,
+          "Roman Andres Burruchaga": 2.24
+        },
+        "coolbet": {
+          "Alexei Popyrin": 1.7,
+          "Roman Andres Burruchaga": 2.27
+        },
+        "marathonbet": {
+          "Alexei Popyrin": 1.65,
+          "Roman Andres Burruchaga": 2.23
+        },
+        "sport888": {
+          "Alexei Popyrin": 1.67,
+          "Roman Andres Burruchaga": 2.2
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexei Popyrin",
+        "p2_name": "Roman Andres Burruchaga",
+        "p1_prob": 0.534,
+        "p2_prob": 0.466,
+        "predicted_winner": "Alexei Popyrin",
+        "confidence": "low",
+        "p1_edge": -0.0542,
+        "p2_edge": 0.0255
+      },
+      "collected_at": "2026-08-02T09:52:46.914181+00:00",
+      "result": null
+    },
+    "90a91956d61f7018e429f2530ee910a7": {
+      "match_id": "90a91956d61f7018e429f2530ee910a7",
+      "commence_time": "2026-08-03T13:00:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Shintaro Mochizuki",
+      "player2": "Fabian Marozsan",
+      "bookmakers": {
+        "pinnacle": {
+          "Fabian Marozsan": 1.52,
+          "Shintaro Mochizuki": 2.67
+        },
+        "coolbet": {
+          "Fabian Marozsan": 1.52,
+          "Shintaro Mochizuki": 2.7
+        },
+        "sport888": {
+          "Fabian Marozsan": 1.53,
+          "Shintaro Mochizuki": 2.5
+        },
+        "marathonbet": {
+          "Fabian Marozsan": 1.46,
+          "Shintaro Mochizuki": 2.7
+        }
+      },
+      "prediction": {
+        "p1_name": "Shintaro Mochizuki",
+        "p2_name": "Fabian Marozsan",
+        "p1_prob": 0.3412,
+        "p2_prob": 0.6588,
+        "predicted_winner": "Fabian Marozsan",
+        "confidence": "high",
+        "p1_edge": -0.0292,
+        "p2_edge": 0.0052
+      },
+      "collected_at": "2026-08-02T09:52:46.969585+00:00",
+      "result": null
+    },
+    "f83b748a46e5e0b6a8a6598d4e0e2736": {
+      "match_id": "f83b748a46e5e0b6a8a6598d4e0e2736",
+      "commence_time": "2026-08-03T13:00:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Hubert Hurkacz",
+      "player2": "Marcos Giron",
+      "bookmakers": {
+        "pinnacle": {
+          "Hubert Hurkacz": 1.5,
+          "Marcos Giron": 2.74
+        },
+        "coolbet": {
+          "Hubert Hurkacz": 1.47,
+          "Marcos Giron": 2.85
+        },
+        "marathonbet": {
+          "Hubert Hurkacz": 1.43,
+          "Marcos Giron": 2.81
+        },
+        "sport888": {
+          "Hubert Hurkacz": 1.44,
+          "Marcos Giron": 2.75
+        }
+      },
+      "prediction": {
+        "p1_name": "Hubert Hurkacz",
+        "p2_name": "Marcos Giron",
+        "p1_prob": 0.6497,
+        "p2_prob": 0.3503,
+        "predicted_winner": "Hubert Hurkacz",
+        "confidence": "high",
+        "p1_edge": -0.017,
+        "p2_edge": -0.0006
+      },
+      "collected_at": "2026-08-02T09:52:47.012047+00:00",
+      "result": null
+    },
+    "d872deb964ec915a944e2b1707c0d0ab": {
+      "match_id": "d872deb964ec915a944e2b1707c0d0ab",
+      "commence_time": "2026-08-03T13:00:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Martin Damm Jr.",
+      "player2": "Stefanos Tsitsipas",
+      "bookmakers": {
+        "pinnacle": {
+          "Martin Damm Jr.": 2.83,
+          "Stefanos Tsitsipas": 1.47
+        },
+        "coolbet": {
+          "Martin Damm Jr.": 2.75,
+          "Stefanos Tsitsipas": 1.5
+        },
+        "sport888": {
+          "Martin Damm Jr.": 2.6,
+          "Stefanos Tsitsipas": 1.5
+        }
+      },
+      "prediction": {
+        "p1_name": "Martin Damm",
+        "p2_name": "Stefanos Tsitsipas",
+        "p1_prob": 0.3769,
+        "p2_prob": 0.6231,
+        "predicted_winner": "Stefanos Tsitsipas",
+        "confidence": "high",
+        "p1_edge": 0.0235,
+        "p2_edge": -0.0436
+      },
+      "collected_at": "2026-08-02T09:52:47.055649+00:00",
+      "result": null
+    },
+    "b84705609fe51f48fa0406f2661aec1e": {
+      "match_id": "b84705609fe51f48fa0406f2661aec1e",
+      "commence_time": "2026-08-02T18:30:00Z",
+      "tournament": "ATP Washington Open",
+      "surface": "Hard",
+      "player1": "Taylor Fritz",
+      "player2": "Rafael Jodar",
+      "bookmakers": {
+        "williamhill": {
+          "Rafael Jodar": 2.1,
+          "Taylor Fritz": 1.73
+        },
+        "onexbet": {
+          "Rafael Jodar": 2.24,
+          "Taylor Fritz": 1.68
+        },
+        "sport888": {
+          "Rafael Jodar": 2.1,
+          "Taylor Fritz": 1.73
+        },
+        "draftkings": {
+          "Rafael Jodar": 2.22,
+          "Taylor Fritz": 1.67
+        },
+        "betfair_ex_eu": {
+          "Rafael Jodar": 2.28,
+          "Taylor Fritz": 1.76
+        },
+        "bovada": {
+          "Rafael Jodar": 2.2,
+          "Taylor Fritz": 1.69
+        },
+        "betanysports": {
+          "Rafael Jodar": 2.2,
+          "Taylor Fritz": 1.71
+        },
+        "leovegas_se": {
+          "Rafael Jodar": 2.23,
+          "Taylor Fritz": 1.66
+        },
+        "unibet_se": {
+          "Rafael Jodar": 2.23,
+          "Taylor Fritz": 1.66
+        },
+        "pmu_fr": {
+          "Rafael Jodar": 2.17,
+          "Taylor Fritz": 1.63
+        },
+        "unibet_nl": {
+          "Rafael Jodar": 2.23,
+          "Taylor Fritz": 1.66
+        },
+        "betrivers": {
+          "Rafael Jodar": 2.23,
+          "Taylor Fritz": 1.66
+        },
+        "unibet_fr": {
+          "Rafael Jodar": 2.2,
+          "Taylor Fritz": 1.72
+        },
+        "nordicbet": {
+          "Rafael Jodar": 2.13,
+          "Taylor Fritz": 1.69
+        },
+        "betsson": {
+          "Rafael Jodar": 2.13,
+          "Taylor Fritz": 1.69
+        },
+        "betclic_fr": {
+          "Rafael Jodar": 2.2,
+          "Taylor Fritz": 1.69
+        },
+        "matchbook": {
+          "Rafael Jodar": 2.28,
+          "Taylor Fritz": 1.76
+        },
+        "betmgm": {
+          "Rafael Jodar": 2.18,
+          "Taylor Fritz": 1.67
+        },
+        "winamax_fr": {
+          "Rafael Jodar": 2.15,
+          "Taylor Fritz": 1.7
+        },
+        "winamax_de": {
+          "Rafael Jodar": 2.2,
+          "Taylor Fritz": 1.72
+        },
+        "fanduel": {
+          "Rafael Jodar": 2.26,
+          "Taylor Fritz": 1.65
+        },
+        "lowvig": {
+          "Rafael Jodar": 2.18,
+          "Taylor Fritz": 1.72
+        },
+        "betonlineag": {
+          "Rafael Jodar": 2.18,
+          "Taylor Fritz": 1.72
+        },
+        "betus": {
+          "Rafael Jodar": 2.08,
+          "Taylor Fritz": 1.72
+        }
+      },
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Rafael Jodar",
+        "p1_prob": 0.4985,
+        "p2_prob": 0.5015,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "low",
+        "p1_edge": -0.0697,
+        "p2_edge": 0.0629
+      },
+      "collected_at": "2026-08-02T09:52:47.231504+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-02T02:22:04.067369+00:00"
+  "last_updated": "2026-08-02T09:52:47.237519+00:00"
 }
