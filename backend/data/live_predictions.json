@@ -22765,7 +22765,11 @@
         "p2_edge": -0.0768
       },
       "collected_at": "2026-08-01T16:55:40.716568+00:00",
-      "result": null
+      "result": {
+        "winner": "Juncheng Shang",
+        "correct": false,
+        "settled_at": "2026-08-02T16:54:12.959559+00:00"
+      }
     },
     "b9569e7d3389a0805c9c89a6a6430c35": {
       "match_id": "b9569e7d3389a0805c9c89a6a6430c35",
@@ -24406,7 +24410,32 @@
       },
       "collected_at": "2026-08-02T09:52:47.231504+00:00",
       "result": null
+    },
+    "tml-2026-7480-27": {
+      "match_id": "tml-2026-7480-27",
+      "commence_time": "2026-08-02T00:00:00+00:00",
+      "tournament": "Los Cabos",
+      "surface": "Hard",
+      "player1": "Arthur Gea",
+      "player2": "Denis Shapovalov",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Arthur Gea",
+        "p2_name": "Denis Shapovalov",
+        "p1_prob": 0.3853,
+        "p2_prob": 0.6147,
+        "predicted_winner": "Denis Shapovalov",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-02T16:54:30.047166+00:00",
+      "result": {
+        "winner": "Arthur Gea",
+        "correct": false,
+        "settled_at": "2026-08-02T16:54:30.047166+00:00"
+      }
     }
   },
-  "last_updated": "2026-08-02T09:52:47.237519+00:00"
+  "last_updated": "2026-08-02T16:54:30.054740+00:00"
 }
