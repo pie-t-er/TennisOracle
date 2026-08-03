@@ -23293,7 +23293,11 @@
         "p2_edge": 0.0151
       },
       "collected_at": "2026-08-01T16:55:41.166037+00:00",
-      "result": null
+      "result": {
+        "winner": "Jaume Munar",
+        "correct": true,
+        "settled_at": "2026-08-03T02:24:34.499568+00:00"
+      }
     },
     "7e6445f5e0eab32b42d5e402d005a6de": {
       "match_id": "7e6445f5e0eab32b42d5e402d005a6de",
@@ -23885,7 +23889,11 @@
         "p2_edge": 0.0184
       },
       "collected_at": "2026-08-02T09:52:46.586564+00:00",
-      "result": null
+      "result": {
+        "winner": "Titouan Droguet",
+        "correct": true,
+        "settled_at": "2026-08-03T02:24:36.999006+00:00"
+      }
     },
     "99f056f73df7df8250dc68a78321b005": {
       "match_id": "99f056f73df7df8250dc68a78321b005",
@@ -24435,7 +24443,155 @@
         "correct": false,
         "settled_at": "2026-08-02T16:54:30.047166+00:00"
       }
+    },
+    "1b2aecb733f29e16b5982e7da22bb3ef": {
+      "match_id": "1b2aecb733f29e16b5982e7da22bb3ef",
+      "commence_time": "2026-08-04T15:00:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Jaume Munar",
+      "player2": "Alexander Blockx",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Alexander Blockx": 1.04,
+          "Jaume Munar": 1.02
+        },
+        "gtbets": {
+          "Alexander Blockx": 1.63,
+          "Jaume Munar": 2.3
+        },
+        "unibet_fr": {
+          "Alexander Blockx": 1.57,
+          "Jaume Munar": 2.05
+        },
+        "betclic_fr": {
+          "Alexander Blockx": 1.59,
+          "Jaume Munar": 2.12
+        },
+        "onexbet": {
+          "Alexander Blockx": 1.65,
+          "Jaume Munar": 2.25
+        },
+        "draftkings": {
+          "Alexander Blockx": 1.65,
+          "Jaume Munar": 2.25
+        },
+        "fanduel": {
+          "Alexander Blockx": 1.65,
+          "Jaume Munar": 2.28
+        },
+        "winamax_fr": {
+          "Alexander Blockx": 1.58,
+          "Jaume Munar": 2.05
+        },
+        "winamax_de": {
+          "Alexander Blockx": 1.64,
+          "Jaume Munar": 2.2
+        },
+        "bovada": {
+          "Alexander Blockx": 1.67,
+          "Jaume Munar": 2.25
+        },
+        "marathonbet": {
+          "Alexander Blockx": 1.63,
+          "Jaume Munar": 2.27
+        },
+        "tipico_de": {
+          "Alexander Blockx": 1.57,
+          "Jaume Munar": 2.25
+        },
+        "sport888": {
+          "Alexander Blockx": 1.61,
+          "Jaume Munar": 2.3
+        }
+      },
+      "prediction": {
+        "p1_name": "Jaume Munar",
+        "p2_name": "Alexander Blockx",
+        "p1_prob": 0.4012,
+        "p2_prob": 0.5988,
+        "predicted_winner": "Alexander Blockx",
+        "confidence": "medium",
+        "p1_edge": -0.0336,
+        "p2_edge": -0.0
+      },
+      "collected_at": "2026-08-03T02:24:44.132029+00:00",
+      "result": null
+    },
+    "3aa5a82fb7841b1e71bae0f012c8fc74": {
+      "match_id": "3aa5a82fb7841b1e71bae0f012c8fc74",
+      "commence_time": "2026-08-04T15:00:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Juncheng Shang",
+      "player2": "Andrey Rublev",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Andrey Rublev": 1.06,
+          "Juncheng Shang": 1.02
+        },
+        "marathonbet": {
+          "Andrey Rublev": 1.21,
+          "Juncheng Shang": 4.4
+        },
+        "gtbets": {
+          "Andrey Rublev": 1.17,
+          "Juncheng Shang": 4.46
+        },
+        "unibet_fr": {
+          "Andrey Rublev": 1.17,
+          "Juncheng Shang": 3.75
+        },
+        "betclic_fr": {
+          "Andrey Rublev": 1.21,
+          "Juncheng Shang": 3.7
+        },
+        "onexbet": {
+          "Andrey Rublev": 1.22,
+          "Juncheng Shang": 4.32
+        },
+        "draftkings": {
+          "Andrey Rublev": 1.22,
+          "Juncheng Shang": 4.4
+        },
+        "fanduel": {
+          "Andrey Rublev": 1.22,
+          "Juncheng Shang": 4.5
+        },
+        "winamax_fr": {
+          "Andrey Rublev": 1.17,
+          "Juncheng Shang": 3.8
+        },
+        "winamax_de": {
+          "Andrey Rublev": 1.21,
+          "Juncheng Shang": 4.3
+        },
+        "bovada": {
+          "Andrey Rublev": 1.22,
+          "Juncheng Shang": 4.5
+        },
+        "tipico_de": {
+          "Andrey Rublev": 1.18,
+          "Juncheng Shang": 4.3
+        },
+        "sport888": {
+          "Andrey Rublev": 1.22,
+          "Juncheng Shang": 4.2
+        }
+      },
+      "prediction": {
+        "p1_name": "Juncheng Shang",
+        "p2_name": "Andrey Rublev",
+        "p1_prob": 0.2121,
+        "p2_prob": 0.7879,
+        "predicted_winner": "Andrey Rublev",
+        "confidence": "high",
+        "p1_edge": -0.0101,
+        "p2_edge": -0.0318
+      },
+      "collected_at": "2026-08-03T02:24:44.190446+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-02T16:54:30.054740+00:00"
+  "last_updated": "2026-08-03T02:24:44.197409+00:00"
 }
