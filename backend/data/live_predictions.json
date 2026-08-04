@@ -22711,7 +22711,11 @@
         "p2_edge": 0.0125
       },
       "collected_at": "2026-08-01T16:55:40.676389+00:00",
-      "result": null
+      "result": {
+        "winner": "Sebastian Baez",
+        "correct": false,
+        "settled_at": "2026-08-04T17:41:44.842925+00:00"
+      }
     },
     "89000ae58cd0b4f88f03639dcf8e3baa": {
       "match_id": "89000ae58cd0b4f88f03639dcf8e3baa",
@@ -24169,7 +24173,11 @@
         "p2_edge": 0.1035
       },
       "collected_at": "2026-08-02T09:52:46.829341+00:00",
-      "result": null
+      "result": {
+        "winner": "Jenson Brooksby",
+        "correct": true,
+        "settled_at": "2026-08-04T17:41:44.877610+00:00"
+      }
     },
     "9000d5a71073fa0e6b5e8ec2ef33c4db": {
       "match_id": "9000d5a71073fa0e6b5e8ec2ef33c4db",
@@ -24321,7 +24329,11 @@
         "p2_edge": -0.0006
       },
       "collected_at": "2026-08-02T09:52:47.012047+00:00",
-      "result": null
+      "result": {
+        "winner": "Hubert Hurkacz",
+        "correct": true,
+        "settled_at": "2026-08-04T17:41:44.912034+00:00"
+      }
     },
     "d872deb964ec915a944e2b1707c0d0ab": {
       "match_id": "d872deb964ec915a944e2b1707c0d0ab",
@@ -24355,7 +24367,11 @@
         "p2_edge": -0.0436
       },
       "collected_at": "2026-08-02T09:52:47.055649+00:00",
-      "result": null
+      "result": {
+        "winner": "Stefanos Tsitsipas",
+        "correct": true,
+        "settled_at": "2026-08-04T17:41:44.947722+00:00"
+      }
     },
     "b84705609fe51f48fa0406f2661aec1e": {
       "match_id": "b84705609fe51f48fa0406f2661aec1e",
@@ -26223,5 +26239,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-08-04T10:33:25.864533+00:00"
+  "last_updated": "2026-08-04T17:41:44.947731+00:00"
 }
