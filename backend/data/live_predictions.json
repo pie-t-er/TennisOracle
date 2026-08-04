@@ -22877,7 +22877,11 @@
         "p2_edge": 0.192
       },
       "collected_at": "2026-08-01T16:55:40.839379+00:00",
-      "result": null
+      "result": {
+        "winner": "Vit Kopriva",
+        "correct": true,
+        "settled_at": "2026-08-04T02:04:34.860872+00:00"
+      }
     },
     "cd66fe742d007761806ac2730aa19b65": {
       "match_id": "cd66fe742d007761806ac2730aa19b65",
@@ -23405,7 +23409,11 @@
         "p2_edge": -0.0496
       },
       "collected_at": "2026-08-01T16:55:41.247393+00:00",
-      "result": null
+      "result": {
+        "winner": "Mariano Navone",
+        "correct": false,
+        "settled_at": "2026-08-04T02:04:34.893585+00:00"
+      }
     },
     "fe34e2f631f79d4a636ca69302fb3497": {
       "match_id": "fe34e2f631f79d4a636ca69302fb3497",
@@ -23579,7 +23587,11 @@
         "p2_edge": -0.1014
       },
       "collected_at": "2026-08-02T02:22:04.061139+00:00",
-      "result": null
+      "result": {
+        "winner": "Nuno Borges",
+        "correct": true,
+        "settled_at": "2026-08-04T02:04:34.828161+00:00"
+      }
     },
     "80d0f22c6bbb11363e8bf8cc51e172f5": {
       "match_id": "80d0f22c6bbb11363e8bf8cc51e172f5",
@@ -23641,7 +23653,11 @@
         "p2_edge": 0.1557
       },
       "collected_at": "2026-08-02T09:52:46.394310+00:00",
-      "result": null
+      "result": {
+        "winner": "Miomir Kecmanovic",
+        "correct": true,
+        "settled_at": "2026-08-04T02:04:34.794968+00:00"
+      }
     },
     "1b43ef0a26cd2d053abf7677cdbda305": {
       "match_id": "1b43ef0a26cd2d053abf7677cdbda305",
@@ -23765,7 +23781,11 @@
         "p2_edge": -0.0821
       },
       "collected_at": "2026-08-02T09:52:46.478285+00:00",
-      "result": null
+      "result": {
+        "winner": "James Duckworth",
+        "correct": false,
+        "settled_at": "2026-08-04T02:04:34.959587+00:00"
+      }
     },
     "ebf84115a5515cbf9115f35102d69d3d": {
       "match_id": "ebf84115a5515cbf9115f35102d69d3d",
@@ -23827,7 +23847,11 @@
         "p2_edge": 0.1024
       },
       "collected_at": "2026-08-02T09:52:46.532679+00:00",
-      "result": null
+      "result": {
+        "winner": "Nicolas Mejia",
+        "correct": false,
+        "settled_at": "2026-08-04T02:04:34.926901+00:00"
+      }
     },
     "e9ee4abeb226d92133c912d5b1d2eefe": {
       "match_id": "e9ee4abeb226d92133c912d5b1d2eefe",
@@ -23955,7 +23979,11 @@
         "p2_edge": 0.1618
       },
       "collected_at": "2026-08-02T09:52:46.628109+00:00",
-      "result": null
+      "result": {
+        "winner": "Marin Cilic",
+        "correct": true,
+        "settled_at": "2026-08-04T02:04:35.060527+00:00"
+      }
     },
     "32fd756d34f7d41943763c9994e5fee9": {
       "match_id": "32fd756d34f7d41943763c9994e5fee9",
@@ -24017,7 +24045,11 @@
         "p2_edge": -0.1467
       },
       "collected_at": "2026-08-02T09:52:46.670605+00:00",
-      "result": null
+      "result": {
+        "winner": "Gabriel Diallo",
+        "correct": true,
+        "settled_at": "2026-08-04T02:04:35.027567+00:00"
+      }
     },
     "4507bf7e74c2470db574de51cd05fa0f": {
       "match_id": "4507bf7e74c2470db574de51cd05fa0f",
@@ -24075,7 +24107,11 @@
         "p2_edge": -0.0393
       },
       "collected_at": "2026-08-02T09:52:46.773598+00:00",
-      "result": null
+      "result": {
+        "winner": "Yannick Hanfmann",
+        "correct": true,
+        "settled_at": "2026-08-04T02:04:34.993148+00:00"
+      }
     },
     "341f3e5250be46d4bb3f0a9ac077f54f": {
       "match_id": "341f3e5250be46d4bb3f0a9ac077f54f",
@@ -24417,7 +24453,11 @@
         "p2_edge": 0.0629
       },
       "collected_at": "2026-08-02T09:52:47.231504+00:00",
-      "result": null
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": false,
+        "settled_at": "2026-08-04T02:04:36.862394+00:00"
+      }
     },
     "tml-2026-7480-27": {
       "match_id": "tml-2026-7480-27",
@@ -24593,5 +24633,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-08-03T02:24:44.197409+00:00"
+  "last_updated": "2026-08-04T02:04:36.862408+00:00"
 }
