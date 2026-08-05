@@ -25304,7 +25304,11 @@
         "p2_edge": -0.1253
       },
       "collected_at": "2026-08-04T10:33:25.394161+00:00",
-      "result": null
+      "result": {
+        "winner": "Yannick Hanfmann",
+        "correct": false,
+        "settled_at": "2026-08-05T10:30:21.848043+00:00"
+      }
     },
     "86ae53877ce2aec9dbda5204f08e0557": {
       "match_id": "86ae53877ce2aec9dbda5204f08e0557",
@@ -25410,7 +25414,11 @@
         "p2_edge": -0.0796
       },
       "collected_at": "2026-08-04T10:33:25.437797+00:00",
-      "result": null
+      "result": {
+        "winner": "Luciano Darderi",
+        "correct": true,
+        "settled_at": "2026-08-05T10:30:21.884733+00:00"
+      }
     },
     "0af7cfb0eaaddb51ab120b6956e08940": {
       "match_id": "0af7cfb0eaaddb51ab120b6956e08940",
@@ -27387,7 +27395,707 @@
       },
       "collected_at": "2026-08-05T02:03:48.170158+00:00",
       "result": null
+    },
+    "9a3098e1ae90d73004b2cb5c99cb7dae": {
+      "match_id": "9a3098e1ae90d73004b2cb5c99cb7dae",
+      "commence_time": "2026-08-05T17:20:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Tallon Griekspoor",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Alexander Zverev": 1.1,
+          "Tallon Griekspoor": 9.4
+        },
+        "draftkings": {
+          "Alexander Zverev": 1.07,
+          "Tallon Griekspoor": 9.1
+        },
+        "williamhill": {
+          "Alexander Zverev": 1.08,
+          "Tallon Griekspoor": 7.5
+        },
+        "betsson": {
+          "Alexander Zverev": 1.08,
+          "Tallon Griekspoor": 8.0
+        },
+        "nordicbet": {
+          "Alexander Zverev": 1.08,
+          "Tallon Griekspoor": 8.0
+        },
+        "sport888": {
+          "Alexander Zverev": 1.08,
+          "Tallon Griekspoor": 7.5
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.07,
+          "Tallon Griekspoor": 7.2
+        },
+        "fanduel": {
+          "Alexander Zverev": 1.09,
+          "Tallon Griekspoor": 7.8
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 1.09,
+          "Tallon Griekspoor": 8.4
+        },
+        "tipico_de": {
+          "Alexander Zverev": 1.04,
+          "Tallon Griekspoor": 8.2
+        },
+        "marathonbet": {
+          "Alexander Zverev": 1.08,
+          "Tallon Griekspoor": 7.5
+        },
+        "coolbet": {
+          "Alexander Zverev": 1.1,
+          "Tallon Griekspoor": 8.25
+        },
+        "bovada": {
+          "Alexander Zverev": 1.08,
+          "Tallon Griekspoor": 8.0
+        },
+        "matchbook": {
+          "Alexander Zverev": 1.1,
+          "Tallon Griekspoor": 9.6
+        },
+        "onexbet": {
+          "Alexander Zverev": 1.09,
+          "Tallon Griekspoor": 7.85
+        },
+        "gtbets": {
+          "Alexander Zverev": 1.12,
+          "Tallon Griekspoor": 7.97
+        },
+        "winamax_de": {
+          "Alexander Zverev": 1.08,
+          "Tallon Griekspoor": 9.0
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.08,
+          "Tallon Griekspoor": 8.0
+        },
+        "betrivers": {
+          "Alexander Zverev": 1.08,
+          "Tallon Griekspoor": 8.0
+        },
+        "pmu_fr": {
+          "Alexander Zverev": 1.06,
+          "Tallon Griekspoor": 7.5
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.08,
+          "Tallon Griekspoor": 8.0
+        },
+        "winamax_fr": {
+          "Alexander Zverev": 1.08,
+          "Tallon Griekspoor": 8.5
+        },
+        "unibet_se": {
+          "Alexander Zverev": 1.08,
+          "Tallon Griekspoor": 8.0
+        },
+        "pinnacle": {
+          "Alexander Zverev": 1.08,
+          "Tallon Griekspoor": 8.54
+        },
+        "betmgm": {
+          "Alexander Zverev": 1.08,
+          "Tallon Griekspoor": 7.5
+        },
+        "betonlineag": {
+          "Alexander Zverev": 1.09,
+          "Tallon Griekspoor": 8.26
+        },
+        "lowvig": {
+          "Alexander Zverev": 1.09,
+          "Tallon Griekspoor": 8.26
+        },
+        "betanysports": {
+          "Alexander Zverev": 1.08,
+          "Tallon Griekspoor": 7.7
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Tallon Griekspoor",
+        "p1_prob": 0.87,
+        "p2_prob": 0.13,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": -0.0229,
+        "p2_edge": 0.0258
+      },
+      "collected_at": "2026-08-05T10:30:30.973620+00:00",
+      "result": null
+    },
+    "a821a5606366c67549db1febfc784891": {
+      "match_id": "a821a5606366c67549db1febfc784891",
+      "commence_time": "2026-08-05T19:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Fabian Marozsan",
+      "player2": "Matteo Arnaldi",
+      "bookmakers": {
+        "draftkings": {
+          "Fabian Marozsan": 1.65,
+          "Matteo Arnaldi": 2.27
+        },
+        "betfair_ex_eu": {
+          "Fabian Marozsan": 1.73,
+          "Matteo Arnaldi": 2.32
+        },
+        "betsson": {
+          "Fabian Marozsan": 1.72,
+          "Matteo Arnaldi": 2.14
+        },
+        "unibet_fr": {
+          "Fabian Marozsan": 1.69,
+          "Matteo Arnaldi": 2.1
+        },
+        "sport888": {
+          "Fabian Marozsan": 1.67,
+          "Matteo Arnaldi": 2.2
+        },
+        "nordicbet": {
+          "Fabian Marozsan": 1.72,
+          "Matteo Arnaldi": 2.14
+        },
+        "williamhill": {
+          "Fabian Marozsan": 1.67,
+          "Matteo Arnaldi": 2.2
+        },
+        "tipico_de": {
+          "Fabian Marozsan": 1.65,
+          "Matteo Arnaldi": 2.1
+        },
+        "fanduel": {
+          "Fabian Marozsan": 1.7,
+          "Matteo Arnaldi": 2.18
+        },
+        "betclic_fr": {
+          "Fabian Marozsan": 1.7,
+          "Matteo Arnaldi": 2.2
+        },
+        "coolbet": {
+          "Fabian Marozsan": 1.72,
+          "Matteo Arnaldi": 2.23
+        },
+        "bovada": {
+          "Fabian Marozsan": 1.69,
+          "Matteo Arnaldi": 2.2
+        },
+        "marathonbet": {
+          "Fabian Marozsan": 1.68,
+          "Matteo Arnaldi": 2.18
+        },
+        "matchbook": {
+          "Fabian Marozsan": 1.74,
+          "Matteo Arnaldi": 2.3
+        },
+        "onexbet": {
+          "Fabian Marozsan": 1.7,
+          "Matteo Arnaldi": 2.21
+        },
+        "gtbets": {
+          "Fabian Marozsan": 1.7,
+          "Matteo Arnaldi": 2.22
+        },
+        "betrivers": {
+          "Fabian Marozsan": 1.67,
+          "Matteo Arnaldi": 2.2
+        },
+        "pmu_fr": {
+          "Fabian Marozsan": 1.64,
+          "Matteo Arnaldi": 2.17
+        },
+        "leovegas_se": {
+          "Fabian Marozsan": 1.67,
+          "Matteo Arnaldi": 2.2
+        },
+        "unibet_se": {
+          "Fabian Marozsan": 1.67,
+          "Matteo Arnaldi": 2.2
+        },
+        "unibet_nl": {
+          "Fabian Marozsan": 1.67,
+          "Matteo Arnaldi": 2.2
+        },
+        "pinnacle": {
+          "Fabian Marozsan": 1.7,
+          "Matteo Arnaldi": 2.24
+        },
+        "winamax_fr": {
+          "Fabian Marozsan": 1.68,
+          "Matteo Arnaldi": 2.2
+        },
+        "winamax_de": {
+          "Fabian Marozsan": 1.7,
+          "Matteo Arnaldi": 2.2
+        },
+        "betmgm": {
+          "Fabian Marozsan": 1.69,
+          "Matteo Arnaldi": 2.1
+        },
+        "betonlineag": {
+          "Fabian Marozsan": 1.69,
+          "Matteo Arnaldi": 2.25
+        },
+        "lowvig": {
+          "Fabian Marozsan": 1.69,
+          "Matteo Arnaldi": 2.25
+        },
+        "betanysports": {
+          "Fabian Marozsan": 1.69,
+          "Matteo Arnaldi": 2.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Fabian Marozsan",
+        "p2_name": "Matteo Arnaldi",
+        "p1_prob": 0.5123,
+        "p2_prob": 0.4877,
+        "predicted_winner": "Fabian Marozsan",
+        "confidence": "low",
+        "p1_edge": -0.0624,
+        "p2_edge": 0.0567
+      },
+      "collected_at": "2026-08-05T10:30:31.128371+00:00",
+      "result": null
+    },
+    "0de69b807d1f7ec5e536d276ca41b594": {
+      "match_id": "0de69b807d1f7ec5e536d276ca41b594",
+      "commence_time": "2026-08-05T19:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Karen Khachanov",
+      "player2": "Terence Atmane",
+      "bookmakers": {
+        "williamhill": {
+          "Karen Khachanov": 1.67,
+          "Terence Atmane": 2.2
+        },
+        "betfair_ex_eu": {
+          "Karen Khachanov": 1.75,
+          "Terence Atmane": 2.26
+        },
+        "betsson": {
+          "Karen Khachanov": 1.67,
+          "Terence Atmane": 2.21
+        },
+        "unibet_fr": {
+          "Karen Khachanov": 1.65,
+          "Terence Atmane": 2.15
+        },
+        "sport888": {
+          "Karen Khachanov": 1.67,
+          "Terence Atmane": 2.2
+        },
+        "marathonbet": {
+          "Karen Khachanov": 1.68,
+          "Terence Atmane": 2.18
+        },
+        "gtbets": {
+          "Karen Khachanov": 1.6,
+          "Terence Atmane": 2.28
+        },
+        "draftkings": {
+          "Karen Khachanov": 1.69,
+          "Terence Atmane": 2.19
+        },
+        "coolbet": {
+          "Karen Khachanov": 1.71,
+          "Terence Atmane": 2.25
+        },
+        "nordicbet": {
+          "Karen Khachanov": 1.67,
+          "Terence Atmane": 2.21
+        },
+        "betclic_fr": {
+          "Karen Khachanov": 1.69,
+          "Terence Atmane": 2.2
+        },
+        "fanduel": {
+          "Karen Khachanov": 1.67,
+          "Terence Atmane": 2.25
+        },
+        "matchbook": {
+          "Karen Khachanov": 1.76,
+          "Terence Atmane": 2.28
+        },
+        "bovada": {
+          "Karen Khachanov": 1.69,
+          "Terence Atmane": 2.2
+        },
+        "tipico_de": {
+          "Karen Khachanov": 1.62,
+          "Terence Atmane": 2.15
+        },
+        "onexbet": {
+          "Karen Khachanov": 1.7,
+          "Terence Atmane": 2.21
+        },
+        "winamax_de": {
+          "Karen Khachanov": 1.68,
+          "Terence Atmane": 2.2
+        },
+        "winamax_fr": {
+          "Karen Khachanov": 1.66,
+          "Terence Atmane": 2.2
+        },
+        "leovegas_se": {
+          "Karen Khachanov": 1.7,
+          "Terence Atmane": 2.15
+        },
+        "unibet_se": {
+          "Karen Khachanov": 1.7,
+          "Terence Atmane": 2.15
+        },
+        "unibet_nl": {
+          "Karen Khachanov": 1.7,
+          "Terence Atmane": 2.15
+        },
+        "betrivers": {
+          "Karen Khachanov": 1.7,
+          "Terence Atmane": 2.15
+        },
+        "pmu_fr": {
+          "Karen Khachanov": 1.67,
+          "Terence Atmane": 2.1
+        },
+        "pinnacle": {
+          "Karen Khachanov": 1.72,
+          "Terence Atmane": 2.2
+        },
+        "betmgm": {
+          "Karen Khachanov": 1.67,
+          "Terence Atmane": 2.15
+        },
+        "lowvig": {
+          "Karen Khachanov": 1.7,
+          "Terence Atmane": 2.22
+        },
+        "betonlineag": {
+          "Karen Khachanov": 1.7,
+          "Terence Atmane": 2.22
+        },
+        "betanysports": {
+          "Karen Khachanov": 1.69,
+          "Terence Atmane": 2.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Karen Khachanov",
+        "p2_name": "Terence Atmane",
+        "p1_prob": 0.6153,
+        "p2_prob": 0.3847,
+        "predicted_winner": "Karen Khachanov",
+        "confidence": "high",
+        "p1_edge": 0.0471,
+        "p2_edge": -0.0539
+      },
+      "collected_at": "2026-08-05T10:30:31.173503+00:00",
+      "result": null
+    },
+    "2f7b8de8cfbd32fd1d815b6b615ca8d1": {
+      "match_id": "2f7b8de8cfbd32fd1d815b6b615ca8d1",
+      "commence_time": "2026-08-05T22:00:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Daniil Medvedev",
+      "player2": "Botic van de Zandschulp",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Botic van de Zandschulp": 4.0,
+          "Daniil Medvedev": 1.3
+        },
+        "unibet_fr": {
+          "Botic van de Zandschulp": 3.65,
+          "Daniil Medvedev": 1.25
+        },
+        "sport888": {
+          "Botic van de Zandschulp": 3.6,
+          "Daniil Medvedev": 1.29
+        },
+        "marathonbet": {
+          "Botic van de Zandschulp": 3.84,
+          "Daniil Medvedev": 1.26
+        },
+        "gtbets": {
+          "Botic van de Zandschulp": 3.74,
+          "Daniil Medvedev": 1.28
+        },
+        "draftkings": {
+          "Botic van de Zandschulp": 4.2,
+          "Daniil Medvedev": 1.23
+        },
+        "coolbet": {
+          "Botic van de Zandschulp": 4.0,
+          "Daniil Medvedev": 1.28
+        },
+        "betclic_fr": {
+          "Botic van de Zandschulp": 4.1,
+          "Daniil Medvedev": 1.25
+        },
+        "fanduel": {
+          "Botic van de Zandschulp": 3.9,
+          "Daniil Medvedev": 1.27
+        },
+        "bovada": {
+          "Botic van de Zandschulp": 4.0,
+          "Daniil Medvedev": 1.25
+        },
+        "tipico_de": {
+          "Botic van de Zandschulp": 3.8,
+          "Daniil Medvedev": 1.22
+        },
+        "onexbet": {
+          "Botic van de Zandschulp": 3.88,
+          "Daniil Medvedev": 1.27
+        },
+        "matchbook": {
+          "Botic van de Zandschulp": 4.2,
+          "Daniil Medvedev": 1.3
+        },
+        "winamax_de": {
+          "Botic van de Zandschulp": 4.1,
+          "Daniil Medvedev": 1.26
+        },
+        "winamax_fr": {
+          "Botic van de Zandschulp": 4.0,
+          "Daniil Medvedev": 1.25
+        },
+        "unibet_se": {
+          "Botic van de Zandschulp": 3.85,
+          "Daniil Medvedev": 1.26
+        },
+        "unibet_nl": {
+          "Botic van de Zandschulp": 3.85,
+          "Daniil Medvedev": 1.26
+        },
+        "betrivers": {
+          "Botic van de Zandschulp": 3.85,
+          "Daniil Medvedev": 1.26
+        },
+        "pmu_fr": {
+          "Botic van de Zandschulp": 3.7,
+          "Daniil Medvedev": 1.24
+        },
+        "leovegas_se": {
+          "Botic van de Zandschulp": 3.85,
+          "Daniil Medvedev": 1.26
+        },
+        "pinnacle": {
+          "Botic van de Zandschulp": 4.13,
+          "Daniil Medvedev": 1.26
+        },
+        "betmgm": {
+          "Botic van de Zandschulp": 4.0,
+          "Daniil Medvedev": 1.24
+        },
+        "lowvig": {
+          "Botic van de Zandschulp": 4.1,
+          "Daniil Medvedev": 1.26
+        },
+        "betonlineag": {
+          "Botic van de Zandschulp": 4.1,
+          "Daniil Medvedev": 1.26
+        }
+      },
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Botic Van De Zandschulp",
+        "p1_prob": 0.8217,
+        "p2_prob": 0.1783,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": 0.0525,
+        "p2_edge": -0.0598
+      },
+      "collected_at": "2026-08-05T10:30:31.247871+00:00",
+      "result": null
+    },
+    "63136c9ff1cd85f1723a2b15bab34f27": {
+      "match_id": "63136c9ff1cd85f1723a2b15bab34f27",
+      "commence_time": "2026-08-06T15:00:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Jiri Lehecka",
+      "player2": "Alexander Blockx",
+      "bookmakers": {
+        "betclic_fr": {
+          "Alexander Blockx": 2.45,
+          "Jiri Lehecka": 1.49
+        },
+        "onexbet": {
+          "Alexander Blockx": 2.64,
+          "Jiri Lehecka": 1.51
+        },
+        "winamax_de": {
+          "Alexander Blockx": 2.55,
+          "Jiri Lehecka": 1.52
+        },
+        "betfair_ex_eu": {
+          "Alexander Blockx": 1.1,
+          "Jiri Lehecka": 1.46
+        },
+        "fanduel": {
+          "Alexander Blockx": 2.6,
+          "Jiri Lehecka": 1.52
+        },
+        "unibet_fr": {
+          "Alexander Blockx": 2.35,
+          "Jiri Lehecka": 1.45
+        },
+        "winamax_fr": {
+          "Alexander Blockx": 2.35,
+          "Jiri Lehecka": 1.45
+        },
+        "sport888": {
+          "Alexander Blockx": 2.5,
+          "Jiri Lehecka": 1.53
+        },
+        "marathonbet": {
+          "Alexander Blockx": 2.61,
+          "Jiri Lehecka": 1.49
+        },
+        "tipico_de": {
+          "Alexander Blockx": 2.4,
+          "Jiri Lehecka": 1.5
+        },
+        "gtbets": {
+          "Alexander Blockx": 2.62,
+          "Jiri Lehecka": 1.54
+        },
+        "leovegas_se": {
+          "Alexander Blockx": 2.7,
+          "Jiri Lehecka": 1.45
+        },
+        "betrivers": {
+          "Alexander Blockx": 2.7,
+          "Jiri Lehecka": 1.45
+        },
+        "pmu_fr": {
+          "Alexander Blockx": 2.63,
+          "Jiri Lehecka": 1.43
+        },
+        "unibet_se": {
+          "Alexander Blockx": 2.7,
+          "Jiri Lehecka": 1.45
+        },
+        "unibet_nl": {
+          "Alexander Blockx": 2.7,
+          "Jiri Lehecka": 1.45
+        }
+      },
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Alexander Blockx",
+        "p1_prob": 0.61,
+        "p2_prob": 0.39,
+        "predicted_winner": "Jiri Lehecka",
+        "confidence": "high",
+        "p1_edge": -0.0394,
+        "p2_edge": 0.0196
+      },
+      "collected_at": "2026-08-05T10:30:31.335892+00:00",
+      "result": null
+    },
+    "b50e5e34e830727fa4c146721d6f5c0b": {
+      "match_id": "b50e5e34e830727fa4c146721d6f5c0b",
+      "commence_time": "2026-08-06T15:00:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Luciano Darderi",
+      "player2": "Juncheng Shang",
+      "bookmakers": {
+        "onexbet": {
+          "Juncheng Shang": 2.03,
+          "Luciano Darderi": 1.82
+        },
+        "unibet_fr": {
+          "Juncheng Shang": 1.86,
+          "Luciano Darderi": 1.72
+        },
+        "draftkings": {
+          "Juncheng Shang": 1.9,
+          "Luciano Darderi": 1.91
+        },
+        "betfair_ex_eu": {
+          "Juncheng Shang": 1.02,
+          "Luciano Darderi": 1.02
+        },
+        "fanduel": {
+          "Juncheng Shang": 2.0,
+          "Luciano Darderi": 1.83
+        },
+        "marathonbet": {
+          "Juncheng Shang": 2.01,
+          "Luciano Darderi": 1.8
+        },
+        "sport888": {
+          "Juncheng Shang": 1.95,
+          "Luciano Darderi": 1.85
+        },
+        "betclic_fr": {
+          "Juncheng Shang": 1.93,
+          "Luciano Darderi": 1.78
+        },
+        "gtbets": {
+          "Juncheng Shang": 2.0,
+          "Luciano Darderi": 1.82
+        },
+        "tipico_de": {
+          "Juncheng Shang": 2.0,
+          "Luciano Darderi": 1.72
+        },
+        "winamax_de": {
+          "Juncheng Shang": 2.0,
+          "Luciano Darderi": 1.84
+        },
+        "winamax_fr": {
+          "Juncheng Shang": 1.98,
+          "Luciano Darderi": 1.82
+        },
+        "pinnacle": {
+          "Juncheng Shang": 1.97,
+          "Luciano Darderi": 1.92
+        },
+        "pmu_fr": {
+          "Juncheng Shang": 2.0,
+          "Luciano Darderi": 1.74
+        },
+        "unibet_nl": {
+          "Juncheng Shang": 2.05,
+          "Luciano Darderi": 1.77
+        },
+        "unibet_se": {
+          "Juncheng Shang": 2.05,
+          "Luciano Darderi": 1.77
+        },
+        "leovegas_se": {
+          "Juncheng Shang": 2.05,
+          "Luciano Darderi": 1.77
+        },
+        "betrivers": {
+          "Juncheng Shang": 2.05,
+          "Luciano Darderi": 1.77
+        }
+      },
+      "prediction": {
+        "p1_name": "Luciano Darderi",
+        "p2_name": "Juncheng Shang",
+        "p1_prob": 0.6079,
+        "p2_prob": 0.3921,
+        "predicted_winner": "Luciano Darderi",
+        "confidence": "high",
+        "p1_edge": 0.0871,
+        "p2_edge": -0.0957
+      },
+      "collected_at": "2026-08-05T10:30:31.381628+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-05T02:03:48.177547+00:00"
+  "last_updated": "2026-08-05T10:30:31.389143+00:00"
 }
