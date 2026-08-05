@@ -26116,7 +26116,11 @@
         "p2_edge": 0.016
       },
       "collected_at": "2026-08-04T10:33:25.757651+00:00",
-      "result": null
+      "result": {
+        "winner": "Lorenzo Musetti",
+        "correct": true,
+        "settled_at": "2026-08-05T17:25:04.129909+00:00"
+      }
     },
     "faf63e949157babf9264d94831818015": {
       "match_id": "faf63e949157babf9264d94831818015",
@@ -26214,7 +26218,11 @@
         "p2_edge": -0.1205
       },
       "collected_at": "2026-08-04T10:33:25.810164+00:00",
-      "result": null
+      "result": {
+        "winner": "Mariano Navone",
+        "correct": false,
+        "settled_at": "2026-08-05T17:25:04.204564+00:00"
+      }
     },
     "d469a29752f1f03c980e1de1a1b52bd6": {
       "match_id": "d469a29752f1f03c980e1de1a1b52bd6",
@@ -26308,7 +26316,11 @@
         "p2_edge": 0.1851
       },
       "collected_at": "2026-08-04T10:33:25.857118+00:00",
-      "result": null
+      "result": {
+        "winner": "Nuno Borges",
+        "correct": false,
+        "settled_at": "2026-08-05T17:25:04.242118+00:00"
+      }
     },
     "20d258a5024408ea7dc4af638f7a5e80": {
       "match_id": "20d258a5024408ea7dc4af638f7a5e80",
@@ -26402,7 +26414,11 @@
         "p2_edge": 0.0975
       },
       "collected_at": "2026-08-05T02:03:47.547385+00:00",
-      "result": null
+      "result": {
+        "winner": "Joao Fonseca",
+        "correct": true,
+        "settled_at": "2026-08-05T17:25:04.279036+00:00"
+      }
     },
     "7df844cfc9e21f1c3c6a098c1daf87a9": {
       "match_id": "7df844cfc9e21f1c3c6a098c1daf87a9",
@@ -26520,7 +26536,11 @@
         "p2_edge": -0.028
       },
       "collected_at": "2026-08-05T02:03:47.636613+00:00",
-      "result": null
+      "result": {
+        "winner": "Zizou Bergs",
+        "correct": true,
+        "settled_at": "2026-08-05T17:25:04.167381+00:00"
+      }
     },
     "93785a30f32bce26c0127d729b76ab68": {
       "match_id": "93785a30f32bce26c0127d729b76ab68",
@@ -26826,7 +26846,11 @@
         "p2_edge": -0.028
       },
       "collected_at": "2026-08-05T02:03:47.790179+00:00",
-      "result": null
+      "result": {
+        "winner": "Juan Manuel Cerundolo",
+        "correct": false,
+        "settled_at": "2026-08-05T17:25:05.826566+00:00"
+      }
     },
     "61767792f8b00ecdbb496c875941e2bd": {
       "match_id": "61767792f8b00ecdbb496c875941e2bd",
@@ -28097,5 +28121,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-08-05T10:30:31.389143+00:00"
+  "last_updated": "2026-08-05T17:25:05.826604+00:00"
 }
