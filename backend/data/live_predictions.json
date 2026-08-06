@@ -26034,7 +26034,11 @@
         "p2_edge": -0.0272
       },
       "collected_at": "2026-08-04T10:33:25.712079+00:00",
-      "result": null
+      "result": {
+        "winner": "Learner Tien",
+        "correct": true,
+        "settled_at": "2026-08-06T10:34:14.735387+00:00"
+      }
     },
     "97e233f1afee02169af8fcef9a1bf19f": {
       "match_id": "97e233f1afee02169af8fcef9a1bf19f",
@@ -27462,7 +27466,11 @@
         "p2_edge": -0.0747
       },
       "collected_at": "2026-08-05T02:03:48.170158+00:00",
-      "result": null
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": true,
+        "settled_at": "2026-08-06T10:34:14.689304+00:00"
+      }
     },
     "9a3098e1ae90d73004b2cb5c99cb7dae": {
       "match_id": "9a3098e1ae90d73004b2cb5c99cb7dae",
@@ -28268,7 +28276,11 @@
         "p2_edge": 0.4235
       },
       "collected_at": "2026-08-06T02:07:51.836053+00:00",
-      "result": null
+      "result": {
+        "winner": "Titouan Droguet",
+        "correct": false,
+        "settled_at": "2026-08-06T10:34:14.651298+00:00"
+      }
     },
     "ed78c4f7d62457d3c7df289178e8700a": {
       "match_id": "ed78c4f7d62457d3c7df289178e8700a",
@@ -28929,7 +28941,959 @@
       },
       "collected_at": "2026-08-06T02:07:52.246904+00:00",
       "result": null
+    },
+    "9659024aaa6e78b57d18134484058ed5": {
+      "match_id": "9659024aaa6e78b57d18134484058ed5",
+      "commence_time": "2026-08-06T23:00:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Rafael Jodar",
+      "player2": "Lorenzo Musetti",
+      "bookmakers": {
+        "betsson": {
+          "Lorenzo Musetti": 2.12,
+          "Rafael Jodar": 1.73
+        },
+        "betfair_ex_eu": {
+          "Lorenzo Musetti": 2.28,
+          "Rafael Jodar": 1.76
+        },
+        "coolbet": {
+          "Lorenzo Musetti": 2.23,
+          "Rafael Jodar": 1.72
+        },
+        "williamhill": {
+          "Lorenzo Musetti": 2.2,
+          "Rafael Jodar": 1.67
+        },
+        "fanduel": {
+          "Lorenzo Musetti": 2.18,
+          "Rafael Jodar": 1.7
+        },
+        "nordicbet": {
+          "Lorenzo Musetti": 2.12,
+          "Rafael Jodar": 1.73
+        },
+        "unibet_fr": {
+          "Lorenzo Musetti": 2.1,
+          "Rafael Jodar": 1.71
+        },
+        "sport888": {
+          "Lorenzo Musetti": 2.2,
+          "Rafael Jodar": 1.67
+        },
+        "betclic_fr": {
+          "Lorenzo Musetti": 2.2,
+          "Rafael Jodar": 1.7
+        },
+        "gtbets": {
+          "Lorenzo Musetti": 2.15,
+          "Rafael Jodar": 1.74
+        },
+        "onexbet": {
+          "Lorenzo Musetti": 2.19,
+          "Rafael Jodar": 1.71
+        },
+        "draftkings": {
+          "Lorenzo Musetti": 2.13,
+          "Rafael Jodar": 1.72
+        },
+        "tipico_de": {
+          "Lorenzo Musetti": 2.05,
+          "Rafael Jodar": 1.7
+        },
+        "winamax_fr": {
+          "Lorenzo Musetti": 2.15,
+          "Rafael Jodar": 1.7
+        },
+        "winamax_de": {
+          "Lorenzo Musetti": 2.2,
+          "Rafael Jodar": 1.72
+        },
+        "bovada": {
+          "Lorenzo Musetti": 2.15,
+          "Rafael Jodar": 1.71
+        },
+        "betmgm": {
+          "Lorenzo Musetti": 2.18,
+          "Rafael Jodar": 1.67
+        },
+        "marathonbet": {
+          "Lorenzo Musetti": 2.16,
+          "Rafael Jodar": 1.69
+        },
+        "matchbook": {
+          "Lorenzo Musetti": 2.28,
+          "Rafael Jodar": 1.76
+        },
+        "betrivers": {
+          "Lorenzo Musetti": 2.18,
+          "Rafael Jodar": 1.68
+        },
+        "unibet_nl": {
+          "Lorenzo Musetti": 2.18,
+          "Rafael Jodar": 1.68
+        },
+        "leovegas_se": {
+          "Lorenzo Musetti": 2.18,
+          "Rafael Jodar": 1.68
+        },
+        "pmu_fr": {
+          "Lorenzo Musetti": 2.14,
+          "Rafael Jodar": 1.65
+        },
+        "unibet_se": {
+          "Lorenzo Musetti": 2.18,
+          "Rafael Jodar": 1.68
+        },
+        "pinnacle": {
+          "Lorenzo Musetti": 2.23,
+          "Rafael Jodar": 1.72
+        },
+        "lowvig": {
+          "Lorenzo Musetti": 2.15,
+          "Rafael Jodar": 1.74
+        },
+        "betonlineag": {
+          "Lorenzo Musetti": 2.15,
+          "Rafael Jodar": 1.74
+        },
+        "betus": {
+          "Lorenzo Musetti": 2.1,
+          "Rafael Jodar": 1.71
+        }
+      },
+      "prediction": {
+        "p1_name": "Rafael Jodar",
+        "p2_name": "Lorenzo Musetti",
+        "p1_prob": 0.4776,
+        "p2_prob": 0.5224,
+        "predicted_winner": "Lorenzo Musetti",
+        "confidence": "low",
+        "p1_edge": -0.0906,
+        "p2_edge": 0.0838
+      },
+      "collected_at": "2026-08-06T10:34:23.323015+00:00",
+      "result": null
+    },
+    "e25f27a69a64d0d6d9b9cf782227d38e": {
+      "match_id": "e25f27a69a64d0d6d9b9cf782227d38e",
+      "commence_time": "2026-08-06T23:10:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Brandon Nakashima",
+      "player2": "Titouan Droguet",
+      "bookmakers": {
+        "winamax_de": {
+          "Brandon Nakashima": 1.32,
+          "Titouan Droguet": 3.4
+        },
+        "sport888": {
+          "Brandon Nakashima": 1.33,
+          "Titouan Droguet": 3.3
+        },
+        "coolbet": {
+          "Brandon Nakashima": 1.34,
+          "Titouan Droguet": 3.5
+        },
+        "onexbet": {
+          "Brandon Nakashima": 1.34,
+          "Titouan Droguet": 3.4
+        },
+        "williamhill": {
+          "Brandon Nakashima": 1.33,
+          "Titouan Droguet": 3.3
+        },
+        "betfair_ex_eu": {
+          "Brandon Nakashima": 1.35,
+          "Titouan Droguet": 3.75
+        },
+        "winamax_fr": {
+          "Brandon Nakashima": 1.28,
+          "Titouan Droguet": 3.1
+        },
+        "gtbets": {
+          "Brandon Nakashima": 1.37,
+          "Titouan Droguet": 3.37
+        },
+        "betsson": {
+          "Brandon Nakashima": 1.32,
+          "Titouan Droguet": 3.4
+        },
+        "draftkings": {
+          "Brandon Nakashima": 1.32,
+          "Titouan Droguet": 3.44
+        },
+        "marathonbet": {
+          "Brandon Nakashima": 1.32,
+          "Titouan Droguet": 3.36
+        },
+        "nordicbet": {
+          "Brandon Nakashima": 1.32,
+          "Titouan Droguet": 3.4
+        },
+        "tipico_de": {
+          "Brandon Nakashima": 1.3,
+          "Titouan Droguet": 3.2
+        },
+        "unibet_fr": {
+          "Brandon Nakashima": 1.3,
+          "Titouan Droguet": 3.45
+        },
+        "betmgm": {
+          "Brandon Nakashima": 1.33,
+          "Titouan Droguet": 3.25
+        },
+        "betclic_fr": {
+          "Brandon Nakashima": 1.34,
+          "Titouan Droguet": 3.4
+        },
+        "fanduel": {
+          "Brandon Nakashima": 1.32,
+          "Titouan Droguet": 3.5
+        },
+        "bovada": {
+          "Brandon Nakashima": 1.31,
+          "Titouan Droguet": 3.6
+        },
+        "matchbook": {
+          "Brandon Nakashima": 1.35,
+          "Titouan Droguet": 3.7
+        },
+        "leovegas_se": {
+          "Brandon Nakashima": 1.3,
+          "Titouan Droguet": 3.45
+        },
+        "pmu_fr": {
+          "Brandon Nakashima": 1.29,
+          "Titouan Droguet": 3.35
+        },
+        "unibet_se": {
+          "Brandon Nakashima": 1.3,
+          "Titouan Droguet": 3.45
+        },
+        "betrivers": {
+          "Brandon Nakashima": 1.3,
+          "Titouan Droguet": 3.45
+        },
+        "unibet_nl": {
+          "Brandon Nakashima": 1.3,
+          "Titouan Droguet": 3.45
+        },
+        "pinnacle": {
+          "Brandon Nakashima": 1.35,
+          "Titouan Droguet": 3.48
+        },
+        "betonlineag": {
+          "Brandon Nakashima": 1.33,
+          "Titouan Droguet": 3.46
+        },
+        "lowvig": {
+          "Brandon Nakashima": 1.33,
+          "Titouan Droguet": 3.46
+        }
+      },
+      "prediction": {
+        "p1_name": "Brandon Nakashima",
+        "p2_name": "Titouan Droguet",
+        "p1_prob": 0.659,
+        "p2_prob": 0.341,
+        "predicted_winner": "Brandon Nakashima",
+        "confidence": "high",
+        "p1_edge": -0.0709,
+        "p2_edge": 0.0743
+      },
+      "collected_at": "2026-08-06T10:34:23.372446+00:00",
+      "result": null
+    },
+    "d13c42c72a41e1837707761aa78dc879": {
+      "match_id": "d13c42c72a41e1837707761aa78dc879",
+      "commence_time": "2026-08-07T16:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Daniel Merida Aguilar",
+      "player2": "Alex Michelsen",
+      "bookmakers": {
+        "winamax_fr": {
+          "Alex Michelsen": 1.41,
+          "Daniel Merida Aguilar": 2.65
+        },
+        "betfair_ex_eu": {
+          "Alex Michelsen": 1.4,
+          "Daniel Merida Aguilar": 3.0
+        },
+        "betrivers": {
+          "Alex Michelsen": 1.47,
+          "Daniel Merida Aguilar": 2.75
+        },
+        "gtbets": {
+          "Alex Michelsen": 1.45,
+          "Daniel Merida Aguilar": 2.76
+        },
+        "tipico_de": {
+          "Alex Michelsen": 1.4,
+          "Daniel Merida Aguilar": 2.7
+        },
+        "marathonbet": {
+          "Alex Michelsen": 1.44,
+          "Daniel Merida Aguilar": 2.76
+        },
+        "draftkings": {
+          "Alex Michelsen": 1.43,
+          "Daniel Merida Aguilar": 2.84
+        },
+        "onexbet": {
+          "Alex Michelsen": 1.46,
+          "Daniel Merida Aguilar": 2.79
+        },
+        "unibet_nl": {
+          "Alex Michelsen": 1.47,
+          "Daniel Merida Aguilar": 2.75
+        },
+        "sport888": {
+          "Alex Michelsen": 1.44,
+          "Daniel Merida Aguilar": 2.75
+        },
+        "unibet_fr": {
+          "Alex Michelsen": 1.39,
+          "Daniel Merida Aguilar": 2.5
+        },
+        "coolbet": {
+          "Alex Michelsen": 1.47,
+          "Daniel Merida Aguilar": 2.85
+        },
+        "williamhill": {
+          "Alex Michelsen": 1.44,
+          "Daniel Merida Aguilar": 2.75
+        },
+        "betsson": {
+          "Alex Michelsen": 1.45,
+          "Daniel Merida Aguilar": 2.75
+        },
+        "winamax_de": {
+          "Alex Michelsen": 1.44,
+          "Daniel Merida Aguilar": 2.8
+        },
+        "leovegas_se": {
+          "Alex Michelsen": 1.47,
+          "Daniel Merida Aguilar": 2.75
+        },
+        "pmu_fr": {
+          "Alex Michelsen": 1.43,
+          "Daniel Merida Aguilar": 2.65
+        },
+        "unibet_se": {
+          "Alex Michelsen": 1.47,
+          "Daniel Merida Aguilar": 2.75
+        },
+        "nordicbet": {
+          "Alex Michelsen": 1.45,
+          "Daniel Merida Aguilar": 2.75
+        },
+        "betclic_fr": {
+          "Alex Michelsen": 1.4,
+          "Daniel Merida Aguilar": 2.6
+        },
+        "bovada": {
+          "Alex Michelsen": 1.45,
+          "Daniel Merida Aguilar": 2.8
+        },
+        "matchbook": {
+          "Alex Michelsen": 1.31,
+          "Daniel Merida Aguilar": 2.66
+        }
+      },
+      "prediction": {
+        "p1_name": "Jorge Aguilar",
+        "p2_name": "Alex Michelsen",
+        "p1_prob": 0.0309,
+        "p2_prob": 0.9691,
+        "predicted_winner": "Alex Michelsen",
+        "confidence": "high",
+        "p1_edge": -0.3024,
+        "p2_edge": 0.2888
+      },
+      "collected_at": "2026-08-06T10:34:23.438173+00:00",
+      "result": null
+    },
+    "eae6459a2c903d0795cf480c46295089": {
+      "match_id": "eae6459a2c903d0795cf480c46295089",
+      "commence_time": "2026-08-07T16:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Alexei Popyrin",
+      "player2": "Thiago Agustin Tirante",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Alexei Popyrin": 1.93,
+          "Thiago Agustin Tirante": 2.02
+        },
+        "gtbets": {
+          "Alexei Popyrin": 1.93,
+          "Thiago Agustin Tirante": 1.88
+        },
+        "betsson": {
+          "Alexei Popyrin": 1.88,
+          "Thiago Agustin Tirante": 1.93
+        },
+        "betclic_fr": {
+          "Alexei Popyrin": 1.8,
+          "Thiago Agustin Tirante": 1.84
+        },
+        "williamhill": {
+          "Alexei Popyrin": 1.91,
+          "Thiago Agustin Tirante": 1.91
+        },
+        "unibet_fr": {
+          "Alexei Popyrin": 1.77,
+          "Thiago Agustin Tirante": 1.8
+        },
+        "marathonbet": {
+          "Alexei Popyrin": 1.9,
+          "Thiago Agustin Tirante": 1.9
+        },
+        "fanduel": {
+          "Alexei Popyrin": 1.91,
+          "Thiago Agustin Tirante": 1.91
+        },
+        "sport888": {
+          "Alexei Popyrin": 1.91,
+          "Thiago Agustin Tirante": 1.91
+        },
+        "nordicbet": {
+          "Alexei Popyrin": 1.88,
+          "Thiago Agustin Tirante": 1.93
+        },
+        "onexbet": {
+          "Alexei Popyrin": 1.92,
+          "Thiago Agustin Tirante": 1.92
+        },
+        "draftkings": {
+          "Alexei Popyrin": 1.85,
+          "Thiago Agustin Tirante": 1.96
+        },
+        "bovada": {
+          "Alexei Popyrin": 1.91,
+          "Thiago Agustin Tirante": 1.91
+        },
+        "tipico_de": {
+          "Alexei Popyrin": 1.8,
+          "Thiago Agustin Tirante": 1.9
+        },
+        "winamax_fr": {
+          "Alexei Popyrin": 1.82,
+          "Thiago Agustin Tirante": 1.86
+        },
+        "winamax_de": {
+          "Alexei Popyrin": 1.88,
+          "Thiago Agustin Tirante": 1.92
+        },
+        "leovegas_se": {
+          "Alexei Popyrin": 1.87,
+          "Thiago Agustin Tirante": 1.93
+        },
+        "pmu_fr": {
+          "Alexei Popyrin": 1.83,
+          "Thiago Agustin Tirante": 1.88
+        },
+        "unibet_se": {
+          "Alexei Popyrin": 1.87,
+          "Thiago Agustin Tirante": 1.93
+        },
+        "betrivers": {
+          "Alexei Popyrin": 1.87,
+          "Thiago Agustin Tirante": 1.93
+        },
+        "unibet_nl": {
+          "Alexei Popyrin": 1.87,
+          "Thiago Agustin Tirante": 1.93
+        },
+        "pinnacle": {
+          "Alexei Popyrin": 1.94,
+          "Thiago Agustin Tirante": 1.94
+        },
+        "matchbook": {
+          "Alexei Popyrin": 1.78,
+          "Thiago Agustin Tirante": 1.83
+        },
+        "betonlineag": {
+          "Alexei Popyrin": 1.91,
+          "Thiago Agustin Tirante": 1.91
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexei Popyrin",
+        "p2_name": "Thiago Agustin Tirante",
+        "p1_prob": 0.53,
+        "p2_prob": 0.47,
+        "predicted_winner": "Alexei Popyrin",
+        "confidence": "low",
+        "p1_edge": 0.0145,
+        "p2_edge": -0.025
+      },
+      "collected_at": "2026-08-06T10:34:23.487863+00:00",
+      "result": null
+    },
+    "4d13cee224a182f9a26fb3495a4f9cf8": {
+      "match_id": "4d13cee224a182f9a26fb3495a4f9cf8",
+      "commence_time": "2026-08-07T16:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Botic van de Zandschulp",
+      "player2": "Hubert Hurkacz",
+      "bookmakers": {
+        "winamax_fr": {
+          "Botic van de Zandschulp": 2.75,
+          "Hubert Hurkacz": 1.39
+        },
+        "nordicbet": {
+          "Botic van de Zandschulp": 2.9,
+          "Hubert Hurkacz": 1.42
+        },
+        "betrivers": {
+          "Botic van de Zandschulp": 2.88,
+          "Hubert Hurkacz": 1.42
+        },
+        "gtbets": {
+          "Botic van de Zandschulp": 2.96,
+          "Hubert Hurkacz": 1.4
+        },
+        "betclic_fr": {
+          "Botic van de Zandschulp": 2.7,
+          "Hubert Hurkacz": 1.38
+        },
+        "tipico_de": {
+          "Botic van de Zandschulp": 2.7,
+          "Hubert Hurkacz": 1.4
+        },
+        "bovada": {
+          "Botic van de Zandschulp": 2.85,
+          "Hubert Hurkacz": 1.44
+        },
+        "sport888": {
+          "Botic van de Zandschulp": 2.75,
+          "Hubert Hurkacz": 1.44
+        },
+        "onexbet": {
+          "Botic van de Zandschulp": 2.93,
+          "Hubert Hurkacz": 1.43
+        },
+        "marathonbet": {
+          "Botic van de Zandschulp": 2.89,
+          "Hubert Hurkacz": 1.41
+        },
+        "unibet_fr": {
+          "Botic van de Zandschulp": 2.6,
+          "Hubert Hurkacz": 1.36
+        },
+        "unibet_nl": {
+          "Botic van de Zandschulp": 2.88,
+          "Hubert Hurkacz": 1.42
+        },
+        "draftkings": {
+          "Botic van de Zandschulp": 2.9,
+          "Hubert Hurkacz": 1.42
+        },
+        "betfair_ex_eu": {
+          "Botic van de Zandschulp": 2.8,
+          "Hubert Hurkacz": 1.05
+        },
+        "williamhill": {
+          "Botic van de Zandschulp": 2.75,
+          "Hubert Hurkacz": 1.44
+        },
+        "coolbet": {
+          "Botic van de Zandschulp": 3.0,
+          "Hubert Hurkacz": 1.44
+        },
+        "leovegas_se": {
+          "Botic van de Zandschulp": 2.88,
+          "Hubert Hurkacz": 1.42
+        },
+        "winamax_de": {
+          "Botic van de Zandschulp": 2.85,
+          "Hubert Hurkacz": 1.42
+        },
+        "unibet_se": {
+          "Botic van de Zandschulp": 2.88,
+          "Hubert Hurkacz": 1.42
+        },
+        "pmu_fr": {
+          "Botic van de Zandschulp": 2.8,
+          "Hubert Hurkacz": 1.4
+        },
+        "betsson": {
+          "Botic van de Zandschulp": 2.9,
+          "Hubert Hurkacz": 1.42
+        },
+        "fanduel": {
+          "Botic van de Zandschulp": 2.95,
+          "Hubert Hurkacz": 1.42
+        }
+      },
+      "prediction": {
+        "p1_name": "Botic Van De Zandschulp",
+        "p2_name": "Hubert Hurkacz",
+        "p1_prob": 0.4712,
+        "p2_prob": 0.5288,
+        "predicted_winner": "Hubert Hurkacz",
+        "confidence": "low",
+        "p1_edge": 0.1379,
+        "p2_edge": -0.1656
+      },
+      "collected_at": "2026-08-06T10:34:23.554790+00:00",
+      "result": null
+    },
+    "d7a7ebf89a7fa7a9bb7675162f430ae9": {
+      "match_id": "d7a7ebf89a7fa7a9bb7675162f430ae9",
+      "commence_time": "2026-08-07T16:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Terence Atmane",
+      "player2": "Jakub Mensik",
+      "bookmakers": {
+        "draftkings": {
+          "Jakub Mensik": 1.39,
+          "Terence Atmane": 3.03
+        },
+        "betsson": {
+          "Jakub Mensik": 1.4,
+          "Terence Atmane": 3.0
+        },
+        "williamhill": {
+          "Jakub Mensik": 1.4,
+          "Terence Atmane": 2.9
+        },
+        "winamax_fr": {
+          "Jakub Mensik": 1.36,
+          "Terence Atmane": 2.85
+        },
+        "betclic_fr": {
+          "Jakub Mensik": 1.35,
+          "Terence Atmane": 2.8
+        },
+        "gtbets": {
+          "Jakub Mensik": 1.42,
+          "Terence Atmane": 2.9
+        },
+        "nordicbet": {
+          "Jakub Mensik": 1.4,
+          "Terence Atmane": 3.0
+        },
+        "unibet_fr": {
+          "Jakub Mensik": 1.34,
+          "Terence Atmane": 2.7
+        },
+        "betfair_ex_eu": {
+          "Jakub Mensik": 1.42,
+          "Terence Atmane": 3.15
+        },
+        "sport888": {
+          "Jakub Mensik": 1.4,
+          "Terence Atmane": 2.9
+        },
+        "tipico_de": {
+          "Jakub Mensik": 1.35,
+          "Terence Atmane": 2.95
+        },
+        "coolbet": {
+          "Jakub Mensik": 1.4,
+          "Terence Atmane": 3.15
+        },
+        "onexbet": {
+          "Jakub Mensik": 1.42,
+          "Terence Atmane": 2.98
+        },
+        "winamax_de": {
+          "Jakub Mensik": 1.39,
+          "Terence Atmane": 3.0
+        },
+        "bovada": {
+          "Jakub Mensik": 1.38,
+          "Terence Atmane": 3.1
+        },
+        "fanduel": {
+          "Jakub Mensik": 1.38,
+          "Terence Atmane": 3.15
+        },
+        "marathonbet": {
+          "Jakub Mensik": 1.4,
+          "Terence Atmane": 2.94
+        },
+        "unibet_nl": {
+          "Jakub Mensik": 1.42,
+          "Terence Atmane": 2.85
+        },
+        "leovegas_se": {
+          "Jakub Mensik": 1.42,
+          "Terence Atmane": 2.85
+        },
+        "unibet_se": {
+          "Jakub Mensik": 1.42,
+          "Terence Atmane": 2.85
+        },
+        "betrivers": {
+          "Jakub Mensik": 1.42,
+          "Terence Atmane": 2.85
+        },
+        "pmu_fr": {
+          "Jakub Mensik": 1.4,
+          "Terence Atmane": 2.8
+        },
+        "matchbook": {
+          "Jakub Mensik": 1.35,
+          "Terence Atmane": 2.84
+        },
+        "pinnacle": {
+          "Jakub Mensik": 1.4,
+          "Terence Atmane": 3.16
+        }
+      },
+      "prediction": {
+        "p1_name": "Terence Atmane",
+        "p2_name": "Jakub Mensik",
+        "p1_prob": 0.2656,
+        "p2_prob": 0.7344,
+        "predicted_winner": "Jakub Mensik",
+        "confidence": "high",
+        "p1_edge": -0.0509,
+        "p2_edge": 0.0302
+      },
+      "collected_at": "2026-08-06T10:34:23.622512+00:00",
+      "result": null
+    },
+    "394b70b2b5f51b7e16f580e390e3cf0e": {
+      "match_id": "394b70b2b5f51b7e16f580e390e3cf0e",
+      "commence_time": "2026-08-07T16:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Learner Tien",
+      "player2": "Tommy Paul",
+      "bookmakers": {
+        "winamax_fr": {
+          "Learner Tien": 2.35,
+          "Tommy Paul": 1.5
+        },
+        "gtbets": {
+          "Learner Tien": 2.53,
+          "Tommy Paul": 1.58
+        },
+        "draftkings": {
+          "Learner Tien": 2.42,
+          "Tommy Paul": 1.57
+        },
+        "betclic_fr": {
+          "Learner Tien": 2.42,
+          "Tommy Paul": 1.45
+        },
+        "marathonbet": {
+          "Learner Tien": 2.49,
+          "Tommy Paul": 1.53
+        },
+        "betsson": {
+          "Learner Tien": 2.49,
+          "Tommy Paul": 1.54
+        },
+        "betfair_ex_eu": {
+          "Learner Tien": 2.5,
+          "Tommy Paul": 1.65
+        },
+        "winamax_de": {
+          "Learner Tien": 2.45,
+          "Tommy Paul": 1.54
+        },
+        "tipico_de": {
+          "Learner Tien": 2.5,
+          "Tommy Paul": 1.47
+        },
+        "onexbet": {
+          "Learner Tien": 2.52,
+          "Tommy Paul": 1.55
+        },
+        "nordicbet": {
+          "Learner Tien": 2.49,
+          "Tommy Paul": 1.54
+        },
+        "sport888": {
+          "Learner Tien": 2.38,
+          "Tommy Paul": 1.57
+        },
+        "unibet_fr": {
+          "Learner Tien": 2.3,
+          "Tommy Paul": 1.47
+        },
+        "williamhill": {
+          "Learner Tien": 2.38,
+          "Tommy Paul": 1.57
+        },
+        "coolbet": {
+          "Learner Tien": 2.55,
+          "Tommy Paul": 1.57
+        },
+        "bovada": {
+          "Learner Tien": 2.45,
+          "Tommy Paul": 1.57
+        },
+        "fanduel": {
+          "Learner Tien": 2.52,
+          "Tommy Paul": 1.54
+        },
+        "unibet_nl": {
+          "Learner Tien": 2.55,
+          "Tommy Paul": 1.5
+        },
+        "leovegas_se": {
+          "Learner Tien": 2.55,
+          "Tommy Paul": 1.5
+        },
+        "unibet_se": {
+          "Learner Tien": 2.55,
+          "Tommy Paul": 1.5
+        },
+        "pmu_fr": {
+          "Learner Tien": 2.5,
+          "Tommy Paul": 1.48
+        },
+        "betrivers": {
+          "Learner Tien": 2.55,
+          "Tommy Paul": 1.5
+        },
+        "pinnacle": {
+          "Learner Tien": 2.46,
+          "Tommy Paul": 1.61
+        },
+        "matchbook": {
+          "Learner Tien": 2.3,
+          "Tommy Paul": 1.51
+        },
+        "betonlineag": {
+          "Learner Tien": 2.51,
+          "Tommy Paul": 1.58
+        }
+      },
+      "prediction": {
+        "p1_name": "Learner Tien",
+        "p2_name": "Tommy Paul",
+        "p1_prob": 0.5128,
+        "p2_prob": 0.4872,
+        "predicted_winner": "Learner Tien",
+        "confidence": "low",
+        "p1_edge": 0.1206,
+        "p2_edge": -0.1189
+      },
+      "collected_at": "2026-08-06T10:34:23.719245+00:00",
+      "result": null
+    },
+    "2ca6cd8d8b146012369bd4790544bee3": {
+      "match_id": "2ca6cd8d8b146012369bd4790544bee3",
+      "commence_time": "2026-08-07T16:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Tallon Griekspoor",
+      "player2": "Matteo Arnaldi",
+      "bookmakers": {
+        "coolbet": {
+          "Matteo Arnaldi": 2.35,
+          "Tallon Griekspoor": 1.65
+        },
+        "sport888": {
+          "Matteo Arnaldi": 2.3,
+          "Tallon Griekspoor": 1.61
+        },
+        "williamhill": {
+          "Matteo Arnaldi": 2.3,
+          "Tallon Griekspoor": 1.62
+        },
+        "winamax_fr": {
+          "Matteo Arnaldi": 2.25,
+          "Tallon Griekspoor": 1.56
+        },
+        "unibet_fr": {
+          "Matteo Arnaldi": 2.15,
+          "Tallon Griekspoor": 1.53
+        },
+        "betfair_ex_eu": {
+          "Matteo Arnaldi": 1.51,
+          "Tallon Griekspoor": 1.7
+        },
+        "winamax_de": {
+          "Matteo Arnaldi": 2.3,
+          "Tallon Griekspoor": 1.6
+        },
+        "onexbet": {
+          "Matteo Arnaldi": 2.38,
+          "Tallon Griekspoor": 1.61
+        },
+        "betsson": {
+          "Matteo Arnaldi": 2.33,
+          "Tallon Griekspoor": 1.61
+        },
+        "gtbets": {
+          "Matteo Arnaldi": 2.35,
+          "Tallon Griekspoor": 1.6
+        },
+        "draftkings": {
+          "Matteo Arnaldi": 2.3,
+          "Tallon Griekspoor": 1.63
+        },
+        "marathonbet": {
+          "Matteo Arnaldi": 2.33,
+          "Tallon Griekspoor": 1.6
+        },
+        "nordicbet": {
+          "Matteo Arnaldi": 2.33,
+          "Tallon Griekspoor": 1.61
+        },
+        "tipico_de": {
+          "Matteo Arnaldi": 2.35,
+          "Tallon Griekspoor": 1.52
+        },
+        "bovada": {
+          "Matteo Arnaldi": 2.35,
+          "Tallon Griekspoor": 1.61
+        },
+        "betclic_fr": {
+          "Matteo Arnaldi": 2.15,
+          "Tallon Griekspoor": 1.57
+        },
+        "fanduel": {
+          "Matteo Arnaldi": 2.36,
+          "Tallon Griekspoor": 1.61
+        },
+        "leovegas_se": {
+          "Matteo Arnaldi": 2.23,
+          "Tallon Griekspoor": 1.65
+        },
+        "unibet_se": {
+          "Matteo Arnaldi": 2.23,
+          "Tallon Griekspoor": 1.65
+        },
+        "pmu_fr": {
+          "Matteo Arnaldi": 2.2,
+          "Tallon Griekspoor": 1.61
+        },
+        "betrivers": {
+          "Matteo Arnaldi": 2.23,
+          "Tallon Griekspoor": 1.65
+        },
+        "unibet_nl": {
+          "Matteo Arnaldi": 2.23,
+          "Tallon Griekspoor": 1.65
+        }
+      },
+      "prediction": {
+        "p1_name": "Tallon Griekspoor",
+        "p2_name": "Matteo Arnaldi",
+        "p1_prob": 0.5109,
+        "p2_prob": 0.4891,
+        "predicted_winner": "Tallon Griekspoor",
+        "confidence": "low",
+        "p1_edge": -0.0773,
+        "p2_edge": 0.0689
+      },
+      "collected_at": "2026-08-06T10:34:23.769368+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-06T02:07:52.254986+00:00"
+  "last_updated": "2026-08-06T10:34:23.777550+00:00"
 }
