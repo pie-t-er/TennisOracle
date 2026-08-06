@@ -25520,7 +25520,11 @@
         "p2_edge": 0.0753
       },
       "collected_at": "2026-08-04T10:33:25.481904+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex Michelsen",
+        "correct": true,
+        "settled_at": "2026-08-06T02:07:43.318190+00:00"
+      }
     },
     "0218b801109eb30a011e8f0036ab301d": {
       "match_id": "0218b801109eb30a011e8f0036ab301d",
@@ -25618,7 +25622,11 @@
         "p2_edge": 0.0636
       },
       "collected_at": "2026-08-04T10:33:25.527073+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Rinderknech",
+        "correct": true,
+        "settled_at": "2026-08-06T02:07:42.976874+00:00"
+      }
     },
     "f245d94232bde97a7c9791892bbe3ab2": {
       "match_id": "f245d94232bde97a7c9791892bbe3ab2",
@@ -25724,7 +25732,11 @@
         "p2_edge": -0.0401
       },
       "collected_at": "2026-08-04T10:33:25.571773+00:00",
-      "result": null
+      "result": {
+        "winner": "Cameron Norrie",
+        "correct": true,
+        "settled_at": "2026-08-06T02:07:43.015347+00:00"
+      }
     },
     "9d5b8c5a110914e382207850fb49a116": {
       "match_id": "9d5b8c5a110914e382207850fb49a116",
@@ -25818,7 +25830,11 @@
         "p2_edge": 0.0546
       },
       "collected_at": "2026-08-04T10:33:25.616543+00:00",
-      "result": null
+      "result": {
+        "winner": "Rafael Jodar",
+        "correct": true,
+        "settled_at": "2026-08-06T02:07:43.242342+00:00"
+      }
     },
     "200a95716a215565e7a9189243a5e2b3": {
       "match_id": "200a95716a215565e7a9189243a5e2b3",
@@ -26638,7 +26654,11 @@
         "p2_edge": 0.0409
       },
       "collected_at": "2026-08-05T02:03:47.681498+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fils",
+        "correct": true,
+        "settled_at": "2026-08-06T02:07:43.091151+00:00"
+      }
     },
     "ff6e6f1d1b6e3139382a543a768c41d6": {
       "match_id": "ff6e6f1d1b6e3139382a543a768c41d6",
@@ -26756,7 +26776,11 @@
         "p2_edge": -0.0387
       },
       "collected_at": "2026-08-05T02:03:47.743659+00:00",
-      "result": null
+      "result": {
+        "winner": "Ben Shelton",
+        "correct": true,
+        "settled_at": "2026-08-06T02:07:43.053110+00:00"
+      }
     },
     "f10e7e49e4dc7c50b2aedc4656c929e4": {
       "match_id": "f10e7e49e4dc7c50b2aedc4656c929e4",
@@ -26944,7 +26968,11 @@
         "p2_edge": 0.0968
       },
       "collected_at": "2026-08-05T02:03:47.851505+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexei Popyrin",
+        "correct": false,
+        "settled_at": "2026-08-06T02:07:43.280797+00:00"
+      }
     },
     "5f048e744a563365b0d035c4e461fd1f": {
       "match_id": "5f048e744a563365b0d035c4e461fd1f",
@@ -27042,7 +27070,11 @@
         "p2_edge": -0.1444
       },
       "collected_at": "2026-08-05T02:03:47.951601+00:00",
-      "result": null
+      "result": {
+        "winner": "Thiago Agustin Tirante",
+        "correct": false,
+        "settled_at": "2026-08-06T02:07:43.128993+00:00"
+      }
     },
     "43bd849efc6e3de91c16879e55badb71": {
       "match_id": "43bd849efc6e3de91c16879e55badb71",
@@ -27140,7 +27172,11 @@
         "p2_edge": 0.0866
       },
       "collected_at": "2026-08-05T02:03:47.998891+00:00",
-      "result": null
+      "result": {
+        "winner": "Hubert Hurkacz",
+        "correct": true,
+        "settled_at": "2026-08-06T02:07:43.166658+00:00"
+      }
     },
     "4af1ebe6daee10158e55fe6f9e89b229": {
       "match_id": "4af1ebe6daee10158e55fe6f9e89b229",
@@ -27234,7 +27270,11 @@
         "p2_edge": -0.219
       },
       "collected_at": "2026-08-05T02:03:48.061859+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniel Merida Aguilar",
+        "correct": false,
+        "settled_at": "2026-08-06T02:07:43.470081+00:00"
+      }
     },
     "fdb0b0720b516f5b5cee487ae5143bce": {
       "match_id": "fdb0b0720b516f5b5cee487ae5143bce",
@@ -27332,7 +27372,11 @@
         "p2_edge": 0.0819
       },
       "collected_at": "2026-08-05T02:03:48.108559+00:00",
-      "result": null
+      "result": {
+        "winner": "Jakub Mensik",
+        "correct": true,
+        "settled_at": "2026-08-06T02:07:43.393784+00:00"
+      }
     },
     "5705a422889bf0ba13b65b4a95d6b390": {
       "match_id": "5705a422889bf0ba13b65b4a95d6b390",
@@ -27552,7 +27596,11 @@
         "p2_edge": 0.0258
       },
       "collected_at": "2026-08-05T10:30:30.973620+00:00",
-      "result": null
+      "result": {
+        "winner": "Tallon Griekspoor",
+        "correct": false,
+        "settled_at": "2026-08-06T02:07:43.204062+00:00"
+      }
     },
     "a821a5606366c67549db1febfc784891": {
       "match_id": "a821a5606366c67549db1febfc784891",
@@ -27686,7 +27734,11 @@
         "p2_edge": 0.0567
       },
       "collected_at": "2026-08-05T10:30:31.128371+00:00",
-      "result": null
+      "result": {
+        "winner": "Matteo Arnaldi",
+        "correct": false,
+        "settled_at": "2026-08-06T02:07:43.356107+00:00"
+      }
     },
     "0de69b807d1f7ec5e536d276ca41b594": {
       "match_id": "0de69b807d1f7ec5e536d276ca41b594",
@@ -27820,7 +27872,11 @@
         "p2_edge": -0.0539
       },
       "collected_at": "2026-08-05T10:30:31.173503+00:00",
-      "result": null
+      "result": {
+        "winner": "Terence Atmane",
+        "correct": false,
+        "settled_at": "2026-08-06T02:07:43.431859+00:00"
+      }
     },
     "2f7b8de8cfbd32fd1d815b6b615ca8d1": {
       "match_id": "2f7b8de8cfbd32fd1d815b6b615ca8d1",
@@ -27938,7 +27994,11 @@
         "p2_edge": -0.0598
       },
       "collected_at": "2026-08-05T10:30:31.247871+00:00",
-      "result": null
+      "result": {
+        "winner": "Botic van de Zandschulp",
+        "correct": false,
+        "settled_at": "2026-08-06T02:07:43.510743+00:00"
+      }
     },
     "63136c9ff1cd85f1723a2b15bab34f27": {
       "match_id": "63136c9ff1cd85f1723a2b15bab34f27",
@@ -28119,7 +28179,757 @@
       },
       "collected_at": "2026-08-05T10:30:31.381628+00:00",
       "result": null
+    },
+    "af4dc29df5be7d52d29f8ff1ff94ccd1": {
+      "match_id": "af4dc29df5be7d52d29f8ff1ff94ccd1",
+      "commence_time": "2026-08-06T00:15:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Titouan Droguet",
+      "player2": "Jaime Faria",
+      "bookmakers": {
+        "draftkings": {
+          "Jaime Faria": 12.6,
+          "Titouan Droguet": 1.05
+        },
+        "betfair_ex_eu": {
+          "Jaime Faria": 8.6,
+          "Titouan Droguet": 1.11
+        },
+        "betclic_fr": {
+          "Jaime Faria": 6.5,
+          "Titouan Droguet": 1.06
+        },
+        "winamax_fr": {
+          "Jaime Faria": 10.5,
+          "Titouan Droguet": 1.03
+        },
+        "winamax_de": {
+          "Jaime Faria": 8.5,
+          "Titouan Droguet": 1.05
+        },
+        "betmgm": {
+          "Jaime Faria": 8.5,
+          "Titouan Droguet": 1.05
+        },
+        "coolbet": {
+          "Jaime Faria": 12.25,
+          "Titouan Droguet": 1.05
+        },
+        "pmu_fr": {
+          "Jaime Faria": 7.5,
+          "Titouan Droguet": 1.02
+        },
+        "unibet_se": {
+          "Jaime Faria": 9.0,
+          "Titouan Droguet": 1.06
+        },
+        "betrivers": {
+          "Jaime Faria": 9.0,
+          "Titouan Droguet": 1.04
+        },
+        "unibet_nl": {
+          "Jaime Faria": 9.0,
+          "Titouan Droguet": 1.06
+        },
+        "leovegas_se": {
+          "Jaime Faria": 7.5,
+          "Titouan Droguet": 1.04
+        },
+        "pinnacle": {
+          "Jaime Faria": 10.2,
+          "Titouan Droguet": 1.09
+        },
+        "matchbook": {
+          "Jaime Faria": 12.0,
+          "Titouan Droguet": 1.07
+        },
+        "sport888": {
+          "Jaime Faria": 7.0,
+          "Titouan Droguet": 1.08
+        },
+        "williamhill": {
+          "Jaime Faria": 9.0,
+          "Titouan Droguet": 1.05
+        },
+        "tipico_de": {
+          "Jaime Faria": 7.0,
+          "Titouan Droguet": 1.06
+        }
+      },
+      "prediction": {
+        "p1_name": "Titouan Droguet",
+        "p2_name": "Jaime Faria",
+        "p1_prob": 0.4971,
+        "p2_prob": 0.5029,
+        "predicted_winner": "Jaime Faria",
+        "confidence": "low",
+        "p1_edge": -0.4038,
+        "p2_edge": 0.4235
+      },
+      "collected_at": "2026-08-06T02:07:51.836053+00:00",
+      "result": null
+    },
+    "ed78c4f7d62457d3c7df289178e8700a": {
+      "match_id": "ed78c4f7d62457d3c7df289178e8700a",
+      "commence_time": "2026-08-06T16:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Mariano Navone",
+      "player2": "Arthur Fils",
+      "bookmakers": {
+        "betclic_fr": {
+          "Arthur Fils": 1.31,
+          "Mariano Navone": 2.95
+        },
+        "nordicbet": {
+          "Arthur Fils": 1.36,
+          "Mariano Navone": 3.2
+        },
+        "betfair_ex_eu": {
+          "Arthur Fils": 1.19,
+          "Mariano Navone": 2.58
+        },
+        "betsson": {
+          "Arthur Fils": 1.36,
+          "Mariano Navone": 3.2
+        },
+        "sport888": {
+          "Arthur Fils": 1.36,
+          "Mariano Navone": 3.1
+        },
+        "unibet_fr": {
+          "Arthur Fils": 1.33,
+          "Mariano Navone": 3.05
+        },
+        "williamhill": {
+          "Arthur Fils": 1.36,
+          "Mariano Navone": 3.1
+        },
+        "betmgm": {
+          "Arthur Fils": 1.36,
+          "Mariano Navone": 3.1
+        },
+        "gtbets": {
+          "Arthur Fils": 1.4,
+          "Mariano Navone": 3.19
+        },
+        "coolbet": {
+          "Arthur Fils": 1.37,
+          "Mariano Navone": 3.35
+        },
+        "fanduel": {
+          "Arthur Fils": 1.35,
+          "Mariano Navone": 3.3
+        },
+        "marathonbet": {
+          "Arthur Fils": 1.34,
+          "Mariano Navone": 3.24
+        },
+        "onexbet": {
+          "Arthur Fils": 1.36,
+          "Mariano Navone": 3.28
+        },
+        "draftkings": {
+          "Arthur Fils": 1.34,
+          "Mariano Navone": 3.34
+        },
+        "winamax_fr": {
+          "Arthur Fils": 1.31,
+          "Mariano Navone": 2.9
+        },
+        "winamax_de": {
+          "Arthur Fils": 1.35,
+          "Mariano Navone": 3.2
+        },
+        "tipico_de": {
+          "Arthur Fils": 1.3,
+          "Mariano Navone": 3.2
+        },
+        "bovada": {
+          "Arthur Fils": 1.35,
+          "Mariano Navone": 3.25
+        },
+        "matchbook": {
+          "Arthur Fils": 1.32,
+          "Mariano Navone": 2.58
+        },
+        "unibet_nl": {
+          "Arthur Fils": 1.35,
+          "Mariano Navone": 3.25
+        },
+        "unibet_se": {
+          "Arthur Fils": 1.35,
+          "Mariano Navone": 3.25
+        },
+        "betrivers": {
+          "Arthur Fils": 1.35,
+          "Mariano Navone": 3.25
+        },
+        "pmu_fr": {
+          "Arthur Fils": 1.32,
+          "Mariano Navone": 3.15
+        },
+        "leovegas_se": {
+          "Arthur Fils": 1.35,
+          "Mariano Navone": 3.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Mariano Navone",
+        "p2_name": "Arthur Fils",
+        "p1_prob": 0.2262,
+        "p2_prob": 0.7738,
+        "predicted_winner": "Arthur Fils",
+        "confidence": "high",
+        "p1_edge": -0.0723,
+        "p2_edge": 0.0595
+      },
+      "collected_at": "2026-08-06T02:07:51.920175+00:00",
+      "result": null
+    },
+    "9446116c98de2a8c00d8c02e23a671c1": {
+      "match_id": "9446116c98de2a8c00d8c02e23a671c1",
+      "commence_time": "2026-08-06T17:40:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Cameron Norrie",
+      "player2": "Alex de Minaur",
+      "bookmakers": {
+        "betsson": {
+          "Alex de Minaur": 1.45,
+          "Cameron Norrie": 2.75
+        },
+        "nordicbet": {
+          "Alex de Minaur": 1.45,
+          "Cameron Norrie": 2.75
+        },
+        "betclic_fr": {
+          "Alex de Minaur": 1.41,
+          "Cameron Norrie": 2.55
+        },
+        "coolbet": {
+          "Alex de Minaur": 1.46,
+          "Cameron Norrie": 2.9
+        },
+        "betfair_ex_eu": {
+          "Alex de Minaur": 1.36,
+          "Cameron Norrie": 2.96
+        },
+        "unibet_fr": {
+          "Alex de Minaur": 1.42,
+          "Cameron Norrie": 2.65
+        },
+        "draftkings": {
+          "Alex de Minaur": 1.47,
+          "Cameron Norrie": 2.72
+        },
+        "sport888": {
+          "Alex de Minaur": 1.44,
+          "Cameron Norrie": 2.75
+        },
+        "gtbets": {
+          "Alex de Minaur": 1.42,
+          "Cameron Norrie": 2.75
+        },
+        "onexbet": {
+          "Alex de Minaur": 1.45,
+          "Cameron Norrie": 2.85
+        },
+        "williamhill": {
+          "Alex de Minaur": 1.44,
+          "Cameron Norrie": 2.75
+        },
+        "fanduel": {
+          "Alex de Minaur": 1.43,
+          "Cameron Norrie": 2.88
+        },
+        "marathonbet": {
+          "Alex de Minaur": 1.43,
+          "Cameron Norrie": 2.81
+        },
+        "matchbook": {
+          "Alex de Minaur": 1.36,
+          "Cameron Norrie": 2.98
+        },
+        "winamax_fr": {
+          "Alex de Minaur": 1.4,
+          "Cameron Norrie": 2.55
+        },
+        "winamax_de": {
+          "Alex de Minaur": 1.45,
+          "Cameron Norrie": 2.75
+        },
+        "tipico_de": {
+          "Alex de Minaur": 1.4,
+          "Cameron Norrie": 2.7
+        },
+        "betmgm": {
+          "Alex de Minaur": 1.44,
+          "Cameron Norrie": 2.75
+        },
+        "betrivers": {
+          "Alex de Minaur": 1.43,
+          "Cameron Norrie": 2.8
+        },
+        "unibet_nl": {
+          "Alex de Minaur": 1.43,
+          "Cameron Norrie": 2.8
+        },
+        "unibet_se": {
+          "Alex de Minaur": 1.43,
+          "Cameron Norrie": 2.8
+        },
+        "pmu_fr": {
+          "Alex de Minaur": 1.41,
+          "Cameron Norrie": 2.75
+        },
+        "leovegas_se": {
+          "Alex de Minaur": 1.43,
+          "Cameron Norrie": 2.8
+        },
+        "bovada": {
+          "Alex de Minaur": 1.47,
+          "Cameron Norrie": 2.75
+        }
+      },
+      "prediction": {
+        "p1_name": "Cameron Norrie",
+        "p2_name": "Alex De Minaur",
+        "p1_prob": 0.3325,
+        "p2_prob": 0.6675,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": -0.0031,
+        "p2_edge": -0.0128
+      },
+      "collected_at": "2026-08-06T02:07:51.985189+00:00",
+      "result": null
+    },
+    "26859a4412e5cfc711741afaf58d7a5e": {
+      "match_id": "26859a4412e5cfc711741afaf58d7a5e",
+      "commence_time": "2026-08-06T17:40:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Yannick Hanfmann",
+      "player2": "Nuno Borges",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Nuno Borges": 1.59,
+          "Yannick Hanfmann": 2.28
+        },
+        "coolbet": {
+          "Nuno Borges": 1.67,
+          "Yannick Hanfmann": 2.32
+        },
+        "onexbet": {
+          "Nuno Borges": 1.67,
+          "Yannick Hanfmann": 2.26
+        },
+        "marathonbet": {
+          "Nuno Borges": 1.65,
+          "Yannick Hanfmann": 2.23
+        },
+        "draftkings": {
+          "Nuno Borges": 1.64,
+          "Yannick Hanfmann": 2.28
+        },
+        "sport888": {
+          "Nuno Borges": 1.61,
+          "Yannick Hanfmann": 2.3
+        },
+        "unibet_fr": {
+          "Nuno Borges": 1.59,
+          "Yannick Hanfmann": 2.2
+        },
+        "betclic_fr": {
+          "Nuno Borges": 1.61,
+          "Yannick Hanfmann": 2.27
+        },
+        "fanduel": {
+          "Nuno Borges": 1.7,
+          "Yannick Hanfmann": 2.18
+        },
+        "gtbets": {
+          "Nuno Borges": 1.67,
+          "Yannick Hanfmann": 2.22
+        },
+        "winamax_fr": {
+          "Nuno Borges": 1.56,
+          "Yannick Hanfmann": 2.15
+        },
+        "winamax_de": {
+          "Nuno Borges": 1.62,
+          "Yannick Hanfmann": 2.25
+        },
+        "matchbook": {
+          "Nuno Borges": 1.58,
+          "Yannick Hanfmann": 2.28
+        },
+        "tipico_de": {
+          "Nuno Borges": 1.62,
+          "Yannick Hanfmann": 2.15
+        },
+        "nordicbet": {
+          "Nuno Borges": 1.63,
+          "Yannick Hanfmann": 2.3
+        },
+        "betsson": {
+          "Nuno Borges": 1.63,
+          "Yannick Hanfmann": 2.3
+        },
+        "williamhill": {
+          "Nuno Borges": 1.62,
+          "Yannick Hanfmann": 2.3
+        },
+        "betrivers": {
+          "Nuno Borges": 1.65,
+          "Yannick Hanfmann": 2.23
+        },
+        "leovegas_se": {
+          "Nuno Borges": 1.65,
+          "Yannick Hanfmann": 2.23
+        },
+        "unibet_se": {
+          "Nuno Borges": 1.65,
+          "Yannick Hanfmann": 2.23
+        },
+        "pmu_fr": {
+          "Nuno Borges": 1.63,
+          "Yannick Hanfmann": 2.18
+        },
+        "unibet_nl": {
+          "Nuno Borges": 1.65,
+          "Yannick Hanfmann": 2.23
+        },
+        "bovada": {
+          "Nuno Borges": 1.65,
+          "Yannick Hanfmann": 2.3
+        }
+      },
+      "prediction": {
+        "p1_name": "Yannick Hanfmann",
+        "p2_name": "Nuno Borges",
+        "p1_prob": 0.4495,
+        "p2_prob": 0.5505,
+        "predicted_winner": "Nuno Borges",
+        "confidence": "medium",
+        "p1_edge": 0.0185,
+        "p2_edge": -0.0377
+      },
+      "collected_at": "2026-08-06T02:07:52.033813+00:00",
+      "result": null
+    },
+    "d032d043525b9b2cebd1f01b3b35ab6c": {
+      "match_id": "d032d043525b9b2cebd1f01b3b35ab6c",
+      "commence_time": "2026-08-07T00:10:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Frances Tiafoe",
+      "player2": "Arthur Rinderknech",
+      "bookmakers": {
+        "betsson": {
+          "Arthur Rinderknech": 2.95,
+          "Frances Tiafoe": 1.4
+        },
+        "draftkings": {
+          "Arthur Rinderknech": 3.23,
+          "Frances Tiafoe": 1.35
+        },
+        "matchbook": {
+          "Arthur Rinderknech": 2.48,
+          "Frances Tiafoe": 1.39
+        },
+        "tipico_de": {
+          "Arthur Rinderknech": 2.95,
+          "Frances Tiafoe": 1.35
+        },
+        "onexbet": {
+          "Arthur Rinderknech": 3.02,
+          "Frances Tiafoe": 1.41
+        },
+        "unibet_fr": {
+          "Arthur Rinderknech": 2.65,
+          "Frances Tiafoe": 1.34
+        },
+        "betfair_ex_eu": {
+          "Arthur Rinderknech": 2.48,
+          "Frances Tiafoe": 1.46
+        },
+        "sport888": {
+          "Arthur Rinderknech": 3.1,
+          "Frances Tiafoe": 1.36
+        },
+        "gtbets": {
+          "Arthur Rinderknech": 2.95,
+          "Frances Tiafoe": 1.41
+        },
+        "williamhill": {
+          "Arthur Rinderknech": 3.1,
+          "Frances Tiafoe": 1.36
+        },
+        "nordicbet": {
+          "Arthur Rinderknech": 2.95,
+          "Frances Tiafoe": 1.4
+        },
+        "coolbet": {
+          "Arthur Rinderknech": 3.05,
+          "Frances Tiafoe": 1.42
+        },
+        "fanduel": {
+          "Arthur Rinderknech": 3.1,
+          "Frances Tiafoe": 1.38
+        },
+        "bovada": {
+          "Arthur Rinderknech": 3.1,
+          "Frances Tiafoe": 1.38
+        },
+        "marathonbet": {
+          "Arthur Rinderknech": 2.98,
+          "Frances Tiafoe": 1.39
+        },
+        "winamax_de": {
+          "Arthur Rinderknech": 2.95,
+          "Frances Tiafoe": 1.4
+        },
+        "winamax_fr": {
+          "Arthur Rinderknech": 2.8,
+          "Frances Tiafoe": 1.37
+        },
+        "betclic_fr": {
+          "Arthur Rinderknech": 2.75,
+          "Frances Tiafoe": 1.36
+        }
+      },
+      "prediction": {
+        "p1_name": "Frances Tiafoe",
+        "p2_name": "Arthur Rinderknech",
+        "p1_prob": 0.517,
+        "p2_prob": 0.483,
+        "predicted_winner": "Frances Tiafoe",
+        "confidence": "low",
+        "p1_edge": -0.1679,
+        "p2_edge": 0.1734
+      },
+      "collected_at": "2026-08-06T02:07:52.124293+00:00",
+      "result": null
+    },
+    "0c6a1e75c2c24ee6cedd2d0e26da2c63": {
+      "match_id": "0c6a1e75c2c24ee6cedd2d0e26da2c63",
+      "commence_time": "2026-08-07T15:00:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Casper Ruud",
+      "player2": "Joao Fonseca",
+      "bookmakers": {
+        "betsson": {
+          "Casper Ruud": 2.08,
+          "Joao Fonseca": 1.75
+        },
+        "nordicbet": {
+          "Casper Ruud": 2.08,
+          "Joao Fonseca": 1.75
+        },
+        "betclic_fr": {
+          "Casper Ruud": 1.98,
+          "Joao Fonseca": 1.68
+        },
+        "betfair_ex_eu": {
+          "Casper Ruud": 1.94,
+          "Joao Fonseca": 1.84
+        },
+        "unibet_fr": {
+          "Casper Ruud": 1.94,
+          "Joao Fonseca": 1.65
+        },
+        "draftkings": {
+          "Casper Ruud": 2.26,
+          "Joao Fonseca": 1.64
+        },
+        "sport888": {
+          "Casper Ruud": 2.0,
+          "Joao Fonseca": 1.8
+        },
+        "gtbets": {
+          "Casper Ruud": 2.08,
+          "Joao Fonseca": 1.72
+        },
+        "onexbet": {
+          "Casper Ruud": 2.21,
+          "Joao Fonseca": 1.7
+        },
+        "williamhill": {
+          "Casper Ruud": 2.0,
+          "Joao Fonseca": 1.8
+        },
+        "fanduel": {
+          "Casper Ruud": 2.2,
+          "Joao Fonseca": 1.68
+        },
+        "marathonbet": {
+          "Casper Ruud": 2.18,
+          "Joao Fonseca": 1.68
+        },
+        "winamax_fr": {
+          "Casper Ruud": 1.94,
+          "Joao Fonseca": 1.66
+        },
+        "winamax_de": {
+          "Casper Ruud": 2.05,
+          "Joao Fonseca": 1.74
+        },
+        "tipico_de": {
+          "Casper Ruud": 1.97,
+          "Joao Fonseca": 1.75
+        },
+        "leovegas_se": {
+          "Casper Ruud": 2.23,
+          "Joao Fonseca": 1.66
+        },
+        "betrivers": {
+          "Casper Ruud": 2.23,
+          "Joao Fonseca": 1.66
+        },
+        "unibet_nl": {
+          "Casper Ruud": 2.23,
+          "Joao Fonseca": 1.66
+        },
+        "unibet_se": {
+          "Casper Ruud": 2.23,
+          "Joao Fonseca": 1.66
+        },
+        "pmu_fr": {
+          "Casper Ruud": 2.17,
+          "Joao Fonseca": 1.63
+        },
+        "bovada": {
+          "Casper Ruud": 2.15,
+          "Joao Fonseca": 1.71
+        }
+      },
+      "prediction": {
+        "p1_name": "Casper Ruud",
+        "p2_name": "Joao Fonseca",
+        "p1_prob": 0.3858,
+        "p2_prob": 0.6142,
+        "predicted_winner": "Joao Fonseca",
+        "confidence": "high",
+        "p1_edge": -0.0567,
+        "p2_edge": 0.0707
+      },
+      "collected_at": "2026-08-06T02:07:52.197833+00:00",
+      "result": null
+    },
+    "ddc9ec8922662892ff4bf1d2a68d711c": {
+      "match_id": "ddc9ec8922662892ff4bf1d2a68d711c",
+      "commence_time": "2026-08-07T16:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Zizou Bergs",
+      "player2": "Ben Shelton",
+      "bookmakers": {
+        "gtbets": {
+          "Ben Shelton": 1.28,
+          "Zizou Bergs": 3.75
+        },
+        "betfair_ex_eu": {
+          "Ben Shelton": 1.33,
+          "Zizou Bergs": 3.75
+        },
+        "onexbet": {
+          "Ben Shelton": 1.3,
+          "Zizou Bergs": 3.69
+        },
+        "draftkings": {
+          "Ben Shelton": 1.32,
+          "Zizou Bergs": 3.45
+        },
+        "unibet_fr": {
+          "Ben Shelton": 1.27,
+          "Zizou Bergs": 3.4
+        },
+        "fanduel": {
+          "Ben Shelton": 1.3,
+          "Zizou Bergs": 3.6
+        },
+        "betclic_fr": {
+          "Ben Shelton": 1.26,
+          "Zizou Bergs": 3.3
+        },
+        "marathonbet": {
+          "Ben Shelton": 1.28,
+          "Zizou Bergs": 3.65
+        },
+        "nordicbet": {
+          "Ben Shelton": 1.29,
+          "Zizou Bergs": 3.6
+        },
+        "betsson": {
+          "Ben Shelton": 1.29,
+          "Zizou Bergs": 3.6
+        },
+        "winamax_fr": {
+          "Ben Shelton": 1.24,
+          "Zizou Bergs": 3.2
+        },
+        "winamax_de": {
+          "Ben Shelton": 1.29,
+          "Zizou Bergs": 3.6
+        },
+        "tipico_de": {
+          "Ben Shelton": 1.25,
+          "Zizou Bergs": 3.6
+        },
+        "sport888": {
+          "Ben Shelton": 1.3,
+          "Zizou Bergs": 3.5
+        },
+        "williamhill": {
+          "Ben Shelton": 1.3,
+          "Zizou Bergs": 3.5
+        },
+        "betmgm": {
+          "Ben Shelton": 1.27,
+          "Zizou Bergs": 3.75
+        },
+        "unibet_se": {
+          "Ben Shelton": 1.28,
+          "Zizou Bergs": 3.7
+        },
+        "unibet_nl": {
+          "Ben Shelton": 1.28,
+          "Zizou Bergs": 3.7
+        },
+        "pmu_fr": {
+          "Ben Shelton": 1.25,
+          "Zizou Bergs": 3.6
+        },
+        "leovegas_se": {
+          "Ben Shelton": 1.28,
+          "Zizou Bergs": 3.7
+        },
+        "betrivers": {
+          "Ben Shelton": 1.28,
+          "Zizou Bergs": 3.7
+        },
+        "bovada": {
+          "Ben Shelton": 1.31,
+          "Zizou Bergs": 3.6
+        }
+      },
+      "prediction": {
+        "p1_name": "Zizou Bergs",
+        "p2_name": "Ben Shelton",
+        "p1_prob": 0.2346,
+        "p2_prob": 0.7654,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "high",
+        "p1_edge": -0.0321,
+        "p2_edge": 0.0135
+      },
+      "collected_at": "2026-08-06T02:07:52.246904+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-05T17:25:05.826604+00:00"
+  "last_updated": "2026-08-06T02:07:52.254986+00:00"
 }
