@@ -29232,7 +29232,11 @@
         "p2_edge": 0.0743
       },
       "collected_at": "2026-08-06T10:34:23.372446+00:00",
-      "result": null
+      "result": {
+        "winner": "Brandon Nakashima",
+        "correct": true,
+        "settled_at": "2026-08-07T08:53:49.191851+00:00"
+      }
     },
     "d13c42c72a41e1837707761aa78dc879": {
       "match_id": "d13c42c72a41e1837707761aa78dc879",
@@ -29921,7 +29925,455 @@
       },
       "collected_at": "2026-08-06T10:34:23.769368+00:00",
       "result": null
+    },
+    "91912583e5d3af58a408d72c2d0afdf8": {
+      "match_id": "91912583e5d3af58a408d72c2d0afdf8",
+      "commence_time": "2026-08-08T16:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Arthur Fils",
+      "player2": "Cameron Norrie",
+      "bookmakers": {
+        "unibet_nl": {
+          "Arthur Fils": 1.42,
+          "Cameron Norrie": 2.88
+        },
+        "betfair_ex_eu": {
+          "Arthur Fils": 1.37,
+          "Cameron Norrie": 2.96
+        },
+        "leovegas_se": {
+          "Arthur Fils": 1.42,
+          "Cameron Norrie": 2.88
+        },
+        "pmu_fr": {
+          "Arthur Fils": 1.4,
+          "Cameron Norrie": 2.8
+        },
+        "betrivers": {
+          "Arthur Fils": 1.42,
+          "Cameron Norrie": 2.88
+        },
+        "unibet_se": {
+          "Arthur Fils": 1.42,
+          "Cameron Norrie": 2.88
+        },
+        "sport888": {
+          "Arthur Fils": 1.4,
+          "Cameron Norrie": 2.9
+        },
+        "williamhill": {
+          "Arthur Fils": 1.4,
+          "Cameron Norrie": 2.9
+        },
+        "marathonbet": {
+          "Arthur Fils": 1.4,
+          "Cameron Norrie": 2.94
+        },
+        "unibet_fr": {
+          "Arthur Fils": 1.35,
+          "Cameron Norrie": 2.65
+        },
+        "betclic_fr": {
+          "Arthur Fils": 1.36,
+          "Cameron Norrie": 2.75
+        },
+        "nordicbet": {
+          "Arthur Fils": 1.41,
+          "Cameron Norrie": 2.95
+        },
+        "betsson": {
+          "Arthur Fils": 1.41,
+          "Cameron Norrie": 2.95
+        },
+        "gtbets": {
+          "Arthur Fils": 1.45,
+          "Cameron Norrie": 2.95
+        },
+        "fanduel": {
+          "Arthur Fils": 1.39,
+          "Cameron Norrie": 3.05
+        },
+        "winamax_de": {
+          "Arthur Fils": 1.39,
+          "Cameron Norrie": 3.0
+        },
+        "winamax_fr": {
+          "Arthur Fils": 1.34,
+          "Cameron Norrie": 2.7
+        },
+        "onexbet": {
+          "Arthur Fils": 1.42,
+          "Cameron Norrie": 2.98
+        },
+        "draftkings": {
+          "Arthur Fils": 1.41,
+          "Cameron Norrie": 2.97
+        },
+        "bovada": {
+          "Arthur Fils": 1.42,
+          "Cameron Norrie": 2.95
+        },
+        "betmgm": {
+          "Arthur Fils": 1.4,
+          "Cameron Norrie": 2.9
+        },
+        "tipico_de": {
+          "Arthur Fils": 1.37,
+          "Cameron Norrie": 2.85
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Fils",
+        "p2_name": "Cameron Norrie",
+        "p1_prob": 0.61,
+        "p2_prob": 0.39,
+        "predicted_winner": "Arthur Fils",
+        "confidence": "high",
+        "p1_edge": -0.0797,
+        "p2_edge": 0.0621
+      },
+      "collected_at": "2026-08-07T08:53:57.771463+00:00",
+      "result": null
+    },
+    "f3f3dddf74d29f44be6d9bbe2e4abc86": {
+      "match_id": "f3f3dddf74d29f44be6d9bbe2e4abc86",
+      "commence_time": "2026-08-08T16:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Arthur Rinderknech",
+      "player2": "Brandon Nakashima",
+      "bookmakers": {
+        "unibet_nl": {
+          "Arthur Rinderknech": 2.7,
+          "Brandon Nakashima": 1.47
+        },
+        "betfair_ex_eu": {
+          "Arthur Rinderknech": 2.98,
+          "Brandon Nakashima": 1.44
+        },
+        "leovegas_se": {
+          "Arthur Rinderknech": 2.7,
+          "Brandon Nakashima": 1.47
+        },
+        "pmu_fr": {
+          "Arthur Rinderknech": 2.63,
+          "Brandon Nakashima": 1.43
+        },
+        "betrivers": {
+          "Arthur Rinderknech": 2.7,
+          "Brandon Nakashima": 1.47
+        },
+        "unibet_se": {
+          "Arthur Rinderknech": 2.7,
+          "Brandon Nakashima": 1.47
+        },
+        "sport888": {
+          "Arthur Rinderknech": 2.9,
+          "Brandon Nakashima": 1.4
+        },
+        "williamhill": {
+          "Arthur Rinderknech": 2.9,
+          "Brandon Nakashima": 1.4
+        },
+        "marathonbet": {
+          "Arthur Rinderknech": 2.85,
+          "Brandon Nakashima": 1.42
+        },
+        "unibet_fr": {
+          "Arthur Rinderknech": 2.55,
+          "Brandon Nakashima": 1.37
+        },
+        "nordicbet": {
+          "Arthur Rinderknech": 2.85,
+          "Brandon Nakashima": 1.43
+        },
+        "betsson": {
+          "Arthur Rinderknech": 2.85,
+          "Brandon Nakashima": 1.43
+        },
+        "gtbets": {
+          "Arthur Rinderknech": 2.77,
+          "Brandon Nakashima": 1.5
+        },
+        "betclic_fr": {
+          "Arthur Rinderknech": 2.6,
+          "Brandon Nakashima": 1.4
+        },
+        "winamax_de": {
+          "Arthur Rinderknech": 2.8,
+          "Brandon Nakashima": 1.43
+        },
+        "winamax_fr": {
+          "Arthur Rinderknech": 2.6,
+          "Brandon Nakashima": 1.37
+        },
+        "onexbet": {
+          "Arthur Rinderknech": 2.89,
+          "Brandon Nakashima": 1.44
+        },
+        "draftkings": {
+          "Arthur Rinderknech": 2.9,
+          "Brandon Nakashima": 1.42
+        },
+        "betmgm": {
+          "Arthur Rinderknech": 2.9,
+          "Brandon Nakashima": 1.4
+        },
+        "tipico_de": {
+          "Arthur Rinderknech": 2.65,
+          "Brandon Nakashima": 1.42
+        },
+        "bovada": {
+          "Arthur Rinderknech": 2.9,
+          "Brandon Nakashima": 1.43
+        },
+        "fanduel": {
+          "Arthur Rinderknech": 2.95,
+          "Brandon Nakashima": 1.42
+        },
+        "pinnacle": {
+          "Arthur Rinderknech": 3.04,
+          "Brandon Nakashima": 1.43
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Rinderknech",
+        "p2_name": "Brandon Nakashima",
+        "p1_prob": 0.4302,
+        "p2_prob": 0.5698,
+        "predicted_winner": "Brandon Nakashima",
+        "confidence": "medium",
+        "p1_edge": 0.1013,
+        "p2_edge": -0.0969
+      },
+      "collected_at": "2026-08-07T08:53:57.822551+00:00",
+      "result": null
+    },
+    "46e9705f3771a7fe81d66f440d0be010": {
+      "match_id": "46e9705f3771a7fe81d66f440d0be010",
+      "commence_time": "2026-08-08T16:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Jiri Lehecka",
+      "player2": "Rafael Jodar",
+      "bookmakers": {
+        "unibet_nl": {
+          "Jiri Lehecka": 2.23,
+          "Rafael Jodar": 1.66
+        },
+        "betfair_ex_eu": {
+          "Jiri Lehecka": 2.0,
+          "Rafael Jodar": 1.8
+        },
+        "leovegas_se": {
+          "Jiri Lehecka": 2.23,
+          "Rafael Jodar": 1.66
+        },
+        "pmu_fr": {
+          "Jiri Lehecka": 2.17,
+          "Rafael Jodar": 1.63
+        },
+        "betrivers": {
+          "Jiri Lehecka": 2.23,
+          "Rafael Jodar": 1.66
+        },
+        "unibet_se": {
+          "Jiri Lehecka": 2.23,
+          "Rafael Jodar": 1.66
+        },
+        "sport888": {
+          "Jiri Lehecka": 2.1,
+          "Rafael Jodar": 1.73
+        },
+        "williamhill": {
+          "Jiri Lehecka": 2.1,
+          "Rafael Jodar": 1.73
+        },
+        "marathonbet": {
+          "Jiri Lehecka": 2.18,
+          "Rafael Jodar": 1.68
+        },
+        "unibet_fr": {
+          "Jiri Lehecka": 2.0,
+          "Rafael Jodar": 1.61
+        },
+        "betclic_fr": {
+          "Jiri Lehecka": 2.05,
+          "Rafael Jodar": 1.63
+        },
+        "nordicbet": {
+          "Jiri Lehecka": 2.17,
+          "Rafael Jodar": 1.7
+        },
+        "betsson": {
+          "Jiri Lehecka": 2.17,
+          "Rafael Jodar": 1.7
+        },
+        "gtbets": {
+          "Jiri Lehecka": 2.26,
+          "Rafael Jodar": 1.65
+        },
+        "winamax_de": {
+          "Jiri Lehecka": 2.1,
+          "Rafael Jodar": 1.72
+        },
+        "winamax_fr": {
+          "Jiri Lehecka": 1.98,
+          "Rafael Jodar": 1.64
+        },
+        "onexbet": {
+          "Jiri Lehecka": 2.23,
+          "Rafael Jodar": 1.69
+        },
+        "draftkings": {
+          "Jiri Lehecka": 2.2,
+          "Rafael Jodar": 1.68
+        },
+        "bovada": {
+          "Jiri Lehecka": 2.2,
+          "Rafael Jodar": 1.69
+        },
+        "betmgm": {
+          "Jiri Lehecka": 2.1,
+          "Rafael Jodar": 1.71
+        },
+        "tipico_de": {
+          "Jiri Lehecka": 2.15,
+          "Rafael Jodar": 1.62
+        },
+        "fanduel": {
+          "Jiri Lehecka": 2.22,
+          "Rafael Jodar": 1.68
+        },
+        "matchbook": {
+          "Jiri Lehecka": 1.8,
+          "Rafael Jodar": 1.66
+        },
+        "pinnacle": {
+          "Jiri Lehecka": 2.25,
+          "Rafael Jodar": 1.71
+        }
+      },
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Rafael Jodar",
+        "p1_prob": 0.4826,
+        "p2_prob": 0.5174,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "low",
+        "p1_edge": 0.0401,
+        "p2_edge": -0.0382
+      },
+      "collected_at": "2026-08-07T08:53:57.873050+00:00",
+      "result": null
+    },
+    "8a1deb0fc6b46b8184e97845839049e9": {
+      "match_id": "8a1deb0fc6b46b8184e97845839049e9",
+      "commence_time": "2026-08-08T16:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Nuno Borges",
+      "player2": "Luciano Darderi",
+      "bookmakers": {
+        "unibet_nl": {
+          "Luciano Darderi": 2.38,
+          "Nuno Borges": 1.57
+        },
+        "betfair_ex_eu": {
+          "Luciano Darderi": 2.18,
+          "Nuno Borges": 1.51
+        },
+        "leovegas_se": {
+          "Luciano Darderi": 2.38,
+          "Nuno Borges": 1.57
+        },
+        "pmu_fr": {
+          "Luciano Darderi": 2.32,
+          "Nuno Borges": 1.56
+        },
+        "betrivers": {
+          "Luciano Darderi": 2.38,
+          "Nuno Borges": 1.57
+        },
+        "sport888": {
+          "Luciano Darderi": 2.38,
+          "Nuno Borges": 1.57
+        },
+        "unibet_se": {
+          "Luciano Darderi": 2.38,
+          "Nuno Borges": 1.57
+        },
+        "williamhill": {
+          "Luciano Darderi": 2.38,
+          "Nuno Borges": 1.57
+        },
+        "betsson": {
+          "Luciano Darderi": 2.4,
+          "Nuno Borges": 1.58
+        },
+        "unibet_fr": {
+          "Luciano Darderi": 2.2,
+          "Nuno Borges": 1.5
+        },
+        "nordicbet": {
+          "Luciano Darderi": 2.4,
+          "Nuno Borges": 1.58
+        },
+        "betclic_fr": {
+          "Luciano Darderi": 2.26,
+          "Nuno Borges": 1.52
+        },
+        "marathonbet": {
+          "Luciano Darderi": 2.39,
+          "Nuno Borges": 1.57
+        },
+        "gtbets": {
+          "Luciano Darderi": 2.4,
+          "Nuno Borges": 1.58
+        },
+        "winamax_de": {
+          "Luciano Darderi": 2.35,
+          "Nuno Borges": 1.56
+        },
+        "winamax_fr": {
+          "Luciano Darderi": 2.2,
+          "Nuno Borges": 1.5
+        },
+        "onexbet": {
+          "Luciano Darderi": 2.42,
+          "Nuno Borges": 1.59
+        },
+        "draftkings": {
+          "Luciano Darderi": 2.4,
+          "Nuno Borges": 1.58
+        },
+        "betmgm": {
+          "Luciano Darderi": 2.35,
+          "Nuno Borges": 1.57
+        },
+        "tipico_de": {
+          "Luciano Darderi": 2.3,
+          "Nuno Borges": 1.55
+        },
+        "matchbook": {
+          "Luciano Darderi": 2.2,
+          "Nuno Borges": 1.44
+        }
+      },
+      "prediction": {
+        "p1_name": "Nuno Borges",
+        "p2_name": "Luciano Darderi",
+        "p1_prob": 0.4504,
+        "p2_prob": 0.5496,
+        "predicted_winner": "Luciano Darderi",
+        "confidence": "medium",
+        "p1_edge": -0.1785,
+        "p2_edge": 0.1364
+      },
+      "collected_at": "2026-08-07T08:53:57.923505+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-07T02:26:36.003771+00:00"
+  "last_updated": "2026-08-07T08:53:57.931518+00:00"
 }
