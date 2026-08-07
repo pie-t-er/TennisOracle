@@ -28092,7 +28092,11 @@
         "p2_edge": 0.0196
       },
       "collected_at": "2026-08-05T10:30:31.335892+00:00",
-      "result": null
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": true,
+        "settled_at": "2026-08-07T02:26:35.922167+00:00"
+      }
     },
     "b50e5e34e830727fa4c146721d6f5c0b": {
       "match_id": "b50e5e34e830727fa4c146721d6f5c0b",
@@ -28186,7 +28190,11 @@
         "p2_edge": -0.0957
       },
       "collected_at": "2026-08-05T10:30:31.381628+00:00",
-      "result": null
+      "result": {
+        "winner": "Luciano Darderi",
+        "correct": true,
+        "settled_at": "2026-08-07T02:26:35.799194+00:00"
+      }
     },
     "af4dc29df5be7d52d29f8ff1ff94ccd1": {
       "match_id": "af4dc29df5be7d52d29f8ff1ff94ccd1",
@@ -28398,7 +28406,11 @@
         "p2_edge": 0.0595
       },
       "collected_at": "2026-08-06T02:07:51.920175+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fils",
+        "correct": true,
+        "settled_at": "2026-08-07T02:26:35.759080+00:00"
+      }
     },
     "9446116c98de2a8c00d8c02e23a671c1": {
       "match_id": "9446116c98de2a8c00d8c02e23a671c1",
@@ -28516,7 +28528,11 @@
         "p2_edge": -0.0128
       },
       "collected_at": "2026-08-06T02:07:51.985189+00:00",
-      "result": null
+      "result": {
+        "winner": "Cameron Norrie",
+        "correct": false,
+        "settled_at": "2026-08-07T02:26:35.839954+00:00"
+      }
     },
     "26859a4412e5cfc711741afaf58d7a5e": {
       "match_id": "26859a4412e5cfc711741afaf58d7a5e",
@@ -28630,7 +28646,11 @@
         "p2_edge": -0.0377
       },
       "collected_at": "2026-08-06T02:07:52.033813+00:00",
-      "result": null
+      "result": {
+        "winner": "Nuno Borges",
+        "correct": true,
+        "settled_at": "2026-08-07T02:26:35.880686+00:00"
+      }
     },
     "d032d043525b9b2cebd1f01b3b35ab6c": {
       "match_id": "d032d043525b9b2cebd1f01b3b35ab6c",
@@ -28724,7 +28744,11 @@
         "p2_edge": 0.1734
       },
       "collected_at": "2026-08-06T02:07:52.124293+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Rinderknech",
+        "correct": false,
+        "settled_at": "2026-08-07T02:26:36.003756+00:00"
+      }
     },
     "0c6a1e75c2c24ee6cedd2d0e26da2c63": {
       "match_id": "0c6a1e75c2c24ee6cedd2d0e26da2c63",
@@ -29074,7 +29098,11 @@
         "p2_edge": 0.0838
       },
       "collected_at": "2026-08-06T10:34:23.323015+00:00",
-      "result": null
+      "result": {
+        "winner": "Rafael Jodar",
+        "correct": false,
+        "settled_at": "2026-08-07T02:26:35.963101+00:00"
+      }
     },
     "e25f27a69a64d0d6d9b9cf782227d38e": {
       "match_id": "e25f27a69a64d0d6d9b9cf782227d38e",
@@ -29895,5 +29923,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-08-06T10:34:23.777550+00:00"
+  "last_updated": "2026-08-07T02:26:36.003771+00:00"
 }
