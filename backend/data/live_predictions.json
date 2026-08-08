@@ -28854,7 +28854,11 @@
         "p2_edge": 0.0707
       },
       "collected_at": "2026-08-06T02:07:52.197833+00:00",
-      "result": null
+      "result": {
+        "winner": "Joao Fonseca",
+        "correct": true,
+        "settled_at": "2026-08-08T01:14:11.510483+00:00"
+      }
     },
     "ddc9ec8922662892ff4bf1d2a68d711c": {
       "match_id": "ddc9ec8922662892ff4bf1d2a68d711c",
@@ -28964,7 +28968,11 @@
         "p2_edge": 0.0135
       },
       "collected_at": "2026-08-06T02:07:52.246904+00:00",
-      "result": null
+      "result": {
+        "winner": "Ben Shelton",
+        "correct": true,
+        "settled_at": "2026-08-08T01:14:11.425334+00:00"
+      }
     },
     "9659024aaa6e78b57d18134484058ed5": {
       "match_id": "9659024aaa6e78b57d18134484058ed5",
@@ -29346,7 +29354,11 @@
         "p2_edge": 0.2888
       },
       "collected_at": "2026-08-06T10:34:23.438173+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniel Merida Aguilar",
+        "correct": false,
+        "settled_at": "2026-08-08T01:14:11.302447+00:00"
+      }
     },
     "eae6459a2c903d0795cf480c46295089": {
       "match_id": "eae6459a2c903d0795cf480c46295089",
@@ -29574,7 +29586,11 @@
         "p2_edge": -0.1656
       },
       "collected_at": "2026-08-06T10:34:23.554790+00:00",
-      "result": null
+      "result": {
+        "winner": "Botic van de Zandschulp",
+        "correct": false,
+        "settled_at": "2026-08-08T01:14:11.384415+00:00"
+      }
     },
     "d7a7ebf89a7fa7a9bb7675162f430ae9": {
       "match_id": "d7a7ebf89a7fa7a9bb7675162f430ae9",
@@ -29692,7 +29708,11 @@
         "p2_edge": 0.0302
       },
       "collected_at": "2026-08-06T10:34:23.622512+00:00",
-      "result": null
+      "result": {
+        "winner": "Jakub Mensik",
+        "correct": true,
+        "settled_at": "2026-08-08T01:14:11.466125+00:00"
+      }
     },
     "394b70b2b5f51b7e16f580e390e3cf0e": {
       "match_id": "394b70b2b5f51b7e16f580e390e3cf0e",
@@ -29924,7 +29944,11 @@
         "p2_edge": 0.0689
       },
       "collected_at": "2026-08-06T10:34:23.769368+00:00",
-      "result": null
+      "result": {
+        "winner": "Tallon Griekspoor",
+        "correct": true,
+        "settled_at": "2026-08-08T01:14:11.343192+00:00"
+      }
     },
     "91912583e5d3af58a408d72c2d0afdf8": {
       "match_id": "91912583e5d3af58a408d72c2d0afdf8",
@@ -30373,7 +30397,101 @@
       },
       "collected_at": "2026-08-07T08:53:57.923505+00:00",
       "result": null
+    },
+    "ba8f7461f2a523a35e86b01623494e43": {
+      "match_id": "ba8f7461f2a523a35e86b01623494e43",
+      "commence_time": "2026-08-09T16:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Tallon Griekspoor",
+      "player2": "Daniel Merida Aguilar",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Daniel Merida Aguilar": 2.16,
+          "Tallon Griekspoor": 1.55
+        },
+        "unibet_fr": {
+          "Daniel Merida Aguilar": 1.98,
+          "Tallon Griekspoor": 1.63
+        },
+        "draftkings": {
+          "Daniel Merida Aguilar": 2.15,
+          "Tallon Griekspoor": 1.71
+        },
+        "betsson": {
+          "Daniel Merida Aguilar": 2.13,
+          "Tallon Griekspoor": 1.72
+        },
+        "nordicbet": {
+          "Daniel Merida Aguilar": 2.13,
+          "Tallon Griekspoor": 1.72
+        },
+        "betclic_fr": {
+          "Daniel Merida Aguilar": 2.06,
+          "Tallon Griekspoor": 1.68
+        },
+        "fanduel": {
+          "Daniel Merida Aguilar": 2.15,
+          "Tallon Griekspoor": 1.72
+        },
+        "gtbets": {
+          "Daniel Merida Aguilar": 2.14,
+          "Tallon Griekspoor": 1.72
+        },
+        "coolbet": {
+          "Daniel Merida Aguilar": 2.18,
+          "Tallon Griekspoor": 1.75
+        },
+        "marathonbet": {
+          "Daniel Merida Aguilar": 2.11,
+          "Tallon Griekspoor": 1.72
+        },
+        "onexbet": {
+          "Daniel Merida Aguilar": 2.14,
+          "Tallon Griekspoor": 1.74
+        },
+        "winamax_fr": {
+          "Daniel Merida Aguilar": 1.98,
+          "Tallon Griekspoor": 1.64
+        },
+        "winamax_de": {
+          "Daniel Merida Aguilar": 2.1,
+          "Tallon Griekspoor": 1.72
+        },
+        "sport888": {
+          "Daniel Merida Aguilar": 2.1,
+          "Tallon Griekspoor": 1.73
+        },
+        "williamhill": {
+          "Daniel Merida Aguilar": 2.1,
+          "Tallon Griekspoor": 1.73
+        },
+        "bovada": {
+          "Daniel Merida Aguilar": 2.15,
+          "Tallon Griekspoor": 1.71
+        },
+        "betmgm": {
+          "Daniel Merida Aguilar": 2.1,
+          "Tallon Griekspoor": 1.71
+        },
+        "tipico_de": {
+          "Daniel Merida Aguilar": 2.05,
+          "Tallon Griekspoor": 1.7
+        }
+      },
+      "prediction": {
+        "p1_name": "Tallon Griekspoor",
+        "p2_name": "Jorge Aguilar",
+        "p1_prob": 0.935,
+        "p2_prob": 0.065,
+        "predicted_winner": "Tallon Griekspoor",
+        "confidence": "high",
+        "p1_edge": 0.3636,
+        "p2_edge": -0.3937
+      },
+      "collected_at": "2026-08-08T01:14:20.167801+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-07T08:53:57.931518+00:00"
+  "last_updated": "2026-08-08T01:14:20.176238+00:00"
 }
