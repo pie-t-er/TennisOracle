@@ -30180,7 +30180,11 @@
         "p2_edge": -0.0969
       },
       "collected_at": "2026-08-07T08:53:57.822551+00:00",
-      "result": null
+      "result": {
+        "winner": "Brandon Nakashima",
+        "correct": true,
+        "settled_at": "2026-08-09T01:18:36.187899+00:00"
+      }
     },
     "46e9705f3771a7fe81d66f440d0be010": {
       "match_id": "46e9705f3771a7fe81d66f440d0be010",
@@ -30404,7 +30408,11 @@
         "p2_edge": 0.1364
       },
       "collected_at": "2026-08-07T08:53:57.923505+00:00",
-      "result": null
+      "result": {
+        "winner": "Luciano Darderi",
+        "correct": true,
+        "settled_at": "2026-08-09T01:18:36.147255+00:00"
+      }
     },
     "ba8f7461f2a523a35e86b01623494e43": {
       "match_id": "ba8f7461f2a523a35e86b01623494e43",
@@ -30823,5 +30831,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-08-08T08:34:44.287114+00:00"
+  "last_updated": "2026-08-09T01:18:36.187913+00:00"
 }
