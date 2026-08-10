@@ -30970,7 +30970,11 @@
         "p2_edge": 0.0099
       },
       "collected_at": "2026-08-09T08:36:45.179297+00:00",
-      "result": null
+      "result": {
+        "winner": "Rafael Jodar",
+        "correct": false,
+        "settled_at": "2026-08-10T16:50:11.579495+00:00"
+      }
     },
     "3818a6e8db7b41976f793ac50e68e82d": {
       "match_id": "3818a6e8db7b41976f793ac50e68e82d",
@@ -31319,5 +31323,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-08-10T09:14:51.039638+00:00"
+  "last_updated": "2026-08-10T16:50:11.579512+00:00"
 }
