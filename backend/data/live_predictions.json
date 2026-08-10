@@ -30734,7 +30734,11 @@
         "p2_edge": -0.0166
       },
       "collected_at": "2026-08-08T08:34:44.213119+00:00",
-      "result": null
+      "result": {
+        "winner": "Botic van de Zandschulp",
+        "correct": false,
+        "settled_at": "2026-08-10T09:14:42.010910+00:00"
+      }
     },
     "46f541f3181e4defc538c5bc377319ad": {
       "match_id": "46f541f3181e4defc538c5bc377319ad",
@@ -31183,7 +31187,137 @@
       },
       "collected_at": "2026-08-10T01:21:00.472253+00:00",
       "result": null
+    },
+    "ec5999036ea917ac4a6bf1548d7f6457": {
+      "match_id": "ec5999036ea917ac4a6bf1548d7f6457",
+      "commence_time": "2026-08-11T14:00:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Jakub Mensik",
+      "player2": "Ben Shelton",
+      "bookmakers": {
+        "pinnacle": {
+          "Ben Shelton": 1.88,
+          "Jakub Mensik": 2.01
+        },
+        "betfair_ex_eu": {
+          "Ben Shelton": 1.87,
+          "Jakub Mensik": 2.1
+        },
+        "gtbets": {
+          "Ben Shelton": 1.82,
+          "Jakub Mensik": 2.0
+        },
+        "marathonbet": {
+          "Ben Shelton": 1.83,
+          "Jakub Mensik": 1.97
+        },
+        "unibet_fr": {
+          "Ben Shelton": 1.73,
+          "Jakub Mensik": 1.84
+        },
+        "onexbet": {
+          "Ben Shelton": 1.85,
+          "Jakub Mensik": 1.99
+        },
+        "betsson": {
+          "Ben Shelton": 1.84,
+          "Jakub Mensik": 1.97
+        },
+        "coolbet": {
+          "Ben Shelton": 1.88,
+          "Jakub Mensik": 2.0
+        },
+        "nordicbet": {
+          "Ben Shelton": 1.84,
+          "Jakub Mensik": 1.97
+        },
+        "betclic_fr": {
+          "Ben Shelton": 1.79,
+          "Jakub Mensik": 1.91
+        },
+        "draftkings": {
+          "Ben Shelton": 1.85,
+          "Jakub Mensik": 1.97
+        },
+        "bovada": {
+          "Ben Shelton": 1.83,
+          "Jakub Mensik": 2.0
+        },
+        "winamax_de": {
+          "Ben Shelton": 1.86,
+          "Jakub Mensik": 2.0
+        },
+        "winamax_fr": {
+          "Ben Shelton": 1.86,
+          "Jakub Mensik": 1.98
+        },
+        "betmgm": {
+          "Ben Shelton": 1.85,
+          "Jakub Mensik": 1.95
+        },
+        "tipico_de": {
+          "Ben Shelton": 1.8,
+          "Jakub Mensik": 1.97
+        },
+        "betonlineag": {
+          "Ben Shelton": 1.87,
+          "Jakub Mensik": 1.98
+        },
+        "lowvig": {
+          "Ben Shelton": 1.87,
+          "Jakub Mensik": 1.98
+        },
+        "sport888": {
+          "Ben Shelton": 1.85,
+          "Jakub Mensik": 1.95
+        },
+        "williamhill": {
+          "Ben Shelton": 1.85,
+          "Jakub Mensik": 1.95
+        },
+        "betrivers": {
+          "Ben Shelton": 1.83,
+          "Jakub Mensik": 1.95
+        },
+        "leovegas_se": {
+          "Ben Shelton": 1.83,
+          "Jakub Mensik": 1.95
+        },
+        "pmu_fr": {
+          "Ben Shelton": 1.8,
+          "Jakub Mensik": 1.92
+        },
+        "unibet_nl": {
+          "Ben Shelton": 1.83,
+          "Jakub Mensik": 1.95
+        },
+        "unibet_se": {
+          "Ben Shelton": 1.83,
+          "Jakub Mensik": 1.95
+        },
+        "matchbook": {
+          "Ben Shelton": 1.8,
+          "Jakub Mensik": 1.96
+        },
+        "fanduel": {
+          "Ben Shelton": 1.83,
+          "Jakub Mensik": 2.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Jakub Mensik",
+        "p2_name": "Ben Shelton",
+        "p1_prob": 0.4886,
+        "p2_prob": 0.5114,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "low",
+        "p1_edge": 0.0124,
+        "p2_edge": -0.0205
+      },
+      "collected_at": "2026-08-10T09:14:51.031111+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-10T01:21:00.481047+00:00"
+  "last_updated": "2026-08-10T09:14:51.039638+00:00"
 }
