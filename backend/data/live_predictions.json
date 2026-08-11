@@ -31321,7 +31321,755 @@
       },
       "collected_at": "2026-08-10T09:14:51.031111+00:00",
       "result": null
+    },
+    "2849c8e4f691b7da4db027049604d279": {
+      "match_id": "2849c8e4f691b7da4db027049604d279",
+      "commence_time": "2026-08-11T14:45:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Alexander Shevchenko",
+      "player2": "Pablo Llamas Ruiz",
+      "bookmakers": {
+        "pinnacle": {
+          "Alexander Shevchenko": 1.07,
+          "Pablo Llamas Ruiz": 13.86
+        },
+        "nordicbet": {
+          "Alexander Shevchenko": 1.03,
+          "Pablo Llamas Ruiz": 8.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Shevchenko",
+        "p2_name": "Pablo Llamas Ruiz",
+        "p1_prob": 0.6009,
+        "p2_prob": 0.3991,
+        "predicted_winner": "Alexander Shevchenko",
+        "confidence": "high",
+        "p1_edge": -0.3337,
+        "p2_edge": 0.3269
+      },
+      "collected_at": "2026-08-11T16:54:18.402487+00:00",
+      "result": null
+    },
+    "77e458589431d83ff5b898c5f96d1a13": {
+      "match_id": "77e458589431d83ff5b898c5f96d1a13",
+      "commence_time": "2026-08-11T15:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Christopher O'Connell",
+      "player2": "Dane Sweeny",
+      "bookmakers": {
+        "pinnacle": {
+          "Christopher O'Connell": 1.62,
+          "Dane Sweeny": 2.38
+        },
+        "nordicbet": {
+          "Christopher O'Connell": 1.57,
+          "Dane Sweeny": 2.2
+        }
+      },
+      "prediction": {
+        "p1_name": "Christopher O'Connell",
+        "p2_name": "Dane Sweeny",
+        "p1_prob": 0.5865,
+        "p2_prob": 0.4135,
+        "predicted_winner": "Christopher O'Connell",
+        "confidence": "medium",
+        "p1_edge": -0.0308,
+        "p2_edge": -0.0067
+      },
+      "collected_at": "2026-08-11T16:54:18.453267+00:00",
+      "result": null
+    },
+    "69daea59d60cff2089090ea412633f17": {
+      "match_id": "69daea59d60cff2089090ea412633f17",
+      "commence_time": "2026-08-11T18:30:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Dusan Lajovic",
+      "player2": "Benjamin Bonzi",
+      "bookmakers": {
+        "pinnacle": {
+          "Benjamin Bonzi": 1.56,
+          "Dusan Lajovic": 2.53
+        },
+        "nordicbet": {
+          "Benjamin Bonzi": 1.46,
+          "Dusan Lajovic": 2.55
+        },
+        "betonlineag": {
+          "Benjamin Bonzi": 1.51,
+          "Dusan Lajovic": 2.69
+        },
+        "marathonbet": {
+          "Benjamin Bonzi": 1.46,
+          "Dusan Lajovic": 2.49
+        },
+        "lowvig": {
+          "Benjamin Bonzi": 1.51,
+          "Dusan Lajovic": 2.69
+        },
+        "gtbets": {
+          "Benjamin Bonzi": 1.45,
+          "Dusan Lajovic": 2.61
+        }
+      },
+      "prediction": {
+        "p1_name": "Dusan Lajovic",
+        "p2_name": "Benjamin Bonzi",
+        "p1_prob": 0.3592,
+        "p2_prob": 0.6408,
+        "predicted_winner": "Benjamin Bonzi",
+        "confidence": "high",
+        "p1_edge": -0.0125,
+        "p2_edge": -0.0002
+      },
+      "collected_at": "2026-08-11T16:54:18.504084+00:00",
+      "result": null
+    },
+    "9a89ab0545c89f9506176828712d72ad": {
+      "match_id": "9a89ab0545c89f9506176828712d72ad",
+      "commence_time": "2026-08-11T18:30:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Giovanni Mpetshi Perricard",
+      "player2": "Trevor Svajda",
+      "bookmakers": {
+        "pinnacle": {
+          "Giovanni Mpetshi Perricard": 1.56,
+          "Trevor Svajda": 2.53
+        },
+        "nordicbet": {
+          "Giovanni Mpetshi Perricard": 1.52,
+          "Trevor Svajda": 2.36
+        },
+        "betonlineag": {
+          "Giovanni Mpetshi Perricard": 1.61,
+          "Trevor Svajda": 2.45
+        },
+        "lowvig": {
+          "Giovanni Mpetshi Perricard": 1.61,
+          "Trevor Svajda": 2.45
+        },
+        "gtbets": {
+          "Giovanni Mpetshi Perricard": 1.38,
+          "Trevor Svajda": 3.08
+        }
+      },
+      "prediction": {
+        "p1_name": "Giovanni Mpetshi Perricard",
+        "p2_name": "Zachary Svajda",
+        "p1_prob": 0.621,
+        "p2_prob": 0.379,
+        "predicted_winner": "Giovanni Mpetshi Perricard",
+        "confidence": "high",
+        "p1_edge": -0.0001,
+        "p2_edge": 0.0543
+      },
+      "collected_at": "2026-08-11T16:54:18.554797+00:00",
+      "result": null
+    },
+    "47b748fd15cde03265af5a3c69250811": {
+      "match_id": "47b748fd15cde03265af5a3c69250811",
+      "commence_time": "2026-08-11T18:30:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Luca Van Assche",
+      "player2": "Gustavo Heide",
+      "bookmakers": {
+        "pinnacle": {
+          "Gustavo Heide": 3.85,
+          "Luca Van Assche": 1.28
+        },
+        "nordicbet": {
+          "Gustavo Heide": 3.55,
+          "Luca Van Assche": 1.25
+        },
+        "betonlineag": {
+          "Gustavo Heide": 3.86,
+          "Luca Van Assche": 1.28
+        },
+        "lowvig": {
+          "Gustavo Heide": 3.86,
+          "Luca Van Assche": 1.28
+        },
+        "gtbets": {
+          "Gustavo Heide": 3.65,
+          "Luca Van Assche": 1.33
+        }
+      },
+      "prediction": {
+        "p1_name": "Luca Van Assche",
+        "p2_name": "Gustavo Heide",
+        "p1_prob": 0.5813,
+        "p2_prob": 0.4187,
+        "predicted_winner": "Luca Van Assche",
+        "confidence": "medium",
+        "p1_edge": -0.1706,
+        "p2_edge": 0.1596
+      },
+      "collected_at": "2026-08-11T16:54:18.605367+00:00",
+      "result": null
+    },
+    "a7fc988ecdbe1712588d3728945df4bb": {
+      "match_id": "a7fc988ecdbe1712588d3728945df4bb",
+      "commence_time": "2026-08-11T18:30:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Quentin Halys",
+      "player2": "Soonwoo Kwon",
+      "bookmakers": {
+        "pinnacle": {
+          "Quentin Halys": 1.69,
+          "Soonwoo Kwon": 2.23
+        },
+        "nordicbet": {
+          "Quentin Halys": 1.63,
+          "Soonwoo Kwon": 2.14
+        },
+        "betonlineag": {
+          "Quentin Halys": 1.69,
+          "Soonwoo Kwon": 2.24
+        },
+        "lowvig": {
+          "Quentin Halys": 1.69,
+          "Soonwoo Kwon": 2.24
+        },
+        "gtbets": {
+          "Quentin Halys": 1.7,
+          "Soonwoo Kwon": 2.16
+        }
+      },
+      "prediction": {
+        "p1_name": "Quentin Halys",
+        "p2_name": "Soonwoo Kwon",
+        "p1_prob": 0.6921,
+        "p2_prob": 0.3079,
+        "predicted_winner": "Quentin Halys",
+        "confidence": "high",
+        "p1_edge": 0.1039,
+        "p2_edge": -0.1385
+      },
+      "collected_at": "2026-08-11T16:54:18.656107+00:00",
+      "result": null
+    },
+    "e7ad0e57ad3918d0ae3059f6e02b92b1": {
+      "match_id": "e7ad0e57ad3918d0ae3059f6e02b92b1",
+      "commence_time": "2026-08-11T20:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Kei Nishikori",
+      "player2": "Francisco Comesana",
+      "bookmakers": {
+        "pinnacle": {
+          "Francisco Comesana": 1.87,
+          "Kei Nishikori": 1.99
+        },
+        "nordicbet": {
+          "Francisco Comesana": 1.77,
+          "Kei Nishikori": 1.94
+        },
+        "betonlineag": {
+          "Francisco Comesana": 1.83,
+          "Kei Nishikori": 2.01
+        },
+        "marathonbet": {
+          "Francisco Comesana": 1.78,
+          "Kei Nishikori": 1.9
+        },
+        "lowvig": {
+          "Francisco Comesana": 1.83,
+          "Kei Nishikori": 2.01
+        },
+        "gtbets": {
+          "Francisco Comesana": 1.74,
+          "Kei Nishikori": 2.11
+        }
+      },
+      "prediction": {
+        "p1_name": "Kei Nishikori",
+        "p2_name": "Francisco Comesana",
+        "p1_prob": 0.6624,
+        "p2_prob": 0.3376,
+        "predicted_winner": "Kei Nishikori",
+        "confidence": "high",
+        "p1_edge": 0.1885,
+        "p2_edge": -0.1972
+      },
+      "collected_at": "2026-08-11T16:54:18.707600+00:00",
+      "result": null
+    },
+    "5e0670500517324c26122ec75540fdb8": {
+      "match_id": "5e0670500517324c26122ec75540fdb8",
+      "commence_time": "2026-08-11T20:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Jaime Faria",
+      "player2": "Nikoloz Basilashvili",
+      "bookmakers": {
+        "pinnacle": {
+          "Jaime Faria": 1.46,
+          "Nikoloz Basilashvili": 2.82
+        },
+        "nordicbet": {
+          "Jaime Faria": 1.41,
+          "Nikoloz Basilashvili": 2.7
+        },
+        "betonlineag": {
+          "Jaime Faria": 1.45,
+          "Nikoloz Basilashvili": 2.86
+        },
+        "marathonbet": {
+          "Jaime Faria": 1.41,
+          "Nikoloz Basilashvili": 2.64
+        },
+        "lowvig": {
+          "Jaime Faria": 1.45,
+          "Nikoloz Basilashvili": 2.86
+        },
+        "gtbets": {
+          "Jaime Faria": 1.45,
+          "Nikoloz Basilashvili": 2.71
+        }
+      },
+      "prediction": {
+        "p1_name": "Jaime Faria",
+        "p2_name": "Nikoloz Basilashvili",
+        "p1_prob": 0.5435,
+        "p2_prob": 0.4565,
+        "predicted_winner": "Jaime Faria",
+        "confidence": "medium",
+        "p1_edge": -0.1414,
+        "p2_edge": 0.1068
+      },
+      "collected_at": "2026-08-11T16:54:18.758687+00:00",
+      "result": null
+    },
+    "961acb4705be0ba96b4124a7975a9720": {
+      "match_id": "961acb4705be0ba96b4124a7975a9720",
+      "commence_time": "2026-08-11T20:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Marco Trungelliti",
+      "player2": "Sebastian Ofner",
+      "bookmakers": {
+        "pinnacle": {
+          "Marco Trungelliti": 2.37,
+          "Sebastian Ofner": 1.62
+        },
+        "nordicbet": {
+          "Marco Trungelliti": 2.24,
+          "Sebastian Ofner": 1.58
+        },
+        "betonlineag": {
+          "Marco Trungelliti": 2.42,
+          "Sebastian Ofner": 1.62
+        },
+        "marathonbet": {
+          "Marco Trungelliti": 2.28,
+          "Sebastian Ofner": 1.54
+        },
+        "lowvig": {
+          "Marco Trungelliti": 2.42,
+          "Sebastian Ofner": 1.62
+        },
+        "gtbets": {
+          "Marco Trungelliti": 2.36,
+          "Sebastian Ofner": 1.65
+        }
+      },
+      "prediction": {
+        "p1_name": "Marco Trungelliti",
+        "p2_name": "Sebastian Ofner",
+        "p1_prob": 0.3449,
+        "p2_prob": 0.6551,
+        "predicted_winner": "Sebastian Ofner",
+        "confidence": "high",
+        "p1_edge": -0.0683,
+        "p2_edge": 0.049
+      },
+      "collected_at": "2026-08-11T16:54:18.809998+00:00",
+      "result": null
+    },
+    "d5f595af46c1f8fe5d44bef1ae5810a1": {
+      "match_id": "d5f595af46c1f8fe5d44bef1ae5810a1",
+      "commence_time": "2026-08-11T20:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Moez Echargui",
+      "player2": "Michael Zheng",
+      "bookmakers": {
+        "pinnacle": {
+          "Michael Zheng": 1.09,
+          "Moez Echargui": 7.73
+        },
+        "nordicbet": {
+          "Michael Zheng": 1.09,
+          "Moez Echargui": 6.2
+        },
+        "marathonbet": {
+          "Michael Zheng": 1.07,
+          "Moez Echargui": 6.4
+        },
+        "betonlineag": {
+          "Michael Zheng": 1.1,
+          "Moez Echargui": 7.5
+        },
+        "lowvig": {
+          "Michael Zheng": 1.1,
+          "Moez Echargui": 7.5
+        }
+      },
+      "prediction": {
+        "p1_name": "Moez Echargui",
+        "p2_name": "Michael Zheng",
+        "p1_prob": 0.2997,
+        "p2_prob": 0.7003,
+        "predicted_winner": "Michael Zheng",
+        "confidence": "high",
+        "p1_edge": 0.1703,
+        "p2_edge": -0.2088
+      },
+      "collected_at": "2026-08-11T16:54:18.860689+00:00",
+      "result": null
+    },
+    "152ae29ea8716f886ae43d4a796e1635": {
+      "match_id": "152ae29ea8716f886ae43d4a796e1635",
+      "commence_time": "2026-08-11T21:30:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Alexei Popyrin",
+      "player2": "Titouan Droguet",
+      "bookmakers": {
+        "pinnacle": {
+          "Alexei Popyrin": 1.76,
+          "Titouan Droguet": 2.11
+        },
+        "gtbets": {
+          "Alexei Popyrin": 1.71,
+          "Titouan Droguet": 2.15
+        },
+        "marathonbet": {
+          "Alexei Popyrin": 1.69,
+          "Titouan Droguet": 2.02
+        },
+        "nordicbet": {
+          "Alexei Popyrin": 1.69,
+          "Titouan Droguet": 2.05
+        },
+        "betonlineag": {
+          "Alexei Popyrin": 1.74,
+          "Titouan Droguet": 2.15
+        },
+        "lowvig": {
+          "Alexei Popyrin": 1.74,
+          "Titouan Droguet": 2.15
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexei Popyrin",
+        "p2_name": "Titouan Droguet",
+        "p1_prob": 0.5596,
+        "p2_prob": 0.4404,
+        "predicted_winner": "Alexei Popyrin",
+        "confidence": "medium",
+        "p1_edge": -0.0086,
+        "p2_edge": -0.0247
+      },
+      "collected_at": "2026-08-11T16:54:18.952813+00:00",
+      "result": null
+    },
+    "d740c69e22d8bea5a9178c4e8243f2e3": {
+      "match_id": "d740c69e22d8bea5a9178c4e8243f2e3",
+      "commence_time": "2026-08-11T21:30:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Billy Harris",
+      "player2": "Kyrian Jacquet",
+      "bookmakers": {
+        "pinnacle": {
+          "Billy Harris": 3.33,
+          "Kyrian Jacquet": 1.35
+        },
+        "gtbets": {
+          "Billy Harris": 3.22,
+          "Kyrian Jacquet": 1.35
+        },
+        "nordicbet": {
+          "Billy Harris": 3.15,
+          "Kyrian Jacquet": 1.31
+        },
+        "lowvig": {
+          "Billy Harris": 3.4,
+          "Kyrian Jacquet": 1.34
+        },
+        "betonlineag": {
+          "Billy Harris": 3.4,
+          "Kyrian Jacquet": 1.34
+        }
+      },
+      "prediction": {
+        "p1_name": "Billy Harris",
+        "p2_name": "Kyrian Jacquet",
+        "p1_prob": 0.4913,
+        "p2_prob": 0.5087,
+        "predicted_winner": "Kyrian Jacquet",
+        "confidence": "low",
+        "p1_edge": 0.1972,
+        "p2_edge": -0.232
+      },
+      "collected_at": "2026-08-11T16:54:19.004789+00:00",
+      "result": null
+    },
+    "c61a191f053251a8c0594559006a26a1": {
+      "match_id": "c61a191f053251a8c0594559006a26a1",
+      "commence_time": "2026-08-11T21:30:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Sho Shimabukuro",
+      "player2": "Hugo Dellien",
+      "bookmakers": {
+        "pinnacle": {
+          "Hugo Dellien": 4.79,
+          "Sho Shimabukuro": 1.2
+        },
+        "marathonbet": {
+          "Hugo Dellien": 4.4,
+          "Sho Shimabukuro": 1.16
+        },
+        "nordicbet": {
+          "Hugo Dellien": 4.1,
+          "Sho Shimabukuro": 1.2
+        },
+        "gtbets": {
+          "Hugo Dellien": 4.59,
+          "Sho Shimabukuro": 1.18
+        },
+        "lowvig": {
+          "Hugo Dellien": 4.81,
+          "Sho Shimabukuro": 1.2
+        },
+        "betonlineag": {
+          "Hugo Dellien": 4.81,
+          "Sho Shimabukuro": 1.2
+        }
+      },
+      "prediction": {
+        "p1_name": "Sho Shimabukuro",
+        "p2_name": "Hugo Dellien",
+        "p1_prob": 0.566,
+        "p2_prob": 0.434,
+        "predicted_winner": "Sho Shimabukuro",
+        "confidence": "medium",
+        "p1_edge": -0.2673,
+        "p2_edge": 0.2261
+      },
+      "collected_at": "2026-08-11T16:54:19.056188+00:00",
+      "result": null
+    },
+    "3676aaf3ae8e1e9940833843724a69ad": {
+      "match_id": "3676aaf3ae8e1e9940833843724a69ad",
+      "commence_time": "2026-08-11T21:30:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Hugo Gaston",
+      "player2": "Nicolai Budkov Kjaer",
+      "bookmakers": {
+        "pinnacle": {
+          "Hugo Gaston": 1.74,
+          "Nicolai Budkov Kjaer": 2.13
+        },
+        "lowvig": {
+          "Hugo Gaston": 1.75,
+          "Nicolai Budkov Kjaer": 2.14
+        },
+        "nordicbet": {
+          "Hugo Gaston": 1.71,
+          "Nicolai Budkov Kjaer": 2.02
+        },
+        "gtbets": {
+          "Hugo Gaston": 1.79,
+          "Nicolai Budkov Kjaer": 2.03
+        },
+        "betonlineag": {
+          "Hugo Gaston": 1.75,
+          "Nicolai Budkov Kjaer": 2.14
+        }
+      },
+      "prediction": {
+        "p1_name": "Hugo Gaston",
+        "p2_name": "Nicolai Budkov Kjaer",
+        "p1_prob": 0.4786,
+        "p2_prob": 0.5214,
+        "predicted_winner": "Nicolai Budkov Kjaer",
+        "confidence": "low",
+        "p1_edge": -0.0801,
+        "p2_edge": 0.0541
+      },
+      "collected_at": "2026-08-11T16:54:19.107793+00:00",
+      "result": null
+    },
+    "96d04e74c6877e5d4e6da85d8350c728": {
+      "match_id": "96d04e74c6877e5d4e6da85d8350c728",
+      "commence_time": "2026-08-11T23:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Aleksandar Vukic",
+      "player2": "Darwin Blanch",
+      "bookmakers": {
+        "pinnacle": {
+          "Aleksandar Vukic": 1.65,
+          "Darwin Blanch": 2.28
+        },
+        "gtbets": {
+          "Aleksandar Vukic": 1.69,
+          "Darwin Blanch": 2.17
+        },
+        "lowvig": {
+          "Aleksandar Vukic": 1.69,
+          "Darwin Blanch": 2.25
+        },
+        "betonlineag": {
+          "Aleksandar Vukic": 1.69,
+          "Darwin Blanch": 2.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Aleksandar Vukic",
+        "p2_name": "Darwin Blanch",
+        "p1_prob": 0.5799,
+        "p2_prob": 0.4201,
+        "predicted_winner": "Aleksandar Vukic",
+        "confidence": "medium",
+        "p1_edge": -0.0118,
+        "p2_edge": -0.0185
+      },
+      "collected_at": "2026-08-11T16:54:19.159373+00:00",
+      "result": null
+    },
+    "1deabebdcfbbdf50f921bfd02608ba4d": {
+      "match_id": "1deabebdcfbbdf50f921bfd02608ba4d",
+      "commence_time": "2026-08-11T23:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Mark Lajal",
+      "player2": "Dalibor Svrcina",
+      "bookmakers": {
+        "pinnacle": {
+          "Dalibor Svrcina": 1.89,
+          "Mark Lajal": 1.94
+        },
+        "gtbets": {
+          "Dalibor Svrcina": 1.79,
+          "Mark Lajal": 2.06
+        },
+        "betonlineag": {
+          "Dalibor Svrcina": 1.87,
+          "Mark Lajal": 1.95
+        },
+        "lowvig": {
+          "Dalibor Svrcina": 1.87,
+          "Mark Lajal": 1.95
+        }
+      },
+      "prediction": {
+        "p1_name": "Mark Lajal",
+        "p2_name": "Dalibor Svrcina",
+        "p1_prob": 0.4655,
+        "p2_prob": 0.5345,
+        "predicted_winner": "Dalibor Svrcina",
+        "confidence": "low",
+        "p1_edge": -0.0199,
+        "p2_edge": 0.0054
+      },
+      "collected_at": "2026-08-11T16:54:19.211010+00:00",
+      "result": null
+    },
+    "e84fd7b49e7d37b8c96c030856eafffe": {
+      "match_id": "e84fd7b49e7d37b8c96c030856eafffe",
+      "commence_time": "2026-08-11T23:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Marcos Giron",
+      "player2": "Henrique Rocha",
+      "bookmakers": {
+        "pinnacle": {
+          "Henrique Rocha": 2.83,
+          "Marcos Giron": 1.45
+        },
+        "marathonbet": {
+          "Henrique Rocha": 2.64,
+          "Marcos Giron": 1.41
+        },
+        "gtbets": {
+          "Henrique Rocha": 2.8,
+          "Marcos Giron": 1.51
+        },
+        "betonlineag": {
+          "Henrique Rocha": 2.89,
+          "Marcos Giron": 1.44
+        },
+        "lowvig": {
+          "Henrique Rocha": 2.89,
+          "Marcos Giron": 1.44
+        }
+      },
+      "prediction": {
+        "p1_name": "Marcos Giron",
+        "p2_name": "Henrique Rocha",
+        "p1_prob": 0.7203,
+        "p2_prob": 0.2797,
+        "predicted_winner": "Marcos Giron",
+        "confidence": "high",
+        "p1_edge": 0.058,
+        "p2_edge": -0.0663
+      },
+      "collected_at": "2026-08-11T16:54:19.262956+00:00",
+      "result": null
+    },
+    "f24b0f912e143f49c0b9880cc3d226d5": {
+      "match_id": "f24b0f912e143f49c0b9880cc3d226d5",
+      "commence_time": "2026-08-11T23:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Nicolas Mejia",
+      "player2": "Jacob Fearnley",
+      "bookmakers": {
+        "pinnacle": {
+          "Jacob Fearnley": 1.28,
+          "Nicolas Mejia": 3.83
+        },
+        "marathonbet": {
+          "Jacob Fearnley": 1.26,
+          "Nicolas Mejia": 3.4
+        },
+        "gtbets": {
+          "Jacob Fearnley": 1.32,
+          "Nicolas Mejia": 3.64
+        },
+        "betonlineag": {
+          "Jacob Fearnley": 1.28,
+          "Nicolas Mejia": 3.86
+        },
+        "lowvig": {
+          "Jacob Fearnley": 1.28,
+          "Nicolas Mejia": 3.86
+        }
+      },
+      "prediction": {
+        "p1_name": "Nicolas Mejia",
+        "p2_name": "Jacob Fearnley",
+        "p1_prob": 0.3322,
+        "p2_prob": 0.6678,
+        "predicted_winner": "Jacob Fearnley",
+        "confidence": "high",
+        "p1_edge": 0.0731,
+        "p2_edge": -0.0898
+      },
+      "collected_at": "2026-08-11T16:54:19.315083+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-10T16:50:11.579512+00:00"
+  "last_updated": "2026-08-11T16:54:19.323648+00:00"
 }
