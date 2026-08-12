@@ -31092,7 +31092,11 @@
         "p2_edge": -0.1345
       },
       "collected_at": "2026-08-09T08:36:45.230251+00:00",
-      "result": null
+      "result": {
+        "winner": "Brandon Nakashima",
+        "correct": true,
+        "settled_at": "2026-08-12T01:26:43.040535+00:00"
+      }
     },
     "f2a8d16d459d977d7535dcfd2d41123e": {
       "match_id": "f2a8d16d459d977d7535dcfd2d41123e",
@@ -31190,7 +31194,11 @@
         "p2_edge": 0.3089
       },
       "collected_at": "2026-08-10T01:21:00.472253+00:00",
-      "result": null
+      "result": {
+        "winner": "Learner Tien",
+        "correct": true,
+        "settled_at": "2026-08-12T01:26:43.119517+00:00"
+      }
     },
     "ec5999036ea917ac4a6bf1548d7f6457": {
       "match_id": "ec5999036ea917ac4a6bf1548d7f6457",
@@ -31320,7 +31328,11 @@
         "p2_edge": -0.0205
       },
       "collected_at": "2026-08-10T09:14:51.031111+00:00",
-      "result": null
+      "result": {
+        "winner": "Ben Shelton",
+        "correct": true,
+        "settled_at": "2026-08-12T01:26:43.080266+00:00"
+      }
     },
     "2849c8e4f691b7da4db027049604d279": {
       "match_id": "2849c8e4f691b7da4db027049604d279",
@@ -32069,7 +32081,163 @@
       },
       "collected_at": "2026-08-11T16:54:19.315083+00:00",
       "result": null
+    },
+    "d4a851573fc10eac9ad57a7333331540": {
+      "match_id": "d4a851573fc10eac9ad57a7333331540",
+      "commence_time": "2026-08-12T22:00:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Rafael Jodar",
+      "player2": "Brandon Nakashima",
+      "bookmakers": {
+        "pinnacle": {
+          "Brandon Nakashima": 2.87,
+          "Rafael Jodar": 1.47
+        },
+        "marathonbet": {
+          "Brandon Nakashima": 2.94,
+          "Rafael Jodar": 1.4
+        },
+        "betfair_ex_eu": {
+          "Brandon Nakashima": 3.0,
+          "Rafael Jodar": 1.48
+        },
+        "onexbet": {
+          "Brandon Nakashima": 2.98,
+          "Rafael Jodar": 1.42
+        },
+        "draftkings": {
+          "Brandon Nakashima": 2.87,
+          "Rafael Jodar": 1.43
+        },
+        "coolbet": {
+          "Brandon Nakashima": 2.95,
+          "Rafael Jodar": 1.45
+        },
+        "unibet_fr": {
+          "Brandon Nakashima": 2.65,
+          "Rafael Jodar": 1.35
+        },
+        "nordicbet": {
+          "Brandon Nakashima": 2.95,
+          "Rafael Jodar": 1.41
+        },
+        "betclic_fr": {
+          "Brandon Nakashima": 2.7,
+          "Rafael Jodar": 1.37
+        },
+        "betsson": {
+          "Brandon Nakashima": 2.95,
+          "Rafael Jodar": 1.41
+        },
+        "winamax_fr": {
+          "Brandon Nakashima": 2.7,
+          "Rafael Jodar": 1.36
+        },
+        "winamax_de": {
+          "Brandon Nakashima": 2.9,
+          "Rafael Jodar": 1.41
+        },
+        "matchbook": {
+          "Brandon Nakashima": 3.0,
+          "Rafael Jodar": 1.48
+        },
+        "gtbets": {
+          "Brandon Nakashima": 2.89,
+          "Rafael Jodar": 1.42
+        },
+        "betmgm": {
+          "Brandon Nakashima": 2.8,
+          "Rafael Jodar": 1.44
+        },
+        "bovada": {
+          "Brandon Nakashima": 2.9,
+          "Rafael Jodar": 1.43
+        },
+        "tipico_de": {
+          "Brandon Nakashima": 2.9,
+          "Rafael Jodar": 1.4
+        },
+        "williamhill": {
+          "Brandon Nakashima": 2.75,
+          "Rafael Jodar": 1.44
+        },
+        "sport888": {
+          "Brandon Nakashima": 2.75,
+          "Rafael Jodar": 1.44
+        },
+        "lowvig": {
+          "Brandon Nakashima": 2.86,
+          "Rafael Jodar": 1.45
+        },
+        "betonlineag": {
+          "Brandon Nakashima": 2.86,
+          "Rafael Jodar": 1.45
+        },
+        "betus": {
+          "Brandon Nakashima": 2.9,
+          "Rafael Jodar": 1.43
+        },
+        "betanysports": {
+          "Brandon Nakashima": 2.9,
+          "Rafael Jodar": 1.43
+        }
+      },
+      "prediction": {
+        "p1_name": "Rafael Jodar",
+        "p2_name": "Brandon Nakashima",
+        "p1_prob": 0.58,
+        "p2_prob": 0.42,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "medium",
+        "p1_edge": -0.0957,
+        "p2_edge": 0.0867
+      },
+      "collected_at": "2026-08-12T01:26:51.435974+00:00",
+      "result": null
+    },
+    "5be7706779ccf641f13f3edba5699e53": {
+      "match_id": "5be7706779ccf641f13f3edba5699e53",
+      "commence_time": "2026-08-12T01:30:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "JJ Wolf",
+      "player2": "Shintaro Mochizuki",
+      "bookmakers": {
+        "pinnacle": {
+          "JJ Wolf": 1.54,
+          "Shintaro Mochizuki": 2.57
+        },
+        "nordicbet": {
+          "JJ Wolf": 1.55,
+          "Shintaro Mochizuki": 2.31
+        },
+        "marathonbet": {
+          "JJ Wolf": 1.47,
+          "Shintaro Mochizuki": 2.46
+        },
+        "lowvig": {
+          "JJ Wolf": 1.53,
+          "Shintaro Mochizuki": 2.65
+        },
+        "betonlineag": {
+          "JJ Wolf": 1.53,
+          "Shintaro Mochizuki": 2.65
+        }
+      },
+      "prediction": {
+        "p1_name": "J J Wolf",
+        "p2_name": "Shintaro Mochizuki",
+        "p1_prob": 0.6301,
+        "p2_prob": 0.3699,
+        "predicted_winner": "J J Wolf",
+        "confidence": "high",
+        "p1_edge": -0.0151,
+        "p2_edge": -0.0075
+      },
+      "collected_at": "2026-08-12T01:26:51.542875+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-11T16:54:19.323648+00:00"
+  "last_updated": "2026-08-12T01:26:51.550103+00:00"
 }
