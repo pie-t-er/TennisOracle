@@ -32237,7 +32237,361 @@
       },
       "collected_at": "2026-08-12T01:26:51.542875+00:00",
       "result": null
+    },
+    "5b5955a95ae38a491ba8014427c32fcd": {
+      "match_id": "5b5955a95ae38a491ba8014427c32fcd",
+      "commence_time": "2026-08-12T23:30:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Learner Tien",
+      "player2": "Ben Shelton",
+      "bookmakers": {
+        "pinnacle": {
+          "Ben Shelton": 1.53,
+          "Learner Tien": 2.68
+        },
+        "onexbet": {
+          "Ben Shelton": 1.51,
+          "Learner Tien": 2.64
+        },
+        "betsson": {
+          "Ben Shelton": 1.5,
+          "Learner Tien": 2.6
+        },
+        "betfair_ex_eu": {
+          "Ben Shelton": 1.56,
+          "Learner Tien": 2.76
+        },
+        "matchbook": {
+          "Ben Shelton": 1.55,
+          "Learner Tien": 2.76
+        },
+        "winamax_fr": {
+          "Ben Shelton": 1.5,
+          "Learner Tien": 2.65
+        },
+        "draftkings": {
+          "Ben Shelton": 1.49,
+          "Learner Tien": 2.65
+        },
+        "sport888": {
+          "Ben Shelton": 1.53,
+          "Learner Tien": 2.5
+        },
+        "nordicbet": {
+          "Ben Shelton": 1.5,
+          "Learner Tien": 2.6
+        },
+        "marathonbet": {
+          "Ben Shelton": 1.49,
+          "Learner Tien": 2.61
+        },
+        "unibet_fr": {
+          "Ben Shelton": 1.48,
+          "Learner Tien": 2.55
+        },
+        "winamax_de": {
+          "Ben Shelton": 1.5,
+          "Learner Tien": 2.65
+        },
+        "coolbet": {
+          "Ben Shelton": 1.53,
+          "Learner Tien": 2.65
+        },
+        "bovada": {
+          "Ben Shelton": 1.5,
+          "Learner Tien": 2.65
+        },
+        "williamhill": {
+          "Ben Shelton": 1.53,
+          "Learner Tien": 2.5
+        },
+        "gtbets": {
+          "Ben Shelton": 1.5,
+          "Learner Tien": 2.58
+        },
+        "tipico_de": {
+          "Ben Shelton": 1.47,
+          "Learner Tien": 2.6
+        },
+        "betclic_fr": {
+          "Ben Shelton": 1.51,
+          "Learner Tien": 2.65
+        },
+        "betmgm": {
+          "Ben Shelton": 1.5,
+          "Learner Tien": 2.54
+        },
+        "betanysports": {
+          "Ben Shelton": 1.5,
+          "Learner Tien": 2.7
+        },
+        "fanduel": {
+          "Ben Shelton": 1.49,
+          "Learner Tien": 2.68
+        },
+        "lowvig": {
+          "Ben Shelton": 1.56,
+          "Learner Tien": 2.52
+        },
+        "pmu_fr": {
+          "Ben Shelton": 1.5,
+          "Learner Tien": 2.45
+        },
+        "unibet_nl": {
+          "Ben Shelton": 1.53,
+          "Learner Tien": 2.5
+        },
+        "betrivers": {
+          "Ben Shelton": 1.53,
+          "Learner Tien": 2.5
+        },
+        "unibet_se": {
+          "Ben Shelton": 1.53,
+          "Learner Tien": 2.5
+        },
+        "leovegas_se": {
+          "Ben Shelton": 1.53,
+          "Learner Tien": 2.5
+        },
+        "betonlineag": {
+          "Ben Shelton": 1.56,
+          "Learner Tien": 2.52
+        },
+        "betus": {
+          "Ben Shelton": 1.56,
+          "Learner Tien": 2.5
+        }
+      },
+      "prediction": {
+        "p1_name": "Learner Tien",
+        "p2_name": "Ben Shelton",
+        "p1_prob": 0.4693,
+        "p2_prob": 0.5307,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "low",
+        "p1_edge": 0.107,
+        "p2_edge": -0.1103
+      },
+      "collected_at": "2026-08-12T09:07:51.153741+00:00",
+      "result": null
+    },
+    "808ec7c6381191dcc78c071c7a8bf4f8": {
+      "match_id": "808ec7c6381191dcc78c071c7a8bf4f8",
+      "commence_time": "2026-08-12T15:30:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Alexander Shevchenko",
+      "player2": "Christopher O'Connell",
+      "bookmakers": {
+        "pinnacle": {
+          "Alexander Shevchenko": 1.91,
+          "Christopher O'Connell": 1.93
+        },
+        "nordicbet": {
+          "Alexander Shevchenko": 1.88,
+          "Christopher O'Connell": 1.83
+        },
+        "gtbets": {
+          "Alexander Shevchenko": 1.93,
+          "Christopher O'Connell": 1.88
+        },
+        "marathonbet": {
+          "Alexander Shevchenko": 1.87,
+          "Christopher O'Connell": 1.81
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Shevchenko",
+        "p2_name": "Christopher O'Connell",
+        "p1_prob": 0.5807,
+        "p2_prob": 0.4193,
+        "predicted_winner": "Alexander Shevchenko",
+        "confidence": "medium",
+        "p1_edge": 0.0626,
+        "p2_edge": -0.0988
+      },
+      "collected_at": "2026-08-12T09:07:51.270513+00:00",
+      "result": null
+    },
+    "ea27177b0847a085130481db572c22c7": {
+      "match_id": "ea27177b0847a085130481db572c22c7",
+      "commence_time": "2026-08-12T15:30:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Chak Lam Coleman Wong",
+      "player2": "Otto Virtanen",
+      "bookmakers": {
+        "pinnacle": {
+          "Chak Lam Coleman Wong": 2.03,
+          "Otto Virtanen": 1.81
+        },
+        "nordicbet": {
+          "Chak Lam Coleman Wong": 1.99,
+          "Otto Virtanen": 1.73
+        },
+        "marathonbet": {
+          "Chak Lam Coleman Wong": 1.97,
+          "Otto Virtanen": 1.73
+        }
+      },
+      "prediction": {
+        "p1_name": "Hong Kit Jack Wong",
+        "p2_name": "Otto Virtanen",
+        "p1_prob": 0.3893,
+        "p2_prob": 0.6107,
+        "predicted_winner": "Otto Virtanen",
+        "confidence": "high",
+        "p1_edge": -0.1033,
+        "p2_edge": 0.0582
+      },
+      "collected_at": "2026-08-12T09:07:51.323310+00:00",
+      "result": null
+    },
+    "739815c5d05a7b93d3c2c6038c301e44": {
+      "match_id": "739815c5d05a7b93d3c2c6038c301e44",
+      "commence_time": "2026-08-12T15:30:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Luca Van Assche",
+      "player2": "Dusan Lajovic",
+      "bookmakers": {
+        "pinnacle": {
+          "Dusan Lajovic": 3.03,
+          "Luca Van Assche": 1.4
+        },
+        "nordicbet": {
+          "Dusan Lajovic": 2.85,
+          "Luca Van Assche": 1.37
+        },
+        "gtbets": {
+          "Dusan Lajovic": 3.09,
+          "Luca Van Assche": 1.38
+        },
+        "marathonbet": {
+          "Dusan Lajovic": 2.76,
+          "Luca Van Assche": 1.38
+        }
+      },
+      "prediction": {
+        "p1_name": "Luca Van Assche",
+        "p2_name": "Dusan Lajovic",
+        "p1_prob": 0.6227,
+        "p2_prob": 0.3773,
+        "predicted_winner": "Luca Van Assche",
+        "confidence": "high",
+        "p1_edge": -0.0916,
+        "p2_edge": 0.0537
+      },
+      "collected_at": "2026-08-12T09:07:51.375764+00:00",
+      "result": null
+    },
+    "e45ebf68e4e736a6200b3d1029546caa": {
+      "match_id": "e45ebf68e4e736a6200b3d1029546caa",
+      "commence_time": "2026-08-12T17:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Marco Trungelliti",
+      "player2": "Kei Nishikori",
+      "bookmakers": {
+        "pinnacle": {
+          "Kei Nishikori": 1.79,
+          "Marco Trungelliti": 2.07
+        },
+        "nordicbet": {
+          "Kei Nishikori": 1.71,
+          "Marco Trungelliti": 2.02
+        },
+        "gtbets": {
+          "Kei Nishikori": 1.71,
+          "Marco Trungelliti": 2.14
+        },
+        "marathonbet": {
+          "Kei Nishikori": 1.71,
+          "Marco Trungelliti": 1.99
+        }
+      },
+      "prediction": {
+        "p1_name": "Marco Trungelliti",
+        "p2_name": "Kei Nishikori",
+        "p1_prob": 0.1698,
+        "p2_prob": 0.8302,
+        "predicted_winner": "Kei Nishikori",
+        "confidence": "high",
+        "p1_edge": -0.2975,
+        "p2_edge": 0.2715
+      },
+      "collected_at": "2026-08-12T09:07:51.431809+00:00",
+      "result": null
+    },
+    "8495e0e3a6dde35993045cf05c0dacd0": {
+      "match_id": "8495e0e3a6dde35993045cf05c0dacd0",
+      "commence_time": "2026-08-12T17:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Trevor Svajda",
+      "player2": "Michael Zheng",
+      "bookmakers": {
+        "pinnacle": {
+          "Michael Zheng": 1.37,
+          "Trevor Svajda": 3.21
+        },
+        "nordicbet": {
+          "Michael Zheng": 1.34,
+          "Trevor Svajda": 3.0
+        },
+        "gtbets": {
+          "Michael Zheng": 1.35,
+          "Trevor Svajda": 3.08
+        }
+      },
+      "prediction": {
+        "p1_name": "Zachary Svajda",
+        "p2_name": "Michael Zheng",
+        "p1_prob": 0.444,
+        "p2_prob": 0.556,
+        "predicted_winner": "Michael Zheng",
+        "confidence": "medium",
+        "p1_edge": 0.1325,
+        "p2_edge": -0.1739
+      },
+      "collected_at": "2026-08-12T09:07:51.484486+00:00",
+      "result": null
+    },
+    "867b12606d3e56380bb7dff764d76ec2": {
+      "match_id": "867b12606d3e56380bb7dff764d76ec2",
+      "commence_time": "2026-08-12T17:30:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Nicolai Budkov Kjaer",
+      "player2": "Kyrian Jacquet",
+      "bookmakers": {
+        "pinnacle": {
+          "Kyrian Jacquet": 1.53,
+          "Nicolai Budkov Kjaer": 2.57
+        },
+        "gtbets": {
+          "Kyrian Jacquet": 1.5,
+          "Nicolai Budkov Kjaer": 2.61
+        },
+        "nordicbet": {
+          "Kyrian Jacquet": 1.48,
+          "Nicolai Budkov Kjaer": 2.47
+        }
+      },
+      "prediction": {
+        "p1_name": "Nicolai Budkov Kjaer",
+        "p2_name": "Kyrian Jacquet",
+        "p1_prob": 0.5972,
+        "p2_prob": 0.4028,
+        "predicted_winner": "Nicolai Budkov Kjaer",
+        "confidence": "medium",
+        "p1_edge": 0.2141,
+        "p2_edge": -0.2508
+      },
+      "collected_at": "2026-08-12T09:07:51.537047+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-12T01:26:51.550103+00:00"
+  "last_updated": "2026-08-12T09:07:51.545541+00:00"
 }
