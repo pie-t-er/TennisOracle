@@ -32194,7 +32194,11 @@
         "p2_edge": 0.0867
       },
       "collected_at": "2026-08-12T01:26:51.435974+00:00",
-      "result": null
+      "result": {
+        "winner": "Brandon Nakashima",
+        "correct": false,
+        "settled_at": "2026-08-13T01:28:41.174028+00:00"
+      }
     },
     "5be7706779ccf641f13f3edba5699e53": {
       "match_id": "5be7706779ccf641f13f3edba5699e53",
@@ -34275,5 +34279,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-08-12T16:53:20.095943+00:00"
+  "last_updated": "2026-08-13T01:28:41.174053+00:00"
 }
