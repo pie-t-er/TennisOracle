@@ -32378,7 +32378,11 @@
         "p2_edge": -0.1103
       },
       "collected_at": "2026-08-12T09:07:51.153741+00:00",
-      "result": null
+      "result": {
+        "winner": "Ben Shelton",
+        "correct": true,
+        "settled_at": "2026-08-13T09:07:23.882125+00:00"
+      }
     },
     "808ec7c6381191dcc78c071c7a8bf4f8": {
       "match_id": "808ec7c6381191dcc78c071c7a8bf4f8",
@@ -34277,7 +34281,217 @@
       },
       "collected_at": "2026-08-12T16:53:20.087919+00:00",
       "result": null
+    },
+    "e723dde12617d39b432ea4de1747708f": {
+      "match_id": "e723dde12617d39b432ea4de1747708f",
+      "commence_time": "2026-08-14T00:05:00Z",
+      "tournament": "ATP Canadian Open",
+      "surface": "Hard",
+      "player1": "Ben Shelton",
+      "player2": "Brandon Nakashima",
+      "bookmakers": {
+        "pinnacle": {
+          "Ben Shelton": 1.47,
+          "Brandon Nakashima": 2.88
+        },
+        "betfair_ex_eu": {
+          "Ben Shelton": 1.48,
+          "Brandon Nakashima": 3.0
+        },
+        "unibet_fr": {
+          "Ben Shelton": 1.45,
+          "Brandon Nakashima": 2.85
+        },
+        "betsson": {
+          "Ben Shelton": 1.46,
+          "Brandon Nakashima": 2.75
+        },
+        "nordicbet": {
+          "Ben Shelton": 1.46,
+          "Brandon Nakashima": 2.75
+        },
+        "betclic_fr": {
+          "Ben Shelton": 1.45,
+          "Brandon Nakashima": 2.85
+        },
+        "draftkings": {
+          "Ben Shelton": 1.43,
+          "Brandon Nakashima": 2.84
+        },
+        "winamax_de": {
+          "Ben Shelton": 1.46,
+          "Brandon Nakashima": 2.85
+        },
+        "winamax_fr": {
+          "Ben Shelton": 1.45,
+          "Brandon Nakashima": 2.85
+        },
+        "gtbets": {
+          "Ben Shelton": 1.49,
+          "Brandon Nakashima": 2.79
+        },
+        "sport888": {
+          "Ben Shelton": 1.44,
+          "Brandon Nakashima": 2.75
+        },
+        "marathonbet": {
+          "Ben Shelton": 1.45,
+          "Brandon Nakashima": 2.85
+        },
+        "betmgm": {
+          "Ben Shelton": 1.45,
+          "Brandon Nakashima": 2.85
+        },
+        "williamhill": {
+          "Ben Shelton": 1.44,
+          "Brandon Nakashima": 2.75
+        },
+        "coolbet": {
+          "Ben Shelton": 1.47,
+          "Brandon Nakashima": 2.85
+        },
+        "onexbet": {
+          "Ben Shelton": 1.46,
+          "Brandon Nakashima": 2.88
+        },
+        "lowvig": {
+          "Ben Shelton": 1.44,
+          "Brandon Nakashima": 2.88
+        },
+        "betonlineag": {
+          "Ben Shelton": 1.44,
+          "Brandon Nakashima": 2.88
+        },
+        "matchbook": {
+          "Ben Shelton": 1.48,
+          "Brandon Nakashima": 3.0
+        },
+        "tipico_de": {
+          "Ben Shelton": 1.45,
+          "Brandon Nakashima": 2.7
+        },
+        "bovada": {
+          "Ben Shelton": 1.45,
+          "Brandon Nakashima": 2.8
+        },
+        "betanysports": {
+          "Ben Shelton": 1.44,
+          "Brandon Nakashima": 2.85
+        },
+        "unibet_se": {
+          "Ben Shelton": 1.45,
+          "Brandon Nakashima": 2.8
+        },
+        "leovegas_se": {
+          "Ben Shelton": 1.45,
+          "Brandon Nakashima": 2.8
+        },
+        "unibet_nl": {
+          "Ben Shelton": 1.45,
+          "Brandon Nakashima": 2.8
+        },
+        "pmu_fr": {
+          "Ben Shelton": 1.43,
+          "Brandon Nakashima": 2.7
+        },
+        "betrivers": {
+          "Ben Shelton": 1.45,
+          "Brandon Nakashima": 2.8
+        },
+        "betus": {
+          "Ben Shelton": 1.44,
+          "Brandon Nakashima": 2.85
+        },
+        "fanduel": {
+          "Ben Shelton": 1.43,
+          "Brandon Nakashima": 2.88
+        }
+      },
+      "prediction": {
+        "p1_name": "Ben Shelton",
+        "p2_name": "Brandon Nakashima",
+        "p1_prob": 0.6634,
+        "p2_prob": 0.3366,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "high",
+        "p1_edge": -0.0077,
+        "p2_edge": 0.0033
+      },
+      "collected_at": "2026-08-13T09:07:33.170612+00:00",
+      "result": null
+    },
+    "33445cba10fd821009f6520983627515": {
+      "match_id": "33445cba10fd821009f6520983627515",
+      "commence_time": "2026-08-13T17:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Aleksandar Vukic",
+      "player2": "Mark Lajal",
+      "bookmakers": {
+        "pinnacle": {
+          "Aleksandar Vukic": 1.79,
+          "Mark Lajal": 2.07
+        },
+        "gtbets": {
+          "Aleksandar Vukic": 1.75,
+          "Mark Lajal": 2.14
+        },
+        "nordicbet": {
+          "Aleksandar Vukic": 1.69,
+          "Mark Lajal": 2.05
+        }
+      },
+      "prediction": {
+        "p1_name": "Aleksandar Vukic",
+        "p2_name": "Mark Lajal",
+        "p1_prob": 0.5928,
+        "p2_prob": 0.4072,
+        "predicted_winner": "Aleksandar Vukic",
+        "confidence": "medium",
+        "p1_edge": 0.0341,
+        "p2_edge": -0.0601
+      },
+      "collected_at": "2026-08-13T09:07:33.248961+00:00",
+      "result": null
+    },
+    "59754f2a97aefb64cddf9307017736a7": {
+      "match_id": "59754f2a97aefb64cddf9307017736a7",
+      "commence_time": "2026-08-13T17:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Henrique Rocha",
+      "player2": "Nicolas Mejia",
+      "bookmakers": {
+        "pinnacle": {
+          "Henrique Rocha": 1.73,
+          "Nicolas Mejia": 2.15
+        },
+        "marathonbet": {
+          "Henrique Rocha": 1.65,
+          "Nicolas Mejia": 2.08
+        },
+        "gtbets": {
+          "Henrique Rocha": 1.65,
+          "Nicolas Mejia": 2.26
+        },
+        "nordicbet": {
+          "Henrique Rocha": 1.64,
+          "Nicolas Mejia": 2.13
+        }
+      },
+      "prediction": {
+        "p1_name": "Henrique Rocha",
+        "p2_name": "Nicolas Mejia",
+        "p1_prob": 0.449,
+        "p2_prob": 0.551,
+        "predicted_winner": "Nicolas Mejia",
+        "confidence": "medium",
+        "p1_edge": -0.129,
+        "p2_edge": 0.1085
+      },
+      "collected_at": "2026-08-13T09:07:33.324480+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-13T01:28:41.174053+00:00"
+  "last_updated": "2026-08-13T09:07:33.333374+00:00"
 }
