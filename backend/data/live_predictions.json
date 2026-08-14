@@ -32730,7 +32730,11 @@
         "p2_edge": -0.0665
       },
       "collected_at": "2026-08-12T16:53:19.023407+00:00",
-      "result": null
+      "result": {
+        "winner": "Denis Shapovalov",
+        "correct": true,
+        "settled_at": "2026-08-14T01:28:19.682924+00:00"
+      }
     },
     "fbbe278db1b1e14ced143fdf3ba18263": {
       "match_id": "fbbe278db1b1e14ced143fdf3ba18263",
@@ -33058,7 +33062,11 @@
         "p2_edge": 0.0078
       },
       "collected_at": "2026-08-12T16:53:19.281213+00:00",
-      "result": null
+      "result": {
+        "winner": "Cameron Norrie",
+        "correct": true,
+        "settled_at": "2026-08-14T01:28:19.732863+00:00"
+      }
     },
     "b4aae8b5af0569e0fc263e3254abd9a4": {
       "match_id": "b4aae8b5af0569e0fc263e3254abd9a4",
@@ -33144,7 +33152,11 @@
         "p2_edge": -0.1582
       },
       "collected_at": "2026-08-12T16:53:19.335005+00:00",
-      "result": null
+      "result": {
+        "winner": "Miomir Kecmanovic",
+        "correct": true,
+        "settled_at": "2026-08-14T01:28:19.778348+00:00"
+      }
     },
     "2120ceebd315f5bd2e5f7af4663c66e9": {
       "match_id": "2120ceebd315f5bd2e5f7af4663c66e9",
@@ -33550,7 +33562,11 @@
         "p2_edge": -0.2027
       },
       "collected_at": "2026-08-12T16:53:19.603325+00:00",
-      "result": null
+      "result": {
+        "winner": "Martin Landaluce",
+        "correct": false,
+        "settled_at": "2026-08-14T01:28:19.830350+00:00"
+      }
     },
     "c4669acc39124fa06fb12cf00b7eec03": {
       "match_id": "c4669acc39124fa06fb12cf00b7eec03",
@@ -33632,7 +33648,11 @@
         "p2_edge": 0.0276
       },
       "collected_at": "2026-08-12T16:53:19.656504+00:00",
-      "result": null
+      "result": {
+        "winner": "Thiago Agustin Tirante",
+        "correct": true,
+        "settled_at": "2026-08-14T01:28:19.880092+00:00"
+      }
     },
     "0a72bf929216acd2dcd46c9e4e05df43": {
       "match_id": "0a72bf929216acd2dcd46c9e4e05df43",
@@ -33714,7 +33734,11 @@
         "p2_edge": -0.1374
       },
       "collected_at": "2026-08-12T16:53:19.709775+00:00",
-      "result": null
+      "result": {
+        "winner": "Jan-Lennard Struff",
+        "correct": false,
+        "settled_at": "2026-08-14T01:28:19.926292+00:00"
+      }
     },
     "599dc352da5dfe692e036fe25d1048f5": {
       "match_id": "599dc352da5dfe692e036fe25d1048f5",
@@ -33878,7 +33902,11 @@
         "p2_edge": 0.0062
       },
       "collected_at": "2026-08-12T16:53:19.816778+00:00",
-      "result": null
+      "result": {
+        "winner": "Mariano Navone",
+        "correct": false,
+        "settled_at": "2026-08-14T01:28:19.973589+00:00"
+      }
     },
     "a372ee7061e6a6de0d5af571b25b5b59": {
       "match_id": "a372ee7061e6a6de0d5af571b25b5b59",
@@ -34491,7 +34519,73 @@
       },
       "collected_at": "2026-08-13T09:07:33.324480+00:00",
       "result": null
+    },
+    "4e22786ef91aa703c0d4aca232dbef0b": {
+      "match_id": "4e22786ef91aa703c0d4aca232dbef0b",
+      "commence_time": "2026-08-15T15:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Martin Landaluce",
+      "player2": "Matteo Arnaldi",
+      "bookmakers": {
+        "unibet_nl": {
+          "Martin Landaluce": 1.88,
+          "Matteo Arnaldi": 1.91
+        },
+        "onexbet": {
+          "Martin Landaluce": 1.95,
+          "Matteo Arnaldi": 1.95
+        },
+        "unibet_se": {
+          "Martin Landaluce": 1.88,
+          "Matteo Arnaldi": 1.91
+        },
+        "coolbet": {
+          "Martin Landaluce": 1.94,
+          "Matteo Arnaldi": 1.94
+        },
+        "gtbets": {
+          "Martin Landaluce": 1.95,
+          "Matteo Arnaldi": 1.85
+        },
+        "sport888": {
+          "Martin Landaluce": 1.91,
+          "Matteo Arnaldi": 1.91
+        },
+        "betrivers": {
+          "Martin Landaluce": 1.88,
+          "Matteo Arnaldi": 1.91
+        },
+        "pmu_fr": {
+          "Martin Landaluce": 1.85,
+          "Matteo Arnaldi": 1.88
+        },
+        "leovegas_se": {
+          "Martin Landaluce": 1.88,
+          "Matteo Arnaldi": 1.91
+        },
+        "marathonbet": {
+          "Martin Landaluce": 1.9,
+          "Matteo Arnaldi": 1.9
+        },
+        "draftkings": {
+          "Martin Landaluce": 1.86,
+          "Matteo Arnaldi": 1.96
+        }
+      },
+      "prediction": {
+        "p1_name": "Martin Landaluce",
+        "p2_name": "Matteo Arnaldi",
+        "p1_prob": 0.5557,
+        "p2_prob": 0.4443,
+        "predicted_winner": "Martin Landaluce",
+        "confidence": "medium",
+        "p1_edge": 0.0429,
+        "p2_edge": -0.0659
+      },
+      "collected_at": "2026-08-14T01:28:25.091504+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-13T09:07:33.333374+00:00"
+  "last_updated": "2026-08-14T01:28:25.099722+00:00"
 }
