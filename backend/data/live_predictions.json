@@ -34722,7 +34722,11 @@
         "p2_edge": 0.2361
       },
       "collected_at": "2026-08-14T09:03:38.200201+00:00",
-      "result": null
+      "result": {
+        "winner": "Adolfo Daniel Vallejo",
+        "correct": true,
+        "settled_at": "2026-08-14T16:48:59.451811+00:00"
+      }
     },
     "63de568a68ea702e8747d93823acc76b": {
       "match_id": "63de568a68ea702e8747d93823acc76b",
@@ -34958,7 +34962,11 @@
         "p2_edge": -0.0475
       },
       "collected_at": "2026-08-14T09:03:38.319522+00:00",
-      "result": null
+      "result": {
+        "winner": "Hubert Hurkacz",
+        "correct": true,
+        "settled_at": "2026-08-14T16:48:59.502368+00:00"
+      }
     },
     "0394b204ab59b0d58190b4d1b7091f12": {
       "match_id": "0394b204ab59b0d58190b4d1b7091f12",
@@ -37097,7 +37105,89 @@
       },
       "collected_at": "2026-08-14T09:03:39.665520+00:00",
       "result": null
+    },
+    "6af1c45eb61f749c5f78d0a07452f6e3": {
+      "match_id": "6af1c45eb61f749c5f78d0a07452f6e3",
+      "commence_time": "2026-08-14T17:20:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Botic van de Zandschulp",
+      "player2": "Alexander Shevchenko",
+      "bookmakers": {
+        "unibet_nl": {
+          "Alexander Shevchenko": 2.38,
+          "Botic van de Zandschulp": 1.57
+        },
+        "pmu_fr": {
+          "Alexander Shevchenko": 2.33,
+          "Botic van de Zandschulp": 1.55
+        },
+        "leovegas_se": {
+          "Alexander Shevchenko": 2.38,
+          "Botic van de Zandschulp": 1.57
+        },
+        "unibet_se": {
+          "Alexander Shevchenko": 2.38,
+          "Botic van de Zandschulp": 1.57
+        },
+        "betrivers": {
+          "Alexander Shevchenko": 2.38,
+          "Botic van de Zandschulp": 1.57
+        },
+        "betsson": {
+          "Alexander Shevchenko": 2.6,
+          "Botic van de Zandschulp": 1.5
+        },
+        "nordicbet": {
+          "Alexander Shevchenko": 2.6,
+          "Botic van de Zandschulp": 1.5
+        },
+        "unibet_fr": {
+          "Alexander Shevchenko": 2.55,
+          "Botic van de Zandschulp": 1.49
+        },
+        "betmgm": {
+          "Alexander Shevchenko": 2.6,
+          "Botic van de Zandschulp": 1.48
+        },
+        "draftkings": {
+          "Alexander Shevchenko": 2.54,
+          "Botic van de Zandschulp": 1.53
+        },
+        "winamax_de": {
+          "Alexander Shevchenko": 2.55,
+          "Botic van de Zandschulp": 1.5
+        },
+        "winamax_fr": {
+          "Alexander Shevchenko": 2.4,
+          "Botic van de Zandschulp": 1.45
+        },
+        "onexbet": {
+          "Alexander Shevchenko": 2.52,
+          "Botic van de Zandschulp": 1.59
+        },
+        "tipico_de": {
+          "Alexander Shevchenko": 2.5,
+          "Botic van de Zandschulp": 1.47
+        },
+        "coolbet": {
+          "Alexander Shevchenko": 2.52,
+          "Botic van de Zandschulp": 1.58
+        }
+      },
+      "prediction": {
+        "p1_name": "Botic Van De Zandschulp",
+        "p2_name": "Alexander Shevchenko",
+        "p1_prob": 0.531,
+        "p2_prob": 0.469,
+        "predicted_winner": "Botic Van De Zandschulp",
+        "confidence": "low",
+        "p1_edge": -0.0979,
+        "p2_edge": 0.0844
+      },
+      "collected_at": "2026-08-14T16:49:07.879353+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-14T09:03:39.674791+00:00"
+  "last_updated": "2026-08-14T16:49:07.889101+00:00"
 }
