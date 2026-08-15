@@ -32894,7 +32894,11 @@
         "p2_edge": 0.0576
       },
       "collected_at": "2026-08-12T16:53:19.174383+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex Michelsen",
+        "correct": true,
+        "settled_at": "2026-08-15T00:57:45.193995+00:00"
+      }
     },
     "648cfb4cc8fc9788131de25db096c187": {
       "match_id": "648cfb4cc8fc9788131de25db096c187",
@@ -33316,7 +33320,11 @@
         "p2_edge": 0.4813
       },
       "collected_at": "2026-08-12T16:53:19.441947+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniel Merida Aguilar",
+        "correct": false,
+        "settled_at": "2026-08-15T00:57:45.554204+00:00"
+      }
     },
     "509167fafcaab04dcc7ddde64be44725": {
       "match_id": "509167fafcaab04dcc7ddde64be44725",
@@ -33488,7 +33496,11 @@
         "p2_edge": -0.0043
       },
       "collected_at": "2026-08-12T16:53:19.549081+00:00",
-      "result": null
+      "result": {
+        "winner": "Sebastian Baez",
+        "correct": false,
+        "settled_at": "2026-08-15T00:57:45.043908+00:00"
+      }
     },
     "4da8ccbac0a53c5032aa76f22eaf5c1e": {
       "match_id": "4da8ccbac0a53c5032aa76f22eaf5c1e",
@@ -33828,7 +33840,11 @@
         "p2_edge": 0.1514
       },
       "collected_at": "2026-08-12T16:53:19.763166+00:00",
-      "result": null
+      "result": {
+        "winner": "Lorenzo Sonego",
+        "correct": true,
+        "settled_at": "2026-08-15T00:57:45.245793+00:00"
+      }
     },
     "3d2f0d4cab73b8a66554ecbf7d5b3bb2": {
       "match_id": "3d2f0d4cab73b8a66554ecbf7d5b3bb2",
@@ -34078,7 +34094,11 @@
         "p2_edge": -0.071
       },
       "collected_at": "2026-08-12T16:53:19.924933+00:00",
-      "result": null
+      "result": {
+        "winner": "Nuno Borges",
+        "correct": true,
+        "settled_at": "2026-08-15T00:57:45.455511+00:00"
+      }
     },
     "5782d36eac063401284681c5afe6cabb": {
       "match_id": "5782d36eac063401284681c5afe6cabb",
@@ -34156,7 +34176,11 @@
         "p2_edge": -0.0712
       },
       "collected_at": "2026-08-12T16:53:19.978912+00:00",
-      "result": null
+      "result": {
+        "winner": "Pablo Carreno Busta",
+        "correct": false,
+        "settled_at": "2026-08-15T00:57:44.994797+00:00"
+      }
     },
     "e89be7bc445c6a2ae314fbebcc24bbbe": {
       "match_id": "e89be7bc445c6a2ae314fbebcc24bbbe",
@@ -34242,7 +34266,11 @@
         "p2_edge": -0.094
       },
       "collected_at": "2026-08-12T16:53:20.033699+00:00",
-      "result": null
+      "result": {
+        "winner": "Stefanos Tsitsipas",
+        "correct": true,
+        "settled_at": "2026-08-15T00:57:44.896499+00:00"
+      }
     },
     "55203cc873e5a02a692c1ab186b1bb4d": {
       "match_id": "55203cc873e5a02a692c1ab186b1bb4d",
@@ -34840,7 +34868,11 @@
         "p2_edge": 0.0239
       },
       "collected_at": "2026-08-14T09:03:38.261977+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniel Altmaier",
+        "correct": false,
+        "settled_at": "2026-08-15T00:57:44.792787+00:00"
+      }
     },
     "5bb3e0af3a441163651f8fe9a8ed24b1": {
       "match_id": "5bb3e0af3a441163651f8fe9a8ed24b1",
@@ -35096,7 +35128,11 @@
         "p2_edge": -0.1828
       },
       "collected_at": "2026-08-14T09:03:38.378304+00:00",
-      "result": null
+      "result": {
+        "winner": "Quentin Halys",
+        "correct": true,
+        "settled_at": "2026-08-15T00:57:44.842231+00:00"
+      }
     },
     "46b64b5633750386a344956a8f633e93": {
       "match_id": "46b64b5633750386a344956a8f633e93",
@@ -35222,7 +35258,11 @@
         "p2_edge": -0.0108
       },
       "collected_at": "2026-08-14T09:03:38.470777+00:00",
-      "result": null
+      "result": {
+        "winner": "James Duckworth",
+        "correct": false,
+        "settled_at": "2026-08-15T00:57:44.945803+00:00"
+      }
     },
     "004bb16f84524dd6732e063a9ccb9b75": {
       "match_id": "004bb16f84524dd6732e063a9ccb9b75",
@@ -35352,7 +35392,11 @@
         "p2_edge": 0.0134
       },
       "collected_at": "2026-08-14T09:03:38.529347+00:00",
-      "result": null
+      "result": {
+        "winner": "Yannick Hanfmann",
+        "correct": true,
+        "settled_at": "2026-08-15T00:57:45.093186+00:00"
+      }
     },
     "b2b3d4815ce07b69091af0a2dd774ebb": {
       "match_id": "b2b3d4815ce07b69091af0a2dd774ebb",
@@ -35482,7 +35526,11 @@
         "p2_edge": 0.0523
       },
       "collected_at": "2026-08-14T09:03:38.587981+00:00",
-      "result": null
+      "result": {
+        "winner": "Matteo Berrettini",
+        "correct": true,
+        "settled_at": "2026-08-15T00:57:45.142890+00:00"
+      }
     },
     "8ba1992997fbe3aa6cbf7d943b69e8a4": {
       "match_id": "8ba1992997fbe3aa6cbf7d943b69e8a4",
@@ -35612,7 +35660,11 @@
         "p2_edge": -0.1104
       },
       "collected_at": "2026-08-14T09:03:38.663848+00:00",
-      "result": null
+      "result": {
+        "winner": "Christopher O'Connell",
+        "correct": false,
+        "settled_at": "2026-08-15T00:57:45.296329+00:00"
+      }
     },
     "d47cfe884feef26b212042f1b0509091": {
       "match_id": "d47cfe884feef26b212042f1b0509091",
@@ -35730,7 +35782,11 @@
         "p2_edge": 0.1233
       },
       "collected_at": "2026-08-14T09:03:38.723073+00:00",
-      "result": null
+      "result": {
+        "winner": "Juan Manuel Cerundolo",
+        "correct": true,
+        "settled_at": "2026-08-15T00:57:45.396445+00:00"
+      }
     },
     "f7ed85f6580daba81546ca573c427c4b": {
       "match_id": "f7ed85f6580daba81546ca573c427c4b",
@@ -35860,7 +35916,11 @@
         "p2_edge": -0.0471
       },
       "collected_at": "2026-08-14T09:03:38.896141+00:00",
-      "result": null
+      "result": {
+        "winner": "Adam Walton",
+        "correct": true,
+        "settled_at": "2026-08-15T00:57:45.504917+00:00"
+      }
     },
     "f33423aff855fa1119b99ab7ceaf24bf": {
       "match_id": "f33423aff855fa1119b99ab7ceaf24bf",
@@ -35990,7 +36050,11 @@
         "p2_edge": -0.1639
       },
       "collected_at": "2026-08-14T09:03:38.955061+00:00",
-      "result": null
+      "result": {
+        "winner": "Michael Zheng",
+        "correct": false,
+        "settled_at": "2026-08-15T00:57:45.603418+00:00"
+      }
     },
     "7c3317ee13a125988b8cf1de75a83e72": {
       "match_id": "7c3317ee13a125988b8cf1de75a83e72",
@@ -36120,7 +36184,11 @@
         "p2_edge": -0.1546
       },
       "collected_at": "2026-08-14T09:03:39.013799+00:00",
-      "result": null
+      "result": {
+        "winner": "Marco Trungelliti",
+        "correct": false,
+        "settled_at": "2026-08-15T00:57:45.653530+00:00"
+      }
     },
     "37cb4f797eb736fbbe08b3d216b1879e": {
       "match_id": "37cb4f797eb736fbbe08b3d216b1879e",
@@ -36238,7 +36306,11 @@
         "p2_edge": 0.0355
       },
       "collected_at": "2026-08-14T09:03:39.090653+00:00",
-      "result": null
+      "result": {
+        "winner": "Jaime Faria",
+        "correct": false,
+        "settled_at": "2026-08-15T00:57:45.702769+00:00"
+      }
     },
     "411f65333c6767bc5db0f338e9fa0616": {
       "match_id": "411f65333c6767bc5db0f338e9fa0616",
@@ -37186,8 +37258,37 @@
         "p2_edge": 0.0844
       },
       "collected_at": "2026-08-14T16:49:07.879353+00:00",
-      "result": null
+      "result": {
+        "winner": "Botic van de Zandschulp",
+        "correct": true,
+        "settled_at": "2026-08-15T00:57:45.346216+00:00"
+      }
+    },
+    "tml-2026-422-23": {
+      "match_id": "tml-2026-422-23",
+      "commence_time": "2026-08-14T00:00:00+00:00",
+      "tournament": "Cincinnati Masters",
+      "surface": "Hard",
+      "player1": "James Duckworth",
+      "player2": "J.J. Wolf",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "James Duckworth",
+        "p2_name": "J.J. Wolf",
+        "p1_prob": 0.5661,
+        "p2_prob": 0.4339,
+        "predicted_winner": "James Duckworth",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-15T00:57:59.512626+00:00",
+      "result": {
+        "winner": "James Duckworth",
+        "correct": true,
+        "settled_at": "2026-08-15T00:57:59.512626+00:00"
+      }
     }
   },
-  "last_updated": "2026-08-14T16:49:07.889101+00:00"
+  "last_updated": "2026-08-15T00:57:59.522991+00:00"
 }
