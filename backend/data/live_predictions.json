@@ -34632,7 +34632,11 @@
         "p2_edge": -0.0659
       },
       "collected_at": "2026-08-14T01:28:25.091504+00:00",
-      "result": null
+      "result": {
+        "winner": "Martin Landaluce",
+        "correct": true,
+        "settled_at": "2026-08-16T01:01:12.911577+00:00"
+      }
     },
     "e1c816c6cc0d8ae274b94a4e7aaa1a7c": {
       "match_id": "e1c816c6cc0d8ae274b94a4e7aaa1a7c",
@@ -36498,7 +36502,11 @@
         "p2_edge": -0.0417
       },
       "collected_at": "2026-08-14T09:03:39.227735+00:00",
-      "result": null
+      "result": {
+        "winner": "Alejandro Tabilo",
+        "correct": true,
+        "settled_at": "2026-08-16T01:01:13.235854+00:00"
+      }
     },
     "96e3d4bffe77632e3210338121298653": {
       "match_id": "96e3d4bffe77632e3210338121298653",
@@ -36596,7 +36604,11 @@
         "p2_edge": -0.0677
       },
       "collected_at": "2026-08-14T09:03:39.287717+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Blockx",
+        "correct": true,
+        "settled_at": "2026-08-16T01:01:12.965573+00:00"
+      }
     },
     "f551af92d39ffa1017a768094e863aba": {
       "match_id": "f551af92d39ffa1017a768094e863aba",
@@ -36800,7 +36812,11 @@
         "p2_edge": 0.1377
       },
       "collected_at": "2026-08-14T09:03:39.406927+00:00",
-      "result": null
+      "result": {
+        "winner": "Flavio Cobolli",
+        "correct": true,
+        "settled_at": "2026-08-16T01:01:13.019742+00:00"
+      }
     },
     "5d725de44edafc7a3cca450e7f31e9cc": {
       "match_id": "5d725de44edafc7a3cca450e7f31e9cc",
@@ -36890,7 +36906,11 @@
         "p2_edge": 0.0381
       },
       "collected_at": "2026-08-14T09:03:39.467485+00:00",
-      "result": null
+      "result": {
+        "winner": "Jakub Mensik",
+        "correct": true,
+        "settled_at": "2026-08-16T01:01:13.181269+00:00"
+      }
     },
     "13aa444236e8a33dd795f43a8ae2d193": {
       "match_id": "13aa444236e8a33dd795f43a8ae2d193",
@@ -36984,7 +37004,11 @@
         "p2_edge": 0.0147
       },
       "collected_at": "2026-08-14T09:03:39.528082+00:00",
-      "result": null
+      "result": {
+        "winner": "Rinky Hijikata",
+        "correct": false,
+        "settled_at": "2026-08-16T01:01:13.343690+00:00"
+      }
     },
     "2e4d462d3dd145a203bc4362a0c05647": {
       "match_id": "2e4d462d3dd145a203bc4362a0c05647",
@@ -37082,7 +37106,11 @@
         "p2_edge": -0.0538
       },
       "collected_at": "2026-08-14T09:03:39.605281+00:00",
-      "result": null
+      "result": {
+        "winner": "Thiago Agustin Tirante",
+        "correct": false,
+        "settled_at": "2026-08-16T01:01:13.126968+00:00"
+      }
     },
     "5d30f10b08e2450aa2271da247559fbe": {
       "match_id": "5d30f10b08e2450aa2271da247559fbe",
@@ -37180,7 +37208,11 @@
         "p2_edge": 0.24
       },
       "collected_at": "2026-08-14T09:03:39.665520+00:00",
-      "result": null
+      "result": {
+        "winner": "Terence Atmane",
+        "correct": false,
+        "settled_at": "2026-08-16T01:01:13.398197+00:00"
+      }
     },
     "6af1c45eb61f749c5f78d0a07452f6e3": {
       "match_id": "6af1c45eb61f749c5f78d0a07452f6e3",
@@ -37409,7 +37441,11 @@
         "p2_edge": -0.0331
       },
       "collected_at": "2026-08-15T08:22:08.181694+00:00",
-      "result": null
+      "result": {
+        "winner": "Adolfo Daniel Vallejo",
+        "correct": false,
+        "settled_at": "2026-08-16T01:01:13.073068+00:00"
+      }
     },
     "34007b316b794dc6ebc83d00a63f37c1": {
       "match_id": "34007b316b794dc6ebc83d00a63f37c1",
@@ -37535,7 +37571,11 @@
         "p2_edge": 0.0555
       },
       "collected_at": "2026-08-15T08:22:08.241320+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex de Minaur",
+        "correct": true,
+        "settled_at": "2026-08-16T01:01:13.289591+00:00"
+      }
     },
     "69042357b298cb18ca3753c00a064fd9": {
       "match_id": "69042357b298cb18ca3753c00a064fd9",
@@ -37653,7 +37693,11 @@
         "p2_edge": 0.057
       },
       "collected_at": "2026-08-15T08:22:08.301027+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fery",
+        "correct": true,
+        "settled_at": "2026-08-16T01:01:13.508329+00:00"
+      }
     },
     "300cc55163939da05957e7a3d2d410c6": {
       "match_id": "300cc55163939da05957e7a3d2d410c6",
@@ -37771,7 +37815,11 @@
         "p2_edge": -0.0302
       },
       "collected_at": "2026-08-15T08:22:08.360726+00:00",
-      "result": null
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": true,
+        "settled_at": "2026-08-16T01:01:13.453071+00:00"
+      }
     },
     "93755abc7573c7a706c6377fe04fa6f3": {
       "match_id": "93755abc7573c7a706c6377fe04fa6f3",
@@ -38015,7 +38063,11 @@
         "p2_edge": -0.0468
       },
       "collected_at": "2026-08-15T08:22:08.511948+00:00",
-      "result": null
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": true,
+        "settled_at": "2026-08-16T01:01:13.562754+00:00"
+      }
     },
     "2f04ab4a7a9871a10a6a4424209d28c6": {
       "match_id": "2f04ab4a7a9871a10a6a4424209d28c6",
@@ -39668,7 +39720,89 @@
       },
       "collected_at": "2026-08-15T08:22:09.588987+00:00",
       "result": null
+    },
+    "2a5c3a107f4b03ed8704e0e91c3223a7": {
+      "match_id": "2a5c3a107f4b03ed8704e0e91c3223a7",
+      "commence_time": "2026-08-17T15:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Rinky Hijikata",
+      "player2": "Jakub Mensik",
+      "bookmakers": {
+        "gtbets": {
+          "Jakub Mensik": 1.25,
+          "Rinky Hijikata": 4.22
+        },
+        "marathonbet": {
+          "Jakub Mensik": 1.22,
+          "Rinky Hijikata": 4.25
+        },
+        "winamax_fr": {
+          "Jakub Mensik": 1.19,
+          "Rinky Hijikata": 3.7
+        },
+        "coolbet": {
+          "Jakub Mensik": 1.24,
+          "Rinky Hijikata": 4.5
+        },
+        "winamax_de": {
+          "Jakub Mensik": 1.22,
+          "Rinky Hijikata": 4.2
+        },
+        "unibet_fr": {
+          "Jakub Mensik": 1.18,
+          "Rinky Hijikata": 3.6
+        },
+        "betfair_ex_eu": {
+          "Jakub Mensik": 1.21,
+          "Rinky Hijikata": 2.74
+        },
+        "draftkings": {
+          "Jakub Mensik": 1.23,
+          "Rinky Hijikata": 4.23
+        },
+        "sport888": {
+          "Jakub Mensik": 1.22,
+          "Rinky Hijikata": 4.2
+        },
+        "onexbet": {
+          "Jakub Mensik": 1.24,
+          "Rinky Hijikata": 4.54
+        },
+        "betclic_fr": {
+          "Jakub Mensik": 1.2,
+          "Rinky Hijikata": 3.8
+        },
+        "tipico_de": {
+          "Jakub Mensik": 1.18,
+          "Rinky Hijikata": 4.3
+        },
+        "bovada": {
+          "Jakub Mensik": 1.24,
+          "Rinky Hijikata": 4.25
+        },
+        "fanduel": {
+          "Jakub Mensik": 1.22,
+          "Rinky Hijikata": 4.5
+        },
+        "matchbook": {
+          "Jakub Mensik": 1.17,
+          "Rinky Hijikata": 2.6
+        }
+      },
+      "prediction": {
+        "p1_name": "Rinky Hijikata",
+        "p2_name": "Jakub Mensik",
+        "p1_prob": 0.2015,
+        "p2_prob": 0.7985,
+        "predicted_winner": "Jakub Mensik",
+        "confidence": "high",
+        "p1_edge": -0.0188,
+        "p2_edge": -0.0015
+      },
+      "collected_at": "2026-08-16T01:01:22.538250+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-15T08:22:09.598406+00:00"
+  "last_updated": "2026-08-16T01:01:22.548614+00:00"
 }
