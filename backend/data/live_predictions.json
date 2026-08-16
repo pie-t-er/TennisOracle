@@ -36400,7 +36400,11 @@
         "p2_edge": 0.0857
       },
       "collected_at": "2026-08-14T09:03:39.167722+00:00",
-      "result": null
+      "result": {
+        "winner": "Rafael Jodar",
+        "correct": true,
+        "settled_at": "2026-08-16T08:22:43.177812+00:00"
+      }
     },
     "d89559eaf844fea4855bcbff13365257": {
       "match_id": "d89559eaf844fea4855bcbff13365257",
@@ -36710,7 +36714,11 @@
         "p2_edge": -0.0464
       },
       "collected_at": "2026-08-14T09:03:39.347621+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-08-16T08:22:43.299895+00:00"
+      }
     },
     "8e15f2e40f7ec7066f5afc8efb01a34d": {
       "match_id": "8e15f2e40f7ec7066f5afc8efb01a34d",
@@ -37945,7 +37953,11 @@
         "p2_edge": 0.0266
       },
       "collected_at": "2026-08-15T08:22:08.452709+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fils",
+        "correct": true,
+        "settled_at": "2026-08-16T08:22:43.233371+00:00"
+      }
     },
     "06caf8c890ee57cdca72ae664611322f": {
       "match_id": "06caf8c890ee57cdca72ae664611322f",
@@ -39802,7 +39814,705 @@
       },
       "collected_at": "2026-08-16T01:01:22.538250+00:00",
       "result": null
+    },
+    "97900faa2a4e010a725cb50cd9c81994": {
+      "match_id": "97900faa2a4e010a725cb50cd9c81994",
+      "commence_time": "2026-08-17T15:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Tommy Paul",
+      "player2": "Adolfo Daniel Vallejo",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Adolfo Daniel Vallejo": 3.85,
+          "Tommy Paul": 1.21
+        },
+        "coolbet": {
+          "Adolfo Daniel Vallejo": 4.5,
+          "Tommy Paul": 1.24
+        },
+        "betrivers": {
+          "Adolfo Daniel Vallejo": 4.3,
+          "Tommy Paul": 1.22
+        },
+        "gtbets": {
+          "Adolfo Daniel Vallejo": 4.33,
+          "Tommy Paul": 1.22
+        },
+        "winamax_de": {
+          "Adolfo Daniel Vallejo": 4.3,
+          "Tommy Paul": 1.22
+        },
+        "winamax_fr": {
+          "Adolfo Daniel Vallejo": 3.75,
+          "Tommy Paul": 1.18
+        },
+        "draftkings": {
+          "Adolfo Daniel Vallejo": 4.41,
+          "Tommy Paul": 1.22
+        },
+        "sport888": {
+          "Adolfo Daniel Vallejo": 4.2,
+          "Tommy Paul": 1.22
+        },
+        "pmu_fr": {
+          "Adolfo Daniel Vallejo": 4.1,
+          "Tommy Paul": 1.2
+        },
+        "leovegas_se": {
+          "Adolfo Daniel Vallejo": 4.3,
+          "Tommy Paul": 1.22
+        },
+        "unibet_se": {
+          "Adolfo Daniel Vallejo": 4.3,
+          "Tommy Paul": 1.22
+        },
+        "marathonbet": {
+          "Adolfo Daniel Vallejo": 4.25,
+          "Tommy Paul": 1.22
+        },
+        "unibet_fr": {
+          "Adolfo Daniel Vallejo": 3.65,
+          "Tommy Paul": 1.18
+        },
+        "unibet_nl": {
+          "Adolfo Daniel Vallejo": 4.3,
+          "Tommy Paul": 1.22
+        },
+        "tipico_de": {
+          "Adolfo Daniel Vallejo": 4.3,
+          "Tommy Paul": 1.18
+        },
+        "onexbet": {
+          "Adolfo Daniel Vallejo": 4.54,
+          "Tommy Paul": 1.24
+        },
+        "betclic_fr": {
+          "Adolfo Daniel Vallejo": 3.85,
+          "Tommy Paul": 1.19
+        },
+        "bovada": {
+          "Adolfo Daniel Vallejo": 4.25,
+          "Tommy Paul": 1.24
+        }
+      },
+      "prediction": {
+        "p1_name": "Tommy Paul",
+        "p2_name": "Adolfo Daniel Vallejo",
+        "p1_prob": 0.7045,
+        "p2_prob": 0.2955,
+        "predicted_winner": "Tommy Paul",
+        "confidence": "high",
+        "p1_edge": -0.102,
+        "p2_edge": 0.0752
+      },
+      "collected_at": "2026-08-16T08:22:52.684097+00:00",
+      "result": null
+    },
+    "bc6f185ffc193761cb1e88b3241e1b0d": {
+      "match_id": "bc6f185ffc193761cb1e88b3241e1b0d",
+      "commence_time": "2026-08-17T15:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Rafael Jodar",
+      "player2": "Alejandro Tabilo",
+      "bookmakers": {
+        "unibet_nl": {
+          "Alejandro Tabilo": 3.5,
+          "Rafael Jodar": 1.3
+        },
+        "unibet_fr": {
+          "Alejandro Tabilo": 3.05,
+          "Rafael Jodar": 1.26
+        },
+        "betfair_ex_eu": {
+          "Alejandro Tabilo": 2.96,
+          "Rafael Jodar": 1.35
+        },
+        "leovegas_se": {
+          "Alejandro Tabilo": 3.5,
+          "Rafael Jodar": 1.3
+        },
+        "tipico_de": {
+          "Alejandro Tabilo": 3.4,
+          "Rafael Jodar": 1.27
+        },
+        "onexbet": {
+          "Alejandro Tabilo": 3.57,
+          "Rafael Jodar": 1.34
+        },
+        "sport888": {
+          "Alejandro Tabilo": 3.5,
+          "Rafael Jodar": 1.3
+        },
+        "betrivers": {
+          "Alejandro Tabilo": 3.5,
+          "Rafael Jodar": 1.3
+        },
+        "gtbets": {
+          "Alejandro Tabilo": 3.46,
+          "Rafael Jodar": 1.31
+        },
+        "winamax_de": {
+          "Alejandro Tabilo": 3.45,
+          "Rafael Jodar": 1.31
+        },
+        "coolbet": {
+          "Alejandro Tabilo": 3.6,
+          "Rafael Jodar": 1.33
+        },
+        "winamax_fr": {
+          "Alejandro Tabilo": 3.1,
+          "Rafael Jodar": 1.26
+        },
+        "pmu_fr": {
+          "Alejandro Tabilo": 3.4,
+          "Rafael Jodar": 1.29
+        },
+        "unibet_se": {
+          "Alejandro Tabilo": 3.5,
+          "Rafael Jodar": 1.3
+        },
+        "marathonbet": {
+          "Alejandro Tabilo": 3.44,
+          "Rafael Jodar": 1.31
+        },
+        "draftkings": {
+          "Alejandro Tabilo": 3.49,
+          "Rafael Jodar": 1.31
+        },
+        "betclic_fr": {
+          "Alejandro Tabilo": 3.15,
+          "Rafael Jodar": 1.27
+        },
+        "bovada": {
+          "Alejandro Tabilo": 3.5,
+          "Rafael Jodar": 1.32
+        },
+        "fanduel": {
+          "Alejandro Tabilo": 3.6,
+          "Rafael Jodar": 1.3
+        },
+        "nordicbet": {
+          "Alejandro Tabilo": 3.5,
+          "Rafael Jodar": 1.31
+        },
+        "betsson": {
+          "Alejandro Tabilo": 3.5,
+          "Rafael Jodar": 1.31
+        },
+        "williamhill": {
+          "Alejandro Tabilo": 3.5,
+          "Rafael Jodar": 1.3
+        }
+      },
+      "prediction": {
+        "p1_name": "Rafael Jodar",
+        "p2_name": "Alejandro Tabilo",
+        "p1_prob": 0.6273,
+        "p2_prob": 0.3727,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "high",
+        "p1_edge": -0.1134,
+        "p2_edge": 0.0949
+      },
+      "collected_at": "2026-08-16T08:22:52.748848+00:00",
+      "result": null
+    },
+    "6841a0d9fe4640bb1afb6b73ce1f6e82": {
+      "match_id": "6841a0d9fe4640bb1afb6b73ce1f6e82",
+      "commence_time": "2026-08-17T15:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Arthur Fery",
+      "player2": "Alex de Minaur",
+      "bookmakers": {
+        "marathonbet": {
+          "Alex de Minaur": 1.21,
+          "Arthur Fery": 4.4
+        },
+        "coolbet": {
+          "Alex de Minaur": 1.22,
+          "Arthur Fery": 4.75
+        },
+        "betfair_ex_eu": {
+          "Alex de Minaur": 1.22,
+          "Arthur Fery": 3.8
+        },
+        "betrivers": {
+          "Alex de Minaur": 1.2,
+          "Arthur Fery": 4.5
+        },
+        "winamax_de": {
+          "Alex de Minaur": 1.21,
+          "Arthur Fery": 4.4
+        },
+        "gtbets": {
+          "Alex de Minaur": 1.22,
+          "Arthur Fery": 4.33
+        },
+        "winamax_fr": {
+          "Alex de Minaur": 1.17,
+          "Arthur Fery": 3.85
+        },
+        "unibet_fr": {
+          "Alex de Minaur": 1.17,
+          "Arthur Fery": 3.75
+        },
+        "draftkings": {
+          "Alex de Minaur": 1.21,
+          "Arthur Fery": 4.52
+        },
+        "sport888": {
+          "Alex de Minaur": 1.22,
+          "Arthur Fery": 4.2
+        },
+        "onexbet": {
+          "Alex de Minaur": 1.23,
+          "Arthur Fery": 4.68
+        },
+        "leovegas_se": {
+          "Alex de Minaur": 1.2,
+          "Arthur Fery": 4.5
+        },
+        "unibet_se": {
+          "Alex de Minaur": 1.2,
+          "Arthur Fery": 4.5
+        },
+        "tipico_de": {
+          "Alex de Minaur": 1.18,
+          "Arthur Fery": 4.3
+        },
+        "unibet_nl": {
+          "Alex de Minaur": 1.2,
+          "Arthur Fery": 4.5
+        },
+        "williamhill": {
+          "Alex de Minaur": 1.22,
+          "Arthur Fery": 4.2
+        },
+        "betclic_fr": {
+          "Alex de Minaur": 1.18,
+          "Arthur Fery": 3.95
+        },
+        "bovada": {
+          "Alex de Minaur": 1.22,
+          "Arthur Fery": 4.5
+        },
+        "matchbook": {
+          "Alex de Minaur": 1.19,
+          "Arthur Fery": 3.3
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Fery",
+        "p2_name": "Alex De Minaur",
+        "p1_prob": 0.1588,
+        "p2_prob": 0.8412,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": -0.0517,
+        "p2_edge": 0.0282
+      },
+      "collected_at": "2026-08-16T08:22:52.812799+00:00",
+      "result": null
+    },
+    "23e9247b827847bbeb95933fbbeee73f": {
+      "match_id": "23e9247b827847bbeb95933fbbeee73f",
+      "commence_time": "2026-08-17T15:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Alexander Blockx",
+      "player2": "Flavio Cobolli",
+      "bookmakers": {
+        "nordicbet": {
+          "Alexander Blockx": 1.91,
+          "Flavio Cobolli": 1.9
+        },
+        "draftkings": {
+          "Alexander Blockx": 1.88,
+          "Flavio Cobolli": 1.93
+        },
+        "onexbet": {
+          "Alexander Blockx": 1.95,
+          "Flavio Cobolli": 1.95
+        },
+        "betrivers": {
+          "Alexander Blockx": 1.91,
+          "Flavio Cobolli": 1.88
+        },
+        "unibet_nl": {
+          "Alexander Blockx": 1.91,
+          "Flavio Cobolli": 1.88
+        },
+        "unibet_se": {
+          "Alexander Blockx": 1.91,
+          "Flavio Cobolli": 1.88
+        },
+        "betfair_ex_eu": {
+          "Alexander Blockx": 1.78,
+          "Flavio Cobolli": 1.86
+        },
+        "sport888": {
+          "Alexander Blockx": 1.91,
+          "Flavio Cobolli": 1.91
+        },
+        "marathonbet": {
+          "Alexander Blockx": 1.9,
+          "Flavio Cobolli": 1.9
+        },
+        "pmu_fr": {
+          "Alexander Blockx": 1.87,
+          "Flavio Cobolli": 1.85
+        },
+        "winamax_de": {
+          "Alexander Blockx": 1.9,
+          "Flavio Cobolli": 1.88
+        },
+        "coolbet": {
+          "Alexander Blockx": 1.94,
+          "Flavio Cobolli": 1.94
+        },
+        "winamax_fr": {
+          "Alexander Blockx": 1.8,
+          "Flavio Cobolli": 1.78
+        },
+        "betclic_fr": {
+          "Alexander Blockx": 1.82,
+          "Flavio Cobolli": 1.81
+        },
+        "tipico_de": {
+          "Alexander Blockx": 1.9,
+          "Flavio Cobolli": 1.8
+        },
+        "gtbets": {
+          "Alexander Blockx": 1.94,
+          "Flavio Cobolli": 1.86
+        },
+        "leovegas_se": {
+          "Alexander Blockx": 1.91,
+          "Flavio Cobolli": 1.88
+        },
+        "betsson": {
+          "Alexander Blockx": 1.91,
+          "Flavio Cobolli": 1.9
+        },
+        "unibet_fr": {
+          "Alexander Blockx": 1.79,
+          "Flavio Cobolli": 1.78
+        },
+        "bovada": {
+          "Alexander Blockx": 1.91,
+          "Flavio Cobolli": 1.91
+        },
+        "williamhill": {
+          "Alexander Blockx": 1.91,
+          "Flavio Cobolli": 1.91
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Blockx",
+        "p2_name": "Flavio Cobolli",
+        "p1_prob": 0.4281,
+        "p2_prob": 0.5719,
+        "predicted_winner": "Flavio Cobolli",
+        "confidence": "medium",
+        "p1_edge": -0.0847,
+        "p2_edge": 0.0591
+      },
+      "collected_at": "2026-08-16T08:22:52.876005+00:00",
+      "result": null
+    },
+    "3243c4d8dc7179d4981e5fcc7b0419a0": {
+      "match_id": "3243c4d8dc7179d4981e5fcc7b0419a0",
+      "commence_time": "2026-08-17T15:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Terence Atmane",
+      "bookmakers": {
+        "betrivers": {
+          "Alexander Zverev": 1.16,
+          "Terence Atmane": 5.3
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.16,
+          "Terence Atmane": 5.3
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.16,
+          "Terence Atmane": 5.3
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.12,
+          "Terence Atmane": 4.45
+        },
+        "betfair_ex_eu": {
+          "Alexander Zverev": 1.16,
+          "Terence Atmane": 1.11
+        },
+        "unibet_se": {
+          "Alexander Zverev": 1.16,
+          "Terence Atmane": 5.3
+        },
+        "draftkings": {
+          "Alexander Zverev": 1.15,
+          "Terence Atmane": 5.52
+        },
+        "pmu_fr": {
+          "Alexander Zverev": 1.14,
+          "Terence Atmane": 5.1
+        },
+        "onexbet": {
+          "Alexander Zverev": 1.17,
+          "Terence Atmane": 5.89
+        },
+        "tipico_de": {
+          "Alexander Zverev": 1.11,
+          "Terence Atmane": 5.5
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 1.13,
+          "Terence Atmane": 4.7
+        },
+        "coolbet": {
+          "Alexander Zverev": 1.17,
+          "Terence Atmane": 5.7
+        },
+        "gtbets": {
+          "Alexander Zverev": 1.18,
+          "Terence Atmane": 5.19
+        },
+        "winamax_de": {
+          "Alexander Zverev": 1.15,
+          "Terence Atmane": 5.4
+        },
+        "winamax_fr": {
+          "Alexander Zverev": 1.12,
+          "Terence Atmane": 4.5
+        },
+        "marathonbet": {
+          "Alexander Zverev": 1.15,
+          "Terence Atmane": 5.35
+        },
+        "bovada": {
+          "Alexander Zverev": 1.15,
+          "Terence Atmane": 5.5
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Terence Atmane",
+        "p1_prob": 0.9068,
+        "p2_prob": 0.0932,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": 0.0593,
+        "p2_edge": -0.0766
+      },
+      "collected_at": "2026-08-16T08:22:52.941185+00:00",
+      "result": null
+    },
+    "ce8bd2b2d57fc2cc5863a1425347902c": {
+      "match_id": "ce8bd2b2d57fc2cc5863a1425347902c",
+      "commence_time": "2026-08-17T15:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Jiri Lehecka",
+      "player2": "Arthur Fils",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Arthur Fils": 1.53,
+          "Jiri Lehecka": 2.02
+        },
+        "unibet_fr": {
+          "Arthur Fils": 1.58,
+          "Jiri Lehecka": 2.05
+        },
+        "betrivers": {
+          "Arthur Fils": 1.66,
+          "Jiri Lehecka": 2.23
+        },
+        "gtbets": {
+          "Arthur Fils": 1.67,
+          "Jiri Lehecka": 2.21
+        },
+        "winamax_de": {
+          "Arthur Fils": 1.66,
+          "Jiri Lehecka": 2.2
+        },
+        "onexbet": {
+          "Arthur Fils": 1.7,
+          "Jiri Lehecka": 2.29
+        },
+        "leovegas_se": {
+          "Arthur Fils": 1.66,
+          "Jiri Lehecka": 2.23
+        },
+        "draftkings": {
+          "Arthur Fils": 1.67,
+          "Jiri Lehecka": 2.22
+        },
+        "sport888": {
+          "Arthur Fils": 1.67,
+          "Jiri Lehecka": 2.2
+        },
+        "pmu_fr": {
+          "Arthur Fils": 1.63,
+          "Jiri Lehecka": 2.17
+        },
+        "williamhill": {
+          "Arthur Fils": 1.67,
+          "Jiri Lehecka": 2.2
+        },
+        "winamax_fr": {
+          "Arthur Fils": 1.58,
+          "Jiri Lehecka": 2.05
+        },
+        "unibet_nl": {
+          "Arthur Fils": 1.66,
+          "Jiri Lehecka": 2.23
+        },
+        "tipico_de": {
+          "Arthur Fils": 1.62,
+          "Jiri Lehecka": 2.15
+        },
+        "marathonbet": {
+          "Arthur Fils": 1.65,
+          "Jiri Lehecka": 2.23
+        },
+        "coolbet": {
+          "Arthur Fils": 1.68,
+          "Jiri Lehecka": 2.3
+        },
+        "unibet_se": {
+          "Arthur Fils": 1.66,
+          "Jiri Lehecka": 2.23
+        },
+        "betclic_fr": {
+          "Arthur Fils": 1.61,
+          "Jiri Lehecka": 2.1
+        },
+        "bovada": {
+          "Arthur Fils": 1.67,
+          "Jiri Lehecka": 2.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Arthur Fils",
+        "p1_prob": 0.462,
+        "p2_prob": 0.538,
+        "predicted_winner": "Arthur Fils",
+        "confidence": "low",
+        "p1_edge": 0.0272,
+        "p2_edge": -0.0502
+      },
+      "collected_at": "2026-08-16T08:22:53.005965+00:00",
+      "result": null
+    },
+    "e7946cf4d2c5eb4a2a774fe02d7c140a": {
+      "match_id": "e7946cf4d2c5eb4a2a774fe02d7c140a",
+      "commence_time": "2026-08-17T15:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Thiago Agustin Tirante",
+      "player2": "Martin Landaluce",
+      "bookmakers": {
+        "gtbets": {
+          "Martin Landaluce": 2.02,
+          "Thiago Agustin Tirante": 1.81
+        },
+        "nordicbet": {
+          "Martin Landaluce": 2.02,
+          "Thiago Agustin Tirante": 1.8
+        },
+        "coolbet": {
+          "Martin Landaluce": 2.05,
+          "Thiago Agustin Tirante": 1.84
+        },
+        "draftkings": {
+          "Martin Landaluce": 2.03,
+          "Thiago Agustin Tirante": 1.79
+        },
+        "onexbet": {
+          "Martin Landaluce": 2.05,
+          "Thiago Agustin Tirante": 1.86
+        },
+        "unibet_se": {
+          "Martin Landaluce": 2.0,
+          "Thiago Agustin Tirante": 1.8
+        },
+        "unibet_nl": {
+          "Martin Landaluce": 2.0,
+          "Thiago Agustin Tirante": 1.8
+        },
+        "betrivers": {
+          "Martin Landaluce": 2.0,
+          "Thiago Agustin Tirante": 1.8
+        },
+        "betfair_ex_eu": {
+          "Martin Landaluce": 2.08,
+          "Thiago Agustin Tirante": 1.71
+        },
+        "sport888": {
+          "Martin Landaluce": 2.0,
+          "Thiago Agustin Tirante": 1.8
+        },
+        "pmu_fr": {
+          "Martin Landaluce": 1.96,
+          "Thiago Agustin Tirante": 1.77
+        },
+        "unibet_fr": {
+          "Martin Landaluce": 1.89,
+          "Thiago Agustin Tirante": 1.7
+        },
+        "winamax_de": {
+          "Martin Landaluce": 2.0,
+          "Thiago Agustin Tirante": 1.8
+        },
+        "winamax_fr": {
+          "Martin Landaluce": 1.9,
+          "Thiago Agustin Tirante": 1.7
+        },
+        "tipico_de": {
+          "Martin Landaluce": 1.9,
+          "Thiago Agustin Tirante": 1.8
+        },
+        "leovegas_se": {
+          "Martin Landaluce": 2.0,
+          "Thiago Agustin Tirante": 1.8
+        },
+        "betsson": {
+          "Martin Landaluce": 2.02,
+          "Thiago Agustin Tirante": 1.8
+        },
+        "betclic_fr": {
+          "Martin Landaluce": 1.92,
+          "Thiago Agustin Tirante": 1.72
+        },
+        "marathonbet": {
+          "Martin Landaluce": 1.99,
+          "Thiago Agustin Tirante": 1.81
+        },
+        "bovada": {
+          "Martin Landaluce": 2.0,
+          "Thiago Agustin Tirante": 1.83
+        }
+      },
+      "prediction": {
+        "p1_name": "Thiago Agustin Tirante",
+        "p2_name": "Martin Landaluce",
+        "p1_prob": 0.4361,
+        "p2_prob": 0.5639,
+        "predicted_winner": "Martin Landaluce",
+        "confidence": "medium",
+        "p1_edge": -0.1015,
+        "p2_edge": 0.0831
+      },
+      "collected_at": "2026-08-16T08:22:53.088577+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-16T01:01:22.548614+00:00"
+  "last_updated": "2026-08-16T08:22:53.098814+00:00"
 }
