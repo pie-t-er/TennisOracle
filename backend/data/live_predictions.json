@@ -38381,7 +38381,11 @@
         "p2_edge": 0.0798
       },
       "collected_at": "2026-08-15T08:22:08.791109+00:00",
-      "result": null
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-08-16T16:18:38.916499+00:00"
+      }
     },
     "a65d086da15948cf0e01e0882a239e34": {
       "match_id": "a65d086da15948cf0e01e0882a239e34",
@@ -38899,7 +38903,11 @@
         "p2_edge": -0.0046
       },
       "collected_at": "2026-08-15T08:22:09.094869+00:00",
-      "result": null
+      "result": {
+        "winner": "Christopher O'Connell",
+        "correct": false,
+        "settled_at": "2026-08-16T16:18:36.501960+00:00"
+      }
     },
     "78a4fd9ed62405466b2b64046f0c9d6a": {
       "match_id": "78a4fd9ed62405466b2b64046f0c9d6a",
@@ -40514,5 +40522,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-08-16T08:22:53.098814+00:00"
+  "last_updated": "2026-08-16T16:18:38.916514+00:00"
 }
