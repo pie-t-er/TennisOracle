@@ -38185,7 +38185,11 @@
         "p2_edge": 0.0629
       },
       "collected_at": "2026-08-15T08:22:08.670140+00:00",
-      "result": null
+      "result": {
+        "winner": "Adam Walton",
+        "correct": false,
+        "settled_at": "2026-08-17T00:58:46.854645+00:00"
+      }
     },
     "cfe24fd536a153b9424ff795ced770b7": {
       "match_id": "cfe24fd536a153b9424ff795ced770b7",
@@ -38283,7 +38287,11 @@
         "p2_edge": 0.0147
       },
       "collected_at": "2026-08-15T08:22:08.730303+00:00",
-      "result": null
+      "result": {
+        "winner": "Brandon Nakashima",
+        "correct": true,
+        "settled_at": "2026-08-17T00:58:46.597745+00:00"
+      }
     },
     "741b5c44f0bbfd267b138ec34c0c68b9": {
       "match_id": "741b5c44f0bbfd267b138ec34c0c68b9",
@@ -38499,7 +38507,11 @@
         "p2_edge": -0.1097
       },
       "collected_at": "2026-08-15T08:22:08.851741+00:00",
-      "result": null
+      "result": {
+        "winner": "Andrey Rublev",
+        "correct": true,
+        "settled_at": "2026-08-17T00:58:46.700525+00:00"
+      }
     },
     "af4269f31198da08d7810b97390af26b": {
       "match_id": "af4269f31198da08d7810b97390af26b",
@@ -38601,7 +38613,11 @@
         "p2_edge": -0.0281
       },
       "collected_at": "2026-08-15T08:22:08.912031+00:00",
-      "result": null
+      "result": {
+        "winner": "Juan Manuel Cerundolo",
+        "correct": false,
+        "settled_at": "2026-08-17T00:58:46.444416+00:00"
+      }
     },
     "1851af484de75beba84bec2d4cdee1b2": {
       "match_id": "1851af484de75beba84bec2d4cdee1b2",
@@ -38801,7 +38817,11 @@
         "p2_edge": 0.045
       },
       "collected_at": "2026-08-15T08:22:09.034352+00:00",
-      "result": null
+      "result": {
+        "winner": "Joao Fonseca",
+        "correct": true,
+        "settled_at": "2026-08-17T00:58:46.393243+00:00"
+      }
     },
     "31f5c33bc7fcabad1fdcdf1e5c1d6a22": {
       "match_id": "31f5c33bc7fcabad1fdcdf1e5c1d6a22",
@@ -39021,7 +39041,11 @@
         "p2_edge": -0.0375
       },
       "collected_at": "2026-08-15T08:22:09.155735+00:00",
-      "result": null
+      "result": {
+        "winner": "Lorenzo Musetti",
+        "correct": true,
+        "settled_at": "2026-08-17T00:58:46.546430+00:00"
+      }
     },
     "e2c94848ca07cf16f60d8347952455cd": {
       "match_id": "e2c94848ca07cf16f60d8347952455cd",
@@ -39119,7 +39143,11 @@
         "p2_edge": 0.4611
       },
       "collected_at": "2026-08-15T08:22:09.217713+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniel Merida Aguilar",
+        "correct": false,
+        "settled_at": "2026-08-17T00:58:46.803634+00:00"
+      }
     },
     "9f0b80c725938c80e3ce36907552f6ac": {
       "match_id": "9f0b80c725938c80e3ce36907552f6ac",
@@ -39217,7 +39245,11 @@
         "p2_edge": 0.0746
       },
       "collected_at": "2026-08-15T08:22:09.279306+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-08-17T00:58:46.342271+00:00"
+      }
     },
     "b7947ebad5a33555206c11700a82d7f6": {
       "match_id": "b7947ebad5a33555206c11700a82d7f6",
@@ -39331,7 +39363,11 @@
         "p2_edge": 0.1127
       },
       "collected_at": "2026-08-15T08:22:09.340415+00:00",
-      "result": null
+      "result": {
+        "winner": "Felix Auger-Aliassime",
+        "correct": true,
+        "settled_at": "2026-08-17T00:58:46.495353+00:00"
+      }
     },
     "8b7669311c95de9dff53d584247851b1": {
       "match_id": "8b7669311c95de9dff53d584247851b1",
@@ -39527,7 +39563,11 @@
         "p2_edge": 0.1725
       },
       "collected_at": "2026-08-15T08:22:09.464965+00:00",
-      "result": null
+      "result": {
+        "winner": "Nuno Borges",
+        "correct": false,
+        "settled_at": "2026-08-17T00:58:46.649757+00:00"
+      }
     },
     "3e78f37266d9e2d933e4685cd66fa88c": {
       "match_id": "3e78f37266d9e2d933e4685cd66fa88c",
@@ -39641,7 +39681,11 @@
         "p2_edge": -0.0386
       },
       "collected_at": "2026-08-15T08:22:09.527019+00:00",
-      "result": null
+      "result": {
+        "winner": "Learner Tien",
+        "correct": true,
+        "settled_at": "2026-08-17T00:58:46.751711+00:00"
+      }
     },
     "46ad8e16df581d2ed845e35d713d21e2": {
       "match_id": "46ad8e16df581d2ed845e35d713d21e2",
@@ -39739,7 +39783,11 @@
         "p2_edge": -0.1507
       },
       "collected_at": "2026-08-15T08:22:09.588987+00:00",
-      "result": null
+      "result": {
+        "winner": "Michael Zheng",
+        "correct": false,
+        "settled_at": "2026-08-17T00:58:46.291017+00:00"
+      }
     },
     "2a5c3a107f4b03ed8704e0e91c3223a7": {
       "match_id": "2a5c3a107f4b03ed8704e0e91c3223a7",
@@ -40520,7 +40568,97 @@
       },
       "collected_at": "2026-08-16T08:22:53.088577+00:00",
       "result": null
+    },
+    "03fcccc6263e99c44c9143dd0a8295b1": {
+      "match_id": "03fcccc6263e99c44c9143dd0a8295b1",
+      "commence_time": "2026-08-18T15:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Taylor Fritz",
+      "player2": "Daniel Merida Aguilar",
+      "bookmakers": {
+        "betclic_fr": {
+          "Daniel Merida Aguilar": 3.6,
+          "Taylor Fritz": 1.21
+        },
+        "betfair_ex_eu": {
+          "Daniel Merida Aguilar": 3.55,
+          "Taylor Fritz": 1.26
+        },
+        "sport888": {
+          "Daniel Merida Aguilar": 4.0,
+          "Taylor Fritz": 1.25
+        },
+        "williamhill": {
+          "Daniel Merida Aguilar": 4.0,
+          "Taylor Fritz": 1.25
+        },
+        "nordicbet": {
+          "Daniel Merida Aguilar": 4.0,
+          "Taylor Fritz": 1.25
+        },
+        "draftkings": {
+          "Daniel Merida Aguilar": 4.12,
+          "Taylor Fritz": 1.24
+        },
+        "betsson": {
+          "Daniel Merida Aguilar": 4.0,
+          "Taylor Fritz": 1.25
+        },
+        "unibet_fr": {
+          "Daniel Merida Aguilar": 3.45,
+          "Taylor Fritz": 1.2
+        },
+        "fanduel": {
+          "Daniel Merida Aguilar": 4.15,
+          "Taylor Fritz": 1.24
+        },
+        "marathonbet": {
+          "Daniel Merida Aguilar": 4.05,
+          "Taylor Fritz": 1.24
+        },
+        "onexbet": {
+          "Daniel Merida Aguilar": 4.26,
+          "Taylor Fritz": 1.26
+        },
+        "winamax_fr": {
+          "Daniel Merida Aguilar": 3.5,
+          "Taylor Fritz": 1.2
+        },
+        "winamax_de": {
+          "Daniel Merida Aguilar": 4.0,
+          "Taylor Fritz": 1.24
+        },
+        "gtbets": {
+          "Daniel Merida Aguilar": 4.07,
+          "Taylor Fritz": 1.27
+        },
+        "tipico_de": {
+          "Daniel Merida Aguilar": 4.0,
+          "Taylor Fritz": 1.2
+        },
+        "coolbet": {
+          "Daniel Merida Aguilar": 4.2,
+          "Taylor Fritz": 1.26
+        },
+        "matchbook": {
+          "Daniel Merida Aguilar": 3.2,
+          "Taylor Fritz": 1.17
+        }
+      },
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Jorge Aguilar",
+        "p1_prob": 0.9865,
+        "p2_prob": 0.0135,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "high",
+        "p1_edge": 0.1991,
+        "p2_edge": -0.2212
+      },
+      "collected_at": "2026-08-17T00:58:54.555313+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-16T16:18:38.916514+00:00"
+  "last_updated": "2026-08-17T00:58:54.564173+00:00"
 }
