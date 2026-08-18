@@ -40929,7 +40929,11 @@
         "p2_edge": -0.1078
       },
       "collected_at": "2026-08-17T08:37:33.484689+00:00",
-      "result": null
+      "result": {
+        "winner": "Nuno Borges",
+        "correct": false,
+        "settled_at": "2026-08-18T16:25:29.301389+00:00"
+      }
     },
     "7af2b6edb03fc22a9d7a01d4aa8f7bca": {
       "match_id": "7af2b6edb03fc22a9d7a01d4aa8f7bca",
@@ -41169,7 +41173,11 @@
         "p2_edge": 0.0281
       },
       "collected_at": "2026-08-17T08:37:33.614078+00:00",
-      "result": null
+      "result": {
+        "winner": "Joao Fonseca",
+        "correct": true,
+        "settled_at": "2026-08-18T16:25:29.270465+00:00"
+      }
     },
     "4d9b08f6c9e02dbc732c41f358ce5436": {
       "match_id": "4d9b08f6c9e02dbc732c41f358ce5436",
@@ -41986,5 +41994,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-08-18T08:30:49.307260+00:00"
+  "last_updated": "2026-08-18T16:25:29.301404+00:00"
 }
