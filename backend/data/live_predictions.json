@@ -39877,7 +39877,11 @@
         "p2_edge": -0.0015
       },
       "collected_at": "2026-08-16T01:01:22.538250+00:00",
-      "result": null
+      "result": {
+        "winner": "Jakub Mensik",
+        "correct": true,
+        "settled_at": "2026-08-18T00:57:21.380931+00:00"
+      }
     },
     "97900faa2a4e010a725cb50cd9c81994": {
       "match_id": "97900faa2a4e010a725cb50cd9c81994",
@@ -40183,7 +40187,11 @@
         "p2_edge": 0.0282
       },
       "collected_at": "2026-08-16T08:22:52.812799+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex de Minaur",
+        "correct": true,
+        "settled_at": "2026-08-18T00:57:21.323988+00:00"
+      }
     },
     "23e9247b827847bbeb95933fbbeee73f": {
       "match_id": "23e9247b827847bbeb95933fbbeee73f",
@@ -40289,7 +40297,11 @@
         "p2_edge": 0.0591
       },
       "collected_at": "2026-08-16T08:22:52.876005+00:00",
-      "result": null
+      "result": {
+        "winner": "Flavio Cobolli",
+        "correct": true,
+        "settled_at": "2026-08-18T00:57:21.211976+00:00"
+      }
     },
     "3243c4d8dc7179d4981e5fcc7b0419a0": {
       "match_id": "3243c4d8dc7179d4981e5fcc7b0419a0",
@@ -40579,7 +40591,11 @@
         "p2_edge": 0.0831
       },
       "collected_at": "2026-08-16T08:22:53.088577+00:00",
-      "result": null
+      "result": {
+        "winner": "Thiago Agustin Tirante",
+        "correct": false,
+        "settled_at": "2026-08-18T00:57:21.267749+00:00"
+      }
     },
     "03fcccc6263e99c44c9143dd0a8295b1": {
       "match_id": "03fcccc6263e99c44c9143dd0a8295b1",
@@ -41506,5 +41522,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-08-17T16:21:37.301237+00:00"
+  "last_updated": "2026-08-18T00:57:21.380949+00:00"
 }
