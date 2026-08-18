@@ -39975,7 +39975,11 @@
         "p2_edge": 0.0752
       },
       "collected_at": "2026-08-16T08:22:52.684097+00:00",
-      "result": null
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": true,
+        "settled_at": "2026-08-18T08:30:41.047285+00:00"
+      }
     },
     "bc6f185ffc193761cb1e88b3241e1b0d": {
       "match_id": "bc6f185ffc193761cb1e88b3241e1b0d",
@@ -40391,7 +40395,11 @@
         "p2_edge": -0.0766
       },
       "collected_at": "2026-08-16T08:22:52.941185+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-08-18T08:30:40.934506+00:00"
+      }
     },
     "ce8bd2b2d57fc2cc5863a1425347902c": {
       "match_id": "ce8bd2b2d57fc2cc5863a1425347902c",
@@ -40489,7 +40497,11 @@
         "p2_edge": -0.0502
       },
       "collected_at": "2026-08-16T08:22:53.005965+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fils",
+        "correct": true,
+        "settled_at": "2026-08-18T08:30:40.991297+00:00"
+      }
     },
     "e7946cf4d2c5eb4a2a774fe02d7c140a": {
       "match_id": "e7946cf4d2c5eb4a2a774fe02d7c140a",
@@ -41520,7 +41532,459 @@
       },
       "collected_at": "2026-08-17T08:37:33.868983+00:00",
       "result": null
+    },
+    "1b7836c4c07e8b56f95e728b7961b736": {
+      "match_id": "1b7836c4c07e8b56f95e728b7961b736",
+      "commence_time": "2026-08-19T15:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Arthur Fils",
+      "player2": "Alex de Minaur",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Alex de Minaur": 2.48,
+          "Arthur Fils": 1.65
+        },
+        "coolbet": {
+          "Alex de Minaur": 2.45,
+          "Arthur Fils": 1.61
+        },
+        "draftkings": {
+          "Alex de Minaur": 2.38,
+          "Arthur Fils": 1.59
+        },
+        "onexbet": {
+          "Alex de Minaur": 2.46,
+          "Arthur Fils": 1.61
+        },
+        "nordicbet": {
+          "Alex de Minaur": 2.38,
+          "Arthur Fils": 1.59
+        },
+        "betsson": {
+          "Alex de Minaur": 2.38,
+          "Arthur Fils": 1.59
+        },
+        "unibet_fr": {
+          "Alex de Minaur": 2.2,
+          "Arthur Fils": 1.51
+        },
+        "williamhill": {
+          "Alex de Minaur": 2.38,
+          "Arthur Fils": 1.57
+        },
+        "sport888": {
+          "Alex de Minaur": 2.38,
+          "Arthur Fils": 1.57
+        },
+        "betclic_fr": {
+          "Alex de Minaur": 2.24,
+          "Arthur Fils": 1.53
+        },
+        "marathonbet": {
+          "Alex de Minaur": 2.39,
+          "Arthur Fils": 1.57
+        },
+        "fanduel": {
+          "Alex de Minaur": 2.42,
+          "Arthur Fils": 1.58
+        },
+        "tipico_de": {
+          "Alex de Minaur": 2.35,
+          "Arthur Fils": 1.52
+        },
+        "matchbook": {
+          "Alex de Minaur": 2.22,
+          "Arthur Fils": 1.56
+        },
+        "winamax_de": {
+          "Alex de Minaur": 2.35,
+          "Arthur Fils": 1.58
+        },
+        "winamax_fr": {
+          "Alex de Minaur": 2.2,
+          "Arthur Fils": 1.5
+        },
+        "gtbets": {
+          "Alex de Minaur": 2.36,
+          "Arthur Fils": 1.6
+        },
+        "unibet_se": {
+          "Alex de Minaur": 2.33,
+          "Arthur Fils": 1.6
+        },
+        "unibet_nl": {
+          "Alex de Minaur": 2.33,
+          "Arthur Fils": 1.6
+        },
+        "leovegas_se": {
+          "Alex de Minaur": 2.33,
+          "Arthur Fils": 1.6
+        },
+        "pmu_fr": {
+          "Alex de Minaur": 2.28,
+          "Arthur Fils": 1.56
+        },
+        "betrivers": {
+          "Alex de Minaur": 2.33,
+          "Arthur Fils": 1.6
+        },
+        "betmgm": {
+          "Alex de Minaur": 2.3,
+          "Arthur Fils": 1.61
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Fils",
+        "p2_name": "Alex De Minaur",
+        "p1_prob": 0.4406,
+        "p2_prob": 0.5594,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "medium",
+        "p1_edge": -0.1655,
+        "p2_edge": 0.1562
+      },
+      "collected_at": "2026-08-18T08:30:49.097658+00:00",
+      "result": null
+    },
+    "668b60bb54d858f7cd744597bf1d08bd": {
+      "match_id": "668b60bb54d858f7cd744597bf1d08bd",
+      "commence_time": "2026-08-19T15:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Tommy Paul",
+      "bookmakers": {
+        "betrivers": {
+          "Alexander Zverev": 1.36,
+          "Tommy Paul": 3.1
+        },
+        "betfair_ex_eu": {
+          "Alexander Zverev": 1.41,
+          "Tommy Paul": 3.4
+        },
+        "pmu_fr": {
+          "Alexander Zverev": 1.35,
+          "Tommy Paul": 3.0
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.36,
+          "Tommy Paul": 3.1
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.36,
+          "Tommy Paul": 3.1
+        },
+        "unibet_se": {
+          "Alexander Zverev": 1.36,
+          "Tommy Paul": 3.1
+        },
+        "marathonbet": {
+          "Alexander Zverev": 1.41,
+          "Tommy Paul": 2.89
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.37,
+          "Tommy Paul": 2.55
+        },
+        "nordicbet": {
+          "Alexander Zverev": 1.44,
+          "Tommy Paul": 2.8
+        },
+        "draftkings": {
+          "Alexander Zverev": 1.39,
+          "Tommy Paul": 3.03
+        },
+        "betsson": {
+          "Alexander Zverev": 1.44,
+          "Tommy Paul": 2.8
+        },
+        "winamax_de": {
+          "Alexander Zverev": 1.43,
+          "Tommy Paul": 2.8
+        },
+        "winamax_fr": {
+          "Alexander Zverev": 1.38,
+          "Tommy Paul": 2.55
+        },
+        "fanduel": {
+          "Alexander Zverev": 1.43,
+          "Tommy Paul": 2.88
+        },
+        "coolbet": {
+          "Alexander Zverev": 1.44,
+          "Tommy Paul": 3.0
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 1.39,
+          "Tommy Paul": 2.6
+        },
+        "onexbet": {
+          "Alexander Zverev": 1.45,
+          "Tommy Paul": 2.97
+        },
+        "tipico_de": {
+          "Alexander Zverev": 1.4,
+          "Tommy Paul": 2.7
+        },
+        "matchbook": {
+          "Alexander Zverev": 1.34,
+          "Tommy Paul": 3.05
+        },
+        "gtbets": {
+          "Alexander Zverev": 1.45,
+          "Tommy Paul": 2.92
+        },
+        "sport888": {
+          "Alexander Zverev": 1.36,
+          "Tommy Paul": 3.1
+        },
+        "williamhill": {
+          "Alexander Zverev": 1.36,
+          "Tommy Paul": 3.1
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Tommy Paul",
+        "p1_prob": 0.7587,
+        "p2_prob": 0.2413,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": 0.069,
+        "p2_edge": -0.0528
+      },
+      "collected_at": "2026-08-18T08:30:49.164169+00:00",
+      "result": null
+    },
+    "2932c93a0e7e835909cf7cc0756f4a22": {
+      "match_id": "2932c93a0e7e835909cf7cc0756f4a22",
+      "commence_time": "2026-08-19T15:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Rafael Jodar",
+      "player2": "Flavio Cobolli",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Flavio Cobolli": 3.5,
+          "Rafael Jodar": 1.32
+        },
+        "coolbet": {
+          "Flavio Cobolli": 3.75,
+          "Rafael Jodar": 1.31
+        },
+        "draftkings": {
+          "Flavio Cobolli": 3.52,
+          "Rafael Jodar": 1.31
+        },
+        "onexbet": {
+          "Flavio Cobolli": 3.73,
+          "Rafael Jodar": 1.32
+        },
+        "nordicbet": {
+          "Flavio Cobolli": 3.6,
+          "Rafael Jodar": 1.29
+        },
+        "betsson": {
+          "Flavio Cobolli": 3.6,
+          "Rafael Jodar": 1.29
+        },
+        "unibet_fr": {
+          "Flavio Cobolli": 3.15,
+          "Rafael Jodar": 1.24
+        },
+        "williamhill": {
+          "Flavio Cobolli": 3.3,
+          "Rafael Jodar": 1.33
+        },
+        "sport888": {
+          "Flavio Cobolli": 3.3,
+          "Rafael Jodar": 1.33
+        },
+        "betclic_fr": {
+          "Flavio Cobolli": 3.3,
+          "Rafael Jodar": 1.26
+        },
+        "marathonbet": {
+          "Flavio Cobolli": 3.58,
+          "Rafael Jodar": 1.29
+        },
+        "fanduel": {
+          "Flavio Cobolli": 3.7,
+          "Rafael Jodar": 1.29
+        },
+        "tipico_de": {
+          "Flavio Cobolli": 3.6,
+          "Rafael Jodar": 1.25
+        },
+        "matchbook": {
+          "Flavio Cobolli": 1.07,
+          "Rafael Jodar": 1.27
+        },
+        "winamax_de": {
+          "Flavio Cobolli": 3.6,
+          "Rafael Jodar": 1.29
+        },
+        "winamax_fr": {
+          "Flavio Cobolli": 3.2,
+          "Rafael Jodar": 1.25
+        },
+        "gtbets": {
+          "Flavio Cobolli": 3.53,
+          "Rafael Jodar": 1.3
+        },
+        "betmgm": {
+          "Flavio Cobolli": 3.4,
+          "Rafael Jodar": 1.31
+        },
+        "betrivers": {
+          "Flavio Cobolli": 3.5,
+          "Rafael Jodar": 1.3
+        },
+        "unibet_nl": {
+          "Flavio Cobolli": 3.5,
+          "Rafael Jodar": 1.3
+        },
+        "leovegas_se": {
+          "Flavio Cobolli": 3.5,
+          "Rafael Jodar": 1.3
+        },
+        "pmu_fr": {
+          "Flavio Cobolli": 3.4,
+          "Rafael Jodar": 1.28
+        },
+        "unibet_se": {
+          "Flavio Cobolli": 3.5,
+          "Rafael Jodar": 1.3
+        }
+      },
+      "prediction": {
+        "p1_name": "Rafael Jodar",
+        "p2_name": "Flavio Cobolli",
+        "p1_prob": 0.534,
+        "p2_prob": 0.466,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "low",
+        "p1_edge": -0.2179,
+        "p2_edge": 0.1993
+      },
+      "collected_at": "2026-08-18T08:30:49.230955+00:00",
+      "result": null
+    },
+    "1b928e271831575f1591dcbd0cbe8664": {
+      "match_id": "1b928e271831575f1591dcbd0cbe8664",
+      "commence_time": "2026-08-19T15:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Thiago Agustin Tirante",
+      "player2": "Jakub Mensik",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Jakub Mensik": 1.32,
+          "Thiago Agustin Tirante": 2.8
+        },
+        "coolbet": {
+          "Jakub Mensik": 1.38,
+          "Thiago Agustin Tirante": 3.25
+        },
+        "draftkings": {
+          "Jakub Mensik": 1.37,
+          "Thiago Agustin Tirante": 3.13
+        },
+        "onexbet": {
+          "Jakub Mensik": 1.4,
+          "Thiago Agustin Tirante": 3.23
+        },
+        "nordicbet": {
+          "Jakub Mensik": 1.37,
+          "Thiago Agustin Tirante": 3.15
+        },
+        "betsson": {
+          "Jakub Mensik": 1.37,
+          "Thiago Agustin Tirante": 3.15
+        },
+        "unibet_fr": {
+          "Jakub Mensik": 1.31,
+          "Thiago Agustin Tirante": 2.8
+        },
+        "williamhill": {
+          "Jakub Mensik": 1.36,
+          "Thiago Agustin Tirante": 3.1
+        },
+        "sport888": {
+          "Jakub Mensik": 1.36,
+          "Thiago Agustin Tirante": 3.1
+        },
+        "betclic_fr": {
+          "Jakub Mensik": 1.33,
+          "Thiago Agustin Tirante": 2.9
+        },
+        "marathonbet": {
+          "Jakub Mensik": 1.36,
+          "Thiago Agustin Tirante": 3.12
+        },
+        "fanduel": {
+          "Jakub Mensik": 1.36,
+          "Thiago Agustin Tirante": 3.25
+        },
+        "tipico_de": {
+          "Jakub Mensik": 1.35,
+          "Thiago Agustin Tirante": 2.95
+        },
+        "matchbook": {
+          "Jakub Mensik": 1.26,
+          "Thiago Agustin Tirante": 2.56
+        },
+        "winamax_de": {
+          "Jakub Mensik": 1.36,
+          "Thiago Agustin Tirante": 3.1
+        },
+        "winamax_fr": {
+          "Jakub Mensik": 1.31,
+          "Thiago Agustin Tirante": 2.8
+        },
+        "gtbets": {
+          "Jakub Mensik": 1.38,
+          "Thiago Agustin Tirante": 3.07
+        },
+        "betrivers": {
+          "Jakub Mensik": 1.36,
+          "Thiago Agustin Tirante": 3.15
+        },
+        "betmgm": {
+          "Jakub Mensik": 1.36,
+          "Thiago Agustin Tirante": 3.1
+        },
+        "unibet_nl": {
+          "Jakub Mensik": 1.36,
+          "Thiago Agustin Tirante": 3.15
+        },
+        "leovegas_se": {
+          "Jakub Mensik": 1.36,
+          "Thiago Agustin Tirante": 3.15
+        },
+        "pmu_fr": {
+          "Jakub Mensik": 1.33,
+          "Thiago Agustin Tirante": 3.05
+        },
+        "unibet_se": {
+          "Jakub Mensik": 1.36,
+          "Thiago Agustin Tirante": 3.15
+        }
+      },
+      "prediction": {
+        "p1_name": "Thiago Agustin Tirante",
+        "p2_name": "Jakub Mensik",
+        "p1_prob": 0.2822,
+        "p2_prob": 0.7178,
+        "predicted_winner": "Jakub Mensik",
+        "confidence": "high",
+        "p1_edge": -0.0255,
+        "p2_edge": 0.0035
+      },
+      "collected_at": "2026-08-18T08:30:49.297338+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-18T00:57:21.380949+00:00"
+  "last_updated": "2026-08-18T08:30:49.307260+00:00"
 }
