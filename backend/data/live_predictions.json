@@ -40697,7 +40697,11 @@
         "p2_edge": -0.2212
       },
       "collected_at": "2026-08-17T00:58:54.555313+00:00",
-      "result": null
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-08-19T00:57:42.896754+00:00"
+      }
     },
     "62cce65389809300ecc1d4552bc893d5": {
       "match_id": "62cce65389809300ecc1d4552bc893d5",
@@ -40815,7 +40819,11 @@
         "p2_edge": 0.0263
       },
       "collected_at": "2026-08-17T08:37:33.419627+00:00",
-      "result": null
+      "result": {
+        "winner": "Jaime Faria",
+        "correct": true,
+        "settled_at": "2026-08-19T00:57:42.987975+00:00"
+      }
     },
     "5e088372a95bbc387049f3a30434ea53": {
       "match_id": "5e088372a95bbc387049f3a30434ea53",
@@ -41051,7 +41059,11 @@
         "p2_edge": 0.229
       },
       "collected_at": "2026-08-17T08:37:33.549309+00:00",
-      "result": null
+      "result": {
+        "winner": "Brandon Nakashima",
+        "correct": false,
+        "settled_at": "2026-08-19T00:57:42.957536+00:00"
+      }
     },
     "32df53977f8bda94578f422df41bebd8": {
       "match_id": "32df53977f8bda94578f422df41bebd8",
@@ -41295,7 +41307,11 @@
         "p2_edge": 0.0029
       },
       "collected_at": "2026-08-17T08:37:33.696857+00:00",
-      "result": null
+      "result": {
+        "winner": "Felix Auger-Aliassime",
+        "correct": true,
+        "settled_at": "2026-08-19T00:57:43.018092+00:00"
+      }
     },
     "90e75ed5ac6e5fb59306a0b20988fc2e": {
       "match_id": "90e75ed5ac6e5fb59306a0b20988fc2e",
@@ -41539,7 +41555,11 @@
         "p2_edge": 0.1727
       },
       "collected_at": "2026-08-17T08:37:33.868983+00:00",
-      "result": null
+      "result": {
+        "winner": "Lorenzo Musetti",
+        "correct": true,
+        "settled_at": "2026-08-19T00:57:42.927352+00:00"
+      }
     },
     "1b7836c4c07e8b56f95e728b7961b736": {
       "match_id": "1b7836c4c07e8b56f95e728b7961b736",
@@ -41992,7 +42012,247 @@
       },
       "collected_at": "2026-08-18T08:30:49.297338+00:00",
       "result": null
+    },
+    "05b6e3c71e45e07766cfabdb4e8a4bc4": {
+      "match_id": "05b6e3c71e45e07766cfabdb4e8a4bc4",
+      "commence_time": "2026-08-19T19:10:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Nuno Borges",
+      "player2": "Brandon Nakashima",
+      "bookmakers": {
+        "sport888": {
+          "Brandon Nakashima": 1.61,
+          "Nuno Borges": 2.3
+        },
+        "betsson": {
+          "Brandon Nakashima": 1.65,
+          "Nuno Borges": 2.25
+        },
+        "betfair_ex_eu": {
+          "Brandon Nakashima": 1.69,
+          "Nuno Borges": 2.42
+        },
+        "unibet_fr": {
+          "Brandon Nakashima": 1.56,
+          "Nuno Borges": 2.1
+        },
+        "fanduel": {
+          "Brandon Nakashima": 1.65,
+          "Nuno Borges": 2.28
+        },
+        "williamhill": {
+          "Brandon Nakashima": 1.62,
+          "Nuno Borges": 2.3
+        },
+        "nordicbet": {
+          "Brandon Nakashima": 1.65,
+          "Nuno Borges": 2.25
+        },
+        "winamax_fr": {
+          "Brandon Nakashima": 1.58,
+          "Nuno Borges": 2.1
+        },
+        "winamax_de": {
+          "Brandon Nakashima": 1.64,
+          "Nuno Borges": 2.2
+        },
+        "betclic_fr": {
+          "Brandon Nakashima": 1.59,
+          "Nuno Borges": 2.13
+        },
+        "marathonbet": {
+          "Brandon Nakashima": 1.63,
+          "Nuno Borges": 2.27
+        },
+        "gtbets": {
+          "Brandon Nakashima": 1.67,
+          "Nuno Borges": 2.22
+        },
+        "coolbet": {
+          "Brandon Nakashima": 1.65,
+          "Nuno Borges": 2.35
+        },
+        "draftkings": {
+          "Brandon Nakashima": 1.64,
+          "Nuno Borges": 2.28
+        },
+        "matchbook": {
+          "Brandon Nakashima": 1.69,
+          "Nuno Borges": 2.42
+        },
+        "onexbet": {
+          "Brandon Nakashima": 1.68,
+          "Nuno Borges": 2.33
+        },
+        "pinnacle": {
+          "Brandon Nakashima": 1.65,
+          "Nuno Borges": 2.37
+        },
+        "lowvig": {
+          "Brandon Nakashima": 1.65,
+          "Nuno Borges": 2.35
+        },
+        "betonlineag": {
+          "Brandon Nakashima": 1.65,
+          "Nuno Borges": 2.35
+        },
+        "tipico_de": {
+          "Brandon Nakashima": 1.57,
+          "Nuno Borges": 2.25
+        },
+        "betus": {
+          "Brandon Nakashima": 1.65,
+          "Nuno Borges": 2.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Nuno Borges",
+        "p2_name": "Brandon Nakashima",
+        "p1_prob": 0.3752,
+        "p2_prob": 0.6248,
+        "predicted_winner": "Brandon Nakashima",
+        "confidence": "high",
+        "p1_edge": -0.038,
+        "p2_edge": 0.0331
+      },
+      "collected_at": "2026-08-19T00:57:48.913091+00:00",
+      "result": null
+    },
+    "ba20f520017119a33c3acfced1e1a2fa": {
+      "match_id": "ba20f520017119a33c3acfced1e1a2fa",
+      "commence_time": "2026-08-19T23:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Taylor Fritz",
+      "player2": "Christopher O'Connell",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Christopher O'Connell": 8.2,
+          "Taylor Fritz": 1.12
+        },
+        "leovegas_se": {
+          "Christopher O'Connell": 6.4,
+          "Taylor Fritz": 1.12
+        },
+        "unibet_nl": {
+          "Christopher O'Connell": 6.4,
+          "Taylor Fritz": 1.12
+        },
+        "sport888": {
+          "Christopher O'Connell": 7.0,
+          "Taylor Fritz": 1.1
+        },
+        "williamhill": {
+          "Christopher O'Connell": 7.0,
+          "Taylor Fritz": 1.1
+        },
+        "betrivers": {
+          "Christopher O'Connell": 6.4,
+          "Taylor Fritz": 1.12
+        },
+        "onexbet": {
+          "Christopher O'Connell": 7.48,
+          "Taylor Fritz": 1.12
+        },
+        "marathonbet": {
+          "Christopher O'Connell": 6.5,
+          "Taylor Fritz": 1.11
+        },
+        "pmu_fr": {
+          "Christopher O'Connell": 6.1,
+          "Taylor Fritz": 1.1
+        },
+        "unibet_se": {
+          "Christopher O'Connell": 6.4,
+          "Taylor Fritz": 1.12
+        },
+        "coolbet": {
+          "Christopher O'Connell": 7.75,
+          "Taylor Fritz": 1.11
+        },
+        "betclic_fr": {
+          "Christopher O'Connell": 5.6,
+          "Taylor Fritz": 1.09
+        },
+        "betsson": {
+          "Christopher O'Connell": 6.8,
+          "Taylor Fritz": 1.11
+        },
+        "unibet_fr": {
+          "Christopher O'Connell": 5.2,
+          "Taylor Fritz": 1.08
+        },
+        "nordicbet": {
+          "Christopher O'Connell": 6.8,
+          "Taylor Fritz": 1.11
+        },
+        "matchbook": {
+          "Christopher O'Connell": 8.2,
+          "Taylor Fritz": 1.12
+        },
+        "gtbets": {
+          "Christopher O'Connell": 6.84,
+          "Taylor Fritz": 1.12
+        },
+        "draftkings": {
+          "Christopher O'Connell": 7.6,
+          "Taylor Fritz": 1.09
+        },
+        "tipico_de": {
+          "Christopher O'Connell": 6.5,
+          "Taylor Fritz": 1.08
+        },
+        "bovada": {
+          "Christopher O'Connell": 7.25,
+          "Taylor Fritz": 1.1
+        },
+        "winamax_fr": {
+          "Christopher O'Connell": 5.3,
+          "Taylor Fritz": 1.08
+        },
+        "winamax_de": {
+          "Christopher O'Connell": 6.5,
+          "Taylor Fritz": 1.1
+        },
+        "betmgm": {
+          "Christopher O'Connell": 6.5,
+          "Taylor Fritz": 1.1
+        },
+        "pinnacle": {
+          "Christopher O'Connell": 7.61,
+          "Taylor Fritz": 1.11
+        },
+        "fanduel": {
+          "Christopher O'Connell": 7.4,
+          "Taylor Fritz": 1.1
+        },
+        "lowvig": {
+          "Christopher O'Connell": 7.09,
+          "Taylor Fritz": 1.11
+        },
+        "betonlineag": {
+          "Christopher O'Connell": 7.09,
+          "Taylor Fritz": 1.11
+        },
+        "betus": {
+          "Christopher O'Connell": 7.0,
+          "Taylor Fritz": 1.1
+        }
+      },
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Christopher O'Connell",
+        "p1_prob": 0.7993,
+        "p2_prob": 0.2007,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "high",
+        "p1_edge": -0.0936,
+        "p2_edge": 0.0787
+      },
+      "collected_at": "2026-08-19T00:57:48.947853+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-18T16:25:29.301404+00:00"
+  "last_updated": "2026-08-19T00:57:48.954500+00:00"
 }
