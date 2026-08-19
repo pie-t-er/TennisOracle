@@ -41433,7 +41433,11 @@
         "p2_edge": -0.0339
       },
       "collected_at": "2026-08-17T08:37:33.803808+00:00",
-      "result": null
+      "result": {
+        "winner": "Frances Tiafoe",
+        "correct": false,
+        "settled_at": "2026-08-19T08:31:32.839249+00:00"
+      }
     },
     "2411c044e22bb896b107d9e4944fcd44": {
       "match_id": "2411c044e22bb896b107d9e4944fcd44",
@@ -42252,7 +42256,267 @@
       },
       "collected_at": "2026-08-19T00:57:48.947853+00:00",
       "result": null
+    },
+    "d0afd6bbd2551a339703dd19c5ff91b0": {
+      "match_id": "d0afd6bbd2551a339703dd19c5ff91b0",
+      "commence_time": "2026-08-19T20:20:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Jaime Faria",
+      "player2": "Lorenzo Musetti",
+      "bookmakers": {
+        "marathonbet": {
+          "Jaime Faria": 3.12,
+          "Lorenzo Musetti": 1.36
+        },
+        "coolbet": {
+          "Jaime Faria": 3.25,
+          "Lorenzo Musetti": 1.38
+        },
+        "winamax_de": {
+          "Jaime Faria": 3.4,
+          "Lorenzo Musetti": 1.35
+        },
+        "draftkings": {
+          "Jaime Faria": 3.23,
+          "Lorenzo Musetti": 1.35
+        },
+        "williamhill": {
+          "Jaime Faria": 3.1,
+          "Lorenzo Musetti": 1.36
+        },
+        "pmu_fr": {
+          "Jaime Faria": 2.95,
+          "Lorenzo Musetti": 1.36
+        },
+        "unibet_nl": {
+          "Jaime Faria": 3.05,
+          "Lorenzo Musetti": 1.38
+        },
+        "sport888": {
+          "Jaime Faria": 3.1,
+          "Lorenzo Musetti": 1.36
+        },
+        "leovegas_se": {
+          "Jaime Faria": 3.05,
+          "Lorenzo Musetti": 1.38
+        },
+        "matchbook": {
+          "Jaime Faria": 3.5,
+          "Lorenzo Musetti": 1.39
+        },
+        "nordicbet": {
+          "Jaime Faria": 3.1,
+          "Lorenzo Musetti": 1.38
+        },
+        "unibet_fr": {
+          "Jaime Faria": 3.05,
+          "Lorenzo Musetti": 1.37
+        },
+        "betfair_ex_eu": {
+          "Jaime Faria": 3.5,
+          "Lorenzo Musetti": 1.39
+        },
+        "tipico_de": {
+          "Jaime Faria": 2.95,
+          "Lorenzo Musetti": 1.35
+        },
+        "betrivers": {
+          "Jaime Faria": 3.05,
+          "Lorenzo Musetti": 1.38
+        },
+        "onexbet": {
+          "Jaime Faria": 3.23,
+          "Lorenzo Musetti": 1.4
+        },
+        "betsson": {
+          "Jaime Faria": 3.1,
+          "Lorenzo Musetti": 1.38
+        },
+        "winamax_fr": {
+          "Jaime Faria": 3.3,
+          "Lorenzo Musetti": 1.34
+        },
+        "unibet_se": {
+          "Jaime Faria": 3.05,
+          "Lorenzo Musetti": 1.38
+        },
+        "gtbets": {
+          "Jaime Faria": 2.97,
+          "Lorenzo Musetti": 1.4
+        },
+        "betclic_fr": {
+          "Jaime Faria": 3.05,
+          "Lorenzo Musetti": 1.33
+        },
+        "bovada": {
+          "Jaime Faria": 3.2,
+          "Lorenzo Musetti": 1.36
+        },
+        "betmgm": {
+          "Jaime Faria": 3.25,
+          "Lorenzo Musetti": 1.33
+        },
+        "fanduel": {
+          "Jaime Faria": 3.15,
+          "Lorenzo Musetti": 1.38
+        },
+        "pinnacle": {
+          "Jaime Faria": 3.38,
+          "Lorenzo Musetti": 1.36
+        },
+        "lowvig": {
+          "Jaime Faria": 3.3,
+          "Lorenzo Musetti": 1.36
+        },
+        "betonlineag": {
+          "Jaime Faria": 3.3,
+          "Lorenzo Musetti": 1.36
+        }
+      },
+      "prediction": {
+        "p1_name": "Jaime Faria",
+        "p2_name": "Lorenzo Musetti",
+        "p1_prob": 0.2467,
+        "p2_prob": 0.7533,
+        "predicted_winner": "Lorenzo Musetti",
+        "confidence": "high",
+        "p1_edge": -0.039,
+        "p2_edge": 0.039
+      },
+      "collected_at": "2026-08-19T08:31:42.172316+00:00",
+      "result": null
+    },
+    "273d7accc832d75e91166b486cad654f": {
+      "match_id": "273d7accc832d75e91166b486cad654f",
+      "commence_time": "2026-08-20T00:10:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Frances Tiafoe",
+      "player2": "Felix Auger-Aliassime",
+      "bookmakers": {
+        "bovada": {
+          "Felix Auger-Aliassime": 1.47,
+          "Frances Tiafoe": 2.75
+        },
+        "betrivers": {
+          "Felix Auger-Aliassime": 1.43,
+          "Frances Tiafoe": 2.8
+        },
+        "sport888": {
+          "Felix Auger-Aliassime": 1.5,
+          "Frances Tiafoe": 2.6
+        },
+        "onexbet": {
+          "Felix Auger-Aliassime": 1.49,
+          "Frances Tiafoe": 2.84
+        },
+        "unibet_se": {
+          "Felix Auger-Aliassime": 1.43,
+          "Frances Tiafoe": 2.8
+        },
+        "leovegas_se": {
+          "Felix Auger-Aliassime": 1.43,
+          "Frances Tiafoe": 2.8
+        },
+        "betfair_ex_eu": {
+          "Felix Auger-Aliassime": 1.51,
+          "Frances Tiafoe": 2.92
+        },
+        "pmu_fr": {
+          "Felix Auger-Aliassime": 1.41,
+          "Frances Tiafoe": 2.75
+        },
+        "tipico_de": {
+          "Felix Auger-Aliassime": 1.4,
+          "Frances Tiafoe": 2.7
+        },
+        "winamax_de": {
+          "Felix Auger-Aliassime": 1.45,
+          "Frances Tiafoe": 2.7
+        },
+        "betclic_fr": {
+          "Felix Auger-Aliassime": 1.45,
+          "Frances Tiafoe": 2.7
+        },
+        "unibet_fr": {
+          "Felix Auger-Aliassime": 1.44,
+          "Frances Tiafoe": 2.65
+        },
+        "nordicbet": {
+          "Felix Auger-Aliassime": 1.46,
+          "Frances Tiafoe": 2.75
+        },
+        "draftkings": {
+          "Felix Auger-Aliassime": 1.45,
+          "Frances Tiafoe": 2.79
+        },
+        "betmgm": {
+          "Felix Auger-Aliassime": 1.45,
+          "Frances Tiafoe": 2.7
+        },
+        "marathonbet": {
+          "Felix Auger-Aliassime": 1.44,
+          "Frances Tiafoe": 2.76
+        },
+        "williamhill": {
+          "Felix Auger-Aliassime": 1.5,
+          "Frances Tiafoe": 2.6
+        },
+        "winamax_fr": {
+          "Felix Auger-Aliassime": 1.4,
+          "Frances Tiafoe": 2.55
+        },
+        "unibet_nl": {
+          "Felix Auger-Aliassime": 1.43,
+          "Frances Tiafoe": 2.8
+        },
+        "betsson": {
+          "Felix Auger-Aliassime": 1.46,
+          "Frances Tiafoe": 2.75
+        },
+        "coolbet": {
+          "Felix Auger-Aliassime": 1.49,
+          "Frances Tiafoe": 2.8
+        },
+        "gtbets": {
+          "Felix Auger-Aliassime": 1.41,
+          "Frances Tiafoe": 2.84
+        },
+        "matchbook": {
+          "Felix Auger-Aliassime": 1.51,
+          "Frances Tiafoe": 2.92
+        },
+        "fanduel": {
+          "Felix Auger-Aliassime": 1.44,
+          "Frances Tiafoe": 2.84
+        },
+        "pinnacle": {
+          "Felix Auger-Aliassime": 1.49,
+          "Frances Tiafoe": 2.8
+        },
+        "betonlineag": {
+          "Felix Auger-Aliassime": 1.45,
+          "Frances Tiafoe": 2.82
+        },
+        "lowvig": {
+          "Felix Auger-Aliassime": 1.45,
+          "Frances Tiafoe": 2.82
+        }
+      },
+      "prediction": {
+        "p1_name": "Frances Tiafoe",
+        "p2_name": "Felix Auger-Aliassime",
+        "p1_prob": 0.3025,
+        "p2_prob": 0.6975,
+        "predicted_winner": "Felix Auger-Aliassime",
+        "confidence": "high",
+        "p1_edge": -0.04,
+        "p2_edge": 0.0352
+      },
+      "collected_at": "2026-08-19T08:31:42.280777+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-19T00:57:48.954500+00:00"
+  "last_updated": "2026-08-19T08:31:42.291579+00:00"
 }
