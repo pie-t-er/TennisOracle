@@ -42137,7 +42137,11 @@
         "p2_edge": 0.0331
       },
       "collected_at": "2026-08-19T00:57:48.913091+00:00",
-      "result": null
+      "result": {
+        "winner": "Brandon Nakashima",
+        "correct": true,
+        "settled_at": "2026-08-20T08:32:02.317955+00:00"
+      }
     },
     "ba20f520017119a33c3acfced1e1a2fa": {
       "match_id": "ba20f520017119a33c3acfced1e1a2fa",
@@ -42271,7 +42275,11 @@
         "p2_edge": 0.0787
       },
       "collected_at": "2026-08-19T00:57:48.947853+00:00",
-      "result": null
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-08-20T08:32:02.362950+00:00"
+      }
     },
     "d0afd6bbd2551a339703dd19c5ff91b0": {
       "match_id": "d0afd6bbd2551a339703dd19c5ff91b0",
@@ -42401,7 +42409,11 @@
         "p2_edge": 0.039
       },
       "collected_at": "2026-08-19T08:31:42.172316+00:00",
-      "result": null
+      "result": {
+        "winner": "Lorenzo Musetti",
+        "correct": true,
+        "settled_at": "2026-08-20T08:32:02.407690+00:00"
+      }
     },
     "273d7accc832d75e91166b486cad654f": {
       "match_id": "273d7accc832d75e91166b486cad654f",
@@ -42531,8 +42543,548 @@
         "p2_edge": 0.0352
       },
       "collected_at": "2026-08-19T08:31:42.280777+00:00",
+      "result": {
+        "winner": "Frances Tiafoe",
+        "correct": false,
+        "settled_at": "2026-08-20T08:32:02.451427+00:00"
+      }
+    },
+    "bb9787ba2c218ec246a382bd949b4927": {
+      "match_id": "bb9787ba2c218ec246a382bd949b4927",
+      "commence_time": "2026-08-20T19:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Tommy Paul",
+      "player2": "Flavio Cobolli",
+      "bookmakers": {
+        "pinnacle": {
+          "Flavio Cobolli": 2.33,
+          "Tommy Paul": 1.67
+        },
+        "draftkings": {
+          "Flavio Cobolli": 2.35,
+          "Tommy Paul": 1.61
+        },
+        "matchbook": {
+          "Flavio Cobolli": 2.46,
+          "Tommy Paul": 1.67
+        },
+        "sport888": {
+          "Flavio Cobolli": 2.3,
+          "Tommy Paul": 1.61
+        },
+        "onexbet": {
+          "Flavio Cobolli": 2.37,
+          "Tommy Paul": 1.65
+        },
+        "betfair_ex_eu": {
+          "Flavio Cobolli": 2.46,
+          "Tommy Paul": 1.67
+        },
+        "betsson": {
+          "Flavio Cobolli": 2.35,
+          "Tommy Paul": 1.6
+        },
+        "winamax_fr": {
+          "Flavio Cobolli": 2.2,
+          "Tommy Paul": 1.54
+        },
+        "winamax_de": {
+          "Flavio Cobolli": 2.35,
+          "Tommy Paul": 1.6
+        },
+        "williamhill": {
+          "Flavio Cobolli": 2.3,
+          "Tommy Paul": 1.62
+        },
+        "betus": {
+          "Flavio Cobolli": 2.3,
+          "Tommy Paul": 1.62
+        },
+        "gtbets": {
+          "Flavio Cobolli": 2.42,
+          "Tommy Paul": 1.57
+        },
+        "unibet_fr": {
+          "Flavio Cobolli": 2.3,
+          "Tommy Paul": 1.6
+        },
+        "nordicbet": {
+          "Flavio Cobolli": 2.35,
+          "Tommy Paul": 1.6
+        },
+        "coolbet": {
+          "Flavio Cobolli": 2.35,
+          "Tommy Paul": 1.65
+        },
+        "marathonbet": {
+          "Flavio Cobolli": 2.31,
+          "Tommy Paul": 1.61
+        },
+        "bovada": {
+          "Flavio Cobolli": 2.35,
+          "Tommy Paul": 1.61
+        },
+        "betclic_fr": {
+          "Flavio Cobolli": 2.38,
+          "Tommy Paul": 1.61
+        },
+        "betmgm": {
+          "Flavio Cobolli": 2.3,
+          "Tommy Paul": 1.62
+        },
+        "betonlineag": {
+          "Flavio Cobolli": 2.36,
+          "Tommy Paul": 1.62
+        },
+        "lowvig": {
+          "Flavio Cobolli": 2.36,
+          "Tommy Paul": 1.62
+        },
+        "tipico_de": {
+          "Flavio Cobolli": 2.25,
+          "Tommy Paul": 1.62
+        },
+        "betrivers": {
+          "Flavio Cobolli": 2.28,
+          "Tommy Paul": 1.64
+        },
+        "leovegas_se": {
+          "Flavio Cobolli": 2.28,
+          "Tommy Paul": 1.64
+        },
+        "unibet_se": {
+          "Flavio Cobolli": 2.28,
+          "Tommy Paul": 1.64
+        },
+        "unibet_nl": {
+          "Flavio Cobolli": 2.28,
+          "Tommy Paul": 1.64
+        },
+        "pmu_fr": {
+          "Flavio Cobolli": 2.28,
+          "Tommy Paul": 1.64
+        },
+        "betanysports": {
+          "Flavio Cobolli": 2.3,
+          "Tommy Paul": 1.62
+        },
+        "fanduel": {
+          "Flavio Cobolli": 2.34,
+          "Tommy Paul": 1.62
+        }
+      },
+      "prediction": {
+        "p1_name": "Tommy Paul",
+        "p2_name": "Flavio Cobolli",
+        "p1_prob": 0.4795,
+        "p2_prob": 0.5205,
+        "predicted_winner": "Flavio Cobolli",
+        "confidence": "low",
+        "p1_edge": -0.1193,
+        "p2_edge": 0.114
+      },
+      "collected_at": "2026-08-20T08:32:08.534449+00:00",
+      "result": null
+    },
+    "d735e9ce6b96a917e05902e225210b92": {
+      "match_id": "d735e9ce6b96a917e05902e225210b92",
+      "commence_time": "2026-08-21T00:30:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Thiago Agustin Tirante",
+      "player2": "Arthur Fils",
+      "bookmakers": {
+        "winamax_de": {
+          "Arthur Fils": 1.27,
+          "Thiago Agustin Tirante": 4.0
+        },
+        "betfair_ex_eu": {
+          "Arthur Fils": 1.3,
+          "Thiago Agustin Tirante": 4.2
+        },
+        "nordicbet": {
+          "Arthur Fils": 1.26,
+          "Thiago Agustin Tirante": 3.85
+        },
+        "unibet_fr": {
+          "Arthur Fils": 1.27,
+          "Thiago Agustin Tirante": 4.0
+        },
+        "betsson": {
+          "Arthur Fils": 1.26,
+          "Thiago Agustin Tirante": 3.85
+        },
+        "bovada": {
+          "Arthur Fils": 1.27,
+          "Thiago Agustin Tirante": 3.9
+        },
+        "draftkings": {
+          "Arthur Fils": 1.27,
+          "Thiago Agustin Tirante": 3.85
+        },
+        "sport888": {
+          "Arthur Fils": 1.29,
+          "Thiago Agustin Tirante": 3.6
+        },
+        "onexbet": {
+          "Arthur Fils": 1.3,
+          "Thiago Agustin Tirante": 3.92
+        },
+        "gtbets": {
+          "Arthur Fils": 1.25,
+          "Thiago Agustin Tirante": 3.71
+        },
+        "coolbet": {
+          "Arthur Fils": 1.29,
+          "Thiago Agustin Tirante": 3.9
+        },
+        "marathonbet": {
+          "Arthur Fils": 1.26,
+          "Thiago Agustin Tirante": 3.84
+        },
+        "winamax_fr": {
+          "Arthur Fils": 1.27,
+          "Thiago Agustin Tirante": 3.95
+        },
+        "williamhill": {
+          "Arthur Fils": 1.29,
+          "Thiago Agustin Tirante": 3.6
+        },
+        "betclic_fr": {
+          "Arthur Fils": 1.27,
+          "Thiago Agustin Tirante": 3.95
+        },
+        "fanduel": {
+          "Arthur Fils": 1.25,
+          "Thiago Agustin Tirante": 4.1
+        },
+        "betus": {
+          "Arthur Fils": 1.27,
+          "Thiago Agustin Tirante": 3.75
+        },
+        "pinnacle": {
+          "Arthur Fils": 1.28,
+          "Thiago Agustin Tirante": 4.0
+        },
+        "betmgm": {
+          "Arthur Fils": 1.29,
+          "Thiago Agustin Tirante": 3.7
+        },
+        "lowvig": {
+          "Arthur Fils": 1.27,
+          "Thiago Agustin Tirante": 3.95
+        },
+        "betonlineag": {
+          "Arthur Fils": 1.27,
+          "Thiago Agustin Tirante": 3.95
+        },
+        "tipico_de": {
+          "Arthur Fils": 1.25,
+          "Thiago Agustin Tirante": 3.8
+        },
+        "matchbook": {
+          "Arthur Fils": 1.3,
+          "Thiago Agustin Tirante": 4.2
+        },
+        "betrivers": {
+          "Arthur Fils": 1.26,
+          "Thiago Agustin Tirante": 3.85
+        },
+        "unibet_se": {
+          "Arthur Fils": 1.26,
+          "Thiago Agustin Tirante": 3.85
+        },
+        "pmu_fr": {
+          "Arthur Fils": 1.26,
+          "Thiago Agustin Tirante": 3.85
+        },
+        "unibet_nl": {
+          "Arthur Fils": 1.26,
+          "Thiago Agustin Tirante": 3.85
+        },
+        "leovegas_se": {
+          "Arthur Fils": 1.26,
+          "Thiago Agustin Tirante": 3.85
+        },
+        "betanysports": {
+          "Arthur Fils": 1.27,
+          "Thiago Agustin Tirante": 3.8
+        }
+      },
+      "prediction": {
+        "p1_name": "Thiago Agustin Tirante",
+        "p2_name": "Arthur Fils",
+        "p1_prob": 0.2494,
+        "p2_prob": 0.7506,
+        "predicted_winner": "Arthur Fils",
+        "confidence": "high",
+        "p1_edge": 0.0113,
+        "p2_edge": -0.0186
+      },
+      "collected_at": "2026-08-20T08:32:08.587660+00:00",
+      "result": null
+    },
+    "37c7b865cc8d98a31b31d331e2376c96": {
+      "match_id": "37c7b865cc8d98a31b31d331e2376c96",
+      "commence_time": "2026-08-21T19:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Taylor Fritz",
+      "player2": "Brandon Nakashima",
+      "bookmakers": {
+        "betsson": {
+          "Brandon Nakashima": 2.55,
+          "Taylor Fritz": 1.52
+        },
+        "winamax_de": {
+          "Brandon Nakashima": 2.6,
+          "Taylor Fritz": 1.54
+        },
+        "winamax_fr": {
+          "Brandon Nakashima": 2.55,
+          "Taylor Fritz": 1.52
+        },
+        "betfair_ex_eu": {
+          "Brandon Nakashima": 2.6,
+          "Taylor Fritz": 1.56
+        },
+        "nordicbet": {
+          "Brandon Nakashima": 2.55,
+          "Taylor Fritz": 1.52
+        },
+        "unibet_fr": {
+          "Brandon Nakashima": 2.5,
+          "Taylor Fritz": 1.51
+        },
+        "sport888": {
+          "Brandon Nakashima": 2.5,
+          "Taylor Fritz": 1.53
+        },
+        "marathonbet": {
+          "Brandon Nakashima": 2.52,
+          "Taylor Fritz": 1.52
+        },
+        "williamhill": {
+          "Brandon Nakashima": 2.5,
+          "Taylor Fritz": 1.53
+        },
+        "tipico_de": {
+          "Brandon Nakashima": 2.55,
+          "Taylor Fritz": 1.5
+        },
+        "fanduel": {
+          "Brandon Nakashima": 2.6,
+          "Taylor Fritz": 1.52
+        },
+        "betclic_fr": {
+          "Brandon Nakashima": 2.5,
+          "Taylor Fritz": 1.51
+        },
+        "onexbet": {
+          "Brandon Nakashima": 2.59,
+          "Taylor Fritz": 1.56
+        },
+        "coolbet": {
+          "Brandon Nakashima": 2.6,
+          "Taylor Fritz": 1.55
+        },
+        "gtbets": {
+          "Brandon Nakashima": 2.68,
+          "Taylor Fritz": 1.53
+        },
+        "draftkings": {
+          "Brandon Nakashima": 2.48,
+          "Taylor Fritz": 1.55
+        },
+        "pinnacle": {
+          "Brandon Nakashima": 2.61,
+          "Taylor Fritz": 1.55
+        },
+        "betmgm": {
+          "Brandon Nakashima": 2.5,
+          "Taylor Fritz": 1.53
+        },
+        "betrivers": {
+          "Brandon Nakashima": 2.55,
+          "Taylor Fritz": 1.5
+        },
+        "leovegas_se": {
+          "Brandon Nakashima": 2.55,
+          "Taylor Fritz": 1.5
+        },
+        "pmu_fr": {
+          "Brandon Nakashima": 2.5,
+          "Taylor Fritz": 1.48
+        },
+        "unibet_se": {
+          "Brandon Nakashima": 2.55,
+          "Taylor Fritz": 1.5
+        },
+        "unibet_nl": {
+          "Brandon Nakashima": 2.55,
+          "Taylor Fritz": 1.5
+        },
+        "bovada": {
+          "Brandon Nakashima": 2.55,
+          "Taylor Fritz": 1.54
+        },
+        "betonlineag": {
+          "Brandon Nakashima": 2.61,
+          "Taylor Fritz": 1.53
+        },
+        "lowvig": {
+          "Brandon Nakashima": 2.61,
+          "Taylor Fritz": 1.53
+        },
+        "matchbook": {
+          "Brandon Nakashima": 2.4,
+          "Taylor Fritz": 1.47
+        }
+      },
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Brandon Nakashima",
+        "p1_prob": 0.6112,
+        "p2_prob": 0.3888,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "high",
+        "p1_edge": -0.0298,
+        "p2_edge": 0.0157
+      },
+      "collected_at": "2026-08-20T08:32:08.639102+00:00",
+      "result": null
+    },
+    "6a59e4127323e705e0f7d9068774d6e7": {
+      "match_id": "6a59e4127323e705e0f7d9068774d6e7",
+      "commence_time": "2026-08-21T19:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Lorenzo Musetti",
+      "player2": "Frances Tiafoe",
+      "bookmakers": {
+        "betsson": {
+          "Frances Tiafoe": 2.1,
+          "Lorenzo Musetti": 1.74
+        },
+        "marathonbet": {
+          "Frances Tiafoe": 2.1,
+          "Lorenzo Musetti": 1.73
+        },
+        "betclic_fr": {
+          "Frances Tiafoe": 2.08,
+          "Lorenzo Musetti": 1.73
+        },
+        "sport888": {
+          "Frances Tiafoe": 2.1,
+          "Lorenzo Musetti": 1.73
+        },
+        "onexbet": {
+          "Frances Tiafoe": 2.16,
+          "Lorenzo Musetti": 1.78
+        },
+        "betfair_ex_eu": {
+          "Frances Tiafoe": 2.02,
+          "Lorenzo Musetti": 1.81
+        },
+        "draftkings": {
+          "Frances Tiafoe": 1.95,
+          "Lorenzo Musetti": 1.87
+        },
+        "winamax_fr": {
+          "Frances Tiafoe": 2.1,
+          "Lorenzo Musetti": 1.74
+        },
+        "winamax_de": {
+          "Frances Tiafoe": 2.1,
+          "Lorenzo Musetti": 1.76
+        },
+        "nordicbet": {
+          "Frances Tiafoe": 2.1,
+          "Lorenzo Musetti": 1.74
+        },
+        "williamhill": {
+          "Frances Tiafoe": 2.1,
+          "Lorenzo Musetti": 1.73
+        },
+        "unibet_fr": {
+          "Frances Tiafoe": 2.1,
+          "Lorenzo Musetti": 1.74
+        },
+        "coolbet": {
+          "Frances Tiafoe": 2.1,
+          "Lorenzo Musetti": 1.8
+        },
+        "fanduel": {
+          "Frances Tiafoe": 1.98,
+          "Lorenzo Musetti": 1.85
+        },
+        "tipico_de": {
+          "Frances Tiafoe": 2.1,
+          "Lorenzo Musetti": 1.72
+        },
+        "gtbets": {
+          "Frances Tiafoe": 2.03,
+          "Lorenzo Musetti": 1.79
+        },
+        "betmgm": {
+          "Frances Tiafoe": 2.1,
+          "Lorenzo Musetti": 1.74
+        },
+        "pinnacle": {
+          "Frances Tiafoe": 2.12,
+          "Lorenzo Musetti": 1.79
+        },
+        "unibet_nl": {
+          "Frances Tiafoe": 2.14,
+          "Lorenzo Musetti": 1.71
+        },
+        "unibet_se": {
+          "Frances Tiafoe": 2.14,
+          "Lorenzo Musetti": 1.71
+        },
+        "betrivers": {
+          "Frances Tiafoe": 2.14,
+          "Lorenzo Musetti": 1.71
+        },
+        "leovegas_se": {
+          "Frances Tiafoe": 2.14,
+          "Lorenzo Musetti": 1.71
+        },
+        "pmu_fr": {
+          "Frances Tiafoe": 2.1,
+          "Lorenzo Musetti": 1.68
+        },
+        "bovada": {
+          "Frances Tiafoe": 2.1,
+          "Lorenzo Musetti": 1.77
+        },
+        "betonlineag": {
+          "Frances Tiafoe": 2.1,
+          "Lorenzo Musetti": 1.77
+        },
+        "lowvig": {
+          "Frances Tiafoe": 2.1,
+          "Lorenzo Musetti": 1.77
+        },
+        "matchbook": {
+          "Frances Tiafoe": 1.94,
+          "Lorenzo Musetti": 1.69
+        }
+      },
+      "prediction": {
+        "p1_name": "Lorenzo Musetti",
+        "p2_name": "Frances Tiafoe",
+        "p1_prob": 0.6155,
+        "p2_prob": 0.3845,
+        "predicted_winner": "Lorenzo Musetti",
+        "confidence": "high",
+        "p1_edge": 0.0807,
+        "p2_edge": -0.0785
+      },
+      "collected_at": "2026-08-20T08:32:08.690902+00:00",
       "result": null
     }
   },
-  "last_updated": "2026-08-20T00:57:19.714353+00:00"
+  "last_updated": "2026-08-20T08:32:08.698842+00:00"
 }
