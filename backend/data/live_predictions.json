@@ -41677,7 +41677,11 @@
         "p2_edge": 0.1562
       },
       "collected_at": "2026-08-18T08:30:49.097658+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fils",
+        "correct": false,
+        "settled_at": "2026-08-20T00:57:19.714342+00:00"
+      }
     },
     "668b60bb54d858f7cd744597bf1d08bd": {
       "match_id": "668b60bb54d858f7cd744597bf1d08bd",
@@ -41787,7 +41791,11 @@
         "p2_edge": -0.0528
       },
       "collected_at": "2026-08-18T08:30:49.164169+00:00",
-      "result": null
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": false,
+        "settled_at": "2026-08-20T00:57:19.656671+00:00"
+      }
     },
     "2932c93a0e7e835909cf7cc0756f4a22": {
       "match_id": "2932c93a0e7e835909cf7cc0756f4a22",
@@ -41901,7 +41909,11 @@
         "p2_edge": 0.1993
       },
       "collected_at": "2026-08-18T08:30:49.230955+00:00",
-      "result": null
+      "result": {
+        "winner": "Flavio Cobolli",
+        "correct": false,
+        "settled_at": "2026-08-20T00:57:19.497674+00:00"
+      }
     },
     "1b928e271831575f1591dcbd0cbe8664": {
       "match_id": "1b928e271831575f1591dcbd0cbe8664",
@@ -42015,7 +42027,11 @@
         "p2_edge": 0.0035
       },
       "collected_at": "2026-08-18T08:30:49.297338+00:00",
-      "result": null
+      "result": {
+        "winner": "Thiago Agustin Tirante",
+        "correct": false,
+        "settled_at": "2026-08-20T00:57:19.565288+00:00"
+      }
     },
     "05b6e3c71e45e07766cfabdb4e8a4bc4": {
       "match_id": "05b6e3c71e45e07766cfabdb4e8a4bc4",
@@ -42518,5 +42534,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-08-19T08:31:42.291579+00:00"
+  "last_updated": "2026-08-20T00:57:19.714353+00:00"
 }
