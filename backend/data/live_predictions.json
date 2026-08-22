@@ -43095,7 +43095,11 @@
         "p2_edge": -0.0785
       },
       "collected_at": "2026-08-20T08:32:08.690902+00:00",
-      "result": null
+      "result": {
+        "winner": "Frances Tiafoe",
+        "correct": false,
+        "settled_at": "2026-08-22T08:23:09.563920+00:00"
+      }
     },
     "cf6e6abb36c3b5c36d339a46afce1c05": {
       "match_id": "cf6e6abb36c3b5c36d339a46afce1c05",
@@ -43218,7 +43222,137 @@
       },
       "collected_at": "2026-08-21T08:34:45.286997+00:00",
       "result": null
+    },
+    "1b5336a02768d1e5cde4920216c2f197": {
+      "match_id": "1b5336a02768d1e5cde4920216c2f197",
+      "commence_time": "2026-08-22T22:00:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Brandon Nakashima",
+      "player2": "Frances Tiafoe",
+      "bookmakers": {
+        "pinnacle": {
+          "Brandon Nakashima": 1.89,
+          "Frances Tiafoe": 2.0
+        },
+        "unibet_fr": {
+          "Brandon Nakashima": 1.85,
+          "Frances Tiafoe": 2.0
+        },
+        "betfair_ex_eu": {
+          "Brandon Nakashima": 1.96,
+          "Frances Tiafoe": 2.02
+        },
+        "coolbet": {
+          "Brandon Nakashima": 1.87,
+          "Frances Tiafoe": 2.02
+        },
+        "betsson": {
+          "Brandon Nakashima": 1.82,
+          "Frances Tiafoe": 2.0
+        },
+        "marathonbet": {
+          "Brandon Nakashima": 1.82,
+          "Frances Tiafoe": 1.97
+        },
+        "onexbet": {
+          "Brandon Nakashima": 1.88,
+          "Frances Tiafoe": 2.03
+        },
+        "sport888": {
+          "Brandon Nakashima": 1.85,
+          "Frances Tiafoe": 1.95
+        },
+        "nordicbet": {
+          "Brandon Nakashima": 1.82,
+          "Frances Tiafoe": 2.0
+        },
+        "betmgm": {
+          "Brandon Nakashima": 1.85,
+          "Frances Tiafoe": 1.95
+        },
+        "williamhill": {
+          "Brandon Nakashima": 1.85,
+          "Frances Tiafoe": 1.95
+        },
+        "betclic_fr": {
+          "Brandon Nakashima": 1.86,
+          "Frances Tiafoe": 1.98
+        },
+        "gtbets": {
+          "Brandon Nakashima": 1.8,
+          "Frances Tiafoe": 2.02
+        },
+        "matchbook": {
+          "Brandon Nakashima": 1.96,
+          "Frances Tiafoe": 2.02
+        },
+        "winamax_fr": {
+          "Brandon Nakashima": 1.86,
+          "Frances Tiafoe": 1.96
+        },
+        "winamax_de": {
+          "Brandon Nakashima": 1.88,
+          "Frances Tiafoe": 1.98
+        },
+        "betrivers": {
+          "Brandon Nakashima": 1.83,
+          "Frances Tiafoe": 1.97
+        },
+        "unibet_nl": {
+          "Brandon Nakashima": 1.83,
+          "Frances Tiafoe": 1.97
+        },
+        "unibet_se": {
+          "Brandon Nakashima": 1.83,
+          "Frances Tiafoe": 1.97
+        },
+        "draftkings": {
+          "Brandon Nakashima": 1.78,
+          "Frances Tiafoe": 2.05
+        },
+        "betonlineag": {
+          "Brandon Nakashima": 1.78,
+          "Frances Tiafoe": 2.08
+        },
+        "lowvig": {
+          "Brandon Nakashima": 1.78,
+          "Frances Tiafoe": 2.08
+        },
+        "tipico_de": {
+          "Brandon Nakashima": 1.8,
+          "Frances Tiafoe": 1.97
+        },
+        "betus": {
+          "Brandon Nakashima": 1.78,
+          "Frances Tiafoe": 1.98
+        },
+        "fanduel": {
+          "Brandon Nakashima": 1.82,
+          "Frances Tiafoe": 2.02
+        },
+        "bovada": {
+          "Brandon Nakashima": 1.83,
+          "Frances Tiafoe": 2.0
+        },
+        "betanysports": {
+          "Brandon Nakashima": 1.78,
+          "Frances Tiafoe": 2.08
+        }
+      },
+      "prediction": {
+        "p1_name": "Brandon Nakashima",
+        "p2_name": "Frances Tiafoe",
+        "p1_prob": 0.5198,
+        "p2_prob": 0.4802,
+        "predicted_winner": "Brandon Nakashima",
+        "confidence": "low",
+        "p1_edge": 0.0096,
+        "p2_edge": -0.0006
+      },
+      "collected_at": "2026-08-22T08:23:18.017416+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-22T00:57:28.176994+00:00"
+  "last_updated": "2026-08-22T08:23:18.029969+00:00"
 }
