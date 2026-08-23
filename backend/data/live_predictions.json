@@ -43221,7 +43221,11 @@
         "p2_edge": -0.1571
       },
       "collected_at": "2026-08-21T08:34:45.286997+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fils",
+        "correct": true,
+        "settled_at": "2026-08-23T01:02:30.332492+00:00"
+      }
     },
     "1b5336a02768d1e5cde4920216c2f197": {
       "match_id": "1b5336a02768d1e5cde4920216c2f197",
@@ -43351,8 +43355,12 @@
         "p2_edge": -0.0006
       },
       "collected_at": "2026-08-22T08:23:18.017416+00:00",
-      "result": null
+      "result": {
+        "winner": "Frances Tiafoe",
+        "correct": false,
+        "settled_at": "2026-08-23T01:02:30.392950+00:00"
+      }
     }
   },
-  "last_updated": "2026-08-22T08:23:18.029969+00:00"
+  "last_updated": "2026-08-23T01:02:30.392963+00:00"
 }
