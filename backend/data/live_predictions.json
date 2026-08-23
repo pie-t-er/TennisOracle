@@ -43360,7 +43360,137 @@
         "correct": false,
         "settled_at": "2026-08-23T01:02:30.392950+00:00"
       }
+    },
+    "8d073f67d873d05e63b665b415d84bc8": {
+      "match_id": "8d073f67d873d05e63b665b415d84bc8",
+      "commence_time": "2026-08-23T20:30:00Z",
+      "tournament": "ATP Cincinnati Open",
+      "surface": "Hard",
+      "player1": "Arthur Fils",
+      "player2": "Frances Tiafoe",
+      "bookmakers": {
+        "pinnacle": {
+          "Arthur Fils": 1.49,
+          "Frances Tiafoe": 2.78
+        },
+        "betsson": {
+          "Arthur Fils": 1.46,
+          "Frances Tiafoe": 2.75
+        },
+        "tipico_de": {
+          "Arthur Fils": 1.45,
+          "Frances Tiafoe": 2.7
+        },
+        "matchbook": {
+          "Arthur Fils": 1.54,
+          "Frances Tiafoe": 2.84
+        },
+        "winamax_de": {
+          "Arthur Fils": 1.47,
+          "Frances Tiafoe": 2.8
+        },
+        "nordicbet": {
+          "Arthur Fils": 1.46,
+          "Frances Tiafoe": 2.75
+        },
+        "sport888": {
+          "Arthur Fils": 1.5,
+          "Frances Tiafoe": 2.6
+        },
+        "gtbets": {
+          "Arthur Fils": 1.51,
+          "Frances Tiafoe": 2.77
+        },
+        "winamax_fr": {
+          "Arthur Fils": 1.46,
+          "Frances Tiafoe": 2.75
+        },
+        "williamhill": {
+          "Arthur Fils": 1.5,
+          "Frances Tiafoe": 2.6
+        },
+        "unibet_fr": {
+          "Arthur Fils": 1.47,
+          "Frances Tiafoe": 2.8
+        },
+        "betfair_ex_eu": {
+          "Arthur Fils": 1.54,
+          "Frances Tiafoe": 2.82
+        },
+        "coolbet": {
+          "Arthur Fils": 1.5,
+          "Frances Tiafoe": 2.75
+        },
+        "betclic_fr": {
+          "Arthur Fils": 1.47,
+          "Frances Tiafoe": 2.8
+        },
+        "draftkings": {
+          "Arthur Fils": 1.43,
+          "Frances Tiafoe": 2.87
+        },
+        "onexbet": {
+          "Arthur Fils": 1.49,
+          "Frances Tiafoe": 2.83
+        },
+        "marathonbet": {
+          "Arthur Fils": 1.48,
+          "Frances Tiafoe": 2.81
+        },
+        "betmgm": {
+          "Arthur Fils": 1.48,
+          "Frances Tiafoe": 2.75
+        },
+        "betus": {
+          "Arthur Fils": 1.49,
+          "Frances Tiafoe": 2.7
+        },
+        "lowvig": {
+          "Arthur Fils": 1.49,
+          "Frances Tiafoe": 2.72
+        },
+        "betonlineag": {
+          "Arthur Fils": 1.49,
+          "Frances Tiafoe": 2.72
+        },
+        "betrivers": {
+          "Arthur Fils": 1.5,
+          "Frances Tiafoe": 2.63
+        },
+        "unibet_nl": {
+          "Arthur Fils": 1.5,
+          "Frances Tiafoe": 2.63
+        },
+        "unibet_se": {
+          "Arthur Fils": 1.5,
+          "Frances Tiafoe": 2.63
+        },
+        "bovada": {
+          "Arthur Fils": 1.45,
+          "Frances Tiafoe": 2.8
+        },
+        "betanysports": {
+          "Arthur Fils": 1.45,
+          "Frances Tiafoe": 2.8
+        },
+        "fanduel": {
+          "Arthur Fils": 1.44,
+          "Frances Tiafoe": 2.84
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Fils",
+        "p2_name": "Frances Tiafoe",
+        "p1_prob": 0.6423,
+        "p2_prob": 0.3577,
+        "predicted_winner": "Arthur Fils",
+        "confidence": "high",
+        "p1_edge": -0.0071,
+        "p2_edge": 0.0093
+      },
+      "collected_at": "2026-08-23T08:23:28.098242+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-23T01:02:30.392963+00:00"
+  "last_updated": "2026-08-23T08:23:28.110394+00:00"
 }
