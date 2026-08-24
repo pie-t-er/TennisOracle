@@ -43489,8 +43489,12 @@
         "p2_edge": 0.0093
       },
       "collected_at": "2026-08-23T08:23:28.098242+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fils",
+        "correct": true,
+        "settled_at": "2026-08-24T08:41:58.269248+00:00"
+      }
     }
   },
-  "last_updated": "2026-08-23T08:23:28.110394+00:00"
+  "last_updated": "2026-08-24T08:41:58.269267+00:00"
 }
