@@ -43494,7 +43494,157 @@
         "correct": true,
         "settled_at": "2026-08-24T08:41:58.269248+00:00"
       }
+    },
+    "tml-2026-6242-1": {
+      "match_id": "tml-2026-6242-1",
+      "commence_time": "2026-08-24T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Rinky Hijikata",
+      "player2": "Darwin Blanch",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Rinky Hijikata",
+        "p2_name": "Darwin Blanch",
+        "p1_prob": 0.6138,
+        "p2_prob": 0.3862,
+        "predicted_winner": "Rinky Hijikata",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-24T16:31:25.635185+00:00",
+      "result": {
+        "winner": "Rinky Hijikata",
+        "correct": true,
+        "settled_at": "2026-08-24T16:31:25.635185+00:00"
+      }
+    },
+    "tml-2026-6242-2": {
+      "match_id": "tml-2026-6242-2",
+      "commence_time": "2026-08-24T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Mattia Bellucci",
+      "player2": "Martin Landaluce",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Mattia Bellucci",
+        "p2_name": "Martin Landaluce",
+        "p1_prob": 0.3424,
+        "p2_prob": 0.6576,
+        "predicted_winner": "Martin Landaluce",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-24T16:31:25.704148+00:00",
+      "result": {
+        "winner": "Mattia Bellucci",
+        "correct": false,
+        "settled_at": "2026-08-24T16:31:25.704148+00:00"
+      }
+    },
+    "tml-2026-6242-3": {
+      "match_id": "tml-2026-6242-3",
+      "commence_time": "2026-08-24T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Jenson Brooksby",
+      "player2": "Giovanni Mpetshi Perricard",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jenson Brooksby",
+        "p2_name": "Giovanni Mpetshi Perricard",
+        "p1_prob": 0.5141,
+        "p2_prob": 0.4859,
+        "predicted_winner": "Jenson Brooksby",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-24T16:31:25.772235+00:00",
+      "result": {
+        "winner": "Jenson Brooksby",
+        "correct": true,
+        "settled_at": "2026-08-24T16:31:25.772235+00:00"
+      }
+    },
+    "tml-2026-6242-4": {
+      "match_id": "tml-2026-6242-4",
+      "commence_time": "2026-08-24T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Francisco Comesana",
+      "player2": "Yibing Wu",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Francisco Comesana",
+        "p2_name": "Yibing Wu",
+        "p1_prob": 0.4251,
+        "p2_prob": 0.5749,
+        "predicted_winner": "Yibing Wu",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-24T16:31:25.840790+00:00",
+      "result": {
+        "winner": "Francisco Comesana",
+        "correct": false,
+        "settled_at": "2026-08-24T16:31:25.840790+00:00"
+      }
+    },
+    "tml-2026-6242-5": {
+      "match_id": "tml-2026-6242-5",
+      "commence_time": "2026-08-24T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Miomir Kecmanovic",
+      "player2": "Sho Shimabukuro",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Miomir Kecmanovic",
+        "p2_name": "Sho Shimabukuro",
+        "p1_prob": 0.6918,
+        "p2_prob": 0.3082,
+        "predicted_winner": "Miomir Kecmanovic",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-24T16:31:25.912835+00:00",
+      "result": {
+        "winner": "Miomir Kecmanovic",
+        "correct": true,
+        "settled_at": "2026-08-24T16:31:25.912835+00:00"
+      }
+    },
+    "tml-2026-6242-6": {
+      "match_id": "tml-2026-6242-6",
+      "commence_time": "2026-08-24T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Adolfo Daniel Vallejo",
+      "player2": "Pablo Carreno Busta",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Adolfo Daniel Vallejo",
+        "p2_name": "Pablo Carreno Busta",
+        "p1_prob": 0.5012,
+        "p2_prob": 0.4988,
+        "predicted_winner": "Adolfo Daniel Vallejo",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-24T16:31:26.029473+00:00",
+      "result": {
+        "winner": "Adolfo Daniel Vallejo",
+        "correct": true,
+        "settled_at": "2026-08-24T16:31:26.029473+00:00"
+      }
     }
   },
-  "last_updated": "2026-08-24T08:41:58.269267+00:00"
+  "last_updated": "2026-08-24T16:31:26.040055+00:00"
 }
