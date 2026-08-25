@@ -43644,7 +43644,182 @@
         "correct": true,
         "settled_at": "2026-08-24T16:31:26.029473+00:00"
       }
+    },
+    "tml-2026-6242-10": {
+      "match_id": "tml-2026-6242-10",
+      "commence_time": "2026-08-25T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Benjamin Bonzi",
+      "player2": "Kamil Majchrzak",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Benjamin Bonzi",
+        "p2_name": "Kamil Majchrzak",
+        "p1_prob": 0.502,
+        "p2_prob": 0.498,
+        "predicted_winner": "Benjamin Bonzi",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-25T08:36:38.542606+00:00",
+      "result": {
+        "winner": "Benjamin Bonzi",
+        "correct": true,
+        "settled_at": "2026-08-25T08:36:38.542606+00:00"
+      }
+    },
+    "tml-2026-6242-11": {
+      "match_id": "tml-2026-6242-11",
+      "commence_time": "2026-08-25T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Martin Damm",
+      "player2": "Abdullah Shelbayh",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Martin Damm",
+        "p2_name": "Abdullah Shelbayh",
+        "p1_prob": 0.6892,
+        "p2_prob": 0.3108,
+        "predicted_winner": "Martin Damm",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-25T08:36:38.612222+00:00",
+      "result": {
+        "winner": "Martin Damm",
+        "correct": true,
+        "settled_at": "2026-08-25T08:36:38.612222+00:00"
+      }
+    },
+    "tml-2026-6242-13": {
+      "match_id": "tml-2026-6242-13",
+      "commence_time": "2026-08-25T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Lorenzo Sonego",
+      "player2": "Pierre-Hugues Herbert",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Lorenzo Sonego",
+        "p2_name": "Pierre-Hugues Herbert",
+        "p1_prob": 0.6996,
+        "p2_prob": 0.3004,
+        "predicted_winner": "Lorenzo Sonego",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-25T08:36:38.691684+00:00",
+      "result": {
+        "winner": "Lorenzo Sonego",
+        "correct": true,
+        "settled_at": "2026-08-25T08:36:38.691684+00:00"
+      }
+    },
+    "tml-2026-6242-14": {
+      "match_id": "tml-2026-6242-14",
+      "commence_time": "2026-08-25T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Adam Walton",
+      "player2": "Jesper de Jong",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Adam Walton",
+        "p2_name": "Jesper de Jong",
+        "p1_prob": 0.513,
+        "p2_prob": 0.487,
+        "predicted_winner": "Adam Walton",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-25T08:36:38.761038+00:00",
+      "result": {
+        "winner": "Adam Walton",
+        "correct": true,
+        "settled_at": "2026-08-25T08:36:38.761038+00:00"
+      }
+    },
+    "tml-2026-6242-15": {
+      "match_id": "tml-2026-6242-15",
+      "commence_time": "2026-08-25T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Stefanos Tsitsipas",
+      "player2": "Jenson Brooksby",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Stefanos Tsitsipas",
+        "p2_name": "Jenson Brooksby",
+        "p1_prob": 0.5058,
+        "p2_prob": 0.4942,
+        "predicted_winner": "Stefanos Tsitsipas",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-25T08:36:38.834767+00:00",
+      "result": {
+        "winner": "Stefanos Tsitsipas",
+        "correct": true,
+        "settled_at": "2026-08-25T08:36:38.834767+00:00"
+      }
+    },
+    "tml-2026-6242-16": {
+      "match_id": "tml-2026-6242-16",
+      "commence_time": "2026-08-25T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Daniel Altmaier",
+      "player2": "Francisco Comesana",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Daniel Altmaier",
+        "p2_name": "Francisco Comesana",
+        "p1_prob": 0.5265,
+        "p2_prob": 0.4735,
+        "predicted_winner": "Daniel Altmaier",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-25T08:36:38.950888+00:00",
+      "result": {
+        "winner": "Daniel Altmaier",
+        "correct": true,
+        "settled_at": "2026-08-25T08:36:38.950888+00:00"
+      }
+    },
+    "tml-2026-6242-17": {
+      "match_id": "tml-2026-6242-17",
+      "commence_time": "2026-08-25T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Hugo Grenier",
+      "player2": "Roman Safiullin",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Hugo Grenier",
+        "p2_name": "Roman Safiullin",
+        "p1_prob": 0.3977,
+        "p2_prob": 0.6023,
+        "predicted_winner": "Roman Safiullin",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-25T08:36:39.021688+00:00",
+      "result": {
+        "winner": "Hugo Grenier",
+        "correct": false,
+        "settled_at": "2026-08-25T08:36:39.021688+00:00"
+      }
     }
   },
-  "last_updated": "2026-08-24T16:31:26.040055+00:00"
+  "last_updated": "2026-08-25T08:36:39.033882+00:00"
 }
