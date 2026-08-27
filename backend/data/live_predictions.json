@@ -44069,7 +44069,182 @@
         "correct": true,
         "settled_at": "2026-08-26T08:37:39.792275+00:00"
       }
+    },
+    "tml-2026-6242-33": {
+      "match_id": "tml-2026-6242-33",
+      "commence_time": "2026-08-26T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Botic Van De Zandschulp",
+      "player2": "Luciano Darderi",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Botic Van De Zandschulp",
+        "p2_name": "Luciano Darderi",
+        "p1_prob": 0.4535,
+        "p2_prob": 0.5465,
+        "predicted_winner": "Luciano Darderi",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-27T06:56:19.226137+00:00",
+      "result": {
+        "winner": "Botic Van De Zandschulp",
+        "correct": false,
+        "settled_at": "2026-08-27T06:56:19.226137+00:00"
+      }
+    },
+    "tml-2026-6242-34": {
+      "match_id": "tml-2026-6242-34",
+      "commence_time": "2026-08-26T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Benjamin Bonzi",
+      "player2": "Rinky Hijikata",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Benjamin Bonzi",
+        "p2_name": "Rinky Hijikata",
+        "p1_prob": 0.5069,
+        "p2_prob": 0.4931,
+        "predicted_winner": "Benjamin Bonzi",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-27T06:56:19.279874+00:00",
+      "result": {
+        "winner": "Benjamin Bonzi",
+        "correct": true,
+        "settled_at": "2026-08-27T06:56:19.279874+00:00"
+      }
+    },
+    "tml-2026-6242-35": {
+      "match_id": "tml-2026-6242-35",
+      "commence_time": "2026-08-27T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Aleksandar Kovacevic",
+      "player2": "Stefanos Tsitsipas",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Aleksandar Kovacevic",
+        "p2_name": "Stefanos Tsitsipas",
+        "p1_prob": 0.3207,
+        "p2_prob": 0.6793,
+        "predicted_winner": "Stefanos Tsitsipas",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-27T06:56:19.326688+00:00",
+      "result": {
+        "winner": "Aleksandar Kovacevic",
+        "correct": false,
+        "settled_at": "2026-08-27T06:56:19.326688+00:00"
+      }
+    },
+    "tml-2026-6242-36": {
+      "match_id": "tml-2026-6242-36",
+      "commence_time": "2026-08-27T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Ignacio Buse",
+      "player2": "Daniel Altmaier",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ignacio Buse",
+        "p2_name": "Daniel Altmaier",
+        "p1_prob": 0.4822,
+        "p2_prob": 0.5178,
+        "predicted_winner": "Daniel Altmaier",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-27T06:56:19.373627+00:00",
+      "result": {
+        "winner": "Ignacio Buse",
+        "correct": false,
+        "settled_at": "2026-08-27T06:56:19.373627+00:00"
+      }
+    },
+    "tml-2026-6242-38": {
+      "match_id": "tml-2026-6242-38",
+      "commence_time": "2026-08-27T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Juan Manuel Cerundolo",
+      "player2": "Sebastian Baez",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Juan Manuel Cerundolo",
+        "p2_name": "Sebastian Baez",
+        "p1_prob": 0.5254,
+        "p2_prob": 0.4746,
+        "predicted_winner": "Juan Manuel Cerundolo",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-27T06:56:19.423872+00:00",
+      "result": {
+        "winner": "Juan Manuel Cerundolo",
+        "correct": true,
+        "settled_at": "2026-08-27T06:56:19.423872+00:00"
+      }
+    },
+    "tml-2026-6242-39": {
+      "match_id": "tml-2026-6242-39",
+      "commence_time": "2026-08-27T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "James Duckworth",
+      "player2": "Lorenzo Sonego",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "James Duckworth",
+        "p2_name": "Lorenzo Sonego",
+        "p1_prob": 0.3658,
+        "p2_prob": 0.6342,
+        "predicted_winner": "Lorenzo Sonego",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-27T06:56:19.504016+00:00",
+      "result": {
+        "winner": "James Duckworth",
+        "correct": false,
+        "settled_at": "2026-08-27T06:56:19.504016+00:00"
+      }
+    },
+    "tml-2026-6242-40": {
+      "match_id": "tml-2026-6242-40",
+      "commence_time": "2026-08-27T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Fabian Marozsan",
+      "player2": "Martin Damm",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Fabian Marozsan",
+        "p2_name": "Martin Damm",
+        "p1_prob": 0.5509,
+        "p2_prob": 0.4491,
+        "predicted_winner": "Fabian Marozsan",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-27T06:56:19.552123+00:00",
+      "result": {
+        "winner": "Fabian Marozsan",
+        "correct": true,
+        "settled_at": "2026-08-27T06:56:19.552123+00:00"
+      }
     }
   },
-  "last_updated": "2026-08-26T08:37:39.803263+00:00"
+  "last_updated": "2026-08-27T06:56:19.559093+00:00"
 }
