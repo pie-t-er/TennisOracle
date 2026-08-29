@@ -48242,7 +48242,974 @@
         "correct": false,
         "settled_at": "2026-08-28T08:44:28.035667+00:00"
       }
+    },
+    "3dfe29f9a88d7ab871921a897548079b": {
+      "match_id": "3dfe29f9a88d7ab871921a897548079b",
+      "commence_time": "2026-08-30T16:10:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Chak Lam Coleman Wong",
+      "player2": "Tommy Paul",
+      "bookmakers": {
+        "sport888": {
+          "Chak Lam Coleman Wong": 5.0,
+          "Tommy Paul": 1.17
+        },
+        "unibet_fr": {
+          "Chak Lam Coleman Wong": 4.85,
+          "Tommy Paul": 1.12
+        },
+        "draftkings": {
+          "Chak Lam Coleman Wong": 8.2,
+          "Tommy Paul": 1.07
+        },
+        "betfair_ex_eu": {
+          "Chak Lam Coleman Wong": 5.3,
+          "Tommy Paul": 1.13
+        },
+        "betsson": {
+          "Chak Lam Coleman Wong": 5.45,
+          "Tommy Paul": 1.14
+        },
+        "nordicbet": {
+          "Chak Lam Coleman Wong": 5.45,
+          "Tommy Paul": 1.14
+        },
+        "mybookieag": {
+          "Chak Lam Coleman Wong": 5.5,
+          "Tommy Paul": 1.14
+        },
+        "marathonbet": {
+          "Chak Lam Coleman Wong": 5.4,
+          "Tommy Paul": 1.15
+        },
+        "bovada": {
+          "Chak Lam Coleman Wong": 6.25,
+          "Tommy Paul": 1.12
+        },
+        "betclic_fr": {
+          "Chak Lam Coleman Wong": 4.8,
+          "Tommy Paul": 1.12
+        },
+        "winamax_de": {
+          "Chak Lam Coleman Wong": 5.6,
+          "Tommy Paul": 1.14
+        },
+        "winamax_fr": {
+          "Chak Lam Coleman Wong": 4.6,
+          "Tommy Paul": 1.11
+        },
+        "williamhill": {
+          "Chak Lam Coleman Wong": 5.0,
+          "Tommy Paul": 1.17
+        }
+      },
+      "prediction": {
+        "p1_name": "Hong Kit Jack Wong",
+        "p2_name": "Tommy Paul",
+        "p1_prob": 0.1192,
+        "p2_prob": 0.8808,
+        "predicted_winner": "Tommy Paul",
+        "confidence": "high",
+        "p1_edge": -0.0028,
+        "p2_edge": 0.0261
+      },
+      "collected_at": "2026-08-29T00:21:52.427356+00:00",
+      "result": null
+    },
+    "044bcae4cbb8ead2ec2b7540848b0ac6": {
+      "match_id": "044bcae4cbb8ead2ec2b7540848b0ac6",
+      "commence_time": "2026-08-30T16:40:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Toby Samuel",
+      "player2": "Tomas Machac",
+      "bookmakers": {
+        "gtbets": {
+          "Toby Samuel": 1.81,
+          "Tomas Machac": 2.01
+        },
+        "marathonbet": {
+          "Toby Samuel": 1.82,
+          "Tomas Machac": 1.97
+        },
+        "sport888": {
+          "Toby Samuel": 1.8,
+          "Tomas Machac": 2.0
+        },
+        "onexbet": {
+          "Toby Samuel": 1.9,
+          "Tomas Machac": 2.05
+        },
+        "draftkings": {
+          "Toby Samuel": 1.76,
+          "Tomas Machac": 2.05
+        },
+        "unibet_fr": {
+          "Toby Samuel": 1.74,
+          "Tomas Machac": 1.9
+        },
+        "betsson": {
+          "Toby Samuel": 1.8,
+          "Tomas Machac": 1.97
+        },
+        "betclic_fr": {
+          "Toby Samuel": 1.74,
+          "Tomas Machac": 1.9
+        },
+        "nordicbet": {
+          "Toby Samuel": 1.8,
+          "Tomas Machac": 1.97
+        },
+        "mybookieag": {
+          "Toby Samuel": 1.81,
+          "Tomas Machac": 1.98
+        },
+        "bovada": {
+          "Toby Samuel": 1.8,
+          "Tomas Machac": 2.05
+        },
+        "betfair_ex_eu": {
+          "Toby Samuel": 1.71,
+          "Tomas Machac": 2.32
+        },
+        "winamax_de": {
+          "Toby Samuel": 1.8,
+          "Tomas Machac": 1.98
+        },
+        "winamax_fr": {
+          "Toby Samuel": 1.72,
+          "Tomas Machac": 1.88
+        },
+        "williamhill": {
+          "Toby Samuel": 1.8,
+          "Tomas Machac": 2.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Toby Samuel",
+        "p2_name": "Tomas Machac",
+        "p1_prob": 0.2786,
+        "p2_prob": 0.7214,
+        "predicted_winner": "Tomas Machac",
+        "confidence": "high",
+        "p1_edge": -0.2477,
+        "p2_edge": 0.2904
+      },
+      "collected_at": "2026-08-29T00:21:52.539057+00:00",
+      "result": null
+    },
+    "34fd11550d6f164cc063763e0d91db35": {
+      "match_id": "34fd11550d6f164cc063763e0d91db35",
+      "commence_time": "2026-08-30T17:10:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Daniil Medvedev",
+      "player2": "Hugo Gaston",
+      "bookmakers": {
+        "marathonbet": {
+          "Daniil Medvedev": 1.05,
+          "Hugo Gaston": 9.9
+        },
+        "nordicbet": {
+          "Daniil Medvedev": 1.05,
+          "Hugo Gaston": 8.8
+        },
+        "onexbet": {
+          "Daniil Medvedev": 1.05,
+          "Hugo Gaston": 15.5
+        },
+        "unibet_fr": {
+          "Daniil Medvedev": 1.05,
+          "Hugo Gaston": 6.9
+        },
+        "mybookieag": {
+          "Daniil Medvedev": 1.06,
+          "Hugo Gaston": 8.5
+        },
+        "betsson": {
+          "Daniil Medvedev": 1.05,
+          "Hugo Gaston": 8.8
+        },
+        "betclic_fr": {
+          "Daniil Medvedev": 1.05,
+          "Hugo Gaston": 6.8
+        },
+        "sport888": {
+          "Daniil Medvedev": 1.08,
+          "Hugo Gaston": 7.5
+        },
+        "draftkings": {
+          "Daniil Medvedev": 1.02,
+          "Hugo Gaston": 13.4
+        },
+        "gtbets": {
+          "Daniil Medvedev": 1.06,
+          "Hugo Gaston": 9.65
+        },
+        "bovada": {
+          "Daniil Medvedev": 1.06,
+          "Hugo Gaston": 10.0
+        },
+        "betfair_ex_eu": {
+          "Daniil Medvedev": 1.09,
+          "Hugo Gaston": 6.2
+        },
+        "winamax_de": {
+          "Daniil Medvedev": 1.06,
+          "Hugo Gaston": 9.0
+        },
+        "winamax_fr": {
+          "Daniil Medvedev": 1.04,
+          "Hugo Gaston": 6.5
+        },
+        "williamhill": {
+          "Daniil Medvedev": 1.08,
+          "Hugo Gaston": 7.5
+        }
+      },
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Hugo Gaston",
+        "p1_prob": 0.8946,
+        "p2_prob": 0.1054,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": -0.0228,
+        "p2_edge": 0.0409
+      },
+      "collected_at": "2026-08-29T00:21:52.615229+00:00",
+      "result": null
+    },
+    "aa7350af51feb2a06a42fe07cbab10df": {
+      "match_id": "aa7350af51feb2a06a42fe07cbab10df",
+      "commence_time": "2026-08-30T17:50:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Aleksandar Vukic",
+      "player2": "Rei Sakamoto",
+      "bookmakers": {
+        "gtbets": {
+          "Aleksandar Vukic": 2.3,
+          "Rei Sakamoto": 1.62
+        },
+        "draftkings": {
+          "Aleksandar Vukic": 2.26,
+          "Rei Sakamoto": 1.62
+        },
+        "onexbet": {
+          "Aleksandar Vukic": 2.44,
+          "Rei Sakamoto": 1.65
+        },
+        "sport888": {
+          "Aleksandar Vukic": 2.3,
+          "Rei Sakamoto": 1.61
+        },
+        "betsson": {
+          "Aleksandar Vukic": 2.28,
+          "Rei Sakamoto": 1.6
+        },
+        "nordicbet": {
+          "Aleksandar Vukic": 2.28,
+          "Rei Sakamoto": 1.6
+        },
+        "bovada": {
+          "Aleksandar Vukic": 2.35,
+          "Rei Sakamoto": 1.61
+        },
+        "betclic_fr": {
+          "Aleksandar Vukic": 2.18,
+          "Rei Sakamoto": 1.56
+        },
+        "mybookieag": {
+          "Aleksandar Vukic": 2.28,
+          "Rei Sakamoto": 1.61
+        },
+        "winamax_de": {
+          "Aleksandar Vukic": 2.3,
+          "Rei Sakamoto": 1.62
+        },
+        "winamax_fr": {
+          "Aleksandar Vukic": 2.15,
+          "Rei Sakamoto": 1.54
+        },
+        "williamhill": {
+          "Aleksandar Vukic": 2.3,
+          "Rei Sakamoto": 1.62
+        }
+      },
+      "prediction": {
+        "p1_name": "Aleksandar Vukic",
+        "p2_name": "Rei Sakamoto",
+        "p1_prob": 0.3854,
+        "p2_prob": 0.6146,
+        "predicted_winner": "Rei Sakamoto",
+        "confidence": "high",
+        "p1_edge": -0.0244,
+        "p2_edge": 0.0085
+      },
+      "collected_at": "2026-08-29T00:21:52.708879+00:00",
+      "result": null
+    },
+    "ae3f9872839594c923acc29e4f14060f": {
+      "match_id": "ae3f9872839594c923acc29e4f14060f",
+      "commence_time": "2026-08-30T19:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Martin Landaluce",
+      "player2": "Jacob Fearnley",
+      "bookmakers": {
+        "gtbets": {
+          "Jacob Fearnley": 1.85,
+          "Martin Landaluce": 1.96
+        },
+        "marathonbet": {
+          "Jacob Fearnley": 1.9,
+          "Martin Landaluce": 1.9
+        },
+        "sport888": {
+          "Jacob Fearnley": 1.91,
+          "Martin Landaluce": 1.91
+        },
+        "onexbet": {
+          "Jacob Fearnley": 1.97,
+          "Martin Landaluce": 1.97
+        },
+        "draftkings": {
+          "Jacob Fearnley": 1.76,
+          "Martin Landaluce": 2.04
+        },
+        "unibet_fr": {
+          "Jacob Fearnley": 1.79,
+          "Martin Landaluce": 1.85
+        },
+        "betsson": {
+          "Jacob Fearnley": 1.86,
+          "Martin Landaluce": 1.9
+        },
+        "betclic_fr": {
+          "Jacob Fearnley": 1.79,
+          "Martin Landaluce": 1.85
+        },
+        "nordicbet": {
+          "Jacob Fearnley": 1.86,
+          "Martin Landaluce": 1.9
+        },
+        "mybookieag": {
+          "Jacob Fearnley": 1.85,
+          "Martin Landaluce": 1.92
+        },
+        "bovada": {
+          "Jacob Fearnley": 1.87,
+          "Martin Landaluce": 1.95
+        },
+        "winamax_de": {
+          "Jacob Fearnley": 1.86,
+          "Martin Landaluce": 1.92
+        },
+        "winamax_fr": {
+          "Jacob Fearnley": 1.76,
+          "Martin Landaluce": 1.82
+        },
+        "williamhill": {
+          "Jacob Fearnley": 1.91,
+          "Martin Landaluce": 1.91
+        }
+      },
+      "prediction": {
+        "p1_name": "Martin Landaluce",
+        "p2_name": "Jacob Fearnley",
+        "p1_prob": 0.6887,
+        "p2_prob": 0.3113,
+        "predicted_winner": "Martin Landaluce",
+        "confidence": "high",
+        "p1_edge": 0.1985,
+        "p2_edge": -0.1963
+      },
+      "collected_at": "2026-08-29T00:21:52.872800+00:00",
+      "result": null
+    },
+    "aed78189dc4582719ecf2c2a06d42de6": {
+      "match_id": "aed78189dc4582719ecf2c2a06d42de6",
+      "commence_time": "2026-08-31T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Alexander Blockx",
+      "player2": "Marcelo Tomas Barrios Vera",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Alexander Blockx": 1.19,
+          "Marcelo Tomas Barrios Vera": 2.8
+        },
+        "marathonbet": {
+          "Alexander Blockx": 1.29,
+          "Marcelo Tomas Barrios Vera": 3.55
+        },
+        "onexbet": {
+          "Alexander Blockx": 1.32,
+          "Marcelo Tomas Barrios Vera": 3.89
+        },
+        "unibet_fr": {
+          "Alexander Blockx": 1.17,
+          "Marcelo Tomas Barrios Vera": 4.05
+        },
+        "sport888": {
+          "Alexander Blockx": 1.17,
+          "Marcelo Tomas Barrios Vera": 5.0
+        },
+        "betclic_fr": {
+          "Alexander Blockx": 1.17,
+          "Marcelo Tomas Barrios Vera": 4.1
+        },
+        "bovada": {
+          "Alexander Blockx": 1.2,
+          "Marcelo Tomas Barrios Vera": 4.75
+        },
+        "mybookieag": {
+          "Alexander Blockx": 1.18,
+          "Marcelo Tomas Barrios Vera": 4.3
+        },
+        "gtbets": {
+          "Alexander Blockx": 1.16,
+          "Marcelo Tomas Barrios Vera": 4.99
+        },
+        "draftkings": {
+          "Alexander Blockx": 1.16,
+          "Marcelo Tomas Barrios Vera": 5.21
+        },
+        "winamax_de": {
+          "Alexander Blockx": 1.18,
+          "Marcelo Tomas Barrios Vera": 4.3
+        },
+        "winamax_fr": {
+          "Alexander Blockx": 1.16,
+          "Marcelo Tomas Barrios Vera": 3.95
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Blockx",
+        "p2_name": "Tomas Barrios Vera",
+        "p1_prob": 0.658,
+        "p2_prob": 0.342,
+        "predicted_winner": "Alexander Blockx",
+        "confidence": "high",
+        "p1_edge": -0.0996,
+        "p2_edge": 0.1501
+      },
+      "collected_at": "2026-08-29T00:21:53.078564+00:00",
+      "result": null
+    },
+    "e442f31945622dc175c3496f08891fe5": {
+      "match_id": "e442f31945622dc175c3496f08891fe5",
+      "commence_time": "2026-08-31T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Grigor Dimitrov",
+      "player2": "Alexei Popyrin",
+      "bookmakers": {
+        "marathonbet": {
+          "Alexei Popyrin": 2.46,
+          "Grigor Dimitrov": 1.54
+        },
+        "onexbet": {
+          "Alexei Popyrin": 2.56,
+          "Grigor Dimitrov": 1.6
+        },
+        "unibet_fr": {
+          "Alexei Popyrin": 2.3,
+          "Grigor Dimitrov": 1.5
+        },
+        "betfair_ex_eu": {
+          "Alexei Popyrin": 2.26,
+          "Grigor Dimitrov": 1.32
+        },
+        "mybookieag": {
+          "Alexei Popyrin": 2.37,
+          "Grigor Dimitrov": 1.52
+        },
+        "betclic_fr": {
+          "Alexei Popyrin": 2.32,
+          "Grigor Dimitrov": 1.5
+        },
+        "winamax_fr": {
+          "Alexei Popyrin": 2.25,
+          "Grigor Dimitrov": 1.48
+        },
+        "draftkings": {
+          "Alexei Popyrin": 2.42,
+          "Grigor Dimitrov": 1.55
+        },
+        "winamax_de": {
+          "Alexei Popyrin": 2.4,
+          "Grigor Dimitrov": 1.52
+        },
+        "gtbets": {
+          "Alexei Popyrin": 2.46,
+          "Grigor Dimitrov": 1.55
+        },
+        "bovada": {
+          "Alexei Popyrin": 2.5,
+          "Grigor Dimitrov": 1.56
+        },
+        "sport888": {
+          "Alexei Popyrin": 2.5,
+          "Grigor Dimitrov": 1.53
+        },
+        "williamhill": {
+          "Alexei Popyrin": 2.38,
+          "Grigor Dimitrov": 1.57
+        }
+      },
+      "prediction": {
+        "p1_name": "Grigor Dimitrov",
+        "p2_name": "Alexei Popyrin",
+        "p1_prob": 0.5044,
+        "p2_prob": 0.4956,
+        "predicted_winner": "Grigor Dimitrov",
+        "confidence": "low",
+        "p1_edge": -0.1206,
+        "p2_edge": 0.105
+      },
+      "collected_at": "2026-08-29T00:21:53.171360+00:00",
+      "result": null
+    },
+    "5618055f6a5e8432d9f93cad55e02ea9": {
+      "match_id": "5618055f6a5e8432d9f93cad55e02ea9",
+      "commence_time": "2026-08-31T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Dalibor Svrcina",
+      "player2": "Valentin Royer",
+      "bookmakers": {
+        "gtbets": {
+          "Dalibor Svrcina": 1.9,
+          "Valentin Royer": 1.91
+        },
+        "betfair_ex_eu": {
+          "Dalibor Svrcina": 2.0,
+          "Valentin Royer": 1.73
+        },
+        "draftkings": {
+          "Dalibor Svrcina": 1.88,
+          "Valentin Royer": 1.9
+        },
+        "unibet_fr": {
+          "Dalibor Svrcina": 1.82,
+          "Valentin Royer": 1.82
+        },
+        "onexbet": {
+          "Dalibor Svrcina": 1.97,
+          "Valentin Royer": 1.97
+        },
+        "betclic_fr": {
+          "Dalibor Svrcina": 1.82,
+          "Valentin Royer": 1.82
+        },
+        "mybookieag": {
+          "Dalibor Svrcina": 1.85,
+          "Valentin Royer": 1.85
+        },
+        "sport888": {
+          "Dalibor Svrcina": 1.91,
+          "Valentin Royer": 1.91
+        },
+        "williamhill": {
+          "Dalibor Svrcina": 1.91,
+          "Valentin Royer": 1.91
+        },
+        "bovada": {
+          "Dalibor Svrcina": 1.91,
+          "Valentin Royer": 1.91
+        },
+        "winamax_de": {
+          "Dalibor Svrcina": 1.86,
+          "Valentin Royer": 1.86
+        },
+        "winamax_fr": {
+          "Dalibor Svrcina": 1.8,
+          "Valentin Royer": 1.8
+        }
+      },
+      "prediction": {
+        "p1_name": "Dalibor Svrcina",
+        "p2_name": "Valentin Royer",
+        "p1_prob": 0.4933,
+        "p2_prob": 0.5067,
+        "predicted_winner": "Valentin Royer",
+        "confidence": "low",
+        "p1_edge": -0.0067,
+        "p2_edge": -0.0009
+      },
+      "collected_at": "2026-08-29T00:21:53.410225+00:00",
+      "result": null
+    },
+    "aa9bc2a56a023039dcd7df50552350cb": {
+      "match_id": "aa9bc2a56a023039dcd7df50552350cb",
+      "commence_time": "2026-08-31T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Jesper De Jong",
+      "player2": "Francesco Passaro",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Francesco Passaro": 2.18,
+          "Jesper De Jong": 1.35
+        },
+        "bovada": {
+          "Francesco Passaro": 1.95,
+          "Jesper De Jong": 1.87
+        },
+        "draftkings": {
+          "Francesco Passaro": 1.92,
+          "Jesper De Jong": 1.86
+        },
+        "unibet_fr": {
+          "Francesco Passaro": 1.84,
+          "Jesper De Jong": 1.8
+        },
+        "onexbet": {
+          "Francesco Passaro": 1.98,
+          "Jesper De Jong": 1.97
+        },
+        "marathonbet": {
+          "Francesco Passaro": 1.9,
+          "Jesper De Jong": 1.89
+        },
+        "betclic_fr": {
+          "Francesco Passaro": 1.84,
+          "Jesper De Jong": 1.8
+        },
+        "mybookieag": {
+          "Francesco Passaro": 1.88,
+          "Jesper De Jong": 1.83
+        },
+        "sport888": {
+          "Francesco Passaro": 1.91,
+          "Jesper De Jong": 1.91
+        },
+        "williamhill": {
+          "Francesco Passaro": 1.91,
+          "Jesper De Jong": 1.91
+        },
+        "gtbets": {
+          "Francesco Passaro": 1.92,
+          "Jesper De Jong": 1.89
+        },
+        "winamax_de": {
+          "Francesco Passaro": 1.88,
+          "Jesper De Jong": 1.84
+        },
+        "winamax_fr": {
+          "Francesco Passaro": 1.82,
+          "Jesper De Jong": 1.76
+        }
+      },
+      "prediction": {
+        "p1_name": "Jesper de Jong",
+        "p2_name": "Francesco Passaro",
+        "p1_prob": 0.5201,
+        "p2_prob": 0.4799,
+        "predicted_winner": "Jesper de Jong",
+        "confidence": "low",
+        "p1_edge": 0.0125,
+        "p2_edge": 0.0212
+      },
+      "collected_at": "2026-08-29T00:21:53.613205+00:00",
+      "result": null
+    },
+    "54474590ac67d3e5c69c65ffcd6fccc1": {
+      "match_id": "54474590ac67d3e5c69c65ffcd6fccc1",
+      "commence_time": "2026-08-31T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Jurij Rodionov",
+      "player2": "Giovanni Mpetshi Perricard",
+      "bookmakers": {
+        "gtbets": {
+          "Giovanni Mpetshi Perricard": 1.53,
+          "Jurij Rodionov": 2.52
+        },
+        "marathonbet": {
+          "Giovanni Mpetshi Perricard": 1.52,
+          "Jurij Rodionov": 2.51
+        },
+        "draftkings": {
+          "Giovanni Mpetshi Perricard": 1.53,
+          "Jurij Rodionov": 2.49
+        },
+        "sport888": {
+          "Giovanni Mpetshi Perricard": 1.53,
+          "Jurij Rodionov": 2.5
+        },
+        "unibet_fr": {
+          "Giovanni Mpetshi Perricard": 1.48,
+          "Jurij Rodionov": 2.35
+        },
+        "betfair_ex_eu": {
+          "Giovanni Mpetshi Perricard": 1.71,
+          "Jurij Rodionov": 1.64
+        },
+        "betclic_fr": {
+          "Giovanni Mpetshi Perricard": 1.48,
+          "Jurij Rodionov": 2.35
+        },
+        "bovada": {
+          "Giovanni Mpetshi Perricard": 1.54,
+          "Jurij Rodionov": 2.55
+        },
+        "mybookieag": {
+          "Giovanni Mpetshi Perricard": 1.51,
+          "Jurij Rodionov": 2.41
+        },
+        "winamax_de": {
+          "Giovanni Mpetshi Perricard": 1.5,
+          "Jurij Rodionov": 2.4
+        },
+        "winamax_fr": {
+          "Giovanni Mpetshi Perricard": 1.47,
+          "Jurij Rodionov": 2.3
+        }
+      },
+      "prediction": {
+        "p1_name": "Jurij Rodionov",
+        "p2_name": "Giovanni Mpetshi Perricard",
+        "p1_prob": 0.4023,
+        "p2_prob": 0.5977,
+        "predicted_winner": "Giovanni Mpetshi Perricard",
+        "confidence": "medium",
+        "p1_edge": 0.0101,
+        "p2_edge": 0.0129
+      },
+      "collected_at": "2026-08-29T00:21:53.688936+00:00",
+      "result": null
+    },
+    "a063a27af8c32d42b4c71f0e4b6b278b": {
+      "match_id": "a063a27af8c32d42b4c71f0e4b6b278b",
+      "commence_time": "2026-08-31T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Jakub Mensik",
+      "player2": "Shintaro Mochizuki",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Jakub Mensik": 1.08,
+          "Shintaro Mochizuki": 7.6
+        },
+        "gtbets": {
+          "Jakub Mensik": 1.08,
+          "Shintaro Mochizuki": 7.93
+        },
+        "marathonbet": {
+          "Jakub Mensik": 1.11,
+          "Shintaro Mochizuki": 6.4
+        },
+        "sport888": {
+          "Jakub Mensik": 1.11,
+          "Shintaro Mochizuki": 6.5
+        },
+        "draftkings": {
+          "Jakub Mensik": 1.05,
+          "Shintaro Mochizuki": 10.2
+        },
+        "unibet_fr": {
+          "Jakub Mensik": 1.07,
+          "Shintaro Mochizuki": 5.9
+        },
+        "betclic_fr": {
+          "Jakub Mensik": 1.07,
+          "Shintaro Mochizuki": 6.0
+        },
+        "bovada": {
+          "Jakub Mensik": 1.09,
+          "Shintaro Mochizuki": 7.75
+        },
+        "mybookieag": {
+          "Jakub Mensik": 1.08,
+          "Shintaro Mochizuki": 6.4
+        },
+        "winamax_de": {
+          "Jakub Mensik": 1.08,
+          "Shintaro Mochizuki": 6.5
+        },
+        "winamax_fr": {
+          "Jakub Mensik": 1.07,
+          "Shintaro Mochizuki": 5.6
+        }
+      },
+      "prediction": {
+        "p1_name": "Jakub Mensik",
+        "p2_name": "Shintaro Mochizuki",
+        "p1_prob": 0.8088,
+        "p2_prob": 0.1912,
+        "predicted_winner": "Jakub Mensik",
+        "confidence": "high",
+        "p1_edge": -0.0921,
+        "p2_edge": 0.0932
+      },
+      "collected_at": "2026-08-29T00:21:53.783458+00:00",
+      "result": null
+    },
+    "b65efc024874b5f0d2b7b6aa74043b05": {
+      "match_id": "b65efc024874b5f0d2b7b6aa74043b05",
+      "commence_time": "2026-08-31T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Mattia Bellucci",
+      "player2": "Zsombor Piros",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Mattia Bellucci": 1.02,
+          "Zsombor Piros": 1.87
+        },
+        "bovada": {
+          "Mattia Bellucci": 1.42,
+          "Zsombor Piros": 2.95
+        },
+        "unibet_fr": {
+          "Mattia Bellucci": 1.35,
+          "Zsombor Piros": 2.75
+        },
+        "onexbet": {
+          "Mattia Bellucci": 1.44,
+          "Zsombor Piros": 3.12
+        },
+        "marathonbet": {
+          "Mattia Bellucci": 1.39,
+          "Zsombor Piros": 2.97
+        },
+        "betclic_fr": {
+          "Mattia Bellucci": 1.35,
+          "Zsombor Piros": 2.75
+        },
+        "mybookieag": {
+          "Mattia Bellucci": 1.37,
+          "Zsombor Piros": 2.85
+        },
+        "sport888": {
+          "Mattia Bellucci": 1.4,
+          "Zsombor Piros": 2.9
+        },
+        "gtbets": {
+          "Mattia Bellucci": 1.44,
+          "Zsombor Piros": 2.97
+        },
+        "draftkings": {
+          "Mattia Bellucci": 1.4,
+          "Zsombor Piros": 2.92
+        },
+        "winamax_de": {
+          "Mattia Bellucci": 1.38,
+          "Zsombor Piros": 2.85
+        },
+        "winamax_fr": {
+          "Mattia Bellucci": 1.34,
+          "Zsombor Piros": 2.7
+        }
+      },
+      "prediction": {
+        "p1_name": "Mattia Bellucci",
+        "p2_name": "Zsombor Piros",
+        "p1_prob": 0.53,
+        "p2_prob": 0.47,
+        "predicted_winner": "Mattia Bellucci",
+        "confidence": "low",
+        "p1_edge": -0.1644,
+        "p2_edge": 0.1495
+      },
+      "collected_at": "2026-08-29T00:21:53.951065+00:00",
+      "result": null
+    },
+    "c527ad5939626550b0cc93f040b5ff1d": {
+      "match_id": "c527ad5939626550b0cc93f040b5ff1d",
+      "commence_time": "2026-08-31T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Nishesh Basavareddy",
+      "player2": "Tristan Schoolkate",
+      "bookmakers": {
+        "gtbets": {
+          "Nishesh Basavareddy": 1.48,
+          "Tristan Schoolkate": 2.8
+        },
+        "marathonbet": {
+          "Nishesh Basavareddy": 1.44,
+          "Tristan Schoolkate": 2.75
+        },
+        "sport888": {
+          "Nishesh Basavareddy": 1.4,
+          "Tristan Schoolkate": 2.9
+        },
+        "onexbet": {
+          "Nishesh Basavareddy": 1.54,
+          "Tristan Schoolkate": 2.73
+        },
+        "betfair_ex_eu": {
+          "Nishesh Basavareddy": 1.17,
+          "Tristan Schoolkate": 1.03
+        },
+        "mybookieag": {
+          "Nishesh Basavareddy": 1.46,
+          "Tristan Schoolkate": 2.53
+        },
+        "betclic_fr": {
+          "Nishesh Basavareddy": 1.43,
+          "Tristan Schoolkate": 2.5
+        },
+        "draftkings": {
+          "Nishesh Basavareddy": 1.46,
+          "Tristan Schoolkate": 2.68
+        },
+        "bovada": {
+          "Nishesh Basavareddy": 1.45,
+          "Tristan Schoolkate": 2.8
+        },
+        "winamax_de": {
+          "Nishesh Basavareddy": 1.44,
+          "Tristan Schoolkate": 2.6
+        },
+        "winamax_fr": {
+          "Nishesh Basavareddy": 1.4,
+          "Tristan Schoolkate": 2.5
+        }
+      },
+      "prediction": {
+        "p1_name": "Nishesh Basavareddy",
+        "p2_name": "Tristan Schoolkate",
+        "p1_prob": 0.5746,
+        "p2_prob": 0.4254,
+        "predicted_winner": "Nishesh Basavareddy",
+        "confidence": "medium",
+        "p1_edge": -0.0748,
+        "p2_edge": 0.0806
+      },
+      "collected_at": "2026-08-29T00:21:54.027183+00:00",
+      "result": null
+    },
+    "tml-2026-6242-45": {
+      "match_id": "tml-2026-6242-45",
+      "commence_time": "2026-08-29T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Ignacio Buse",
+      "player2": "Benjamin Bonzi",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ignacio Buse",
+        "p2_name": "Benjamin Bonzi",
+        "p1_prob": 0.4958,
+        "p2_prob": 0.5042,
+        "predicted_winner": "Benjamin Bonzi",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-29T00:22:00.589735+00:00",
+      "result": {
+        "winner": "Ignacio Buse",
+        "correct": false,
+        "settled_at": "2026-08-29T00:22:00.589735+00:00"
+      }
     }
   },
-  "last_updated": "2026-08-28T08:44:28.049670+00:00"
+  "last_updated": "2026-08-29T00:22:00.602180+00:00"
 }
