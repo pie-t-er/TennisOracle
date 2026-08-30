@@ -45267,7 +45267,11 @@
         "p2_edge": 0.076
       },
       "collected_at": "2026-08-28T08:44:18.052139+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Rinderknech",
+        "correct": true,
+        "settled_at": "2026-08-30T19:00:37.361382+00:00"
+      }
     },
     "ae612ea5d9e3cbcb76f15629a05834bc": {
       "match_id": "ae612ea5d9e3cbcb76f15629a05834bc",
@@ -46331,7 +46335,11 @@
         "p2_edge": 0.7355
       },
       "collected_at": "2026-08-28T08:44:18.994044+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniel Merida Aguilar",
+        "correct": false,
+        "settled_at": "2026-08-30T19:00:37.494440+00:00"
+      }
     },
     "bbf2863cafd9af1dd4c9a9a09ea49dd4": {
       "match_id": "bbf2863cafd9af1dd4c9a9a09ea49dd4",
@@ -46581,7 +46589,11 @@
         "p2_edge": -0.1547
       },
       "collected_at": "2026-08-28T08:44:19.217880+00:00",
-      "result": null
+      "result": {
+        "winner": "Michael Zheng",
+        "correct": false,
+        "settled_at": "2026-08-30T19:00:39.399709+00:00"
+      }
     },
     "5a932213b46f3147d12b92dcc9e5ae2d": {
       "match_id": "5a932213b46f3147d12b92dcc9e5ae2d",
@@ -47101,7 +47113,11 @@
         "p2_edge": 0.1386
       },
       "collected_at": "2026-08-28T08:44:19.669062+00:00",
-      "result": null
+      "result": {
+        "winner": "Kamil Majchrzak",
+        "correct": false,
+        "settled_at": "2026-08-30T19:00:37.427758+00:00"
+      }
     },
     "cb9527ab21c9f598c3d915005df17833": {
       "match_id": "cb9527ab21c9f598c3d915005df17833",
@@ -47277,7 +47293,11 @@
         "p2_edge": 0.1144
       },
       "collected_at": "2026-08-28T08:44:19.822606+00:00",
-      "result": null
+      "result": {
+        "winner": "Jaime Faria",
+        "correct": false,
+        "settled_at": "2026-08-30T19:00:39.471553+00:00"
+      }
     },
     "32027bba340341eeca8c5cf065d47e9e": {
       "match_id": "32027bba340341eeca8c5cf065d47e9e",
@@ -47543,7 +47563,11 @@
         "p2_edge": 0.0262
       },
       "collected_at": "2026-08-28T08:44:20.463654+00:00",
-      "result": null
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": true,
+        "settled_at": "2026-08-30T19:00:37.559794+00:00"
+      }
     },
     "a29484a2180a9dacadc46aa3f6e395d1": {
       "match_id": "a29484a2180a9dacadc46aa3f6e395d1",
@@ -49234,7 +49258,118 @@
         "correct": true,
         "settled_at": "2026-08-30T03:16:29.910797+00:00"
       }
+    },
+    "629f9cccd1c43d54787834c737265f7d": {
+      "match_id": "629f9cccd1c43d54787834c737265f7d",
+      "commence_time": "2026-09-01T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Juan Manuel Cerundolo",
+      "player2": "Arthur Gea",
+      "bookmakers": {
+        "unibet_fr": {
+          "Arthur Gea": 1.61,
+          "Juan Manuel Cerundolo": 2.1
+        },
+        "mybookieag": {
+          "Arthur Gea": 1.67,
+          "Juan Manuel Cerundolo": 2.18
+        },
+        "tipico_de": {
+          "Arthur Gea": 1.62,
+          "Juan Manuel Cerundolo": 2.25
+        },
+        "draftkings": {
+          "Arthur Gea": 1.69,
+          "Juan Manuel Cerundolo": 2.14
+        },
+        "winamax_fr": {
+          "Arthur Gea": 1.6,
+          "Juan Manuel Cerundolo": 2.05
+        },
+        "winamax_de": {
+          "Arthur Gea": 1.66,
+          "Juan Manuel Cerundolo": 2.2
+        },
+        "pmu_fr": {
+          "Arthur Gea": 1.65,
+          "Juan Manuel Cerundolo": 2.12
+        },
+        "unibet_se": {
+          "Arthur Gea": 1.68,
+          "Juan Manuel Cerundolo": 2.17
+        },
+        "betrivers": {
+          "Arthur Gea": 1.68,
+          "Juan Manuel Cerundolo": 2.17
+        },
+        "leovegas_se": {
+          "Arthur Gea": 1.68,
+          "Juan Manuel Cerundolo": 2.17
+        },
+        "unibet_nl": {
+          "Arthur Gea": 1.68,
+          "Juan Manuel Cerundolo": 2.17
+        },
+        "pinnacle": {
+          "Arthur Gea": 1.69,
+          "Juan Manuel Cerundolo": 2.25
+        },
+        "betclic_fr": {
+          "Arthur Gea": 1.61,
+          "Juan Manuel Cerundolo": 2.08
+        },
+        "coolbet": {
+          "Arthur Gea": 1.7,
+          "Juan Manuel Cerundolo": 2.27
+        },
+        "matchbook": {
+          "Arthur Gea": 1.59,
+          "Juan Manuel Cerundolo": 2.08
+        },
+        "onexbet": {
+          "Arthur Gea": 1.73,
+          "Juan Manuel Cerundolo": 2.29
+        }
+      },
+      "prediction": {
+        "p1_name": "Juan Manuel Cerundolo",
+        "p2_name": "Arthur Gea",
+        "p1_prob": 0.5156,
+        "p2_prob": 0.4844,
+        "predicted_winner": "Juan Manuel Cerundolo",
+        "confidence": "low",
+        "p1_edge": 0.0789,
+        "p2_edge": -0.0936
+      },
+      "collected_at": "2026-08-30T19:00:46.832156+00:00",
+      "result": null
+    },
+    "tml-2026-560-62": {
+      "match_id": "tml-2026-560-62",
+      "commence_time": "2026-08-30T00:00:00+00:00",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "player1": "Yibing Wu",
+      "player2": "Adam Walton",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Yibing Wu",
+        "p2_name": "Adam Walton",
+        "p1_prob": 0.5704,
+        "p2_prob": 0.4296,
+        "predicted_winner": "Yibing Wu",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-30T19:00:54.219836+00:00",
+      "result": {
+        "winner": "Yibing Wu",
+        "correct": true,
+        "settled_at": "2026-08-30T19:00:54.219836+00:00"
+      }
     }
   },
-  "last_updated": "2026-08-30T03:16:29.919617+00:00"
+  "last_updated": "2026-08-30T19:00:54.232481+00:00"
 }
