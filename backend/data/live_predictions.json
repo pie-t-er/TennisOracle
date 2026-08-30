@@ -49209,7 +49209,32 @@
         "correct": false,
         "settled_at": "2026-08-29T00:22:00.589735+00:00"
       }
+    },
+    "tml-2026-6242-47": {
+      "match_id": "tml-2026-6242-47",
+      "commence_time": "2026-08-30T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Ignacio Buse",
+      "player2": "Arthur Fery",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ignacio Buse",
+        "p2_name": "Arthur Fery",
+        "p1_prob": 0.5798,
+        "p2_prob": 0.4202,
+        "predicted_winner": "Ignacio Buse",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-30T03:16:29.910797+00:00",
+      "result": {
+        "winner": "Ignacio Buse",
+        "correct": true,
+        "settled_at": "2026-08-30T03:16:29.910797+00:00"
+      }
     }
   },
-  "last_updated": "2026-08-29T00:22:00.602180+00:00"
+  "last_updated": "2026-08-30T03:16:29.919617+00:00"
 }
