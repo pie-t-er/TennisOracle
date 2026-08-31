@@ -44415,7 +44415,11 @@
         "p2_edge": 0.0371
       },
       "collected_at": "2026-08-28T08:44:17.332283+00:00",
-      "result": null
+      "result": {
+        "winner": "Adrian Mannarino",
+        "correct": false,
+        "settled_at": "2026-08-31T21:16:35.138353+00:00"
+      }
     },
     "4c3922703c8ebd874b7451609799917b": {
       "match_id": "4c3922703c8ebd874b7451609799917b",
@@ -44567,7 +44571,11 @@
         "p2_edge": -0.2252
       },
       "collected_at": "2026-08-28T08:44:17.475910+00:00",
-      "result": null
+      "result": {
+        "winner": "Valentin Vacherot",
+        "correct": true,
+        "settled_at": "2026-08-31T21:16:35.343271+00:00"
+      }
     },
     "a216f3e5b5e804512b4c4280b04a1ced": {
       "match_id": "a216f3e5b5e804512b4c4280b04a1ced",
@@ -45181,7 +45189,11 @@
         "p2_edge": -0.167
       },
       "collected_at": "2026-08-28T08:44:17.980224+00:00",
-      "result": null
+      "result": {
+        "winner": "Stefanos Tsitsipas",
+        "correct": false,
+        "settled_at": "2026-08-31T21:16:35.411087+00:00"
+      }
     },
     "ce35470796cba0f7d6c192c24168cada": {
       "match_id": "ce35470796cba0f7d6c192c24168cada",
@@ -45565,7 +45577,11 @@
         "p2_edge": 0.128
       },
       "collected_at": "2026-08-28T08:44:18.330077+00:00",
-      "result": null
+      "result": {
+        "winner": "Brandon Nakashima",
+        "correct": true,
+        "settled_at": "2026-08-31T21:16:35.822219+00:00"
+      }
     },
     "4d8f19c4824f955caaaa52261475a081": {
       "match_id": "4d8f19c4824f955caaaa52261475a081",
@@ -45827,7 +45843,11 @@
         "p2_edge": 0.0896
       },
       "collected_at": "2026-08-28T08:44:18.551409+00:00",
-      "result": null
+      "result": {
+        "winner": "Carlos Alcaraz",
+        "correct": true,
+        "settled_at": "2026-08-31T21:16:35.686357+00:00"
+      }
     },
     "6724e024ab6eca23771d7bd4db0a626d": {
       "match_id": "6724e024ab6eca23771d7bd4db0a626d",
@@ -46179,7 +46199,11 @@
         "p2_edge": -0.2508
       },
       "collected_at": "2026-08-28T08:44:18.845634+00:00",
-      "result": null
+      "result": {
+        "winner": "Hubert Hurkacz",
+        "correct": true,
+        "settled_at": "2026-08-31T21:16:35.753966+00:00"
+      }
     },
     "2a4e5a229fe1f9aff70b3cf2a0737694": {
       "match_id": "2a4e5a229fe1f9aff70b3cf2a0737694",
@@ -47395,7 +47419,11 @@
         "p2_edge": -0.0915
       },
       "collected_at": "2026-08-28T08:44:20.060256+00:00",
-      "result": null
+      "result": {
+        "winner": "James Duckworth",
+        "correct": false,
+        "settled_at": "2026-08-31T21:16:35.550576+00:00"
+      }
     },
     "fbb58c1c60dcf71195f3e8e09e49fba5": {
       "match_id": "fbb58c1c60dcf71195f3e8e09e49fba5",
@@ -48613,7 +48641,11 @@
         "p2_edge": 0.0085
       },
       "collected_at": "2026-08-29T00:21:52.708879+00:00",
-      "result": null
+      "result": {
+        "winner": "Rei Sakamoto",
+        "correct": true,
+        "settled_at": "2026-08-31T21:16:35.205959+00:00"
+      }
     },
     "ae3f9872839594c923acc29e4f14060f": {
       "match_id": "ae3f9872839594c923acc29e4f14060f",
@@ -48691,7 +48723,11 @@
         "p2_edge": -0.1963
       },
       "collected_at": "2026-08-29T00:21:52.872800+00:00",
-      "result": null
+      "result": {
+        "winner": "Jacob Fearnley",
+        "correct": false,
+        "settled_at": "2026-08-31T21:16:35.275066+00:00"
+      }
     },
     "aed78189dc4582719ecf2c2a06d42de6": {
       "match_id": "aed78189dc4582719ecf2c2a06d42de6",
@@ -49045,7 +49081,11 @@
         "p2_edge": 0.0129
       },
       "collected_at": "2026-08-29T00:21:53.688936+00:00",
-      "result": null
+      "result": {
+        "winner": "Jurij Rodionov",
+        "correct": false,
+        "settled_at": "2026-08-31T21:16:35.618758+00:00"
+      }
     },
     "a063a27af8c32d42b4c71f0e4b6b278b": {
       "match_id": "a063a27af8c32d42b4c71f0e4b6b278b",
@@ -49538,7 +49578,11 @@
         "p2_edge": -0.0662
       },
       "collected_at": "2026-08-31T03:11:35.101992+00:00",
-      "result": null
+      "result": {
+        "winner": "Andrey Rublev",
+        "correct": true,
+        "settled_at": "2026-08-31T21:16:35.480999+00:00"
+      }
     },
     "64b6d0d2fc0289c705b8006982e8c5d6": {
       "match_id": "64b6d0d2fc0289c705b8006982e8c5d6",
@@ -49928,7 +49972,466 @@
         "correct": true,
         "settled_at": "2026-08-31T15:47:04.306052+00:00"
       }
+    },
+    "28fd88ad06c19dc8639738c812594226": {
+      "match_id": "28fd88ad06c19dc8639738c812594226",
+      "commence_time": "2026-09-02T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Alexander Bublik",
+      "player2": "Adrian Mannarino",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Adrian Mannarino": 3.75,
+          "Alexander Bublik": 1.1
+        },
+        "onexbet": {
+          "Adrian Mannarino": 3.89,
+          "Alexander Bublik": 1.32
+        },
+        "marathonbet": {
+          "Adrian Mannarino": 3.55,
+          "Alexander Bublik": 1.29
+        },
+        "draftkings": {
+          "Adrian Mannarino": 3.6,
+          "Alexander Bublik": 1.28
+        },
+        "sport888": {
+          "Adrian Mannarino": 3.5,
+          "Alexander Bublik": 1.3
+        },
+        "unibet_fr": {
+          "Adrian Mannarino": 3.35,
+          "Alexander Bublik": 1.25
+        },
+        "coolbet": {
+          "Adrian Mannarino": 3.75,
+          "Alexander Bublik": 1.31
+        },
+        "gtbets": {
+          "Adrian Mannarino": 3.77,
+          "Alexander Bublik": 1.27
+        },
+        "betclic_fr": {
+          "Adrian Mannarino": 3.35,
+          "Alexander Bublik": 1.25
+        },
+        "mybookieag": {
+          "Adrian Mannarino": 3.6,
+          "Alexander Bublik": 1.28
+        },
+        "fanduel": {
+          "Adrian Mannarino": 3.85,
+          "Alexander Bublik": 1.27
+        },
+        "winamax_de": {
+          "Adrian Mannarino": 3.65,
+          "Alexander Bublik": 1.28
+        },
+        "winamax_fr": {
+          "Adrian Mannarino": 3.25,
+          "Alexander Bublik": 1.24
+        },
+        "matchbook": {
+          "Adrian Mannarino": 3.65,
+          "Alexander Bublik": 1.1
+        },
+        "tipico_de": {
+          "Adrian Mannarino": 3.7,
+          "Alexander Bublik": 1.27
+        },
+        "unibet_nl": {
+          "Adrian Mannarino": 3.65,
+          "Alexander Bublik": 1.28
+        },
+        "betrivers": {
+          "Adrian Mannarino": 3.65,
+          "Alexander Bublik": 1.28
+        },
+        "pmu_fr": {
+          "Adrian Mannarino": 3.55,
+          "Alexander Bublik": 1.25
+        },
+        "leovegas_se": {
+          "Adrian Mannarino": 3.65,
+          "Alexander Bublik": 1.28
+        },
+        "unibet_se": {
+          "Adrian Mannarino": 3.65,
+          "Alexander Bublik": 1.28
+        },
+        "betmgm": {
+          "Adrian Mannarino": 3.4,
+          "Alexander Bublik": 1.31
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Bublik",
+        "p2_name": "Adrian Mannarino",
+        "p1_prob": 0.7788,
+        "p2_prob": 0.2212,
+        "predicted_winner": "Alexander Bublik",
+        "confidence": "high",
+        "p1_edge": 0.0212,
+        "p2_edge": -0.0359
+      },
+      "collected_at": "2026-08-31T21:16:44.033213+00:00",
+      "result": null
+    },
+    "18a705b41a7729da73b06dc384a48869": {
+      "match_id": "18a705b41a7729da73b06dc384a48869",
+      "commence_time": "2026-09-02T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Daniel Merida Aguilar",
+      "player2": "Andrey Rublev",
+      "bookmakers": {
+        "betclic_fr": {
+          "Andrey Rublev": 1.47,
+          "Daniel Merida Aguilar": 2.37
+        },
+        "sport888": {
+          "Andrey Rublev": 1.53,
+          "Daniel Merida Aguilar": 2.5
+        },
+        "onexbet": {
+          "Andrey Rublev": 1.57,
+          "Daniel Merida Aguilar": 2.64
+        },
+        "betfair_ex_eu": {
+          "Andrey Rublev": 1.4,
+          "Daniel Merida Aguilar": 2.24
+        },
+        "unibet_fr": {
+          "Andrey Rublev": 1.47,
+          "Daniel Merida Aguilar": 2.35
+        },
+        "mybookieag": {
+          "Andrey Rublev": 1.52,
+          "Daniel Merida Aguilar": 2.5
+        },
+        "draftkings": {
+          "Andrey Rublev": 1.53,
+          "Daniel Merida Aguilar": 2.49
+        },
+        "marathonbet": {
+          "Andrey Rublev": 1.53,
+          "Daniel Merida Aguilar": 2.48
+        },
+        "coolbet": {
+          "Andrey Rublev": 1.55,
+          "Daniel Merida Aguilar": 2.6
+        }
+      },
+      "prediction": {
+        "p1_name": "Jorge Aguilar",
+        "p2_name": "Andrey Rublev",
+        "p1_prob": 0.0186,
+        "p2_prob": 0.9814,
+        "predicted_winner": "Andrey Rublev",
+        "confidence": "high",
+        "p1_edge": -0.3602,
+        "p2_edge": 0.3445
+      },
+      "collected_at": "2026-08-31T21:16:44.111237+00:00",
+      "result": null
+    },
+    "3d7f66066eb306e7857fc16682a103f6": {
+      "match_id": "3d7f66066eb306e7857fc16682a103f6",
+      "commence_time": "2026-09-02T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Jaime Faria",
+      "player2": "Carlos Alcaraz",
+      "bookmakers": {
+        "betclic_fr": {
+          "Carlos Alcaraz": 1.09,
+          "Jaime Faria": 5.4
+        },
+        "sport888": {
+          "Carlos Alcaraz": 1.11,
+          "Jaime Faria": 6.5
+        },
+        "onexbet": {
+          "Carlos Alcaraz": 1.13,
+          "Jaime Faria": 7.55
+        },
+        "betfair_ex_eu": {
+          "Carlos Alcaraz": 1.06,
+          "Jaime Faria": 5.3
+        },
+        "unibet_fr": {
+          "Carlos Alcaraz": 1.09,
+          "Jaime Faria": 5.4
+        },
+        "mybookieag": {
+          "Carlos Alcaraz": 1.11,
+          "Jaime Faria": 6.3
+        },
+        "draftkings": {
+          "Carlos Alcaraz": 1.11,
+          "Jaime Faria": 6.44
+        },
+        "marathonbet": {
+          "Carlos Alcaraz": 1.12,
+          "Jaime Faria": 6.25
+        },
+        "coolbet": {
+          "Carlos Alcaraz": 1.13,
+          "Jaime Faria": 7.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Jaime Faria",
+        "p2_name": "Carlos Alcaraz",
+        "p1_prob": 0.0654,
+        "p2_prob": 0.9346,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": -0.0671,
+        "p2_edge": 0.0496
+      },
+      "collected_at": "2026-08-31T21:16:44.208061+00:00",
+      "result": null
+    },
+    "eca482b730f8239626cb8551d239ac1a": {
+      "match_id": "eca482b730f8239626cb8551d239ac1a",
+      "commence_time": "2026-09-02T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Valentin Vacherot",
+      "player2": "Kamil Majchrzak",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Kamil Majchrzak": 1.18,
+          "Valentin Vacherot": 1.18
+        },
+        "onexbet": {
+          "Kamil Majchrzak": 2.05,
+          "Valentin Vacherot": 1.9
+        },
+        "marathonbet": {
+          "Kamil Majchrzak": 1.97,
+          "Valentin Vacherot": 1.82
+        },
+        "draftkings": {
+          "Kamil Majchrzak": 1.89,
+          "Valentin Vacherot": 1.88
+        },
+        "sport888": {
+          "Kamil Majchrzak": 1.85,
+          "Valentin Vacherot": 1.95
+        },
+        "unibet_fr": {
+          "Kamil Majchrzak": 1.93,
+          "Valentin Vacherot": 1.72
+        },
+        "coolbet": {
+          "Kamil Majchrzak": 2.05,
+          "Valentin Vacherot": 1.82
+        },
+        "gtbets": {
+          "Kamil Majchrzak": 2.06,
+          "Valentin Vacherot": 1.86
+        },
+        "betclic_fr": {
+          "Kamil Majchrzak": 1.93,
+          "Valentin Vacherot": 1.72
+        },
+        "mybookieag": {
+          "Kamil Majchrzak": 2.01,
+          "Valentin Vacherot": 1.78
+        },
+        "fanduel": {
+          "Kamil Majchrzak": 2.04,
+          "Valentin Vacherot": 1.8
+        },
+        "winamax_de": {
+          "Kamil Majchrzak": 2.0,
+          "Valentin Vacherot": 1.78
+        },
+        "winamax_fr": {
+          "Kamil Majchrzak": 1.9,
+          "Valentin Vacherot": 1.7
+        },
+        "tipico_de": {
+          "Kamil Majchrzak": 2.0,
+          "Valentin Vacherot": 1.77
+        },
+        "unibet_se": {
+          "Kamil Majchrzak": 2.0,
+          "Valentin Vacherot": 1.81
+        },
+        "pmu_fr": {
+          "Kamil Majchrzak": 1.94,
+          "Valentin Vacherot": 1.77
+        },
+        "leovegas_se": {
+          "Kamil Majchrzak": 2.0,
+          "Valentin Vacherot": 1.81
+        },
+        "betrivers": {
+          "Kamil Majchrzak": 2.0,
+          "Valentin Vacherot": 1.81
+        },
+        "unibet_nl": {
+          "Kamil Majchrzak": 2.0,
+          "Valentin Vacherot": 1.81
+        },
+        "matchbook": {
+          "Kamil Majchrzak": 1.16,
+          "Valentin Vacherot": 1.4
+        },
+        "betmgm": {
+          "Kamil Majchrzak": 1.91,
+          "Valentin Vacherot": 1.91
+        }
+      },
+      "prediction": {
+        "p1_name": "Valentin Vacherot",
+        "p2_name": "Kamil Majchrzak",
+        "p1_prob": 0.681,
+        "p2_prob": 0.319,
+        "predicted_winner": "Valentin Vacherot",
+        "confidence": "high",
+        "p1_edge": 0.1682,
+        "p2_edge": -0.1664
+      },
+      "collected_at": "2026-08-31T21:16:44.343811+00:00",
+      "result": null
+    },
+    "5e239329c56a5ca4bea8769b7e5f2a85": {
+      "match_id": "5e239329c56a5ca4bea8769b7e5f2a85",
+      "commence_time": "2026-09-02T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Lloyd Harris",
+      "player2": "Stefanos Tsitsipas",
+      "bookmakers": {
+        "marathonbet": {
+          "Lloyd Harris": 3.48,
+          "Stefanos Tsitsipas": 1.3
+        },
+        "sport888": {
+          "Lloyd Harris": 3.3,
+          "Stefanos Tsitsipas": 1.33
+        },
+        "unibet_fr": {
+          "Lloyd Harris": 3.15,
+          "Stefanos Tsitsipas": 1.27
+        },
+        "betfair_ex_eu": {
+          "Lloyd Harris": 2.72,
+          "Stefanos Tsitsipas": 1.33
+        },
+        "gtbets": {
+          "Lloyd Harris": 3.46,
+          "Stefanos Tsitsipas": 1.31
+        },
+        "draftkings": {
+          "Lloyd Harris": 3.36,
+          "Stefanos Tsitsipas": 1.32
+        },
+        "onexbet": {
+          "Lloyd Harris": 3.79,
+          "Stefanos Tsitsipas": 1.33
+        },
+        "winamax_fr": {
+          "Lloyd Harris": 3.5,
+          "Stefanos Tsitsipas": 1.21
+        },
+        "winamax_de": {
+          "Lloyd Harris": 3.95,
+          "Stefanos Tsitsipas": 1.25
+        },
+        "coolbet": {
+          "Lloyd Harris": 3.45,
+          "Stefanos Tsitsipas": 1.35
+        },
+        "mybookieag": {
+          "Lloyd Harris": 3.4,
+          "Stefanos Tsitsipas": 1.3
+        },
+        "fanduel": {
+          "Lloyd Harris": 3.6,
+          "Stefanos Tsitsipas": 1.3
+        },
+        "betclic_fr": {
+          "Lloyd Harris": 3.15,
+          "Stefanos Tsitsipas": 1.27
+        },
+        "tipico_de": {
+          "Lloyd Harris": 3.4,
+          "Stefanos Tsitsipas": 1.3
+        },
+        "matchbook": {
+          "Lloyd Harris": 2.72,
+          "Stefanos Tsitsipas": 1.33
+        },
+        "betrivers": {
+          "Lloyd Harris": 3.4,
+          "Stefanos Tsitsipas": 1.32
+        },
+        "unibet_se": {
+          "Lloyd Harris": 3.4,
+          "Stefanos Tsitsipas": 1.32
+        },
+        "pmu_fr": {
+          "Lloyd Harris": 3.3,
+          "Stefanos Tsitsipas": 1.29
+        },
+        "leovegas_se": {
+          "Lloyd Harris": 3.4,
+          "Stefanos Tsitsipas": 1.32
+        },
+        "unibet_nl": {
+          "Lloyd Harris": 3.4,
+          "Stefanos Tsitsipas": 1.32
+        },
+        "betmgm": {
+          "Lloyd Harris": 3.4,
+          "Stefanos Tsitsipas": 1.31
+        }
+      },
+      "prediction": {
+        "p1_name": "Lloyd Harris",
+        "p2_name": "Stefanos Tsitsipas",
+        "p1_prob": 0.3018,
+        "p2_prob": 0.6982,
+        "predicted_winner": "Stefanos Tsitsipas",
+        "confidence": "high",
+        "p1_edge": 0.0486,
+        "p2_edge": -0.0425
+      },
+      "collected_at": "2026-08-31T21:16:44.422116+00:00",
+      "result": null
+    },
+    "tml-2026-560-42": {
+      "match_id": "tml-2026-560-42",
+      "commence_time": "2026-08-30T00:00:00+00:00",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "player1": "Alex Michelsen",
+      "player2": "Federico Cina",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alex Michelsen",
+        "p2_name": "Federico Cina",
+        "p1_prob": 0.7254,
+        "p2_prob": 0.2746,
+        "predicted_winner": "Alex Michelsen",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-31T21:16:50.918583+00:00",
+      "result": {
+        "winner": "Alex Michelsen",
+        "correct": true,
+        "settled_at": "2026-08-31T21:16:50.918583+00:00"
+      }
     }
   },
-  "last_updated": "2026-08-31T15:47:04.315052+00:00"
+  "last_updated": "2026-08-31T21:16:50.931246+00:00"
 }
