@@ -44735,7 +44735,11 @@
         "p2_edge": 0.1395
       },
       "collected_at": "2026-08-28T08:44:17.620984+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Bublik",
+        "correct": true,
+        "settled_at": "2026-08-31T15:46:51.953709+00:00"
+      }
     },
     "6df7558a60a7d51e44457d39190f15d3": {
       "match_id": "6df7558a60a7d51e44457d39190f15d3",
@@ -47919,7 +47923,11 @@
         "p2_edge": 0.0389
       },
       "collected_at": "2026-08-28T08:44:20.789753+00:00",
-      "result": null
+      "result": {
+        "winner": "Mariano Navone",
+        "correct": false,
+        "settled_at": "2026-08-31T15:46:51.905326+00:00"
+      }
     },
     "d6976d31eec05ff08ac656eb16d143a8": {
       "match_id": "d6976d31eec05ff08ac656eb16d143a8",
@@ -49895,7 +49903,32 @@
       },
       "collected_at": "2026-08-31T03:11:35.763913+00:00",
       "result": null
+    },
+    "tml-2026-560-57": {
+      "match_id": "tml-2026-560-57",
+      "commence_time": "2026-08-30T00:00:00+00:00",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "player1": "Alexander Bublik",
+      "player2": "J.J. Wolf",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alexander Bublik",
+        "p2_name": "J.J. Wolf",
+        "p1_prob": 0.7907,
+        "p2_prob": 0.2093,
+        "predicted_winner": "Alexander Bublik",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-08-31T15:47:04.306052+00:00",
+      "result": {
+        "winner": "Alexander Bublik",
+        "correct": true,
+        "settled_at": "2026-08-31T15:47:04.306052+00:00"
+      }
     }
   },
-  "last_updated": "2026-08-31T03:11:35.770715+00:00"
+  "last_updated": "2026-08-31T15:47:04.315052+00:00"
 }
