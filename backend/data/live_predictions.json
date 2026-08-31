@@ -44817,7 +44817,11 @@
         "p2_edge": 0.1623
       },
       "collected_at": "2026-08-28T08:44:17.694032+00:00",
-      "result": null
+      "result": {
+        "winner": "Dino Prizmic",
+        "correct": true,
+        "settled_at": "2026-08-31T03:11:27.177691+00:00"
+      }
     },
     "4206ca6be5791d606f9074f5987cb423": {
       "match_id": "4206ca6be5791d606f9074f5987cb423",
@@ -45639,7 +45643,11 @@
         "p2_edge": 0.0925
       },
       "collected_at": "2026-08-28T08:44:18.403957+00:00",
-      "result": null
+      "result": {
+        "winner": "Luca Van Assche",
+        "correct": false,
+        "settled_at": "2026-08-31T03:11:27.297057+00:00"
+      }
     },
     "9eb282e3794a612c7118e85d404d9d2e": {
       "match_id": "9eb282e3794a612c7118e85d404d9d2e",
@@ -46499,7 +46507,11 @@
         "p2_edge": 0.0058
       },
       "collected_at": "2026-08-28T08:44:19.143522+00:00",
-      "result": null
+      "result": {
+        "winner": "Denis Shapovalov",
+        "correct": true,
+        "settled_at": "2026-08-31T03:11:27.585268+00:00"
+      }
     },
     "c6da187f326b576700b5221075714dc4": {
       "match_id": "c6da187f326b576700b5221075714dc4",
@@ -47477,7 +47489,11 @@
         "p2_edge": -0.1128
       },
       "collected_at": "2026-08-28T08:44:20.257502+00:00",
-      "result": null
+      "result": {
+        "winner": "Jaume Munar",
+        "correct": false,
+        "settled_at": "2026-08-31T03:11:27.217558+00:00"
+      }
     },
     "ca92d4382bfbb4cab844b541ddc72f98": {
       "match_id": "ca92d4382bfbb4cab844b541ddc72f98",
@@ -48165,7 +48181,11 @@
         "p2_edge": -0.1247
       },
       "collected_at": "2026-08-28T08:44:21.022089+00:00",
-      "result": null
+      "result": {
+        "winner": "Tomas Martin Etcheverry",
+        "correct": true,
+        "settled_at": "2026-08-31T03:11:27.645115+00:00"
+      }
     },
     "tml-2026-6242-41": {
       "match_id": "tml-2026-6242-41",
@@ -48339,7 +48359,11 @@
         "p2_edge": 0.0261
       },
       "collected_at": "2026-08-29T00:21:52.427356+00:00",
-      "result": null
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": true,
+        "settled_at": "2026-08-31T03:11:27.258068+00:00"
+      }
     },
     "044bcae4cbb8ead2ec2b7540848b0ac6": {
       "match_id": "044bcae4cbb8ead2ec2b7540848b0ac6",
@@ -48421,7 +48445,11 @@
         "p2_edge": 0.2904
       },
       "collected_at": "2026-08-29T00:21:52.539057+00:00",
-      "result": null
+      "result": {
+        "winner": "Toby Samuel",
+        "correct": false,
+        "settled_at": "2026-08-31T03:11:27.524208+00:00"
+      }
     },
     "34fd11550d6f164cc063763e0d91db35": {
       "match_id": "34fd11550d6f164cc063763e0d91db35",
@@ -48503,7 +48531,11 @@
         "p2_edge": 0.0409
       },
       "collected_at": "2026-08-29T00:21:52.615229+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-08-31T03:11:27.400429+00:00"
+      }
     },
     "aa7350af51feb2a06a42fe07cbab10df": {
       "match_id": "aa7350af51feb2a06a42fe07cbab10df",
@@ -49369,7 +49401,501 @@
         "correct": true,
         "settled_at": "2026-08-30T19:00:54.219836+00:00"
       }
+    },
+    "f27a2f0937c916f95af9624587d4abca": {
+      "match_id": "f27a2f0937c916f95af9624587d4abca",
+      "commence_time": "2026-08-31T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Otto Virtanen",
+      "player2": "Andrey Rublev",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Andrey Rublev": 1.2,
+          "Otto Virtanen": 5.3
+        },
+        "unibet_fr": {
+          "Andrey Rublev": 1.14,
+          "Otto Virtanen": 4.45
+        },
+        "betsson": {
+          "Andrey Rublev": 1.15,
+          "Otto Virtanen": 5.06
+        },
+        "onexbet": {
+          "Andrey Rublev": 1.18,
+          "Otto Virtanen": 5.95
+        },
+        "betmgm": {
+          "Andrey Rublev": 1.16,
+          "Otto Virtanen": 5.0
+        },
+        "tipico_de": {
+          "Andrey Rublev": 1.16,
+          "Otto Virtanen": 5.0
+        },
+        "draftkings": {
+          "Andrey Rublev": 1.17,
+          "Otto Virtanen": 4.94
+        },
+        "nordicbet": {
+          "Andrey Rublev": 1.15,
+          "Otto Virtanen": 5.06
+        },
+        "betclic_fr": {
+          "Andrey Rublev": 1.14,
+          "Otto Virtanen": 4.5
+        },
+        "sport888": {
+          "Andrey Rublev": 1.17,
+          "Otto Virtanen": 5.0
+        },
+        "mybookieag": {
+          "Andrey Rublev": 1.17,
+          "Otto Virtanen": 5.1
+        },
+        "williamhill": {
+          "Andrey Rublev": 1.17,
+          "Otto Virtanen": 5.0
+        },
+        "winamax_fr": {
+          "Andrey Rublev": 1.14,
+          "Otto Virtanen": 4.4
+        },
+        "marathonbet": {
+          "Andrey Rublev": 1.16,
+          "Otto Virtanen": 5.1
+        },
+        "coolbet": {
+          "Andrey Rublev": 1.19,
+          "Otto Virtanen": 5.25
+        },
+        "pinnacle": {
+          "Andrey Rublev": 1.18,
+          "Otto Virtanen": 5.36
+        },
+        "unibet_nl": {
+          "Andrey Rublev": 1.14,
+          "Otto Virtanen": 5.0
+        },
+        "leovegas_se": {
+          "Andrey Rublev": 1.14,
+          "Otto Virtanen": 5.0
+        },
+        "pmu_fr": {
+          "Andrey Rublev": 1.14,
+          "Otto Virtanen": 5.0
+        },
+        "unibet_se": {
+          "Andrey Rublev": 1.14,
+          "Otto Virtanen": 5.0
+        },
+        "betrivers": {
+          "Andrey Rublev": 1.14,
+          "Otto Virtanen": 5.0
+        },
+        "matchbook": {
+          "Andrey Rublev": 1.2,
+          "Otto Virtanen": 5.4
+        },
+        "gtbets": {
+          "Andrey Rublev": 1.17,
+          "Otto Virtanen": 5.05
+        },
+        "lowvig": {
+          "Andrey Rublev": 1.19,
+          "Otto Virtanen": 5.22
+        },
+        "betonlineag": {
+          "Andrey Rublev": 1.19,
+          "Otto Virtanen": 5.22
+        },
+        "betanysports": {
+          "Andrey Rublev": 1.19,
+          "Otto Virtanen": 4.67
+        },
+        "bovada": {
+          "Andrey Rublev": 1.17,
+          "Otto Virtanen": 5.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Otto Virtanen",
+        "p2_name": "Andrey Rublev",
+        "p1_prob": 0.2329,
+        "p2_prob": 0.7671,
+        "predicted_winner": "Andrey Rublev",
+        "confidence": "high",
+        "p1_edge": 0.0648,
+        "p2_edge": -0.0662
+      },
+      "collected_at": "2026-08-31T03:11:35.101992+00:00",
+      "result": null
+    },
+    "64b6d0d2fc0289c705b8006982e8c5d6": {
+      "match_id": "64b6d0d2fc0289c705b8006982e8c5d6",
+      "commence_time": "2026-09-02T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Jaume Munar",
+      "player2": "Arthur Rinderknech",
+      "bookmakers": {
+        "gtbets": {
+          "Arthur Rinderknech": 1.62,
+          "Jaume Munar": 2.3
+        },
+        "betfair_ex_eu": {
+          "Arthur Rinderknech": 1.51,
+          "Jaume Munar": 2.46
+        },
+        "betclic_fr": {
+          "Arthur Rinderknech": 1.59,
+          "Jaume Munar": 2.12
+        },
+        "draftkings": {
+          "Arthur Rinderknech": 1.62,
+          "Jaume Munar": 2.26
+        },
+        "unibet_fr": {
+          "Arthur Rinderknech": 1.59,
+          "Jaume Munar": 2.1
+        },
+        "onexbet": {
+          "Arthur Rinderknech": 1.7,
+          "Jaume Munar": 2.35
+        },
+        "sport888": {
+          "Arthur Rinderknech": 1.67,
+          "Jaume Munar": 2.2
+        },
+        "marathonbet": {
+          "Arthur Rinderknech": 1.64,
+          "Jaume Munar": 2.24
+        },
+        "coolbet": {
+          "Arthur Rinderknech": 1.68,
+          "Jaume Munar": 2.3
+        },
+        "mybookieag": {
+          "Arthur Rinderknech": 1.62,
+          "Jaume Munar": 2.17
+        },
+        "tipico_de": {
+          "Arthur Rinderknech": 1.65,
+          "Jaume Munar": 2.2
+        },
+        "matchbook": {
+          "Arthur Rinderknech": 1.51,
+          "Jaume Munar": 2.46
+        },
+        "bovada": {
+          "Arthur Rinderknech": 1.67,
+          "Jaume Munar": 2.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Jaume Munar",
+        "p2_name": "Arthur Rinderknech",
+        "p1_prob": 0.3614,
+        "p2_prob": 0.6386,
+        "predicted_winner": "Arthur Rinderknech",
+        "confidence": "high",
+        "p1_edge": -0.0451,
+        "p2_edge": 0.0504
+      },
+      "collected_at": "2026-08-31T03:11:35.618399+00:00",
+      "result": null
+    },
+    "b1c232f3649d4155d1c89c5ddd40512b": {
+      "match_id": "b1c232f3649d4155d1c89c5ddd40512b",
+      "commence_time": "2026-09-02T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Denis Shapovalov",
+      "player2": "Luca Van Assche",
+      "bookmakers": {
+        "gtbets": {
+          "Denis Shapovalov": 1.61,
+          "Luca Van Assche": 2.33
+        },
+        "betfair_ex_eu": {
+          "Denis Shapovalov": 1.19,
+          "Luca Van Assche": 1.77
+        },
+        "betclic_fr": {
+          "Denis Shapovalov": 1.56,
+          "Luca Van Assche": 2.18
+        },
+        "draftkings": {
+          "Denis Shapovalov": 1.59,
+          "Luca Van Assche": 2.33
+        },
+        "unibet_fr": {
+          "Denis Shapovalov": 1.56,
+          "Luca Van Assche": 2.2
+        },
+        "onexbet": {
+          "Denis Shapovalov": 1.68,
+          "Luca Van Assche": 2.38
+        },
+        "marathonbet": {
+          "Denis Shapovalov": 1.58,
+          "Luca Van Assche": 2.36
+        },
+        "coolbet": {
+          "Denis Shapovalov": 1.65,
+          "Luca Van Assche": 2.35
+        },
+        "mybookieag": {
+          "Denis Shapovalov": 1.58,
+          "Luca Van Assche": 2.23
+        },
+        "tipico_de": {
+          "Denis Shapovalov": 1.57,
+          "Luca Van Assche": 2.35
+        },
+        "matchbook": {
+          "Denis Shapovalov": 1.2,
+          "Luca Van Assche": 1.77
+        },
+        "bovada": {
+          "Denis Shapovalov": 1.61,
+          "Luca Van Assche": 2.35
+        },
+        "unibet_nl": {
+          "Denis Shapovalov": 1.61,
+          "Luca Van Assche": 2.32
+        },
+        "unibet_se": {
+          "Denis Shapovalov": 1.61,
+          "Luca Van Assche": 2.32
+        },
+        "betrivers": {
+          "Denis Shapovalov": 1.61,
+          "Luca Van Assche": 2.32
+        },
+        "pmu_fr": {
+          "Denis Shapovalov": 1.56,
+          "Luca Van Assche": 2.28
+        },
+        "leovegas_se": {
+          "Denis Shapovalov": 1.61,
+          "Luca Van Assche": 2.32
+        }
+      },
+      "prediction": {
+        "p1_name": "Denis Shapovalov",
+        "p2_name": "Luca Van Assche",
+        "p1_prob": 0.6287,
+        "p2_prob": 0.3713,
+        "predicted_winner": "Denis Shapovalov",
+        "confidence": "high",
+        "p1_edge": 0.0335,
+        "p2_edge": -0.0489
+      },
+      "collected_at": "2026-08-31T03:11:35.662566+00:00",
+      "result": null
+    },
+    "b8c5874840b5d9ace01274520fc2fbdc": {
+      "match_id": "b8c5874840b5d9ace01274520fc2fbdc",
+      "commence_time": "2026-09-02T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Dino Prizmic",
+      "player2": "Tommy Paul",
+      "bookmakers": {
+        "onexbet": {
+          "Dino Prizmic": 4.21,
+          "Tommy Paul": 1.29
+        },
+        "draftkings": {
+          "Dino Prizmic": 3.87,
+          "Tommy Paul": 1.25
+        },
+        "leovegas_se": {
+          "Dino Prizmic": 3.75,
+          "Tommy Paul": 1.27
+        },
+        "unibet_nl": {
+          "Dino Prizmic": 3.75,
+          "Tommy Paul": 1.27
+        },
+        "gtbets": {
+          "Dino Prizmic": 3.74,
+          "Tommy Paul": 1.28
+        },
+        "betrivers": {
+          "Dino Prizmic": 3.75,
+          "Tommy Paul": 1.27
+        },
+        "pmu_fr": {
+          "Dino Prizmic": 3.65,
+          "Tommy Paul": 1.24
+        },
+        "unibet_se": {
+          "Dino Prizmic": 3.75,
+          "Tommy Paul": 1.27
+        },
+        "betfair_ex_eu": {
+          "Dino Prizmic": 4.1,
+          "Tommy Paul": 1.23
+        },
+        "coolbet": {
+          "Dino Prizmic": 4.0,
+          "Tommy Paul": 1.28
+        },
+        "marathonbet": {
+          "Dino Prizmic": 3.8,
+          "Tommy Paul": 1.26
+        },
+        "betclic_fr": {
+          "Dino Prizmic": 3.5,
+          "Tommy Paul": 1.23
+        },
+        "unibet_fr": {
+          "Dino Prizmic": 3.5,
+          "Tommy Paul": 1.23
+        },
+        "tipico_de": {
+          "Dino Prizmic": 3.8,
+          "Tommy Paul": 1.25
+        },
+        "mybookieag": {
+          "Dino Prizmic": 3.6,
+          "Tommy Paul": 1.24
+        },
+        "winamax_fr": {
+          "Dino Prizmic": 3.5,
+          "Tommy Paul": 1.2
+        },
+        "winamax_de": {
+          "Dino Prizmic": 3.8,
+          "Tommy Paul": 1.23
+        },
+        "sport888": {
+          "Dino Prizmic": 4.0,
+          "Tommy Paul": 1.25
+        },
+        "bovada": {
+          "Dino Prizmic": 3.9,
+          "Tommy Paul": 1.27
+        },
+        "matchbook": {
+          "Dino Prizmic": 4.1,
+          "Tommy Paul": 1.14
+        }
+      },
+      "prediction": {
+        "p1_name": "Dino Prizmic",
+        "p2_name": "Tommy Paul",
+        "p1_prob": 0.3646,
+        "p2_prob": 0.6354,
+        "predicted_winner": "Tommy Paul",
+        "confidence": "high",
+        "p1_edge": 0.1271,
+        "p2_edge": -0.1398
+      },
+      "collected_at": "2026-08-31T03:11:35.719650+00:00",
+      "result": null
+    },
+    "e709f767937d2eb3f50833298a6b9650": {
+      "match_id": "e709f767937d2eb3f50833298a6b9650",
+      "commence_time": "2026-09-02T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Jiri Lehecka",
+      "player2": "Toby Samuel",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Jiri Lehecka": 1.3,
+          "Toby Samuel": 2.88
+        },
+        "draftkings": {
+          "Jiri Lehecka": 1.44,
+          "Toby Samuel": 2.75
+        },
+        "onexbet": {
+          "Jiri Lehecka": 1.49,
+          "Toby Samuel": 2.9
+        },
+        "sport888": {
+          "Jiri Lehecka": 1.4,
+          "Toby Samuel": 2.9
+        },
+        "betclic_fr": {
+          "Jiri Lehecka": 1.33,
+          "Toby Samuel": 2.85
+        },
+        "unibet_fr": {
+          "Jiri Lehecka": 1.33,
+          "Toby Samuel": 2.85
+        },
+        "mybookieag": {
+          "Jiri Lehecka": 1.35,
+          "Toby Samuel": 2.94
+        },
+        "coolbet": {
+          "Jiri Lehecka": 1.42,
+          "Toby Samuel": 3.05
+        },
+        "gtbets": {
+          "Jiri Lehecka": 1.34,
+          "Toby Samuel": 3.13
+        },
+        "betmgm": {
+          "Jiri Lehecka": 1.33,
+          "Toby Samuel": 3.25
+        },
+        "tipico_de": {
+          "Jiri Lehecka": 1.37,
+          "Toby Samuel": 3.0
+        },
+        "matchbook": {
+          "Jiri Lehecka": 1.29,
+          "Toby Samuel": 2.9
+        },
+        "bovada": {
+          "Jiri Lehecka": 1.4,
+          "Toby Samuel": 3.0
+        },
+        "marathonbet": {
+          "Jiri Lehecka": 1.36,
+          "Toby Samuel": 3.12
+        },
+        "unibet_se": {
+          "Jiri Lehecka": 1.34,
+          "Toby Samuel": 3.25
+        },
+        "betrivers": {
+          "Jiri Lehecka": 1.34,
+          "Toby Samuel": 3.25
+        },
+        "leovegas_se": {
+          "Jiri Lehecka": 1.34,
+          "Toby Samuel": 3.25
+        },
+        "unibet_nl": {
+          "Jiri Lehecka": 1.34,
+          "Toby Samuel": 3.25
+        },
+        "pmu_fr": {
+          "Jiri Lehecka": 1.3,
+          "Toby Samuel": 3.15
+        }
+      },
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Toby Samuel",
+        "p1_prob": 0.7912,
+        "p2_prob": 0.2088,
+        "predicted_winner": "Jiri Lehecka",
+        "confidence": "high",
+        "p1_edge": 0.1201,
+        "p2_edge": -0.0989
+      },
+      "collected_at": "2026-08-31T03:11:35.763913+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-30T19:00:54.232481+00:00"
+  "last_updated": "2026-08-31T03:11:35.770715+00:00"
 }
