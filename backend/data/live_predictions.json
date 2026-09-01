@@ -46825,7 +46825,11 @@
         "p2_edge": 0.046
       },
       "collected_at": "2026-08-28T08:44:19.366998+00:00",
-      "result": null
+      "result": {
+        "winner": "Felix Auger-Aliassime",
+        "correct": true,
+        "settled_at": "2026-09-01T13:00:30.631992+00:00"
+      }
     },
     "85b643df273aabf0d10374022d5d44fc": {
       "match_id": "85b643df273aabf0d10374022d5d44fc",
@@ -47075,7 +47079,11 @@
         "p2_edge": -0.1828
       },
       "collected_at": "2026-08-28T08:44:19.592141+00:00",
-      "result": null
+      "result": {
+        "winner": "Frances Tiafoe",
+        "correct": true,
+        "settled_at": "2026-09-01T13:00:30.673086+00:00"
+      }
     },
     "db94bf2c5ee7c2da16fa70d1e86472e1": {
       "match_id": "db94bf2c5ee7c2da16fa70d1e86472e1",
@@ -50725,7 +50733,849 @@
       },
       "collected_at": "2026-09-01T03:16:01.767457+00:00",
       "result": null
+    },
+    "71eb62bb4f4f84c25362f99e1f6f8dd0": {
+      "match_id": "71eb62bb4f4f84c25362f99e1f6f8dd0",
+      "commence_time": "2026-09-02T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Alexei Popyrin",
+      "player2": "Alejandro Tabilo",
+      "bookmakers": {
+        "winamax_de": {
+          "Alejandro Tabilo": 1.74,
+          "Alexei Popyrin": 2.15
+        },
+        "betfair_ex_eu": {
+          "Alejandro Tabilo": 1.69,
+          "Alexei Popyrin": 2.24
+        },
+        "gtbets": {
+          "Alejandro Tabilo": 1.76,
+          "Alexei Popyrin": 2.07
+        },
+        "unibet_fr": {
+          "Alejandro Tabilo": 1.7,
+          "Alexei Popyrin": 2.1
+        },
+        "winamax_fr": {
+          "Alejandro Tabilo": 1.74,
+          "Alexei Popyrin": 2.1
+        },
+        "marathonbet": {
+          "Alejandro Tabilo": 1.69,
+          "Alexei Popyrin": 2.15
+        },
+        "onexbet": {
+          "Alejandro Tabilo": 1.72,
+          "Alexei Popyrin": 2.18
+        },
+        "coolbet": {
+          "Alejandro Tabilo": 1.74,
+          "Alexei Popyrin": 2.2
+        },
+        "draftkings": {
+          "Alejandro Tabilo": 1.74,
+          "Alexei Popyrin": 2.08
+        },
+        "betclic_fr": {
+          "Alejandro Tabilo": 1.71,
+          "Alexei Popyrin": 2.1
+        },
+        "mybookieag": {
+          "Alejandro Tabilo": 1.71,
+          "Alexei Popyrin": 2.1
+        },
+        "bovada": {
+          "Alejandro Tabilo": 1.71,
+          "Alexei Popyrin": 2.15
+        },
+        "matchbook": {
+          "Alejandro Tabilo": 1.7,
+          "Alexei Popyrin": 2.24
+        },
+        "tipico_de": {
+          "Alejandro Tabilo": 1.7,
+          "Alexei Popyrin": 2.1
+        },
+        "sport888": {
+          "Alejandro Tabilo": 1.73,
+          "Alexei Popyrin": 2.1
+        },
+        "betrivers": {
+          "Alejandro Tabilo": 1.66,
+          "Alexei Popyrin": 2.23
+        },
+        "leovegas_se": {
+          "Alejandro Tabilo": 1.66,
+          "Alexei Popyrin": 2.23
+        },
+        "pmu_fr": {
+          "Alejandro Tabilo": 1.62,
+          "Alexei Popyrin": 2.17
+        },
+        "unibet_nl": {
+          "Alejandro Tabilo": 1.66,
+          "Alexei Popyrin": 2.23
+        },
+        "unibet_se": {
+          "Alejandro Tabilo": 1.66,
+          "Alexei Popyrin": 2.23
+        },
+        "fanduel": {
+          "Alejandro Tabilo": 1.71,
+          "Alexei Popyrin": 2.16
+        },
+        "pinnacle": {
+          "Alejandro Tabilo": 1.74,
+          "Alexei Popyrin": 2.21
+        },
+        "betmgm": {
+          "Alejandro Tabilo": 1.69,
+          "Alexei Popyrin": 2.1
+        },
+        "lowvig": {
+          "Alejandro Tabilo": 1.71,
+          "Alexei Popyrin": 2.21
+        },
+        "betonlineag": {
+          "Alejandro Tabilo": 1.71,
+          "Alexei Popyrin": 2.21
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexei Popyrin",
+        "p2_name": "Alejandro Tabilo",
+        "p1_prob": 0.4922,
+        "p2_prob": 0.5078,
+        "predicted_winner": "Alejandro Tabilo",
+        "confidence": "low",
+        "p1_edge": 0.0458,
+        "p2_edge": -0.0604
+      },
+      "collected_at": "2026-09-01T13:00:36.748754+00:00",
+      "result": null
+    },
+    "00a3bd37bc163f9a3c46874b6a89ae0a": {
+      "match_id": "00a3bd37bc163f9a3c46874b6a89ae0a",
+      "commence_time": "2026-09-02T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Alexander Blockx",
+      "player2": "Marco Trungelliti",
+      "bookmakers": {
+        "gtbets": {
+          "Alexander Blockx": 1.26,
+          "Marco Trungelliti": 4.5
+        },
+        "mybookieag": {
+          "Alexander Blockx": 1.2,
+          "Marco Trungelliti": 4.4
+        },
+        "onexbet": {
+          "Alexander Blockx": 1.23,
+          "Marco Trungelliti": 4.41
+        },
+        "betfair_ex_eu": {
+          "Alexander Blockx": 1.2,
+          "Marco Trungelliti": 5.5
+        },
+        "betclic_fr": {
+          "Alexander Blockx": 1.2,
+          "Marco Trungelliti": 4.4
+        },
+        "unibet_fr": {
+          "Alexander Blockx": 1.18,
+          "Marco Trungelliti": 4.0
+        },
+        "sport888": {
+          "Alexander Blockx": 1.2,
+          "Marco Trungelliti": 4.5
+        },
+        "coolbet": {
+          "Alexander Blockx": 1.22,
+          "Marco Trungelliti": 4.75
+        },
+        "bovada": {
+          "Alexander Blockx": 1.2,
+          "Marco Trungelliti": 4.75
+        },
+        "tipico_de": {
+          "Alexander Blockx": 1.18,
+          "Marco Trungelliti": 4.6
+        },
+        "marathonbet": {
+          "Alexander Blockx": 1.21,
+          "Marco Trungelliti": 4.35
+        },
+        "winamax_de": {
+          "Alexander Blockx": 1.22,
+          "Marco Trungelliti": 4.7
+        },
+        "draftkings": {
+          "Alexander Blockx": 1.18,
+          "Marco Trungelliti": 4.77
+        },
+        "winamax_fr": {
+          "Alexander Blockx": 1.21,
+          "Marco Trungelliti": 4.5
+        },
+        "fanduel": {
+          "Alexander Blockx": 1.19,
+          "Marco Trungelliti": 4.85
+        },
+        "leovegas_se": {
+          "Alexander Blockx": 1.23,
+          "Marco Trungelliti": 4.2
+        },
+        "pmu_fr": {
+          "Alexander Blockx": 1.2,
+          "Marco Trungelliti": 4.1
+        },
+        "betrivers": {
+          "Alexander Blockx": 1.23,
+          "Marco Trungelliti": 4.2
+        },
+        "unibet_se": {
+          "Alexander Blockx": 1.23,
+          "Marco Trungelliti": 4.2
+        },
+        "unibet_nl": {
+          "Alexander Blockx": 1.23,
+          "Marco Trungelliti": 4.2
+        },
+        "matchbook": {
+          "Alexander Blockx": 1.21,
+          "Marco Trungelliti": 5.5
+        },
+        "pinnacle": {
+          "Alexander Blockx": 1.21,
+          "Marco Trungelliti": 4.99
+        },
+        "betmgm": {
+          "Alexander Blockx": 1.19,
+          "Marco Trungelliti": 4.6
+        },
+        "betonlineag": {
+          "Alexander Blockx": 1.22,
+          "Marco Trungelliti": 4.7
+        },
+        "lowvig": {
+          "Alexander Blockx": 1.22,
+          "Marco Trungelliti": 4.7
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Blockx",
+        "p2_name": "Marco Trungelliti",
+        "p1_prob": 0.7931,
+        "p2_prob": 0.2069,
+        "predicted_winner": "Alexander Blockx",
+        "confidence": "high",
+        "p1_edge": -0.0006,
+        "p2_edge": 0.0251
+      },
+      "collected_at": "2026-09-01T13:00:36.805435+00:00",
+      "result": null
+    },
+    "d688ac68b19d07167b4e5486bdaf97fd": {
+      "match_id": "d688ac68b19d07167b4e5486bdaf97fd",
+      "commence_time": "2026-09-02T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Ben Shelton",
+      "player2": "Hubert Hurkacz",
+      "bookmakers": {
+        "gtbets": {
+          "Ben Shelton": 1.42,
+          "Hubert Hurkacz": 2.9
+        },
+        "mybookieag": {
+          "Ben Shelton": 1.41,
+          "Hubert Hurkacz": 2.84
+        },
+        "onexbet": {
+          "Ben Shelton": 1.43,
+          "Hubert Hurkacz": 2.92
+        },
+        "betfair_ex_eu": {
+          "Ben Shelton": 1.47,
+          "Hubert Hurkacz": 3.0
+        },
+        "matchbook": {
+          "Ben Shelton": 1.47,
+          "Hubert Hurkacz": 2.98
+        },
+        "betclic_fr": {
+          "Ben Shelton": 1.41,
+          "Hubert Hurkacz": 2.85
+        },
+        "unibet_fr": {
+          "Ben Shelton": 1.41,
+          "Hubert Hurkacz": 2.85
+        },
+        "sport888": {
+          "Ben Shelton": 1.4,
+          "Hubert Hurkacz": 2.9
+        },
+        "coolbet": {
+          "Ben Shelton": 1.44,
+          "Hubert Hurkacz": 3.0
+        },
+        "bovada": {
+          "Ben Shelton": 1.42,
+          "Hubert Hurkacz": 2.95
+        },
+        "tipico_de": {
+          "Ben Shelton": 1.4,
+          "Hubert Hurkacz": 2.9
+        },
+        "marathonbet": {
+          "Ben Shelton": 1.4,
+          "Hubert Hurkacz": 2.92
+        },
+        "winamax_de": {
+          "Ben Shelton": 1.44,
+          "Hubert Hurkacz": 2.95
+        },
+        "draftkings": {
+          "Ben Shelton": 1.42,
+          "Hubert Hurkacz": 2.83
+        },
+        "winamax_fr": {
+          "Ben Shelton": 1.43,
+          "Hubert Hurkacz": 2.9
+        },
+        "unibet_se": {
+          "Ben Shelton": 1.4,
+          "Hubert Hurkacz": 2.95
+        },
+        "leovegas_se": {
+          "Ben Shelton": 1.4,
+          "Hubert Hurkacz": 2.95
+        },
+        "betrivers": {
+          "Ben Shelton": 1.4,
+          "Hubert Hurkacz": 2.95
+        },
+        "pmu_fr": {
+          "Ben Shelton": 1.36,
+          "Hubert Hurkacz": 2.88
+        },
+        "unibet_nl": {
+          "Ben Shelton": 1.4,
+          "Hubert Hurkacz": 2.95
+        },
+        "fanduel": {
+          "Ben Shelton": 1.41,
+          "Hubert Hurkacz": 2.98
+        },
+        "pinnacle": {
+          "Ben Shelton": 1.44,
+          "Hubert Hurkacz": 2.98
+        },
+        "betmgm": {
+          "Ben Shelton": 1.43,
+          "Hubert Hurkacz": 2.8
+        },
+        "lowvig": {
+          "Ben Shelton": 1.45,
+          "Hubert Hurkacz": 2.92
+        },
+        "betonlineag": {
+          "Ben Shelton": 1.45,
+          "Hubert Hurkacz": 2.92
+        }
+      },
+      "prediction": {
+        "p1_name": "Ben Shelton",
+        "p2_name": "Hubert Hurkacz",
+        "p1_prob": 0.6976,
+        "p2_prob": 0.3024,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "high",
+        "p1_edge": 0.0173,
+        "p2_edge": -0.0309
+      },
+      "collected_at": "2026-09-01T13:00:36.907012+00:00",
+      "result": null
+    },
+    "387e143b914f1924407c3911ae2eec86": {
+      "match_id": "387e143b914f1924407c3911ae2eec86",
+      "commence_time": "2026-09-02T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Luciano Darderi",
+      "player2": "Dalibor Svrcina",
+      "bookmakers": {
+        "gtbets": {
+          "Dalibor Svrcina": 2.41,
+          "Luciano Darderi": 1.57
+        },
+        "matchbook": {
+          "Dalibor Svrcina": 2.28,
+          "Luciano Darderi": 1.65
+        },
+        "onexbet": {
+          "Dalibor Svrcina": 2.46,
+          "Luciano Darderi": 1.57
+        },
+        "betfair_ex_eu": {
+          "Dalibor Svrcina": 2.28,
+          "Luciano Darderi": 1.65
+        },
+        "unibet_fr": {
+          "Dalibor Svrcina": 2.3,
+          "Luciano Darderi": 1.6
+        },
+        "sport888": {
+          "Dalibor Svrcina": 2.3,
+          "Luciano Darderi": 1.61
+        },
+        "coolbet": {
+          "Dalibor Svrcina": 2.4,
+          "Luciano Darderi": 1.63
+        },
+        "marathonbet": {
+          "Dalibor Svrcina": 2.43,
+          "Luciano Darderi": 1.55
+        },
+        "draftkings": {
+          "Dalibor Svrcina": 2.31,
+          "Luciano Darderi": 1.6
+        },
+        "tipico_de": {
+          "Dalibor Svrcina": 2.35,
+          "Luciano Darderi": 1.57
+        },
+        "mybookieag": {
+          "Dalibor Svrcina": 2.3,
+          "Luciano Darderi": 1.6
+        },
+        "betclic_fr": {
+          "Dalibor Svrcina": 2.3,
+          "Luciano Darderi": 1.6
+        },
+        "bovada": {
+          "Dalibor Svrcina": 2.35,
+          "Luciano Darderi": 1.61
+        },
+        "winamax_de": {
+          "Dalibor Svrcina": 2.35,
+          "Luciano Darderi": 1.62
+        },
+        "winamax_fr": {
+          "Dalibor Svrcina": 2.35,
+          "Luciano Darderi": 1.62
+        },
+        "fanduel": {
+          "Dalibor Svrcina": 2.36,
+          "Luciano Darderi": 1.61
+        },
+        "unibet_se": {
+          "Dalibor Svrcina": 2.4,
+          "Luciano Darderi": 1.56
+        },
+        "unibet_nl": {
+          "Dalibor Svrcina": 2.4,
+          "Luciano Darderi": 1.56
+        },
+        "leovegas_se": {
+          "Dalibor Svrcina": 2.4,
+          "Luciano Darderi": 1.56
+        },
+        "pmu_fr": {
+          "Dalibor Svrcina": 2.35,
+          "Luciano Darderi": 1.53
+        },
+        "betrivers": {
+          "Dalibor Svrcina": 2.4,
+          "Luciano Darderi": 1.56
+        },
+        "pinnacle": {
+          "Dalibor Svrcina": 2.37,
+          "Luciano Darderi": 1.65
+        },
+        "betmgm": {
+          "Dalibor Svrcina": 2.25,
+          "Luciano Darderi": 1.62
+        },
+        "betonlineag": {
+          "Dalibor Svrcina": 2.28,
+          "Luciano Darderi": 1.67
+        },
+        "lowvig": {
+          "Dalibor Svrcina": 2.28,
+          "Luciano Darderi": 1.67
+        }
+      },
+      "prediction": {
+        "p1_name": "Luciano Darderi",
+        "p2_name": "Dalibor Svrcina",
+        "p1_prob": 0.6777,
+        "p2_prob": 0.3223,
+        "predicted_winner": "Luciano Darderi",
+        "confidence": "high",
+        "p1_edge": 0.0789,
+        "p2_edge": -0.0842
+      },
+      "collected_at": "2026-09-01T13:00:36.972372+00:00",
+      "result": null
+    },
+    "8d7429f908e1378299c5938aa4a06fa5": {
+      "match_id": "8d7429f908e1378299c5938aa4a06fa5",
+      "commence_time": "2026-09-02T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Felix Auger-Aliassime",
+      "player2": "Karen Khachanov",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Felix Auger-Aliassime": 1.4,
+          "Karen Khachanov": 3.4
+        },
+        "marathonbet": {
+          "Felix Auger-Aliassime": 1.35,
+          "Karen Khachanov": 3.18
+        },
+        "coolbet": {
+          "Felix Auger-Aliassime": 1.37,
+          "Karen Khachanov": 3.35
+        },
+        "mybookieag": {
+          "Felix Auger-Aliassime": 1.36,
+          "Karen Khachanov": 3.08
+        },
+        "unibet_fr": {
+          "Felix Auger-Aliassime": 1.36,
+          "Karen Khachanov": 3.1
+        },
+        "betclic_fr": {
+          "Felix Auger-Aliassime": 1.36,
+          "Karen Khachanov": 3.1
+        },
+        "winamax_de": {
+          "Felix Auger-Aliassime": 1.38,
+          "Karen Khachanov": 3.2
+        },
+        "winamax_fr": {
+          "Felix Auger-Aliassime": 1.37,
+          "Karen Khachanov": 3.15
+        },
+        "onexbet": {
+          "Felix Auger-Aliassime": 1.38,
+          "Karen Khachanov": 3.17
+        },
+        "draftkings": {
+          "Felix Auger-Aliassime": 1.35,
+          "Karen Khachanov": 3.15
+        },
+        "matchbook": {
+          "Felix Auger-Aliassime": 1.4,
+          "Karen Khachanov": 3.3
+        },
+        "tipico_de": {
+          "Felix Auger-Aliassime": 1.33,
+          "Karen Khachanov": 3.2
+        },
+        "sport888": {
+          "Felix Auger-Aliassime": 1.36,
+          "Karen Khachanov": 3.1
+        },
+        "bovada": {
+          "Felix Auger-Aliassime": 1.36,
+          "Karen Khachanov": 3.2
+        },
+        "gtbets": {
+          "Felix Auger-Aliassime": 1.39,
+          "Karen Khachanov": 3.01
+        },
+        "unibet_se": {
+          "Felix Auger-Aliassime": 1.36,
+          "Karen Khachanov": 3.1
+        },
+        "betrivers": {
+          "Felix Auger-Aliassime": 1.36,
+          "Karen Khachanov": 3.1
+        },
+        "leovegas_se": {
+          "Felix Auger-Aliassime": 1.36,
+          "Karen Khachanov": 3.1
+        },
+        "pmu_fr": {
+          "Felix Auger-Aliassime": 1.34,
+          "Karen Khachanov": 3.05
+        },
+        "unibet_nl": {
+          "Felix Auger-Aliassime": 1.36,
+          "Karen Khachanov": 3.1
+        },
+        "fanduel": {
+          "Felix Auger-Aliassime": 1.36,
+          "Karen Khachanov": 3.25
+        },
+        "pinnacle": {
+          "Felix Auger-Aliassime": 1.37,
+          "Karen Khachanov": 3.33
+        },
+        "betmgm": {
+          "Felix Auger-Aliassime": 1.34,
+          "Karen Khachanov": 3.2
+        },
+        "betonlineag": {
+          "Felix Auger-Aliassime": 1.37,
+          "Karen Khachanov": 3.25
+        },
+        "lowvig": {
+          "Felix Auger-Aliassime": 1.37,
+          "Karen Khachanov": 3.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Felix Auger-Aliassime",
+        "p2_name": "Karen Khachanov",
+        "p1_prob": 0.6528,
+        "p2_prob": 0.3472,
+        "predicted_winner": "Felix Auger-Aliassime",
+        "confidence": "high",
+        "p1_edge": -0.0615,
+        "p2_edge": 0.0531
+      },
+      "collected_at": "2026-09-01T13:00:37.042535+00:00",
+      "result": null
+    },
+    "674ca3fc39a508424fbc20ac3ef8ecb2": {
+      "match_id": "674ca3fc39a508424fbc20ac3ef8ecb2",
+      "commence_time": "2026-09-02T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Rei Sakamoto",
+      "player2": "Frances Tiafoe",
+      "bookmakers": {
+        "draftkings": {
+          "Frances Tiafoe": 1.24,
+          "Rei Sakamoto": 3.96
+        },
+        "betfair_ex_eu": {
+          "Frances Tiafoe": 1.27,
+          "Rei Sakamoto": 4.3
+        },
+        "winamax_de": {
+          "Frances Tiafoe": 1.29,
+          "Rei Sakamoto": 3.85
+        },
+        "betclic_fr": {
+          "Frances Tiafoe": 1.24,
+          "Rei Sakamoto": 3.9
+        },
+        "winamax_fr": {
+          "Frances Tiafoe": 1.28,
+          "Rei Sakamoto": 3.75
+        },
+        "tipico_de": {
+          "Frances Tiafoe": 1.25,
+          "Rei Sakamoto": 3.8
+        },
+        "mybookieag": {
+          "Frances Tiafoe": 1.24,
+          "Rei Sakamoto": 3.9
+        },
+        "gtbets": {
+          "Frances Tiafoe": 1.23,
+          "Rei Sakamoto": 4.05
+        },
+        "matchbook": {
+          "Frances Tiafoe": 1.27,
+          "Rei Sakamoto": 4.3
+        },
+        "sport888": {
+          "Frances Tiafoe": 1.29,
+          "Rei Sakamoto": 3.6
+        },
+        "onexbet": {
+          "Frances Tiafoe": 1.27,
+          "Rei Sakamoto": 3.96
+        },
+        "fanduel": {
+          "Frances Tiafoe": 1.24,
+          "Rei Sakamoto": 4.15
+        },
+        "pmu_fr": {
+          "Frances Tiafoe": 1.23,
+          "Rei Sakamoto": 3.8
+        },
+        "betrivers": {
+          "Frances Tiafoe": 1.25,
+          "Rei Sakamoto": 3.9
+        },
+        "unibet_nl": {
+          "Frances Tiafoe": 1.25,
+          "Rei Sakamoto": 3.9
+        },
+        "unibet_se": {
+          "Frances Tiafoe": 1.25,
+          "Rei Sakamoto": 3.9
+        },
+        "leovegas_se": {
+          "Frances Tiafoe": 1.25,
+          "Rei Sakamoto": 3.9
+        },
+        "bovada": {
+          "Frances Tiafoe": 1.25,
+          "Rei Sakamoto": 4.0
+        },
+        "pinnacle": {
+          "Frances Tiafoe": 1.28,
+          "Rei Sakamoto": 4.06
+        },
+        "betmgm": {
+          "Frances Tiafoe": 1.27,
+          "Rei Sakamoto": 3.75
+        },
+        "betonlineag": {
+          "Frances Tiafoe": 1.25,
+          "Rei Sakamoto": 4.25
+        },
+        "lowvig": {
+          "Frances Tiafoe": 1.25,
+          "Rei Sakamoto": 4.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Rei Sakamoto",
+        "p2_name": "Frances Tiafoe",
+        "p1_prob": 0.4471,
+        "p2_prob": 0.5529,
+        "predicted_winner": "Frances Tiafoe",
+        "confidence": "medium",
+        "p1_edge": 0.2145,
+        "p2_edge": -0.2223
+      },
+      "collected_at": "2026-09-01T13:00:37.136583+00:00",
+      "result": null
+    },
+    "0848e831888372afebbf3089bb05921a": {
+      "match_id": "0848e831888372afebbf3089bb05921a",
+      "commence_time": "2026-09-02T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Jakub Mensik",
+      "player2": "Jurij Rodionov",
+      "bookmakers": {
+        "winamax_de": {
+          "Jakub Mensik": 1.13,
+          "Jurij Rodionov": 6.75
+        },
+        "betfair_ex_eu": {
+          "Jakub Mensik": 1.12,
+          "Jurij Rodionov": 8.0
+        },
+        "gtbets": {
+          "Jakub Mensik": 1.13,
+          "Jurij Rodionov": 6.52
+        },
+        "unibet_fr": {
+          "Jakub Mensik": 1.1,
+          "Jurij Rodionov": 5.3
+        },
+        "winamax_fr": {
+          "Jakub Mensik": 1.12,
+          "Jurij Rodionov": 6.5
+        },
+        "marathonbet": {
+          "Jakub Mensik": 1.11,
+          "Jurij Rodionov": 6.4
+        },
+        "onexbet": {
+          "Jakub Mensik": 1.12,
+          "Jurij Rodionov": 6.6
+        },
+        "coolbet": {
+          "Jakub Mensik": 1.13,
+          "Jurij Rodionov": 7.0
+        },
+        "draftkings": {
+          "Jakub Mensik": 1.12,
+          "Jurij Rodionov": 6.06
+        },
+        "betclic_fr": {
+          "Jakub Mensik": 1.11,
+          "Jurij Rodionov": 6.2
+        },
+        "mybookieag": {
+          "Jakub Mensik": 1.11,
+          "Jurij Rodionov": 6.2
+        },
+        "matchbook": {
+          "Jakub Mensik": 1.12,
+          "Jurij Rodionov": 7.6
+        },
+        "bovada": {
+          "Jakub Mensik": 1.12,
+          "Jurij Rodionov": 6.5
+        },
+        "tipico_de": {
+          "Jakub Mensik": 1.11,
+          "Jurij Rodionov": 6.2
+        },
+        "sport888": {
+          "Jakub Mensik": 1.12,
+          "Jurij Rodionov": 6.0
+        },
+        "pmu_fr": {
+          "Jakub Mensik": 1.09,
+          "Jurij Rodionov": 6.25
+        },
+        "leovegas_se": {
+          "Jakub Mensik": 1.11,
+          "Jurij Rodionov": 6.5
+        },
+        "betrivers": {
+          "Jakub Mensik": 1.11,
+          "Jurij Rodionov": 6.5
+        },
+        "unibet_nl": {
+          "Jakub Mensik": 1.11,
+          "Jurij Rodionov": 6.5
+        },
+        "unibet_se": {
+          "Jakub Mensik": 1.11,
+          "Jurij Rodionov": 6.5
+        },
+        "fanduel": {
+          "Jakub Mensik": 1.11,
+          "Jurij Rodionov": 6.8
+        },
+        "pinnacle": {
+          "Jakub Mensik": 1.13,
+          "Jurij Rodionov": 6.77
+        },
+        "betmgm": {
+          "Jakub Mensik": 1.12,
+          "Jurij Rodionov": 6.0
+        },
+        "betonlineag": {
+          "Jakub Mensik": 1.13,
+          "Jurij Rodionov": 6.75
+        },
+        "lowvig": {
+          "Jakub Mensik": 1.13,
+          "Jurij Rodionov": 6.75
+        }
+      },
+      "prediction": {
+        "p1_name": "Jakub Mensik",
+        "p2_name": "Jurij Rodionov",
+        "p1_prob": 0.7788,
+        "p2_prob": 0.2212,
+        "predicted_winner": "Jakub Mensik",
+        "confidence": "high",
+        "p1_edge": -0.1062,
+        "p2_edge": 0.0962
+      },
+      "collected_at": "2026-09-01T13:00:37.193982+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-09-01T03:16:01.779732+00:00"
+  "last_updated": "2026-09-01T13:00:37.200779+00:00"
 }
