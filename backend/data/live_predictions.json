@@ -44497,7 +44497,11 @@
         "p2_edge": 0.0249
       },
       "collected_at": "2026-08-28T08:44:17.404024+00:00",
-      "result": null
+      "result": {
+        "winner": "Alejandro Tabilo",
+        "correct": true,
+        "settled_at": "2026-09-01T03:15:51.341696+00:00"
+      }
     },
     "ee3628a053cd5359b922162eebd904ba": {
       "match_id": "ee3628a053cd5359b922162eebd904ba",
@@ -45389,7 +45393,11 @@
         "p2_edge": 0.0662
       },
       "collected_at": "2026-08-28T08:44:18.125328+00:00",
-      "result": null
+      "result": {
+        "winner": "Ben Shelton",
+        "correct": true,
+        "settled_at": "2026-09-01T03:15:51.753111+00:00"
+      }
     },
     "e5302319ac0f9d8353d1540a1a645a6e": {
       "match_id": "e5302319ac0f9d8353d1540a1a645a6e",
@@ -46719,7 +46727,11 @@
         "p2_edge": 0.2394
       },
       "collected_at": "2026-08-28T08:44:19.292515+00:00",
-      "result": null
+      "result": {
+        "winner": "Quentin Halys",
+        "correct": true,
+        "settled_at": "2026-09-01T03:15:51.616216+00:00"
+      }
     },
     "e0dae8156dc2f996fa9f90b435f0bbc5": {
       "match_id": "e0dae8156dc2f996fa9f90b435f0bbc5",
@@ -47697,7 +47709,11 @@
         "p2_edge": -0.0665
       },
       "collected_at": "2026-08-28T08:44:20.560489+00:00",
-      "result": null
+      "result": {
+        "winner": "Marco Trungelliti",
+        "correct": false,
+        "settled_at": "2026-09-01T03:15:51.479388+00:00"
+      }
     },
     "7599f7752ab3569109e2904e05773124": {
       "match_id": "7599f7752ab3569109e2904e05773124",
@@ -47783,7 +47799,11 @@
         "p2_edge": -0.1603
       },
       "collected_at": "2026-08-28T08:44:20.637243+00:00",
-      "result": null
+      "result": {
+        "winner": "Karen Khachanov",
+        "correct": true,
+        "settled_at": "2026-09-01T03:15:51.547766+00:00"
+      }
     },
     "3dad214ee641befada6f5ba3dc0d1ea6": {
       "match_id": "3dad214ee641befada6f5ba3dc0d1ea6",
@@ -47865,7 +47885,11 @@
         "p2_edge": 0.0818
       },
       "collected_at": "2026-08-28T08:44:20.713747+00:00",
-      "result": null
+      "result": {
+        "winner": "Learner Tien",
+        "correct": true,
+        "settled_at": "2026-09-01T03:15:51.684494+00:00"
+      }
     },
     "4c8fb0847307e7a109a57e850b660d68": {
       "match_id": "4c8fb0847307e7a109a57e850b660d68",
@@ -48041,7 +48065,11 @@
         "p2_edge": 0.1456
       },
       "collected_at": "2026-08-28T08:44:20.868147+00:00",
-      "result": null
+      "result": {
+        "winner": "Matteo Berrettini",
+        "correct": true,
+        "settled_at": "2026-09-01T03:15:51.273766+00:00"
+      }
     },
     "f3a93487be7a24142ce33bf8ad333412": {
       "match_id": "f3a93487be7a24142ce33bf8ad333412",
@@ -48797,7 +48825,11 @@
         "p2_edge": 0.1501
       },
       "collected_at": "2026-08-29T00:21:53.078564+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Blockx",
+        "correct": true,
+        "settled_at": "2026-09-01T03:15:51.411454+00:00"
+      }
     },
     "e442f31945622dc175c3496f08891fe5": {
       "match_id": "e442f31945622dc175c3496f08891fe5",
@@ -48871,7 +48903,11 @@
         "p2_edge": 0.105
       },
       "collected_at": "2026-08-29T00:21:53.171360+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexei Popyrin",
+        "correct": false,
+        "settled_at": "2026-09-01T03:15:51.821660+00:00"
+      }
     },
     "5618055f6a5e8432d9f93cad55e02ea9": {
       "match_id": "5618055f6a5e8432d9f93cad55e02ea9",
@@ -48941,7 +48977,11 @@
         "p2_edge": -0.0009
       },
       "collected_at": "2026-08-29T00:21:53.410225+00:00",
-      "result": null
+      "result": {
+        "winner": "Dalibor Svrcina",
+        "correct": false,
+        "settled_at": "2026-09-01T03:15:51.204730+00:00"
+      }
     },
     "aa9bc2a56a023039dcd7df50552350cb": {
       "match_id": "aa9bc2a56a023039dcd7df50552350cb",
@@ -49151,7 +49191,11 @@
         "p2_edge": 0.0932
       },
       "collected_at": "2026-08-29T00:21:53.783458+00:00",
-      "result": null
+      "result": {
+        "winner": "Jakub Mensik",
+        "correct": true,
+        "settled_at": "2026-09-01T03:15:51.890646+00:00"
+      }
     },
     "b65efc024874b5f0d2b7b6aa74043b05": {
       "match_id": "b65efc024874b5f0d2b7b6aa74043b05",
@@ -50431,7 +50475,257 @@
         "correct": true,
         "settled_at": "2026-08-31T21:16:50.918583+00:00"
       }
+    },
+    "a96687034c2f95459e9df7c231e89c88": {
+      "match_id": "a96687034c2f95459e9df7c231e89c88",
+      "commence_time": "2026-09-02T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Brandon Nakashima",
+      "player2": "Alex Michelsen",
+      "bookmakers": {
+        "marathonbet": {
+          "Alex Michelsen": 2.3,
+          "Brandon Nakashima": 1.61
+        },
+        "betfair_ex_eu": {
+          "Alex Michelsen": 2.2,
+          "Brandon Nakashima": 1.55
+        },
+        "unibet_fr": {
+          "Alex Michelsen": 2.15,
+          "Brandon Nakashima": 1.57
+        },
+        "betclic_fr": {
+          "Alex Michelsen": 2.15,
+          "Brandon Nakashima": 1.57
+        },
+        "onexbet": {
+          "Alex Michelsen": 2.39,
+          "Brandon Nakashima": 1.67
+        },
+        "sport888": {
+          "Alex Michelsen": 2.3,
+          "Brandon Nakashima": 1.61
+        },
+        "draftkings": {
+          "Alex Michelsen": 2.3,
+          "Brandon Nakashima": 1.61
+        },
+        "coolbet": {
+          "Alex Michelsen": 2.35,
+          "Brandon Nakashima": 1.65
+        },
+        "mybookieag": {
+          "Alex Michelsen": 2.25,
+          "Brandon Nakashima": 1.62
+        },
+        "gtbets": {
+          "Alex Michelsen": 2.3,
+          "Brandon Nakashima": 1.62
+        },
+        "tipico_de": {
+          "Alex Michelsen": 2.35,
+          "Brandon Nakashima": 1.57
+        },
+        "matchbook": {
+          "Alex Michelsen": 2.2,
+          "Brandon Nakashima": 1.52
+        },
+        "bovada": {
+          "Alex Michelsen": 2.35,
+          "Brandon Nakashima": 1.61
+        },
+        "leovegas_se": {
+          "Alex Michelsen": 2.32,
+          "Brandon Nakashima": 1.61
+        },
+        "unibet_nl": {
+          "Alex Michelsen": 2.32,
+          "Brandon Nakashima": 1.61
+        },
+        "unibet_se": {
+          "Alex Michelsen": 2.32,
+          "Brandon Nakashima": 1.61
+        },
+        "pmu_fr": {
+          "Alex Michelsen": 2.25,
+          "Brandon Nakashima": 1.56
+        },
+        "betrivers": {
+          "Alex Michelsen": 2.32,
+          "Brandon Nakashima": 1.61
+        },
+        "fanduel": {
+          "Alex Michelsen": 2.3,
+          "Brandon Nakashima": 1.64
+        }
+      },
+      "prediction": {
+        "p1_name": "Brandon Nakashima",
+        "p2_name": "Alex Michelsen",
+        "p1_prob": 0.4685,
+        "p2_prob": 0.5315,
+        "predicted_winner": "Alex Michelsen",
+        "confidence": "low",
+        "p1_edge": -0.1303,
+        "p2_edge": 0.1131
+      },
+      "collected_at": "2026-09-01T03:16:01.455799+00:00",
+      "result": null
+    },
+    "bc41dd439054452e36d98c8bef91e38c": {
+      "match_id": "bc41dd439054452e36d98c8bef91e38c",
+      "commence_time": "2026-09-02T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Tomas Martin Etcheverry",
+      "player2": "Jacob Fearnley",
+      "bookmakers": {
+        "matchbook": {
+          "Jacob Fearnley": 1.73,
+          "Tomas Martin Etcheverry": 1.71
+        },
+        "pmu_fr": {
+          "Jacob Fearnley": 1.66,
+          "Tomas Martin Etcheverry": 2.12
+        },
+        "unibet_se": {
+          "Jacob Fearnley": 1.68,
+          "Tomas Martin Etcheverry": 2.16
+        },
+        "betfair_ex_eu": {
+          "Jacob Fearnley": 1.73,
+          "Tomas Martin Etcheverry": 1.7
+        },
+        "gtbets": {
+          "Jacob Fearnley": 1.69,
+          "Tomas Martin Etcheverry": 2.15
+        },
+        "leovegas_se": {
+          "Jacob Fearnley": 1.68,
+          "Tomas Martin Etcheverry": 2.16
+        },
+        "betrivers": {
+          "Jacob Fearnley": 1.68,
+          "Tomas Martin Etcheverry": 2.16
+        },
+        "coolbet": {
+          "Jacob Fearnley": 1.84,
+          "Tomas Martin Etcheverry": 2.05
+        },
+        "unibet_fr": {
+          "Jacob Fearnley": 1.56,
+          "Tomas Martin Etcheverry": 2.2
+        },
+        "unibet_nl": {
+          "Jacob Fearnley": 1.68,
+          "Tomas Martin Etcheverry": 2.16
+        },
+        "draftkings": {
+          "Jacob Fearnley": 1.6,
+          "Tomas Martin Etcheverry": 2.32
+        },
+        "bovada": {
+          "Jacob Fearnley": 1.71,
+          "Tomas Martin Etcheverry": 2.15
+        },
+        "betclic_fr": {
+          "Jacob Fearnley": 1.56,
+          "Tomas Martin Etcheverry": 2.18
+        },
+        "mybookieag": {
+          "Jacob Fearnley": 1.61,
+          "Tomas Martin Etcheverry": 2.28
+        },
+        "tipico_de": {
+          "Jacob Fearnley": 1.57,
+          "Tomas Martin Etcheverry": 2.35
+        }
+      },
+      "prediction": {
+        "p1_name": "Tomas Martin Etcheverry",
+        "p2_name": "Jacob Fearnley",
+        "p1_prob": 0.7149,
+        "p2_prob": 0.2851,
+        "predicted_winner": "Tomas Martin Etcheverry",
+        "confidence": "high",
+        "p1_edge": 0.2894,
+        "p2_edge": -0.2584
+      },
+      "collected_at": "2026-09-01T03:16:01.631535+00:00",
+      "result": null
+    },
+    "392454bf9eb7dc5bc3c8e756dccc8616": {
+      "match_id": "392454bf9eb7dc5bc3c8e756dccc8616",
+      "commence_time": "2026-09-02T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Matteo Berrettini",
+      "player2": "Mariano Navone",
+      "bookmakers": {
+        "marathonbet": {
+          "Mariano Navone": 2.66,
+          "Matteo Berrettini": 1.47
+        },
+        "bovada": {
+          "Mariano Navone": 2.65,
+          "Matteo Berrettini": 1.5
+        },
+        "matchbook": {
+          "Mariano Navone": 2.24,
+          "Matteo Berrettini": 1.44
+        },
+        "betfair_ex_eu": {
+          "Mariano Navone": 2.24,
+          "Matteo Berrettini": 1.44
+        },
+        "gtbets": {
+          "Mariano Navone": 2.67,
+          "Matteo Berrettini": 1.48
+        },
+        "draftkings": {
+          "Mariano Navone": 2.63,
+          "Matteo Berrettini": 1.48
+        },
+        "onexbet": {
+          "Mariano Navone": 2.77,
+          "Matteo Berrettini": 1.53
+        },
+        "unibet_fr": {
+          "Mariano Navone": 2.5,
+          "Matteo Berrettini": 1.43
+        },
+        "betclic_fr": {
+          "Mariano Navone": 2.5,
+          "Matteo Berrettini": 1.43
+        },
+        "coolbet": {
+          "Mariano Navone": 2.75,
+          "Matteo Berrettini": 1.5
+        },
+        "mybookieag": {
+          "Mariano Navone": 2.65,
+          "Matteo Berrettini": 1.47
+        },
+        "tipico_de": {
+          "Mariano Navone": 2.65,
+          "Matteo Berrettini": 1.47
+        }
+      },
+      "prediction": {
+        "p1_name": "Matteo Berrettini",
+        "p2_name": "Mariano Navone",
+        "p1_prob": 0.6605,
+        "p2_prob": 0.3395,
+        "predicted_winner": "Matteo Berrettini",
+        "confidence": "high",
+        "p1_edge": 0.0069,
+        "p2_edge": -0.0215
+      },
+      "collected_at": "2026-09-01T03:16:01.767457+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-08-31T21:16:50.931246+00:00"
+  "last_updated": "2026-09-01T03:16:01.779732+00:00"
 }
