@@ -44333,7 +44333,11 @@
         "p2_edge": 0.101
       },
       "collected_at": "2026-08-28T08:44:17.259113+00:00",
-      "result": null
+      "result": {
+        "winner": "Gael Monfils",
+        "correct": true,
+        "settled_at": "2026-09-02T02:33:58.080841+00:00"
+      }
     },
     "b91d6982319960af374a5aaf382981d7": {
       "match_id": "b91d6982319960af374a5aaf382981d7",
@@ -45111,7 +45115,11 @@
         "p2_edge": 0.0172
       },
       "collected_at": "2026-08-28T08:44:17.909113+00:00",
-      "result": null
+      "result": {
+        "winner": "Lorenzo Musetti",
+        "correct": true,
+        "settled_at": "2026-09-02T02:33:58.012219+00:00"
+      }
     },
     "4d4aae300d0439af50c11b7279bb9247": {
       "match_id": "4d4aae300d0439af50c11b7279bb9247",
@@ -45769,7 +45777,11 @@
         "p2_edge": -0.2358
       },
       "collected_at": "2026-08-28T08:44:18.477822+00:00",
-      "result": null
+      "result": {
+        "winner": "Jan-Lennard Struff",
+        "correct": false,
+        "settled_at": "2026-09-02T02:33:57.874538+00:00"
+      }
     },
     "506ba8811c1c5163baacbffbba7d601a": {
       "match_id": "506ba8811c1c5163baacbffbba7d601a",
@@ -46117,7 +46129,11 @@
         "p2_edge": -0.0498
       },
       "collected_at": "2026-08-28T08:44:18.772042+00:00",
-      "result": null
+      "result": {
+        "winner": "Dane Sweeny",
+        "correct": false,
+        "settled_at": "2026-09-02T02:33:57.597889+00:00"
+      }
     },
     "5845e88e2e845a2d045864a3cfcb1844": {
       "match_id": "5845e88e2e845a2d045864a3cfcb1844",
@@ -46457,7 +46473,11 @@
         "p2_edge": 0.1655
       },
       "collected_at": "2026-08-28T08:44:19.068891+00:00",
-      "result": null
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-09-02T02:33:57.528797+00:00"
+      }
     },
     "eb5a7c50487bd9ae66e95d38a7e717a4": {
       "match_id": "eb5a7c50487bd9ae66e95d38a7e717a4",
@@ -46907,7 +46927,11 @@
         "p2_edge": -0.1649
       },
       "collected_at": "2026-08-28T08:44:19.441655+00:00",
-      "result": null
+      "result": {
+        "winner": "Francisco Cerundolo",
+        "correct": true,
+        "settled_at": "2026-09-02T02:33:57.805449+00:00"
+      }
     },
     "61b01b6e054522a5b142dfa57e7de850": {
       "match_id": "61b01b6e054522a5b142dfa57e7de850",
@@ -46997,7 +47021,11 @@
         "p2_edge": -0.0558
       },
       "collected_at": "2026-08-28T08:44:19.516930+00:00",
-      "result": null
+      "result": {
+        "winner": "Flavio Cobolli",
+        "correct": true,
+        "settled_at": "2026-09-02T02:33:57.458929+00:00"
+      }
     },
     "3e181ee7743dbff33254383299b50587": {
       "match_id": "3e181ee7743dbff33254383299b50587",
@@ -49273,7 +49301,11 @@
         "p2_edge": 0.1495
       },
       "collected_at": "2026-08-29T00:21:53.951065+00:00",
-      "result": null
+      "result": {
+        "winner": "Mattia Bellucci",
+        "correct": true,
+        "settled_at": "2026-09-02T02:33:57.736787+00:00"
+      }
     },
     "c527ad5939626550b0cc93f040b5ff1d": {
       "match_id": "c527ad5939626550b0cc93f040b5ff1d",
@@ -49339,7 +49371,11 @@
         "p2_edge": 0.0806
       },
       "collected_at": "2026-08-29T00:21:54.027183+00:00",
-      "result": null
+      "result": {
+        "winner": "Tristan Schoolkate",
+        "correct": false,
+        "settled_at": "2026-09-02T02:33:57.667086+00:00"
+      }
     },
     "tml-2026-6242-45": {
       "match_id": "tml-2026-6242-45",
@@ -49475,7 +49511,11 @@
         "p2_edge": -0.0936
       },
       "collected_at": "2026-08-30T19:00:46.832156+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Gea",
+        "correct": false,
+        "settled_at": "2026-09-02T02:33:57.943167+00:00"
+      }
     },
     "tml-2026-560-62": {
       "match_id": "tml-2026-560-62",
@@ -51575,7 +51615,431 @@
       },
       "collected_at": "2026-09-01T13:00:37.193982+00:00",
       "result": null
+    },
+    "fb353fc871a2ec743a1bb2ec42f4408c": {
+      "match_id": "fb353fc871a2ec743a1bb2ec42f4408c",
+      "commence_time": "2026-09-03T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Dane Sweeny",
+      "player2": "Lorenzo Musetti",
+      "bookmakers": {
+        "gtbets": {
+          "Dane Sweeny": 12.6,
+          "Lorenzo Musetti": 1.03
+        },
+        "marathonbet": {
+          "Dane Sweeny": 13.0,
+          "Lorenzo Musetti": 1.02
+        },
+        "betfair_ex_eu": {
+          "Dane Sweeny": 9.2,
+          "Lorenzo Musetti": 1.05
+        },
+        "draftkings": {
+          "Dane Sweeny": 14.0,
+          "Lorenzo Musetti": 1.02
+        },
+        "unibet_fr": {
+          "Dane Sweeny": 8.5,
+          "Lorenzo Musetti": 1.02
+        },
+        "betclic_fr": {
+          "Dane Sweeny": 8.6,
+          "Lorenzo Musetti": 1.02
+        },
+        "onexbet": {
+          "Dane Sweeny": 15.5,
+          "Lorenzo Musetti": 1.02
+        },
+        "coolbet": {
+          "Dane Sweeny": 14.5,
+          "Lorenzo Musetti": 1.04
+        },
+        "winamax_fr": {
+          "Dane Sweeny": 7.75,
+          "Lorenzo Musetti": 1.01
+        },
+        "winamax_de": {
+          "Dane Sweeny": 12.5,
+          "Lorenzo Musetti": 1.02
+        },
+        "bovada": {
+          "Dane Sweeny": 13.0,
+          "Lorenzo Musetti": 1.03
+        },
+        "pmu_fr": {
+          "Dane Sweeny": 11.0,
+          "Lorenzo Musetti": 1.01
+        },
+        "betrivers": {
+          "Dane Sweeny": 11.0,
+          "Lorenzo Musetti": 1.04
+        },
+        "unibet_se": {
+          "Dane Sweeny": 11.0,
+          "Lorenzo Musetti": 1.04
+        },
+        "leovegas_se": {
+          "Dane Sweeny": 11.0,
+          "Lorenzo Musetti": 1.04
+        },
+        "unibet_nl": {
+          "Dane Sweeny": 11.0,
+          "Lorenzo Musetti": 1.04
+        },
+        "sport888": {
+          "Dane Sweeny": 11.0,
+          "Lorenzo Musetti": 1.04
+        },
+        "tipico_de": {
+          "Dane Sweeny": 11.0,
+          "Lorenzo Musetti": 1.03
+        },
+        "matchbook": {
+          "Dane Sweeny": 9.2,
+          "Lorenzo Musetti": 1.05
+        }
+      },
+      "prediction": {
+        "p1_name": "Dane Sweeny",
+        "p2_name": "Lorenzo Musetti",
+        "p1_prob": 0.1446,
+        "p2_prob": 0.8554,
+        "predicted_winner": "Lorenzo Musetti",
+        "confidence": "high",
+        "p1_edge": 0.0801,
+        "p2_edge": -0.097
+      },
+      "collected_at": "2026-09-02T02:34:07.116138+00:00",
+      "result": null
+    },
+    "169f73795d8667bb9fd442d999e8e709": {
+      "match_id": "169f73795d8667bb9fd442d999e8e709",
+      "commence_time": "2026-09-03T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Tristan Schoolkate",
+      "player2": "Flavio Cobolli",
+      "bookmakers": {
+        "gtbets": {
+          "Flavio Cobolli": 1.16,
+          "Tristan Schoolkate": 5.3
+        },
+        "marathonbet": {
+          "Flavio Cobolli": 1.15,
+          "Tristan Schoolkate": 5.4
+        },
+        "matchbook": {
+          "Flavio Cobolli": 1.16,
+          "Tristan Schoolkate": 4.9
+        },
+        "betfair_ex_eu": {
+          "Flavio Cobolli": 1.15,
+          "Tristan Schoolkate": 5.1
+        },
+        "draftkings": {
+          "Flavio Cobolli": 1.16,
+          "Tristan Schoolkate": 5.27
+        },
+        "unibet_fr": {
+          "Flavio Cobolli": 1.12,
+          "Tristan Schoolkate": 4.8
+        },
+        "betclic_fr": {
+          "Flavio Cobolli": 1.12,
+          "Tristan Schoolkate": 4.8
+        },
+        "onexbet": {
+          "Flavio Cobolli": 1.16,
+          "Tristan Schoolkate": 5.5
+        },
+        "coolbet": {
+          "Flavio Cobolli": 1.17,
+          "Tristan Schoolkate": 5.7
+        },
+        "winamax_fr": {
+          "Flavio Cobolli": 1.11,
+          "Tristan Schoolkate": 4.6
+        },
+        "winamax_de": {
+          "Flavio Cobolli": 1.14,
+          "Tristan Schoolkate": 5.6
+        },
+        "bovada": {
+          "Flavio Cobolli": 1.15,
+          "Tristan Schoolkate": 5.5
+        },
+        "mybookieag": {
+          "Flavio Cobolli": 1.14,
+          "Tristan Schoolkate": 5.4
+        },
+        "betus": {
+          "Flavio Cobolli": 1.15,
+          "Tristan Schoolkate": 5.42
+        },
+        "sport888": {
+          "Flavio Cobolli": 1.14,
+          "Tristan Schoolkate": 5.5
+        },
+        "tipico_de": {
+          "Flavio Cobolli": 1.15,
+          "Tristan Schoolkate": 5.3
+        },
+        "unibet_se": {
+          "Flavio Cobolli": 1.14,
+          "Tristan Schoolkate": 5.75
+        },
+        "unibet_nl": {
+          "Flavio Cobolli": 1.14,
+          "Tristan Schoolkate": 5.75
+        },
+        "betrivers": {
+          "Flavio Cobolli": 1.14,
+          "Tristan Schoolkate": 5.75
+        },
+        "leovegas_se": {
+          "Flavio Cobolli": 1.14,
+          "Tristan Schoolkate": 5.75
+        },
+        "pmu_fr": {
+          "Flavio Cobolli": 1.12,
+          "Tristan Schoolkate": 5.5
+        },
+        "betmgm": {
+          "Flavio Cobolli": 1.16,
+          "Tristan Schoolkate": 5.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Tristan Schoolkate",
+        "p2_name": "Flavio Cobolli",
+        "p1_prob": 0.2494,
+        "p2_prob": 0.7506,
+        "predicted_winner": "Flavio Cobolli",
+        "confidence": "high",
+        "p1_edge": 0.0755,
+        "p2_edge": -0.1041
+      },
+      "collected_at": "2026-09-02T02:34:07.214623+00:00",
+      "result": null
+    },
+    "d32a85d0b459314b9dee1b507f9dcae2": {
+      "match_id": "d32a85d0b459314b9dee1b507f9dcae2",
+      "commence_time": "2026-09-03T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Jan-Lennard Struff",
+      "player2": "Francisco Cerundolo",
+      "bookmakers": {
+        "gtbets": {
+          "Francisco Cerundolo": 1.53,
+          "Jan-Lennard Struff": 2.54
+        },
+        "matchbook": {
+          "Francisco Cerundolo": 1.47,
+          "Jan-Lennard Struff": 2.6
+        },
+        "betfair_ex_eu": {
+          "Francisco Cerundolo": 1.44,
+          "Jan-Lennard Struff": 2.6
+        },
+        "draftkings": {
+          "Francisco Cerundolo": 1.5,
+          "Jan-Lennard Struff": 2.56
+        },
+        "unibet_fr": {
+          "Francisco Cerundolo": 1.48,
+          "Jan-Lennard Struff": 2.35
+        },
+        "betclic_fr": {
+          "Francisco Cerundolo": 1.48,
+          "Jan-Lennard Struff": 2.37
+        },
+        "onexbet": {
+          "Francisco Cerundolo": 1.54,
+          "Jan-Lennard Struff": 2.54
+        },
+        "coolbet": {
+          "Francisco Cerundolo": 1.55,
+          "Jan-Lennard Struff": 2.6
+        },
+        "mybookieag": {
+          "Francisco Cerundolo": 1.52,
+          "Jan-Lennard Struff": 2.49
+        },
+        "winamax_fr": {
+          "Francisco Cerundolo": 1.46,
+          "Jan-Lennard Struff": 2.3
+        },
+        "winamax_de": {
+          "Francisco Cerundolo": 1.52,
+          "Jan-Lennard Struff": 2.5
+        },
+        "bovada": {
+          "Francisco Cerundolo": 1.54,
+          "Jan-Lennard Struff": 2.55
+        },
+        "betus": {
+          "Francisco Cerundolo": 1.53,
+          "Jan-Lennard Struff": 2.59
+        },
+        "marathonbet": {
+          "Francisco Cerundolo": 1.52,
+          "Jan-Lennard Struff": 2.51
+        },
+        "sport888": {
+          "Francisco Cerundolo": 1.53,
+          "Jan-Lennard Struff": 2.5
+        },
+        "tipico_de": {
+          "Francisco Cerundolo": 1.5,
+          "Jan-Lennard Struff": 2.55
+        },
+        "unibet_se": {
+          "Francisco Cerundolo": 1.53,
+          "Jan-Lennard Struff": 2.5
+        },
+        "unibet_nl": {
+          "Francisco Cerundolo": 1.53,
+          "Jan-Lennard Struff": 2.5
+        },
+        "betrivers": {
+          "Francisco Cerundolo": 1.53,
+          "Jan-Lennard Struff": 2.5
+        },
+        "leovegas_se": {
+          "Francisco Cerundolo": 1.53,
+          "Jan-Lennard Struff": 2.5
+        },
+        "pmu_fr": {
+          "Francisco Cerundolo": 1.5,
+          "Jan-Lennard Struff": 2.45
+        }
+      },
+      "prediction": {
+        "p1_name": "Jan-Lennard Struff",
+        "p2_name": "Francisco Cerundolo",
+        "p1_prob": 0.2474,
+        "p2_prob": 0.7526,
+        "predicted_winner": "Francisco Cerundolo",
+        "confidence": "high",
+        "p1_edge": -0.1372,
+        "p2_edge": 0.1074
+      },
+      "collected_at": "2026-09-02T02:34:07.293702+00:00",
+      "result": null
+    },
+    "de81b7eaff562548a98086afe77b8553": {
+      "match_id": "de81b7eaff562548a98086afe77b8553",
+      "commence_time": "2026-09-03T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Taylor Fritz",
+      "player2": "Mattia Bellucci",
+      "bookmakers": {
+        "gtbets": {
+          "Mattia Bellucci": 5.64,
+          "Taylor Fritz": 1.15
+        },
+        "marathonbet": {
+          "Mattia Bellucci": 5.6,
+          "Taylor Fritz": 1.14
+        },
+        "matchbook": {
+          "Mattia Bellucci": 5.5,
+          "Taylor Fritz": 1.13
+        },
+        "betfair_ex_eu": {
+          "Mattia Bellucci": 5.7,
+          "Taylor Fritz": 1.14
+        },
+        "draftkings": {
+          "Mattia Bellucci": 5.47,
+          "Taylor Fritz": 1.15
+        },
+        "unibet_fr": {
+          "Mattia Bellucci": 4.85,
+          "Taylor Fritz": 1.12
+        },
+        "betclic_fr": {
+          "Mattia Bellucci": 4.8,
+          "Taylor Fritz": 1.12
+        },
+        "onexbet": {
+          "Mattia Bellucci": 5.73,
+          "Taylor Fritz": 1.15
+        },
+        "coolbet": {
+          "Mattia Bellucci": 6.25,
+          "Taylor Fritz": 1.15
+        },
+        "mybookieag": {
+          "Mattia Bellucci": 5.5,
+          "Taylor Fritz": 1.14
+        },
+        "winamax_fr": {
+          "Mattia Bellucci": 4.7,
+          "Taylor Fritz": 1.11
+        },
+        "winamax_de": {
+          "Mattia Bellucci": 5.6,
+          "Taylor Fritz": 1.14
+        },
+        "bovada": {
+          "Mattia Bellucci": 5.5,
+          "Taylor Fritz": 1.15
+        },
+        "betus": {
+          "Mattia Bellucci": 5.94,
+          "Taylor Fritz": 1.13
+        },
+        "unibet_se": {
+          "Mattia Bellucci": 5.8,
+          "Taylor Fritz": 1.13
+        },
+        "betrivers": {
+          "Mattia Bellucci": 5.8,
+          "Taylor Fritz": 1.13
+        },
+        "pmu_fr": {
+          "Mattia Bellucci": 5.6,
+          "Taylor Fritz": 1.11
+        },
+        "leovegas_se": {
+          "Mattia Bellucci": 5.8,
+          "Taylor Fritz": 1.13
+        },
+        "unibet_nl": {
+          "Mattia Bellucci": 5.8,
+          "Taylor Fritz": 1.13
+        },
+        "sport888": {
+          "Mattia Bellucci": 5.5,
+          "Taylor Fritz": 1.14
+        },
+        "tipico_de": {
+          "Mattia Bellucci": 5.7,
+          "Taylor Fritz": 1.13
+        },
+        "betmgm": {
+          "Mattia Bellucci": 5.5,
+          "Taylor Fritz": 1.14
+        }
+      },
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Mattia Bellucci",
+        "p1_prob": 0.7881,
+        "p2_prob": 0.2119,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "high",
+        "p1_edge": -0.0815,
+        "p2_edge": 0.0519
+      },
+      "collected_at": "2026-09-02T02:34:07.391064+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-09-01T13:00:37.200779+00:00"
+  "last_updated": "2026-09-02T02:34:07.402917+00:00"
 }
