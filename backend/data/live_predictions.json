@@ -44939,7 +44939,11 @@
         "p2_edge": 0.0049
       },
       "collected_at": "2026-08-28T08:44:17.765780+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-09-02T12:28:53.249831+00:00"
+      }
     },
     "4301448642d2f6e89460a4e92ff7d1b7": {
       "match_id": "4301448642d2f6e89460a4e92ff7d1b7",
@@ -52039,7 +52043,227 @@
       },
       "collected_at": "2026-09-02T02:34:07.391064+00:00",
       "result": null
+    },
+    "81d5598e13c2fcfce4989d037947f018": {
+      "match_id": "81d5598e13c2fcfce4989d037947f018",
+      "commence_time": "2026-09-03T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Quentin Halys",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Alexander Zverev": 1.18,
+          "Quentin Halys": 6.0
+        },
+        "tipico_de": {
+          "Alexander Zverev": 1.16,
+          "Quentin Halys": 5.0
+        },
+        "sport888": {
+          "Alexander Zverev": 1.17,
+          "Quentin Halys": 5.0
+        },
+        "draftkings": {
+          "Alexander Zverev": 1.15,
+          "Quentin Halys": 5.31
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.16,
+          "Quentin Halys": 5.0
+        },
+        "coolbet": {
+          "Alexander Zverev": 1.18,
+          "Quentin Halys": 5.5
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 1.16,
+          "Quentin Halys": 5.0
+        },
+        "onexbet": {
+          "Alexander Zverev": 1.17,
+          "Quentin Halys": 5.27
+        },
+        "mybookieag": {
+          "Alexander Zverev": 1.16,
+          "Quentin Halys": 5.0
+        },
+        "marathonbet": {
+          "Alexander Zverev": 1.16,
+          "Quentin Halys": 5.2
+        },
+        "gtbets": {
+          "Alexander Zverev": 1.18,
+          "Quentin Halys": 5.44
+        },
+        "matchbook": {
+          "Alexander Zverev": 1.18,
+          "Quentin Halys": 5.7
+        },
+        "winamax_de": {
+          "Alexander Zverev": 1.18,
+          "Quentin Halys": 5.4
+        },
+        "winamax_fr": {
+          "Alexander Zverev": 1.17,
+          "Quentin Halys": 5.2
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.15,
+          "Quentin Halys": 5.5
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.15,
+          "Quentin Halys": 5.5
+        },
+        "pmu_fr": {
+          "Alexander Zverev": 1.12,
+          "Quentin Halys": 5.3
+        },
+        "betrivers": {
+          "Alexander Zverev": 1.15,
+          "Quentin Halys": 5.5
+        },
+        "unibet_se": {
+          "Alexander Zverev": 1.15,
+          "Quentin Halys": 5.5
+        },
+        "pinnacle": {
+          "Alexander Zverev": 1.18,
+          "Quentin Halys": 5.46
+        },
+        "betmgm": {
+          "Alexander Zverev": 1.16,
+          "Quentin Halys": 5.0
+        },
+        "bovada": {
+          "Alexander Zverev": 1.17,
+          "Quentin Halys": 5.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Quentin Halys",
+        "p1_prob": 0.914,
+        "p2_prob": 0.086,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": 0.0665,
+        "p2_edge": -0.0807
+      },
+      "collected_at": "2026-09-02T12:29:00.408494+00:00",
+      "result": null
+    },
+    "93f7500d41836f113c7cb2101d9408cd": {
+      "match_id": "93f7500d41836f113c7cb2101d9408cd",
+      "commence_time": "2026-09-03T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Gael Monfils",
+      "player2": "Learner Tien",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Gael Monfils": 5.1,
+          "Learner Tien": 1.23
+        },
+        "coolbet": {
+          "Gael Monfils": 4.75,
+          "Learner Tien": 1.22
+        },
+        "marathonbet": {
+          "Gael Monfils": 4.35,
+          "Learner Tien": 1.21
+        },
+        "unibet_fr": {
+          "Gael Monfils": 4.3,
+          "Learner Tien": 1.21
+        },
+        "draftkings": {
+          "Gael Monfils": 3.97,
+          "Learner Tien": 1.24
+        },
+        "betclic_fr": {
+          "Gael Monfils": 4.3,
+          "Learner Tien": 1.21
+        },
+        "mybookieag": {
+          "Gael Monfils": 4.3,
+          "Learner Tien": 1.21
+        },
+        "onexbet": {
+          "Gael Monfils": 4.41,
+          "Learner Tien": 1.23
+        },
+        "tipico_de": {
+          "Gael Monfils": 4.6,
+          "Learner Tien": 1.18
+        },
+        "gtbets": {
+          "Gael Monfils": 4.3,
+          "Learner Tien": 1.25
+        },
+        "bovada": {
+          "Gael Monfils": 4.5,
+          "Learner Tien": 1.22
+        },
+        "matchbook": {
+          "Gael Monfils": 5.1,
+          "Learner Tien": 1.23
+        },
+        "winamax_fr": {
+          "Gael Monfils": 4.5,
+          "Learner Tien": 1.22
+        },
+        "winamax_de": {
+          "Gael Monfils": 4.6,
+          "Learner Tien": 1.22
+        },
+        "sport888": {
+          "Gael Monfils": 4.5,
+          "Learner Tien": 1.2
+        },
+        "pmu_fr": {
+          "Gael Monfils": 4.35,
+          "Learner Tien": 1.18
+        },
+        "betrivers": {
+          "Gael Monfils": 4.5,
+          "Learner Tien": 1.2
+        },
+        "unibet_se": {
+          "Gael Monfils": 4.5,
+          "Learner Tien": 1.2
+        },
+        "unibet_nl": {
+          "Gael Monfils": 4.5,
+          "Learner Tien": 1.2
+        },
+        "leovegas_se": {
+          "Gael Monfils": 4.5,
+          "Learner Tien": 1.2
+        },
+        "pinnacle": {
+          "Gael Monfils": 4.73,
+          "Learner Tien": 1.22
+        },
+        "betmgm": {
+          "Gael Monfils": 4.33,
+          "Learner Tien": 1.21
+        }
+      },
+      "prediction": {
+        "p1_name": "Gael Monfils",
+        "p2_name": "Learner Tien",
+        "p1_prob": 0.2745,
+        "p2_prob": 0.7255,
+        "predicted_winner": "Learner Tien",
+        "confidence": "high",
+        "p1_edge": 0.0784,
+        "p2_edge": -0.0745
+      },
+      "collected_at": "2026-09-02T12:29:00.585307+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-09-02T02:34:07.402917+00:00"
+  "last_updated": "2026-09-02T12:29:00.597459+00:00"
 }
