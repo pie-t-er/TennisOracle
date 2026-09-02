@@ -44673,7 +44673,11 @@
         "p2_edge": -0.1549
       },
       "collected_at": "2026-08-28T08:44:17.548555+00:00",
-      "result": null
+      "result": {
+        "winner": "Benjamin Bonzi",
+        "correct": true,
+        "settled_at": "2026-09-02T19:10:54.704945+00:00"
+      }
     },
     "ccec1e9522672756e21606135720d66d": {
       "match_id": "ccec1e9522672756e21606135720d66d",
@@ -45499,7 +45503,11 @@
         "p2_edge": -0.1047
       },
       "collected_at": "2026-08-28T08:44:18.198355+00:00",
-      "result": null
+      "result": {
+        "winner": "Botic van de Zandschulp",
+        "correct": true,
+        "settled_at": "2026-09-02T19:10:55.278578+00:00"
+      }
     },
     "9105c73208d714876721b679aadc7de8": {
       "match_id": "9105c73208d714876721b679aadc7de8",
@@ -49752,7 +49760,11 @@
         "p2_edge": 0.0504
       },
       "collected_at": "2026-08-31T03:11:35.618399+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Rinderknech",
+        "correct": true,
+        "settled_at": "2026-09-02T19:10:55.152556+00:00"
+      }
     },
     "b1c232f3649d4155d1c89c5ddd40512b": {
       "match_id": "b1c232f3649d4155d1c89c5ddd40512b",
@@ -50231,7 +50243,11 @@
         "p2_edge": 0.3445
       },
       "collected_at": "2026-08-31T21:16:44.111237+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniel Merida Aguilar",
+        "correct": false,
+        "settled_at": "2026-09-02T19:10:54.744971+00:00"
+      }
     },
     "3d7f66066eb306e7857fc16682a103f6": {
       "match_id": "3d7f66066eb306e7857fc16682a103f6",
@@ -50624,7 +50640,11 @@
         "p2_edge": 0.1131
       },
       "collected_at": "2026-09-01T03:16:01.455799+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex Michelsen",
+        "correct": true,
+        "settled_at": "2026-09-02T19:10:54.945683+00:00"
+      }
     },
     "bc41dd439054452e36d98c8bef91e38c": {
       "match_id": "bc41dd439054452e36d98c8bef91e38c",
@@ -52263,7 +52283,97 @@
       },
       "collected_at": "2026-09-02T12:29:00.585307+00:00",
       "result": null
+    },
+    "cd79358c4254d25e0c6f97a73a6bcc14": {
+      "match_id": "cd79358c4254d25e0c6f97a73a6bcc14",
+      "commence_time": "2026-09-04T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Alex Michelsen",
+      "player2": "Daniel Merida Aguilar",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Alex Michelsen": 1.55,
+          "Daniel Merida Aguilar": 2.46
+        },
+        "draftkings": {
+          "Alex Michelsen": 1.58,
+          "Daniel Merida Aguilar": 2.36
+        },
+        "matchbook": {
+          "Alex Michelsen": 1.47,
+          "Daniel Merida Aguilar": 2.28
+        },
+        "bovada": {
+          "Alex Michelsen": 1.59,
+          "Daniel Merida Aguilar": 2.4
+        },
+        "betclic_fr": {
+          "Alex Michelsen": 1.54,
+          "Daniel Merida Aguilar": 2.23
+        },
+        "sport888": {
+          "Alex Michelsen": 1.57,
+          "Daniel Merida Aguilar": 2.38
+        },
+        "marathonbet": {
+          "Alex Michelsen": 1.58,
+          "Daniel Merida Aguilar": 2.36
+        },
+        "unibet_fr": {
+          "Alex Michelsen": 1.54,
+          "Daniel Merida Aguilar": 2.25
+        },
+        "coolbet": {
+          "Alex Michelsen": 1.61,
+          "Daniel Merida Aguilar": 2.45
+        },
+        "mybookieag": {
+          "Alex Michelsen": 1.58,
+          "Daniel Merida Aguilar": 2.33
+        },
+        "onexbet": {
+          "Alex Michelsen": 1.64,
+          "Daniel Merida Aguilar": 2.32
+        },
+        "tipico_de": {
+          "Alex Michelsen": 1.6,
+          "Daniel Merida Aguilar": 2.3
+        },
+        "betrivers": {
+          "Alex Michelsen": 1.48,
+          "Daniel Merida Aguilar": 2.65
+        },
+        "leovegas_se": {
+          "Alex Michelsen": 1.48,
+          "Daniel Merida Aguilar": 2.65
+        },
+        "unibet_se": {
+          "Alex Michelsen": 1.48,
+          "Daniel Merida Aguilar": 2.65
+        },
+        "unibet_nl": {
+          "Alex Michelsen": 1.48,
+          "Daniel Merida Aguilar": 2.65
+        },
+        "pmu_fr": {
+          "Alex Michelsen": 1.43,
+          "Daniel Merida Aguilar": 2.6
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex Michelsen",
+        "p2_name": "Jorge Aguilar",
+        "p1_prob": 0.9624,
+        "p2_prob": 0.0376,
+        "predicted_winner": "Alex Michelsen",
+        "confidence": "high",
+        "p1_edge": 0.3526,
+        "p2_edge": -0.3398
+      },
+      "collected_at": "2026-09-02T19:11:03.400553+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-09-02T12:29:00.597459+00:00"
+  "last_updated": "2026-09-02T19:11:03.409401+00:00"
 }
