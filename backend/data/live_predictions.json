@@ -49976,7 +49976,11 @@
         "p2_edge": -0.1398
       },
       "collected_at": "2026-08-31T03:11:35.719650+00:00",
-      "result": null
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": true,
+        "settled_at": "2026-09-03T12:31:18.950624+00:00"
+      }
     },
     "e709f767937d2eb3f50833298a6b9650": {
       "match_id": "e709f767937d2eb3f50833298a6b9650",
@@ -50333,7 +50337,11 @@
         "p2_edge": 0.0496
       },
       "collected_at": "2026-08-31T21:16:44.208061+00:00",
-      "result": null
+      "result": {
+        "winner": "Carlos Alcaraz",
+        "correct": true,
+        "settled_at": "2026-09-03T12:31:19.003959+00:00"
+      }
     },
     "eca482b730f8239626cb8551d239ac1a": {
       "match_id": "eca482b730f8239626cb8551d239ac1a",
@@ -50439,7 +50447,11 @@
         "p2_edge": -0.1664
       },
       "collected_at": "2026-08-31T21:16:44.343811+00:00",
-      "result": null
+      "result": {
+        "winner": "Valentin Vacherot",
+        "correct": true,
+        "settled_at": "2026-09-03T12:31:18.899821+00:00"
+      }
     },
     "5e239329c56a5ca4bea8769b7e5f2a85": {
       "match_id": "5e239329c56a5ca4bea8769b7e5f2a85",
@@ -53213,7 +53225,353 @@
         "correct": true,
         "settled_at": "2026-09-03T02:41:12.022016+00:00"
       }
+    },
+    "eb01df701c23be867f95c42c3cdf3290": {
+      "match_id": "eb01df701c23be867f95c42c3cdf3290",
+      "commence_time": "2026-09-04T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Alexander Bublik",
+      "player2": "Tommy Paul",
+      "bookmakers": {
+        "marathonbet": {
+          "Alexander Bublik": 2.54,
+          "Tommy Paul": 1.51
+        },
+        "unibet_fr": {
+          "Alexander Bublik": 2.35,
+          "Tommy Paul": 1.49
+        },
+        "betfair_ex_eu": {
+          "Alexander Bublik": 2.76,
+          "Tommy Paul": 1.55
+        },
+        "coolbet": {
+          "Alexander Bublik": 2.6,
+          "Tommy Paul": 1.55
+        },
+        "draftkings": {
+          "Alexander Bublik": 2.51,
+          "Tommy Paul": 1.52
+        },
+        "mybookieag": {
+          "Alexander Bublik": 2.46,
+          "Tommy Paul": 1.53
+        },
+        "betclic_fr": {
+          "Alexander Bublik": 2.46,
+          "Tommy Paul": 1.53
+        },
+        "onexbet": {
+          "Alexander Bublik": 2.58,
+          "Tommy Paul": 1.53
+        },
+        "winamax_de": {
+          "Alexander Bublik": 2.45,
+          "Tommy Paul": 1.54
+        },
+        "winamax_fr": {
+          "Alexander Bublik": 2.3,
+          "Tommy Paul": 1.47
+        },
+        "gtbets": {
+          "Alexander Bublik": 2.48,
+          "Tommy Paul": 1.53
+        },
+        "matchbook": {
+          "Alexander Bublik": 2.76,
+          "Tommy Paul": 1.55
+        },
+        "bovada": {
+          "Alexander Bublik": 2.55,
+          "Tommy Paul": 1.54
+        },
+        "tipico_de": {
+          "Alexander Bublik": 2.55,
+          "Tommy Paul": 1.5
+        },
+        "leovegas_se": {
+          "Alexander Bublik": 2.5,
+          "Tommy Paul": 1.53
+        },
+        "pmu_fr": {
+          "Alexander Bublik": 2.45,
+          "Tommy Paul": 1.5
+        },
+        "unibet_nl": {
+          "Alexander Bublik": 2.5,
+          "Tommy Paul": 1.53
+        },
+        "unibet_se": {
+          "Alexander Bublik": 2.5,
+          "Tommy Paul": 1.53
+        },
+        "betrivers": {
+          "Alexander Bublik": 2.5,
+          "Tommy Paul": 1.53
+        },
+        "sport888": {
+          "Alexander Bublik": 2.6,
+          "Tommy Paul": 1.5
+        },
+        "williamhill": {
+          "Alexander Bublik": 2.6,
+          "Tommy Paul": 1.5
+        },
+        "pinnacle": {
+          "Alexander Bublik": 2.65,
+          "Tommy Paul": 1.53
+        },
+        "betmgm": {
+          "Alexander Bublik": 2.54,
+          "Tommy Paul": 1.5
+        },
+        "lowvig": {
+          "Alexander Bublik": 2.73,
+          "Tommy Paul": 1.49
+        },
+        "betonlineag": {
+          "Alexander Bublik": 2.73,
+          "Tommy Paul": 1.49
+        },
+        "fanduel": {
+          "Alexander Bublik": 2.55,
+          "Tommy Paul": 1.53
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Bublik",
+        "p2_name": "Tommy Paul",
+        "p1_prob": 0.4689,
+        "p2_prob": 0.5311,
+        "predicted_winner": "Tommy Paul",
+        "confidence": "low",
+        "p1_edge": 0.1066,
+        "p2_edge": -0.1141
+      },
+      "collected_at": "2026-09-03T12:31:26.161445+00:00",
+      "result": null
+    },
+    "5ebaa7ca70301167541b1c8721de3ee4": {
+      "match_id": "5ebaa7ca70301167541b1c8721de3ee4",
+      "commence_time": "2026-09-04T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Valentin Vacherot",
+      "player2": "Frances Tiafoe",
+      "bookmakers": {
+        "marathonbet": {
+          "Frances Tiafoe": 1.5,
+          "Valentin Vacherot": 2.57
+        },
+        "coolbet": {
+          "Frances Tiafoe": 1.52,
+          "Valentin Vacherot": 2.7
+        },
+        "mybookieag": {
+          "Frances Tiafoe": 1.48,
+          "Valentin Vacherot": 2.61
+        },
+        "onexbet": {
+          "Frances Tiafoe": 1.52,
+          "Valentin Vacherot": 2.6
+        },
+        "draftkings": {
+          "Frances Tiafoe": 1.51,
+          "Valentin Vacherot": 2.53
+        },
+        "unibet_fr": {
+          "Frances Tiafoe": 1.44,
+          "Valentin Vacherot": 2.45
+        },
+        "betclic_fr": {
+          "Frances Tiafoe": 1.48,
+          "Valentin Vacherot": 2.6
+        },
+        "winamax_de": {
+          "Frances Tiafoe": 1.48,
+          "Valentin Vacherot": 2.6
+        },
+        "winamax_fr": {
+          "Frances Tiafoe": 1.42,
+          "Valentin Vacherot": 2.4
+        },
+        "gtbets": {
+          "Frances Tiafoe": 1.5,
+          "Valentin Vacherot": 2.63
+        },
+        "bovada": {
+          "Frances Tiafoe": 1.5,
+          "Valentin Vacherot": 2.65
+        },
+        "matchbook": {
+          "Frances Tiafoe": 1.58,
+          "Valentin Vacherot": 2.7
+        },
+        "tipico_de": {
+          "Frances Tiafoe": 1.5,
+          "Valentin Vacherot": 2.55
+        },
+        "pmu_fr": {
+          "Frances Tiafoe": 1.48,
+          "Valentin Vacherot": 2.5
+        },
+        "leovegas_se": {
+          "Frances Tiafoe": 1.5,
+          "Valentin Vacherot": 2.55
+        },
+        "unibet_nl": {
+          "Frances Tiafoe": 1.5,
+          "Valentin Vacherot": 2.55
+        },
+        "unibet_se": {
+          "Frances Tiafoe": 1.5,
+          "Valentin Vacherot": 2.55
+        },
+        "betrivers": {
+          "Frances Tiafoe": 1.5,
+          "Valentin Vacherot": 2.55
+        },
+        "sport888": {
+          "Frances Tiafoe": 1.5,
+          "Valentin Vacherot": 2.6
+        },
+        "fanduel": {
+          "Frances Tiafoe": 1.52,
+          "Valentin Vacherot": 2.6
+        },
+        "pinnacle": {
+          "Frances Tiafoe": 1.53,
+          "Valentin Vacherot": 2.65
+        },
+        "betmgm": {
+          "Frances Tiafoe": 1.5,
+          "Valentin Vacherot": 2.55
+        }
+      },
+      "prediction": {
+        "p1_name": "Valentin Vacherot",
+        "p2_name": "Frances Tiafoe",
+        "p1_prob": 0.5404,
+        "p2_prob": 0.4596,
+        "predicted_winner": "Valentin Vacherot",
+        "confidence": "medium",
+        "p1_edge": 0.17,
+        "p2_edge": -0.1733
+      },
+      "collected_at": "2026-09-03T12:31:26.284637+00:00",
+      "result": null
+    },
+    "c54ec41ffa7197a418bc22c602705e45": {
+      "match_id": "c54ec41ffa7197a418bc22c602705e45",
+      "commence_time": "2026-09-04T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Tomas Martin Etcheverry",
+      "player2": "Mariano Navone",
+      "bookmakers": {
+        "marathonbet": {
+          "Mariano Navone": 1.82,
+          "Tomas Martin Etcheverry": 1.97
+        },
+        "unibet_fr": {
+          "Mariano Navone": 1.74,
+          "Tomas Martin Etcheverry": 1.9
+        },
+        "coolbet": {
+          "Mariano Navone": 1.87,
+          "Tomas Martin Etcheverry": 2.02
+        },
+        "draftkings": {
+          "Mariano Navone": 1.88,
+          "Tomas Martin Etcheverry": 1.9
+        },
+        "mybookieag": {
+          "Mariano Navone": 1.81,
+          "Tomas Martin Etcheverry": 1.98
+        },
+        "betclic_fr": {
+          "Mariano Navone": 1.81,
+          "Tomas Martin Etcheverry": 1.98
+        },
+        "onexbet": {
+          "Mariano Navone": 1.85,
+          "Tomas Martin Etcheverry": 2.0
+        },
+        "winamax_de": {
+          "Mariano Navone": 1.86,
+          "Tomas Martin Etcheverry": 1.92
+        },
+        "winamax_fr": {
+          "Mariano Navone": 1.76,
+          "Tomas Martin Etcheverry": 1.82
+        },
+        "gtbets": {
+          "Mariano Navone": 1.81,
+          "Tomas Martin Etcheverry": 2.01
+        },
+        "matchbook": {
+          "Mariano Navone": 1.93,
+          "Tomas Martin Etcheverry": 2.02
+        },
+        "bovada": {
+          "Mariano Navone": 1.83,
+          "Tomas Martin Etcheverry": 2.0
+        },
+        "tipico_de": {
+          "Mariano Navone": 1.77,
+          "Tomas Martin Etcheverry": 2.0
+        },
+        "betrivers": {
+          "Mariano Navone": 1.83,
+          "Tomas Martin Etcheverry": 1.97
+        },
+        "unibet_nl": {
+          "Mariano Navone": 1.83,
+          "Tomas Martin Etcheverry": 1.97
+        },
+        "unibet_se": {
+          "Mariano Navone": 1.83,
+          "Tomas Martin Etcheverry": 1.97
+        },
+        "leovegas_se": {
+          "Mariano Navone": 1.83,
+          "Tomas Martin Etcheverry": 1.97
+        },
+        "pmu_fr": {
+          "Mariano Navone": 1.78,
+          "Tomas Martin Etcheverry": 1.93
+        },
+        "sport888": {
+          "Mariano Navone": 1.85,
+          "Tomas Martin Etcheverry": 1.95
+        },
+        "fanduel": {
+          "Mariano Navone": 1.87,
+          "Tomas Martin Etcheverry": 1.96
+        },
+        "pinnacle": {
+          "Mariano Navone": 1.9,
+          "Tomas Martin Etcheverry": 1.98
+        },
+        "betmgm": {
+          "Mariano Navone": 1.8,
+          "Tomas Martin Etcheverry": 1.98
+        }
+      },
+      "prediction": {
+        "p1_name": "Tomas Martin Etcheverry",
+        "p2_name": "Mariano Navone",
+        "p1_prob": 0.6756,
+        "p2_prob": 0.3244,
+        "predicted_winner": "Tomas Martin Etcheverry",
+        "confidence": "high",
+        "p1_edge": 0.1806,
+        "p2_edge": -0.1937
+      },
+      "collected_at": "2026-09-03T12:31:26.358339+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-09-03T02:41:12.032881+00:00"
+  "last_updated": "2026-09-03T12:31:26.367132+00:00"
 }
