@@ -45957,7 +45957,11 @@
         "p2_edge": 0.2924
       },
       "collected_at": "2026-08-28T08:44:18.625098+00:00",
-      "result": null
+      "result": {
+        "winner": "Zizou Bergs",
+        "correct": true,
+        "settled_at": "2026-09-03T02:40:57.377513+00:00"
+      }
     },
     "44411dd3c3df8ccddc2c1560567578fe": {
       "match_id": "44411dd3c3df8ccddc2c1560567578fe",
@@ -46321,7 +46325,11 @@
         "p2_edge": 0.1007
       },
       "collected_at": "2026-08-28T08:44:18.919885+00:00",
-      "result": null
+      "result": {
+        "winner": "Zachary Svajda",
+        "correct": false,
+        "settled_at": "2026-09-03T02:40:57.973280+00:00"
+      }
     },
     "204ad433c204d7abdc979616a528cddb": {
       "match_id": "204ad433c204d7abdc979616a528cddb",
@@ -47303,7 +47311,11 @@
         "p2_edge": -0.0147
       },
       "collected_at": "2026-08-28T08:44:19.744741+00:00",
-      "result": null
+      "result": {
+        "winner": "Ignacio Buse",
+        "correct": true,
+        "settled_at": "2026-09-03T02:40:57.437757+00:00"
+      }
     },
     "86fbc7f1ef30b6eec3e3567f38c16cb5": {
       "match_id": "86fbc7f1ef30b6eec3e3567f38c16cb5",
@@ -49103,7 +49115,11 @@
         "p2_edge": 0.0212
       },
       "collected_at": "2026-08-29T00:21:53.613205+00:00",
-      "result": null
+      "result": {
+        "winner": "Jesper De Jong",
+        "correct": true,
+        "settled_at": "2026-09-03T02:40:57.316647+00:00"
+      }
     },
     "54474590ac67d3e5c69c65ffcd6fccc1": {
       "match_id": "54474590ac67d3e5c69c65ffcd6fccc1",
@@ -49854,7 +49870,11 @@
         "p2_edge": -0.0489
       },
       "collected_at": "2026-08-31T03:11:35.662566+00:00",
-      "result": null
+      "result": {
+        "winner": "Denis Shapovalov",
+        "correct": true,
+        "settled_at": "2026-09-03T02:40:57.617263+00:00"
+      }
     },
     "b8c5874840b5d9ace01274520fc2fbdc": {
       "match_id": "b8c5874840b5d9ace01274520fc2fbdc",
@@ -50054,7 +50074,11 @@
         "p2_edge": -0.0989
       },
       "collected_at": "2026-08-31T03:11:35.763913+00:00",
-      "result": null
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": true,
+        "settled_at": "2026-09-03T02:40:57.735603+00:00"
+      }
     },
     "tml-2026-560-57": {
       "match_id": "tml-2026-560-57",
@@ -50185,7 +50209,11 @@
         "p2_edge": -0.0359
       },
       "collected_at": "2026-08-31T21:16:44.033213+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Bublik",
+        "correct": true,
+        "settled_at": "2026-09-03T02:40:57.914124+00:00"
+      }
     },
     "18a705b41a7729da73b06dc384a48869": {
       "match_id": "18a705b41a7729da73b06dc384a48869",
@@ -50517,7 +50545,11 @@
         "p2_edge": -0.0425
       },
       "collected_at": "2026-08-31T21:16:44.422116+00:00",
-      "result": null
+      "result": {
+        "winner": "Stefanos Tsitsipas",
+        "correct": true,
+        "settled_at": "2026-09-03T02:40:57.676354+00:00"
+      }
     },
     "tml-2026-560-42": {
       "match_id": "tml-2026-560-42",
@@ -50726,7 +50758,11 @@
         "p2_edge": -0.2584
       },
       "collected_at": "2026-09-01T03:16:01.631535+00:00",
-      "result": null
+      "result": {
+        "winner": "Tomas Martin Etcheverry",
+        "correct": true,
+        "settled_at": "2026-09-03T02:40:57.558184+00:00"
+      }
     },
     "392454bf9eb7dc5bc3c8e756dccc8616": {
       "match_id": "392454bf9eb7dc5bc3c8e756dccc8616",
@@ -50796,7 +50832,11 @@
         "p2_edge": -0.0215
       },
       "collected_at": "2026-09-01T03:16:01.767457+00:00",
-      "result": null
+      "result": {
+        "winner": "Mariano Navone",
+        "correct": false,
+        "settled_at": "2026-09-03T02:40:57.795153+00:00"
+      }
     },
     "71eb62bb4f4f84c25362f99e1f6f8dd0": {
       "match_id": "71eb62bb4f4f84c25362f99e1f6f8dd0",
@@ -51162,7 +51202,11 @@
         "p2_edge": -0.0309
       },
       "collected_at": "2026-09-01T13:00:36.907012+00:00",
-      "result": null
+      "result": {
+        "winner": "Ben Shelton",
+        "correct": true,
+        "settled_at": "2026-09-03T02:40:57.497353+00:00"
+      }
     },
     "387e143b914f1924407c3911ae2eec86": {
       "match_id": "387e143b914f1924407c3911ae2eec86",
@@ -51516,7 +51560,11 @@
         "p2_edge": -0.2223
       },
       "collected_at": "2026-09-01T13:00:37.136583+00:00",
-      "result": null
+      "result": {
+        "winner": "Frances Tiafoe",
+        "correct": true,
+        "settled_at": "2026-09-03T02:40:57.854678+00:00"
+      }
     },
     "0848e831888372afebbf3089bb05921a": {
       "match_id": "0848e831888372afebbf3089bb05921a",
@@ -52373,7 +52421,799 @@
       },
       "collected_at": "2026-09-02T19:11:03.400553+00:00",
       "result": null
+    },
+    "58f9ccb8193f27ca4b3f7666951845d5": {
+      "match_id": "58f9ccb8193f27ca4b3f7666951845d5",
+      "commence_time": "2026-09-03T20:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Zachary Svajda",
+      "player2": "Arthur Gea",
+      "bookmakers": {
+        "coolbet": {
+          "Arthur Gea": 2.08,
+          "Zachary Svajda": 1.82
+        },
+        "betfair_ex_eu": {
+          "Arthur Gea": 1.78,
+          "Zachary Svajda": 1.89
+        },
+        "unibet_nl": {
+          "Arthur Gea": 2.15,
+          "Zachary Svajda": 1.7
+        },
+        "sport888": {
+          "Arthur Gea": 2.0,
+          "Zachary Svajda": 1.8
+        },
+        "betrivers": {
+          "Arthur Gea": 2.15,
+          "Zachary Svajda": 1.7
+        },
+        "pmu_fr": {
+          "Arthur Gea": 2.1,
+          "Zachary Svajda": 1.66
+        },
+        "leovegas_se": {
+          "Arthur Gea": 2.15,
+          "Zachary Svajda": 1.7
+        },
+        "draftkings": {
+          "Arthur Gea": 2.09,
+          "Zachary Svajda": 1.73
+        },
+        "gtbets": {
+          "Arthur Gea": 2.13,
+          "Zachary Svajda": 1.72
+        },
+        "unibet_se": {
+          "Arthur Gea": 2.15,
+          "Zachary Svajda": 1.7
+        },
+        "matchbook": {
+          "Arthur Gea": 1.81,
+          "Zachary Svajda": 1.58
+        },
+        "marathonbet": {
+          "Arthur Gea": 2.02,
+          "Zachary Svajda": 1.78
+        },
+        "onexbet": {
+          "Arthur Gea": 2.05,
+          "Zachary Svajda": 1.81
+        },
+        "unibet_fr": {
+          "Arthur Gea": 1.94,
+          "Zachary Svajda": 1.71
+        },
+        "nordicbet": {
+          "Arthur Gea": 2.01,
+          "Zachary Svajda": 1.77
+        },
+        "betsson": {
+          "Arthur Gea": 2.01,
+          "Zachary Svajda": 1.77
+        },
+        "mybookieag": {
+          "Arthur Gea": 2.04,
+          "Zachary Svajda": 1.79
+        },
+        "betclic_fr": {
+          "Arthur Gea": 1.94,
+          "Zachary Svajda": 1.71
+        },
+        "bovada": {
+          "Arthur Gea": 2.05,
+          "Zachary Svajda": 1.8
+        },
+        "fanduel": {
+          "Arthur Gea": 2.12,
+          "Zachary Svajda": 1.75
+        },
+        "williamhill": {
+          "Arthur Gea": 2.0,
+          "Zachary Svajda": 1.8
+        },
+        "tipico_de": {
+          "Arthur Gea": 1.95,
+          "Zachary Svajda": 1.83
+        },
+        "winamax_fr": {
+          "Arthur Gea": 1.92,
+          "Zachary Svajda": 1.7
+        },
+        "winamax_de": {
+          "Arthur Gea": 2.0,
+          "Zachary Svajda": 1.78
+        }
+      },
+      "prediction": {
+        "p1_name": "Zachary Svajda",
+        "p2_name": "Arthur Gea",
+        "p1_prob": 0.4528,
+        "p2_prob": 0.5472,
+        "predicted_winner": "Arthur Gea",
+        "confidence": "medium",
+        "p1_edge": -0.0763,
+        "p2_edge": 0.0821
+      },
+      "collected_at": "2026-09-03T02:41:05.263656+00:00",
+      "result": null
+    },
+    "84a6e59f618b02ae5dee4f9317303ea3": {
+      "match_id": "84a6e59f618b02ae5dee4f9317303ea3",
+      "commence_time": "2026-09-03T20:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Benjamin Bonzi",
+      "player2": "Ignacio Buse",
+      "bookmakers": {
+        "unibet_fr": {
+          "Benjamin Bonzi": 2.1,
+          "Ignacio Buse": 1.61
+        },
+        "coolbet": {
+          "Benjamin Bonzi": 2.27,
+          "Ignacio Buse": 1.7
+        },
+        "matchbook": {
+          "Benjamin Bonzi": 2.16,
+          "Ignacio Buse": 1.57
+        },
+        "betfair_ex_eu": {
+          "Benjamin Bonzi": 2.44,
+          "Ignacio Buse": 1.52
+        },
+        "sport888": {
+          "Benjamin Bonzi": 2.2,
+          "Ignacio Buse": 1.67
+        },
+        "williamhill": {
+          "Benjamin Bonzi": 2.2,
+          "Ignacio Buse": 1.67
+        },
+        "marathonbet": {
+          "Benjamin Bonzi": 2.19,
+          "Ignacio Buse": 1.67
+        },
+        "mybookieag": {
+          "Benjamin Bonzi": 2.21,
+          "Ignacio Buse": 1.68
+        },
+        "onexbet": {
+          "Benjamin Bonzi": 2.22,
+          "Ignacio Buse": 1.69
+        },
+        "betclic_fr": {
+          "Benjamin Bonzi": 2.09,
+          "Ignacio Buse": 1.61
+        },
+        "betsson": {
+          "Benjamin Bonzi": 2.17,
+          "Ignacio Buse": 1.66
+        },
+        "nordicbet": {
+          "Benjamin Bonzi": 2.17,
+          "Ignacio Buse": 1.66
+        },
+        "draftkings": {
+          "Benjamin Bonzi": 2.17,
+          "Ignacio Buse": 1.68
+        },
+        "gtbets": {
+          "Benjamin Bonzi": 2.21,
+          "Ignacio Buse": 1.67
+        },
+        "bovada": {
+          "Benjamin Bonzi": 2.2,
+          "Ignacio Buse": 1.69
+        },
+        "fanduel": {
+          "Benjamin Bonzi": 2.22,
+          "Ignacio Buse": 1.68
+        },
+        "tipico_de": {
+          "Benjamin Bonzi": 2.25,
+          "Ignacio Buse": 1.62
+        },
+        "betmgm": {
+          "Benjamin Bonzi": 2.2,
+          "Ignacio Buse": 1.65
+        },
+        "unibet_nl": {
+          "Benjamin Bonzi": 2.23,
+          "Ignacio Buse": 1.65
+        },
+        "pmu_fr": {
+          "Benjamin Bonzi": 2.18,
+          "Ignacio Buse": 1.61
+        },
+        "leovegas_se": {
+          "Benjamin Bonzi": 2.23,
+          "Ignacio Buse": 1.65
+        },
+        "unibet_se": {
+          "Benjamin Bonzi": 2.23,
+          "Ignacio Buse": 1.65
+        },
+        "betrivers": {
+          "Benjamin Bonzi": 2.23,
+          "Ignacio Buse": 1.65
+        },
+        "winamax_fr": {
+          "Benjamin Bonzi": 2.05,
+          "Ignacio Buse": 1.6
+        },
+        "winamax_de": {
+          "Benjamin Bonzi": 2.2,
+          "Ignacio Buse": 1.66
+        }
+      },
+      "prediction": {
+        "p1_name": "Benjamin Bonzi",
+        "p2_name": "Ignacio Buse",
+        "p1_prob": 0.5311,
+        "p2_prob": 0.4689,
+        "predicted_winner": "Benjamin Bonzi",
+        "confidence": "low",
+        "p1_edge": 0.1213,
+        "p2_edge": -0.1193
+      },
+      "collected_at": "2026-09-03T02:41:05.332086+00:00",
+      "result": null
+    },
+    "b8a888b85f08cccb5f3a6dc08e20d413": {
+      "match_id": "b8a888b85f08cccb5f3a6dc08e20d413",
+      "commence_time": "2026-09-03T20:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Zizou Bergs",
+      "player2": "Jesper De Jong",
+      "bookmakers": {
+        "betsson": {
+          "Jesper De Jong": 3.16,
+          "Zizou Bergs": 1.34
+        },
+        "fanduel": {
+          "Jesper De Jong": 2.98,
+          "Zizou Bergs": 1.41
+        },
+        "gtbets": {
+          "Jesper De Jong": 3.14,
+          "Zizou Bergs": 1.37
+        },
+        "betfair_ex_eu": {
+          "Jesper De Jong": 3.1,
+          "Zizou Bergs": 1.37
+        },
+        "sport888": {
+          "Jesper De Jong": 3.1,
+          "Zizou Bergs": 1.36
+        },
+        "nordicbet": {
+          "Jesper De Jong": 3.16,
+          "Zizou Bergs": 1.34
+        },
+        "draftkings": {
+          "Jesper De Jong": 3.12,
+          "Zizou Bergs": 1.36
+        },
+        "unibet_fr": {
+          "Jesper De Jong": 2.95,
+          "Zizou Bergs": 1.31
+        },
+        "coolbet": {
+          "Jesper De Jong": 3.25,
+          "Zizou Bergs": 1.38
+        },
+        "williamhill": {
+          "Jesper De Jong": 3.1,
+          "Zizou Bergs": 1.36
+        },
+        "betclic_fr": {
+          "Jesper De Jong": 2.95,
+          "Zizou Bergs": 1.31
+        },
+        "mybookieag": {
+          "Jesper De Jong": 3.22,
+          "Zizou Bergs": 1.35
+        },
+        "marathonbet": {
+          "Jesper De Jong": 3.12,
+          "Zizou Bergs": 1.36
+        },
+        "onexbet": {
+          "Jesper De Jong": 3.14,
+          "Zizou Bergs": 1.38
+        },
+        "matchbook": {
+          "Jesper De Jong": 3.1,
+          "Zizou Bergs": 1.37
+        },
+        "betrivers": {
+          "Jesper De Jong": 3.15,
+          "Zizou Bergs": 1.36
+        },
+        "bovada": {
+          "Jesper De Jong": 3.2,
+          "Zizou Bergs": 1.36
+        },
+        "unibet_nl": {
+          "Jesper De Jong": 3.15,
+          "Zizou Bergs": 1.36
+        },
+        "unibet_se": {
+          "Jesper De Jong": 3.15,
+          "Zizou Bergs": 1.36
+        },
+        "pmu_fr": {
+          "Jesper De Jong": 3.1,
+          "Zizou Bergs": 1.33
+        },
+        "leovegas_se": {
+          "Jesper De Jong": 3.15,
+          "Zizou Bergs": 1.36
+        },
+        "winamax_fr": {
+          "Jesper De Jong": 2.95,
+          "Zizou Bergs": 1.31
+        },
+        "winamax_de": {
+          "Jesper De Jong": 3.2,
+          "Zizou Bergs": 1.35
+        }
+      },
+      "prediction": {
+        "p1_name": "Zizou Bergs",
+        "p2_name": "Jesper de Jong",
+        "p1_prob": 0.662,
+        "p2_prob": 0.338,
+        "predicted_winner": "Zizou Bergs",
+        "confidence": "high",
+        "p1_edge": -0.0472,
+        "p2_edge": 0.0303
+      },
+      "collected_at": "2026-09-03T02:41:05.401294+00:00",
+      "result": null
+    },
+    "c0751e5d782a2bf76a7dc22a6a6bd11e": {
+      "match_id": "c0751e5d782a2bf76a7dc22a6a6bd11e",
+      "commence_time": "2026-09-03T20:30:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Botic van de Zandschulp",
+      "player2": "Alex de Minaur",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Alex de Minaur": 1.26,
+          "Botic van de Zandschulp": 3.9
+        },
+        "onexbet": {
+          "Alex de Minaur": 1.26,
+          "Botic van de Zandschulp": 4.05
+        },
+        "matchbook": {
+          "Alex de Minaur": 1.25,
+          "Botic van de Zandschulp": 3.9
+        },
+        "draftkings": {
+          "Alex de Minaur": 1.21,
+          "Botic van de Zandschulp": 4.33
+        },
+        "sport888": {
+          "Alex de Minaur": 1.22,
+          "Botic van de Zandschulp": 4.2
+        },
+        "gtbets": {
+          "Alex de Minaur": 1.22,
+          "Botic van de Zandschulp": 4.36
+        },
+        "marathonbet": {
+          "Alex de Minaur": 1.24,
+          "Botic van de Zandschulp": 4.0
+        },
+        "coolbet": {
+          "Alex de Minaur": 1.24,
+          "Botic van de Zandschulp": 4.5
+        },
+        "unibet_fr": {
+          "Alex de Minaur": 1.19,
+          "Botic van de Zandschulp": 3.8
+        },
+        "betclic_fr": {
+          "Alex de Minaur": 1.19,
+          "Botic van de Zandschulp": 3.8
+        },
+        "betsson": {
+          "Alex de Minaur": 1.21,
+          "Botic van de Zandschulp": 4.18
+        },
+        "mybookieag": {
+          "Alex de Minaur": 1.23,
+          "Botic van de Zandschulp": 4.3
+        },
+        "nordicbet": {
+          "Alex de Minaur": 1.21,
+          "Botic van de Zandschulp": 4.18
+        },
+        "bovada": {
+          "Alex de Minaur": 1.24,
+          "Botic van de Zandschulp": 4.25
+        },
+        "fanduel": {
+          "Alex de Minaur": 1.22,
+          "Botic van de Zandschulp": 4.4
+        },
+        "williamhill": {
+          "Alex de Minaur": 1.22,
+          "Botic van de Zandschulp": 4.2
+        },
+        "tipico_de": {
+          "Alex de Minaur": 1.2,
+          "Botic van de Zandschulp": 4.4
+        },
+        "betus": {
+          "Alex de Minaur": 1.21,
+          "Botic van de Zandschulp": 4.51
+        },
+        "unibet_se": {
+          "Alex de Minaur": 1.22,
+          "Botic van de Zandschulp": 4.35
+        },
+        "pmu_fr": {
+          "Alex de Minaur": 1.19,
+          "Botic van de Zandschulp": 4.2
+        },
+        "betrivers": {
+          "Alex de Minaur": 1.22,
+          "Botic van de Zandschulp": 4.35
+        },
+        "leovegas_se": {
+          "Alex de Minaur": 1.22,
+          "Botic van de Zandschulp": 4.35
+        },
+        "unibet_nl": {
+          "Alex de Minaur": 1.22,
+          "Botic van de Zandschulp": 4.35
+        },
+        "winamax_fr": {
+          "Alex de Minaur": 1.19,
+          "Botic van de Zandschulp": 3.8
+        },
+        "winamax_de": {
+          "Alex de Minaur": 1.22,
+          "Botic van de Zandschulp": 4.2
+        }
+      },
+      "prediction": {
+        "p1_name": "Botic Van De Zandschulp",
+        "p2_name": "Alex De Minaur",
+        "p1_prob": 0.2403,
+        "p2_prob": 0.7597,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": 0.0186,
+        "p2_edge": -0.034
+      },
+      "collected_at": "2026-09-03T02:41:05.469421+00:00",
+      "result": null
+    },
+    "244838dd6ed33ec1b01fb5c9552242b0": {
+      "match_id": "244838dd6ed33ec1b01fb5c9552242b0",
+      "commence_time": "2026-09-04T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Daniil Medvedev",
+      "player2": "Arthur Rinderknech",
+      "bookmakers": {
+        "gtbets": {
+          "Arthur Rinderknech": 3.34,
+          "Daniil Medvedev": 1.3
+        },
+        "leovegas_se": {
+          "Arthur Rinderknech": 3.25,
+          "Daniil Medvedev": 1.35
+        },
+        "pmu_fr": {
+          "Arthur Rinderknech": 3.15,
+          "Daniil Medvedev": 1.32
+        },
+        "unibet_nl": {
+          "Arthur Rinderknech": 3.25,
+          "Daniil Medvedev": 1.35
+        },
+        "matchbook": {
+          "Arthur Rinderknech": 3.35,
+          "Daniil Medvedev": 1.41
+        },
+        "coolbet": {
+          "Arthur Rinderknech": 3.35,
+          "Daniil Medvedev": 1.37
+        },
+        "betfair_ex_eu": {
+          "Arthur Rinderknech": 3.35,
+          "Daniil Medvedev": 1.41
+        },
+        "onexbet": {
+          "Arthur Rinderknech": 3.27,
+          "Daniil Medvedev": 1.36
+        },
+        "betrivers": {
+          "Arthur Rinderknech": 3.25,
+          "Daniil Medvedev": 1.35
+        },
+        "draftkings": {
+          "Arthur Rinderknech": 3.26,
+          "Daniil Medvedev": 1.33
+        },
+        "unibet_se": {
+          "Arthur Rinderknech": 3.25,
+          "Daniil Medvedev": 1.35
+        },
+        "unibet_fr": {
+          "Arthur Rinderknech": 3.0,
+          "Daniil Medvedev": 1.3
+        },
+        "betclic_fr": {
+          "Arthur Rinderknech": 3.0,
+          "Daniil Medvedev": 1.3
+        },
+        "marathonbet": {
+          "Arthur Rinderknech": 3.22,
+          "Daniil Medvedev": 1.34
+        },
+        "mybookieag": {
+          "Arthur Rinderknech": 3.22,
+          "Daniil Medvedev": 1.33
+        },
+        "bovada": {
+          "Arthur Rinderknech": 3.25,
+          "Daniil Medvedev": 1.35
+        },
+        "winamax_fr": {
+          "Arthur Rinderknech": 2.95,
+          "Daniil Medvedev": 1.29
+        },
+        "winamax_de": {
+          "Arthur Rinderknech": 3.25,
+          "Daniil Medvedev": 1.34
+        },
+        "tipico_de": {
+          "Arthur Rinderknech": 3.3,
+          "Daniil Medvedev": 1.32
+        },
+        "betmgm": {
+          "Arthur Rinderknech": 3.1,
+          "Daniil Medvedev": 1.36
+        },
+        "sport888": {
+          "Arthur Rinderknech": 3.1,
+          "Daniil Medvedev": 1.36
+        },
+        "fanduel": {
+          "Arthur Rinderknech": 3.4,
+          "Daniil Medvedev": 1.33
+        }
+      },
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Arthur Rinderknech",
+        "p1_prob": 0.7598,
+        "p2_prob": 0.2402,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": 0.0506,
+        "p2_edge": -0.0539
+      },
+      "collected_at": "2026-09-03T02:41:05.630492+00:00",
+      "result": null
+    },
+    "33c32753620466a1bdfc7d867baccbe4": {
+      "match_id": "33c32753620466a1bdfc7d867baccbe4",
+      "commence_time": "2026-09-04T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Ben Shelton",
+      "player2": "Denis Shapovalov",
+      "bookmakers": {
+        "draftkings": {
+          "Ben Shelton": 1.18,
+          "Denis Shapovalov": 4.8
+        },
+        "betfair_ex_eu": {
+          "Ben Shelton": 1.22,
+          "Denis Shapovalov": 3.9
+        },
+        "sport888": {
+          "Ben Shelton": 1.17,
+          "Denis Shapovalov": 5.0
+        },
+        "betclic_fr": {
+          "Ben Shelton": 1.14,
+          "Denis Shapovalov": 4.4
+        },
+        "gtbets": {
+          "Ben Shelton": 1.18,
+          "Denis Shapovalov": 4.98
+        },
+        "unibet_fr": {
+          "Ben Shelton": 1.14,
+          "Denis Shapovalov": 4.45
+        },
+        "fanduel": {
+          "Ben Shelton": 1.17,
+          "Denis Shapovalov": 5.2
+        },
+        "coolbet": {
+          "Ben Shelton": 1.19,
+          "Denis Shapovalov": 5.25
+        },
+        "mybookieag": {
+          "Ben Shelton": 1.17,
+          "Denis Shapovalov": 5.0
+        },
+        "onexbet": {
+          "Ben Shelton": 1.18,
+          "Denis Shapovalov": 5.07
+        },
+        "marathonbet": {
+          "Ben Shelton": 1.17,
+          "Denis Shapovalov": 5.0
+        },
+        "matchbook": {
+          "Ben Shelton": 1.21,
+          "Denis Shapovalov": 3.9
+        },
+        "bovada": {
+          "Ben Shelton": 1.18,
+          "Denis Shapovalov": 5.0
+        },
+        "winamax_fr": {
+          "Ben Shelton": 1.13,
+          "Denis Shapovalov": 4.3
+        },
+        "winamax_de": {
+          "Ben Shelton": 1.17,
+          "Denis Shapovalov": 5.1
+        }
+      },
+      "prediction": {
+        "p1_name": "Ben Shelton",
+        "p2_name": "Denis Shapovalov",
+        "p1_prob": 0.7365,
+        "p2_prob": 0.2635,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "high",
+        "p1_edge": -0.0832,
+        "p2_edge": 0.073
+      },
+      "collected_at": "2026-09-03T02:41:05.699026+00:00",
+      "result": null
+    },
+    "c883811c20c0f29b0ba37d31ed6adb44": {
+      "match_id": "c883811c20c0f29b0ba37d31ed6adb44",
+      "commence_time": "2026-09-04T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Jiri Lehecka",
+      "player2": "Stefanos Tsitsipas",
+      "bookmakers": {
+        "gtbets": {
+          "Jiri Lehecka": 1.4,
+          "Stefanos Tsitsipas": 2.99
+        },
+        "betclic_fr": {
+          "Jiri Lehecka": 1.35,
+          "Stefanos Tsitsipas": 2.75
+        },
+        "betfair_ex_eu": {
+          "Jiri Lehecka": 1.1,
+          "Stefanos Tsitsipas": 1.1
+        },
+        "draftkings": {
+          "Jiri Lehecka": 1.38,
+          "Stefanos Tsitsipas": 3.01
+        },
+        "sport888": {
+          "Jiri Lehecka": 1.4,
+          "Stefanos Tsitsipas": 2.9
+        },
+        "coolbet": {
+          "Jiri Lehecka": 1.42,
+          "Stefanos Tsitsipas": 3.05
+        },
+        "onexbet": {
+          "Jiri Lehecka": 1.43,
+          "Stefanos Tsitsipas": 2.93
+        },
+        "unibet_fr": {
+          "Jiri Lehecka": 1.35,
+          "Stefanos Tsitsipas": 2.75
+        },
+        "winamax_fr": {
+          "Jiri Lehecka": 1.34,
+          "Stefanos Tsitsipas": 2.7
+        },
+        "winamax_de": {
+          "Jiri Lehecka": 1.39,
+          "Stefanos Tsitsipas": 2.95
+        },
+        "mybookieag": {
+          "Jiri Lehecka": 1.39,
+          "Stefanos Tsitsipas": 2.94
+        },
+        "matchbook": {
+          "Jiri Lehecka": 1.37,
+          "Stefanos Tsitsipas": 1.85
+        },
+        "bovada": {
+          "Jiri Lehecka": 1.4,
+          "Stefanos Tsitsipas": 3.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Stefanos Tsitsipas",
+        "p1_prob": 0.6031,
+        "p2_prob": 0.3969,
+        "predicted_winner": "Jiri Lehecka",
+        "confidence": "high",
+        "p1_edge": -0.0962,
+        "p2_edge": 0.069
+      },
+      "collected_at": "2026-09-03T02:41:05.768115+00:00",
+      "result": null
+    },
+    "tml-2026-560-9": {
+      "match_id": "tml-2026-560-9",
+      "commence_time": "2026-09-02T00:00:00+00:00",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "player1": "Yunchaokete Bu",
+      "player2": "Rafael Jodar",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Yunchaokete Bu",
+        "p2_name": "Rafael Jodar",
+        "p1_prob": 0.2584,
+        "p2_prob": 0.7416,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-03T02:41:11.949983+00:00",
+      "result": {
+        "winner": "Yunchaokete Bu",
+        "correct": false,
+        "settled_at": "2026-09-03T02:41:11.949983+00:00"
+      }
+    },
+    "tml-2026-560-95": {
+      "match_id": "tml-2026-560-95",
+      "commence_time": "2026-09-02T00:00:00+00:00",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "player1": "Yibing Wu",
+      "player2": "James Duckworth",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Yibing Wu",
+        "p2_name": "James Duckworth",
+        "p1_prob": 0.6071,
+        "p2_prob": 0.3929,
+        "predicted_winner": "Yibing Wu",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-03T02:41:12.022016+00:00",
+      "result": {
+        "winner": "Yibing Wu",
+        "correct": true,
+        "settled_at": "2026-09-03T02:41:12.022016+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-02T19:11:03.409401+00:00"
+  "last_updated": "2026-09-03T02:41:12.032881+00:00"
 }
