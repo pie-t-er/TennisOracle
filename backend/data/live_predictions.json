@@ -51340,7 +51340,11 @@
         "p2_edge": -0.0842
       },
       "collected_at": "2026-09-01T13:00:36.972372+00:00",
-      "result": null
+      "result": {
+        "winner": "Luciano Darderi",
+        "correct": true,
+        "settled_at": "2026-09-03T19:03:27.803502+00:00"
+      }
     },
     "8d7429f908e1378299c5938aa4a06fa5": {
       "match_id": "8d7429f908e1378299c5938aa4a06fa5",
@@ -51462,7 +51466,11 @@
         "p2_edge": 0.0531
       },
       "collected_at": "2026-09-01T13:00:37.042535+00:00",
-      "result": null
+      "result": {
+        "winner": "Karen Khachanov",
+        "correct": false,
+        "settled_at": "2026-09-03T19:03:27.877089+00:00"
+      }
     },
     "674ca3fc39a508424fbc20ac3ef8ecb2": {
       "match_id": "674ca3fc39a508424fbc20ac3ef8ecb2",
@@ -53573,5 +53581,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-09-03T12:31:26.367132+00:00"
+  "last_updated": "2026-09-03T19:03:27.877110+00:00"
 }
