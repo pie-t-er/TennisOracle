@@ -50970,7 +50970,11 @@
         "p2_edge": -0.0604
       },
       "collected_at": "2026-09-01T13:00:36.748754+00:00",
-      "result": null
+      "result": {
+        "winner": "Alejandro Tabilo",
+        "correct": true,
+        "settled_at": "2026-09-04T02:37:35.164826+00:00"
+      }
     },
     "00a3bd37bc163f9a3c46874b6a89ae0a": {
       "match_id": "00a3bd37bc163f9a3c46874b6a89ae0a",
@@ -51092,7 +51096,11 @@
         "p2_edge": 0.0251
       },
       "collected_at": "2026-09-01T13:00:36.805435+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Blockx",
+        "correct": true,
+        "settled_at": "2026-09-04T02:37:35.306245+00:00"
+      }
     },
     "d688ac68b19d07167b4e5486bdaf97fd": {
       "match_id": "d688ac68b19d07167b4e5486bdaf97fd",
@@ -51706,7 +51714,11 @@
         "p2_edge": 0.0962
       },
       "collected_at": "2026-09-01T13:00:37.193982+00:00",
-      "result": null
+      "result": {
+        "winner": "Jakub Mensik",
+        "correct": true,
+        "settled_at": "2026-09-04T02:37:35.020267+00:00"
+      }
     },
     "fb353fc871a2ec743a1bb2ec42f4408c": {
       "match_id": "fb353fc871a2ec743a1bb2ec42f4408c",
@@ -51804,7 +51816,11 @@
         "p2_edge": -0.097
       },
       "collected_at": "2026-09-02T02:34:07.116138+00:00",
-      "result": null
+      "result": {
+        "winner": "Dane Sweeny",
+        "correct": false,
+        "settled_at": "2026-09-04T02:37:35.235697+00:00"
+      }
     },
     "169f73795d8667bb9fd442d999e8e709": {
       "match_id": "169f73795d8667bb9fd442d999e8e709",
@@ -51914,7 +51930,11 @@
         "p2_edge": -0.1041
       },
       "collected_at": "2026-09-02T02:34:07.214623+00:00",
-      "result": null
+      "result": {
+        "winner": "Flavio Cobolli",
+        "correct": true,
+        "settled_at": "2026-09-04T02:37:35.092069+00:00"
+      }
     },
     "d32a85d0b459314b9dee1b507f9dcae2": {
       "match_id": "d32a85d0b459314b9dee1b507f9dcae2",
@@ -52020,7 +52040,11 @@
         "p2_edge": 0.1074
       },
       "collected_at": "2026-09-02T02:34:07.293702+00:00",
-      "result": null
+      "result": {
+        "winner": "Francisco Cerundolo",
+        "correct": true,
+        "settled_at": "2026-09-04T02:37:34.875282+00:00"
+      }
     },
     "de81b7eaff562548a98086afe77b8553": {
       "match_id": "de81b7eaff562548a98086afe77b8553",
@@ -52130,7 +52154,11 @@
         "p2_edge": 0.0519
       },
       "collected_at": "2026-09-02T02:34:07.391064+00:00",
-      "result": null
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-09-04T02:37:34.948233+00:00"
+      }
     },
     "81d5598e13c2fcfce4989d037947f018": {
       "match_id": "81d5598e13c2fcfce4989d037947f018",
@@ -52350,7 +52378,11 @@
         "p2_edge": -0.0745
       },
       "collected_at": "2026-09-02T12:29:00.585307+00:00",
-      "result": null
+      "result": {
+        "winner": "Learner Tien",
+        "correct": true,
+        "settled_at": "2026-09-04T02:37:35.660425+00:00"
+      }
     },
     "cd79358c4254d25e0c6f97a73a6bcc14": {
       "match_id": "cd79358c4254d25e0c6f97a73a6bcc14",
@@ -52558,7 +52590,11 @@
         "p2_edge": 0.0821
       },
       "collected_at": "2026-09-03T02:41:05.263656+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Gea",
+        "correct": true,
+        "settled_at": "2026-09-04T02:37:35.589178+00:00"
+      }
     },
     "84a6e59f618b02ae5dee4f9317303ea3": {
       "match_id": "84a6e59f618b02ae5dee4f9317303ea3",
@@ -52680,7 +52716,11 @@
         "p2_edge": -0.1193
       },
       "collected_at": "2026-09-03T02:41:05.332086+00:00",
-      "result": null
+      "result": {
+        "winner": "Benjamin Bonzi",
+        "correct": true,
+        "settled_at": "2026-09-04T02:37:35.376711+00:00"
+      }
     },
     "b8a888b85f08cccb5f3a6dc08e20d413": {
       "match_id": "b8a888b85f08cccb5f3a6dc08e20d413",
@@ -52794,7 +52834,11 @@
         "p2_edge": 0.0303
       },
       "collected_at": "2026-09-03T02:41:05.401294+00:00",
-      "result": null
+      "result": {
+        "winner": "Zizou Bergs",
+        "correct": true,
+        "settled_at": "2026-09-04T02:37:35.518769+00:00"
+      }
     },
     "c0751e5d782a2bf76a7dc22a6a6bd11e": {
       "match_id": "c0751e5d782a2bf76a7dc22a6a6bd11e",
@@ -52916,7 +52960,11 @@
         "p2_edge": -0.034
       },
       "collected_at": "2026-09-03T02:41:05.469421+00:00",
-      "result": null
+      "result": {
+        "winner": "Botic van de Zandschulp",
+        "correct": false,
+        "settled_at": "2026-09-04T02:37:35.447895+00:00"
+      }
     },
     "244838dd6ed33ec1b01fb5c9552242b0": {
       "match_id": "244838dd6ed33ec1b01fb5c9552242b0",
@@ -53579,7 +53627,236 @@
       },
       "collected_at": "2026-09-03T12:31:26.358339+00:00",
       "result": null
+    },
+    "e513bb819953e9a2dde3b09859119274": {
+      "match_id": "e513bb819953e9a2dde3b09859119274",
+      "commence_time": "2026-09-05T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Luciano Darderi",
+      "player2": "Dane Sweeny",
+      "bookmakers": {
+        "nordicbet": {
+          "Dane Sweeny": 5.25,
+          "Luciano Darderi": 1.15
+        },
+        "gtbets": {
+          "Dane Sweeny": 4.95,
+          "Luciano Darderi": 1.16
+        },
+        "draftkings": {
+          "Dane Sweeny": 5.17,
+          "Luciano Darderi": 1.16
+        },
+        "betsson": {
+          "Dane Sweeny": 5.25,
+          "Luciano Darderi": 1.15
+        },
+        "williamhill": {
+          "Dane Sweeny": 5.0,
+          "Luciano Darderi": 1.17
+        },
+        "betfair_ex_eu": {
+          "Dane Sweeny": 3.65,
+          "Luciano Darderi": 1.23
+        },
+        "unibet_fr": {
+          "Dane Sweeny": 4.6,
+          "Luciano Darderi": 1.13
+        },
+        "onexbet": {
+          "Dane Sweeny": 5.99,
+          "Luciano Darderi": 1.14
+        },
+        "sport888": {
+          "Dane Sweeny": 5.0,
+          "Luciano Darderi": 1.17
+        },
+        "mybookieag": {
+          "Dane Sweeny": 5.2,
+          "Luciano Darderi": 1.15
+        },
+        "betclic_fr": {
+          "Dane Sweeny": 4.6,
+          "Luciano Darderi": 1.13
+        },
+        "tipico_de": {
+          "Dane Sweeny": 5.5,
+          "Luciano Darderi": 1.14
+        },
+        "bovada": {
+          "Dane Sweeny": 5.5,
+          "Luciano Darderi": 1.15
+        },
+        "coolbet": {
+          "Dane Sweeny": 5.7,
+          "Luciano Darderi": 1.17
+        },
+        "matchbook": {
+          "Dane Sweeny": 3.65,
+          "Luciano Darderi": 1.23
+        },
+        "marathonbet": {
+          "Dane Sweeny": 5.85,
+          "Luciano Darderi": 1.13
+        },
+        "winamax_de": {
+          "Dane Sweeny": 5.3,
+          "Luciano Darderi": 1.15
+        },
+        "winamax_fr": {
+          "Dane Sweeny": 4.4,
+          "Luciano Darderi": 1.12
+        },
+        "betus": {
+          "Dane Sweeny": 5.25,
+          "Luciano Darderi": 1.16
+        },
+        "betmgm": {
+          "Dane Sweeny": 5.0,
+          "Luciano Darderi": 1.16
+        }
+      },
+      "prediction": {
+        "p1_name": "Luciano Darderi",
+        "p2_name": "Dane Sweeny",
+        "p1_prob": 0.7355,
+        "p2_prob": 0.2645,
+        "predicted_winner": "Luciano Darderi",
+        "confidence": "high",
+        "p1_edge": -0.0775,
+        "p2_edge": 0.0976
+      },
+      "collected_at": "2026-09-04T02:37:43.599376+00:00",
+      "result": null
+    },
+    "b78a2994c6495039aa689e943ff2e194": {
+      "match_id": "b78a2994c6495039aa689e943ff2e194",
+      "commence_time": "2026-09-05T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Taylor Fritz",
+      "player2": "Francisco Cerundolo",
+      "bookmakers": {
+        "williamhill": {
+          "Francisco Cerundolo": 4.2,
+          "Taylor Fritz": 1.22
+        },
+        "betus": {
+          "Francisco Cerundolo": 4.5,
+          "Taylor Fritz": 1.2
+        },
+        "matchbook": {
+          "Francisco Cerundolo": 5.5,
+          "Taylor Fritz": 1.2
+        },
+        "betfair_ex_eu": {
+          "Francisco Cerundolo": 5.5,
+          "Taylor Fritz": 1.2
+        },
+        "betclic_fr": {
+          "Francisco Cerundolo": 3.9,
+          "Taylor Fritz": 1.18
+        },
+        "coolbet": {
+          "Francisco Cerundolo": 4.75,
+          "Taylor Fritz": 1.22
+        },
+        "sport888": {
+          "Francisco Cerundolo": 4.2,
+          "Taylor Fritz": 1.22
+        },
+        "draftkings": {
+          "Francisco Cerundolo": 4.38,
+          "Taylor Fritz": 1.21
+        },
+        "onexbet": {
+          "Francisco Cerundolo": 4.41,
+          "Taylor Fritz": 1.23
+        },
+        "betsson": {
+          "Francisco Cerundolo": 4.34,
+          "Taylor Fritz": 1.2
+        },
+        "unibet_fr": {
+          "Francisco Cerundolo": 3.9,
+          "Taylor Fritz": 1.18
+        },
+        "gtbets": {
+          "Francisco Cerundolo": 4.44,
+          "Taylor Fritz": 1.21
+        },
+        "nordicbet": {
+          "Francisco Cerundolo": 4.34,
+          "Taylor Fritz": 1.2
+        },
+        "betmgm": {
+          "Francisco Cerundolo": 4.25,
+          "Taylor Fritz": 1.21
+        },
+        "mybookieag": {
+          "Francisco Cerundolo": 4.3,
+          "Taylor Fritz": 1.21
+        },
+        "winamax_fr": {
+          "Francisco Cerundolo": 3.8,
+          "Taylor Fritz": 1.17
+        },
+        "winamax_de": {
+          "Francisco Cerundolo": 4.4,
+          "Taylor Fritz": 1.21
+        },
+        "marathonbet": {
+          "Francisco Cerundolo": 4.35,
+          "Taylor Fritz": 1.21
+        },
+        "tipico_de": {
+          "Francisco Cerundolo": 4.6,
+          "Taylor Fritz": 1.18
+        },
+        "bovada": {
+          "Francisco Cerundolo": 4.5,
+          "Taylor Fritz": 1.22
+        }
+      },
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Francisco Cerundolo",
+        "p1_prob": 0.6284,
+        "p2_prob": 0.3716,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "high",
+        "p1_edge": -0.1846,
+        "p2_edge": 0.1898
+      },
+      "collected_at": "2026-09-04T02:37:43.685795+00:00",
+      "result": null
+    },
+    "tml-2026-560-69": {
+      "match_id": "tml-2026-560-69",
+      "commence_time": "2026-09-03T00:00:00+00:00",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "player1": "Michael Zheng",
+      "player2": "Yunchaokete Bu",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Michael Zheng",
+        "p2_name": "Yunchaokete Bu",
+        "p1_prob": 0.4838,
+        "p2_prob": 0.5162,
+        "predicted_winner": "Yunchaokete Bu",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-04T02:37:50.691164+00:00",
+      "result": {
+        "winner": "Michael Zheng",
+        "correct": false,
+        "settled_at": "2026-09-04T02:37:50.691164+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-03T19:03:27.877110+00:00"
+  "last_updated": "2026-09-04T02:37:50.704671+00:00"
 }
