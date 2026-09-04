@@ -52268,7 +52268,11 @@
         "p2_edge": -0.0807
       },
       "collected_at": "2026-09-02T12:29:00.408494+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-09-04T12:27:34.122048+00:00"
+      }
     },
     "93f7500d41836f113c7cb2101d9408cd": {
       "match_id": "93f7500d41836f113c7cb2101d9408cd",
@@ -53856,7 +53860,811 @@
         "correct": false,
         "settled_at": "2026-09-04T02:37:50.691164+00:00"
       }
+    },
+    "3d5afab1d52da647661a3eee7aa06b85": {
+      "match_id": "3d5afab1d52da647661a3eee7aa06b85",
+      "commence_time": "2026-09-05T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Alejandro Tabilo",
+      "bookmakers": {
+        "marathonbet": {
+          "Alejandro Tabilo": 5.7,
+          "Alexander Zverev": 1.14
+        },
+        "coolbet": {
+          "Alejandro Tabilo": 6.0,
+          "Alexander Zverev": 1.16
+        },
+        "betclic_fr": {
+          "Alejandro Tabilo": 5.0,
+          "Alexander Zverev": 1.14
+        },
+        "onexbet": {
+          "Alejandro Tabilo": 5.84,
+          "Alexander Zverev": 1.15
+        },
+        "betfair_ex_eu": {
+          "Alejandro Tabilo": 6.2,
+          "Alexander Zverev": 1.18
+        },
+        "tipico_de": {
+          "Alejandro Tabilo": 5.5,
+          "Alexander Zverev": 1.14
+        },
+        "unibet_fr": {
+          "Alejandro Tabilo": 5.0,
+          "Alexander Zverev": 1.14
+        },
+        "nordicbet": {
+          "Alejandro Tabilo": 5.32,
+          "Alexander Zverev": 1.14
+        },
+        "betsson": {
+          "Alejandro Tabilo": 5.32,
+          "Alexander Zverev": 1.14
+        },
+        "winamax_de": {
+          "Alejandro Tabilo": 5.4,
+          "Alexander Zverev": 1.15
+        },
+        "winamax_fr": {
+          "Alejandro Tabilo": 4.5,
+          "Alexander Zverev": 1.12
+        },
+        "mybookieag": {
+          "Alejandro Tabilo": 5.3,
+          "Alexander Zverev": 1.15
+        },
+        "sport888": {
+          "Alejandro Tabilo": 5.5,
+          "Alexander Zverev": 1.14
+        },
+        "draftkings": {
+          "Alejandro Tabilo": 5.86,
+          "Alexander Zverev": 1.13
+        },
+        "williamhill": {
+          "Alejandro Tabilo": 5.5,
+          "Alexander Zverev": 1.14
+        },
+        "matchbook": {
+          "Alejandro Tabilo": 6.2,
+          "Alexander Zverev": 1.18
+        },
+        "gtbets": {
+          "Alejandro Tabilo": 5.66,
+          "Alexander Zverev": 1.14
+        },
+        "leovegas_se": {
+          "Alejandro Tabilo": 5.8,
+          "Alexander Zverev": 1.13
+        },
+        "betrivers": {
+          "Alejandro Tabilo": 5.8,
+          "Alexander Zverev": 1.13
+        },
+        "unibet_nl": {
+          "Alejandro Tabilo": 5.8,
+          "Alexander Zverev": 1.13
+        },
+        "pmu_fr": {
+          "Alejandro Tabilo": 5.75,
+          "Alexander Zverev": 1.11
+        },
+        "unibet_se": {
+          "Alejandro Tabilo": 5.8,
+          "Alexander Zverev": 1.13
+        },
+        "betmgm": {
+          "Alejandro Tabilo": 5.5,
+          "Alexander Zverev": 1.14
+        },
+        "fanduel": {
+          "Alejandro Tabilo": 5.8,
+          "Alexander Zverev": 1.14
+        },
+        "pinnacle": {
+          "Alejandro Tabilo": 5.92,
+          "Alexander Zverev": 1.16
+        },
+        "bovada": {
+          "Alejandro Tabilo": 5.75,
+          "Alexander Zverev": 1.14
+        },
+        "lowvig": {
+          "Alejandro Tabilo": 6.09,
+          "Alexander Zverev": 1.14
+        },
+        "betonlineag": {
+          "Alejandro Tabilo": 6.09,
+          "Alexander Zverev": 1.14
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Alejandro Tabilo",
+        "p1_prob": 0.8656,
+        "p2_prob": 0.1344,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": 0.0181,
+        "p2_edge": -0.0269
+      },
+      "collected_at": "2026-09-04T12:27:41.845704+00:00",
+      "result": null
+    },
+    "46c9fb0b0a11d55479f393e8e1c4710b": {
+      "match_id": "46c9fb0b0a11d55479f393e8e1c4710b",
+      "commence_time": "2026-09-05T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Alexander Blockx",
+      "player2": "Flavio Cobolli",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Alexander Blockx": 2.02,
+          "Flavio Cobolli": 1.94
+        },
+        "sport888": {
+          "Alexander Blockx": 1.95,
+          "Flavio Cobolli": 1.85
+        },
+        "nordicbet": {
+          "Alexander Blockx": 1.93,
+          "Flavio Cobolli": 1.84
+        },
+        "marathonbet": {
+          "Alexander Blockx": 1.9,
+          "Flavio Cobolli": 1.89
+        },
+        "draftkings": {
+          "Alexander Blockx": 1.92,
+          "Flavio Cobolli": 1.86
+        },
+        "coolbet": {
+          "Alexander Blockx": 1.96,
+          "Flavio Cobolli": 1.92
+        },
+        "williamhill": {
+          "Alexander Blockx": 1.95,
+          "Flavio Cobolli": 1.85
+        },
+        "gtbets": {
+          "Alexander Blockx": 2.0,
+          "Flavio Cobolli": 1.81
+        },
+        "betsson": {
+          "Alexander Blockx": 1.93,
+          "Flavio Cobolli": 1.84
+        },
+        "unibet_fr": {
+          "Alexander Blockx": 1.9,
+          "Flavio Cobolli": 1.81
+        },
+        "betmgm": {
+          "Alexander Blockx": 1.91,
+          "Flavio Cobolli": 1.91
+        },
+        "onexbet": {
+          "Alexander Blockx": 1.93,
+          "Flavio Cobolli": 1.92
+        },
+        "mybookieag": {
+          "Alexander Blockx": 1.93,
+          "Flavio Cobolli": 1.84
+        },
+        "bovada": {
+          "Alexander Blockx": 1.95,
+          "Flavio Cobolli": 1.87
+        },
+        "matchbook": {
+          "Alexander Blockx": 2.02,
+          "Flavio Cobolli": 1.94
+        },
+        "winamax_fr": {
+          "Alexander Blockx": 1.84,
+          "Flavio Cobolli": 1.74
+        },
+        "winamax_de": {
+          "Alexander Blockx": 1.94,
+          "Flavio Cobolli": 1.84
+        },
+        "tipico_de": {
+          "Alexander Blockx": 1.97,
+          "Flavio Cobolli": 1.8
+        },
+        "betrivers": {
+          "Alexander Blockx": 1.83,
+          "Flavio Cobolli": 1.96
+        },
+        "pmu_fr": {
+          "Alexander Blockx": 1.79,
+          "Flavio Cobolli": 1.92
+        },
+        "unibet_nl": {
+          "Alexander Blockx": 1.83,
+          "Flavio Cobolli": 1.96
+        },
+        "unibet_se": {
+          "Alexander Blockx": 1.83,
+          "Flavio Cobolli": 1.96
+        },
+        "leovegas_se": {
+          "Alexander Blockx": 1.83,
+          "Flavio Cobolli": 1.96
+        },
+        "betclic_fr": {
+          "Alexander Blockx": 1.9,
+          "Flavio Cobolli": 1.81
+        },
+        "fanduel": {
+          "Alexander Blockx": 1.96,
+          "Flavio Cobolli": 1.87
+        },
+        "pinnacle": {
+          "Alexander Blockx": 1.97,
+          "Flavio Cobolli": 1.92
+        },
+        "lowvig": {
+          "Alexander Blockx": 1.86,
+          "Flavio Cobolli": 1.96
+        },
+        "betonlineag": {
+          "Alexander Blockx": 1.86,
+          "Flavio Cobolli": 1.96
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Blockx",
+        "p2_name": "Flavio Cobolli",
+        "p1_prob": 0.4281,
+        "p2_prob": 0.5719,
+        "predicted_winner": "Flavio Cobolli",
+        "confidence": "medium",
+        "p1_edge": -0.0669,
+        "p2_edge": 0.0617
+      },
+      "collected_at": "2026-09-04T12:27:41.928133+00:00",
+      "result": null
+    },
+    "86a04b4a1a3485f3d6912825a9d0dde7": {
+      "match_id": "86a04b4a1a3485f3d6912825a9d0dde7",
+      "commence_time": "2026-09-05T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Michael Zheng",
+      "player2": "Arthur Gea",
+      "bookmakers": {
+        "draftkings": {
+          "Arthur Gea": 2.15,
+          "Michael Zheng": 1.68
+        },
+        "sport888": {
+          "Arthur Gea": 2.2,
+          "Michael Zheng": 1.67
+        },
+        "betfair_ex_eu": {
+          "Arthur Gea": 2.32,
+          "Michael Zheng": 1.74
+        },
+        "marathonbet": {
+          "Arthur Gea": 2.3,
+          "Michael Zheng": 1.61
+        },
+        "coolbet": {
+          "Arthur Gea": 2.27,
+          "Michael Zheng": 1.7
+        },
+        "tipico_de": {
+          "Arthur Gea": 2.25,
+          "Michael Zheng": 1.62
+        },
+        "williamhill": {
+          "Arthur Gea": 2.2,
+          "Michael Zheng": 1.67
+        },
+        "onexbet": {
+          "Arthur Gea": 2.33,
+          "Michael Zheng": 1.63
+        },
+        "unibet_fr": {
+          "Arthur Gea": 2.2,
+          "Michael Zheng": 1.65
+        },
+        "betclic_fr": {
+          "Arthur Gea": 2.21,
+          "Michael Zheng": 1.65
+        },
+        "nordicbet": {
+          "Arthur Gea": 2.2,
+          "Michael Zheng": 1.64
+        },
+        "betsson": {
+          "Arthur Gea": 2.2,
+          "Michael Zheng": 1.64
+        },
+        "winamax_de": {
+          "Arthur Gea": 2.2,
+          "Michael Zheng": 1.66
+        },
+        "winamax_fr": {
+          "Arthur Gea": 2.05,
+          "Michael Zheng": 1.58
+        },
+        "mybookieag": {
+          "Arthur Gea": 2.21,
+          "Michael Zheng": 1.65
+        },
+        "betmgm": {
+          "Arthur Gea": 2.2,
+          "Michael Zheng": 1.65
+        },
+        "matchbook": {
+          "Arthur Gea": 2.32,
+          "Michael Zheng": 1.74
+        },
+        "bovada": {
+          "Arthur Gea": 2.25,
+          "Michael Zheng": 1.67
+        },
+        "gtbets": {
+          "Arthur Gea": 2.21,
+          "Michael Zheng": 1.61
+        },
+        "leovegas_se": {
+          "Arthur Gea": 2.2,
+          "Michael Zheng": 1.67
+        },
+        "unibet_nl": {
+          "Arthur Gea": 2.2,
+          "Michael Zheng": 1.67
+        },
+        "betrivers": {
+          "Arthur Gea": 2.2,
+          "Michael Zheng": 1.67
+        },
+        "unibet_se": {
+          "Arthur Gea": 2.2,
+          "Michael Zheng": 1.67
+        },
+        "pmu_fr": {
+          "Arthur Gea": 2.15,
+          "Michael Zheng": 1.63
+        },
+        "pinnacle": {
+          "Arthur Gea": 2.27,
+          "Michael Zheng": 1.7
+        },
+        "fanduel": {
+          "Arthur Gea": 2.26,
+          "Michael Zheng": 1.66
+        },
+        "lowvig": {
+          "Arthur Gea": 2.18,
+          "Michael Zheng": 1.72
+        },
+        "betonlineag": {
+          "Arthur Gea": 2.18,
+          "Michael Zheng": 1.72
+        }
+      },
+      "prediction": {
+        "p1_name": "Michael Zheng",
+        "p2_name": "Arthur Gea",
+        "p1_prob": 0.5309,
+        "p2_prob": 0.4691,
+        "predicted_winner": "Michael Zheng",
+        "confidence": "low",
+        "p1_edge": -0.0438,
+        "p2_edge": 0.0399
+      },
+      "collected_at": "2026-09-04T12:27:42.010618+00:00",
+      "result": null
+    },
+    "2b34ae91d8c12ab0edcd7aaf19c74e07": {
+      "match_id": "2b34ae91d8c12ab0edcd7aaf19c74e07",
+      "commence_time": "2026-09-05T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Karen Khachanov",
+      "player2": "Benjamin Bonzi",
+      "bookmakers": {
+        "betsson": {
+          "Benjamin Bonzi": 2.66,
+          "Karen Khachanov": 1.45
+        },
+        "betfair_ex_eu": {
+          "Benjamin Bonzi": 2.76,
+          "Karen Khachanov": 1.53
+        },
+        "williamhill": {
+          "Benjamin Bonzi": 2.6,
+          "Karen Khachanov": 1.5
+        },
+        "draftkings": {
+          "Benjamin Bonzi": 2.53,
+          "Karen Khachanov": 1.51
+        },
+        "nordicbet": {
+          "Benjamin Bonzi": 2.66,
+          "Karen Khachanov": 1.45
+        },
+        "sport888": {
+          "Benjamin Bonzi": 2.6,
+          "Karen Khachanov": 1.5
+        },
+        "marathonbet": {
+          "Benjamin Bonzi": 2.62,
+          "Karen Khachanov": 1.48
+        },
+        "onexbet": {
+          "Benjamin Bonzi": 2.73,
+          "Karen Khachanov": 1.48
+        },
+        "gtbets": {
+          "Benjamin Bonzi": 2.69,
+          "Karen Khachanov": 1.43
+        },
+        "coolbet": {
+          "Benjamin Bonzi": 2.7,
+          "Karen Khachanov": 1.52
+        },
+        "mybookieag": {
+          "Benjamin Bonzi": 2.69,
+          "Karen Khachanov": 1.45
+        },
+        "unibet_fr": {
+          "Benjamin Bonzi": 2.6,
+          "Karen Khachanov": 1.45
+        },
+        "betclic_fr": {
+          "Benjamin Bonzi": 2.7,
+          "Karen Khachanov": 1.45
+        },
+        "betmgm": {
+          "Benjamin Bonzi": 2.6,
+          "Karen Khachanov": 1.48
+        },
+        "bovada": {
+          "Benjamin Bonzi": 2.75,
+          "Karen Khachanov": 1.47
+        },
+        "matchbook": {
+          "Benjamin Bonzi": 2.74,
+          "Karen Khachanov": 1.53
+        },
+        "winamax_fr": {
+          "Benjamin Bonzi": 2.45,
+          "Karen Khachanov": 1.41
+        },
+        "winamax_de": {
+          "Benjamin Bonzi": 2.65,
+          "Karen Khachanov": 1.47
+        },
+        "tipico_de": {
+          "Benjamin Bonzi": 2.7,
+          "Karen Khachanov": 1.45
+        },
+        "unibet_se": {
+          "Benjamin Bonzi": 2.7,
+          "Karen Khachanov": 1.45
+        },
+        "pmu_fr": {
+          "Benjamin Bonzi": 2.65,
+          "Karen Khachanov": 1.43
+        },
+        "leovegas_se": {
+          "Benjamin Bonzi": 2.7,
+          "Karen Khachanov": 1.45
+        },
+        "unibet_nl": {
+          "Benjamin Bonzi": 2.7,
+          "Karen Khachanov": 1.45
+        },
+        "betrivers": {
+          "Benjamin Bonzi": 2.7,
+          "Karen Khachanov": 1.45
+        },
+        "pinnacle": {
+          "Benjamin Bonzi": 2.65,
+          "Karen Khachanov": 1.53
+        },
+        "fanduel": {
+          "Benjamin Bonzi": 2.84,
+          "Karen Khachanov": 1.44
+        },
+        "lowvig": {
+          "Benjamin Bonzi": 2.73,
+          "Karen Khachanov": 1.49
+        },
+        "betonlineag": {
+          "Benjamin Bonzi": 2.75,
+          "Karen Khachanov": 1.49
+        }
+      },
+      "prediction": {
+        "p1_name": "Karen Khachanov",
+        "p2_name": "Benjamin Bonzi",
+        "p1_prob": 0.6811,
+        "p2_prob": 0.3189,
+        "predicted_winner": "Karen Khachanov",
+        "confidence": "high",
+        "p1_edge": 0.0275,
+        "p2_edge": -0.0332
+      },
+      "collected_at": "2026-09-04T12:27:42.094059+00:00",
+      "result": null
+    },
+    "9fe6cf78efce0c0255eec3353bf470fb": {
+      "match_id": "9fe6cf78efce0c0255eec3353bf470fb",
+      "commence_time": "2026-09-05T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Zizou Bergs",
+      "player2": "Botic van de Zandschulp",
+      "bookmakers": {
+        "marathonbet": {
+          "Botic van de Zandschulp": 1.46,
+          "Zizou Bergs": 2.69
+        },
+        "betfair_ex_eu": {
+          "Botic van de Zandschulp": 1.51,
+          "Zizou Bergs": 2.84
+        },
+        "winamax_de": {
+          "Botic van de Zandschulp": 1.46,
+          "Zizou Bergs": 2.7
+        },
+        "williamhill": {
+          "Botic van de Zandschulp": 1.44,
+          "Zizou Bergs": 2.75
+        },
+        "betsson": {
+          "Botic van de Zandschulp": 1.44,
+          "Zizou Bergs": 2.7
+        },
+        "nordicbet": {
+          "Botic van de Zandschulp": 1.44,
+          "Zizou Bergs": 2.7
+        },
+        "winamax_fr": {
+          "Botic van de Zandschulp": 1.4,
+          "Zizou Bergs": 2.5
+        },
+        "betmgm": {
+          "Botic van de Zandschulp": 1.48,
+          "Zizou Bergs": 2.6
+        },
+        "unibet_fr": {
+          "Botic van de Zandschulp": 1.44,
+          "Zizou Bergs": 2.65
+        },
+        "onexbet": {
+          "Botic van de Zandschulp": 1.48,
+          "Zizou Bergs": 2.73
+        },
+        "sport888": {
+          "Botic van de Zandschulp": 1.44,
+          "Zizou Bergs": 2.75
+        },
+        "betclic_fr": {
+          "Botic van de Zandschulp": 1.43,
+          "Zizou Bergs": 2.6
+        },
+        "coolbet": {
+          "Botic van de Zandschulp": 1.47,
+          "Zizou Bergs": 2.85
+        },
+        "draftkings": {
+          "Botic van de Zandschulp": 1.42,
+          "Zizou Bergs": 2.84
+        },
+        "tipico_de": {
+          "Botic van de Zandschulp": 1.45,
+          "Zizou Bergs": 2.7
+        },
+        "mybookieag": {
+          "Botic van de Zandschulp": 1.45,
+          "Zizou Bergs": 2.69
+        },
+        "bovada": {
+          "Botic van de Zandschulp": 1.45,
+          "Zizou Bergs": 2.8
+        },
+        "gtbets": {
+          "Botic van de Zandschulp": 1.49,
+          "Zizou Bergs": 2.78
+        },
+        "matchbook": {
+          "Botic van de Zandschulp": 1.51,
+          "Zizou Bergs": 2.84
+        },
+        "unibet_nl": {
+          "Botic van de Zandschulp": 1.49,
+          "Zizou Bergs": 2.63
+        },
+        "pmu_fr": {
+          "Botic van de Zandschulp": 1.44,
+          "Zizou Bergs": 2.55
+        },
+        "leovegas_se": {
+          "Botic van de Zandschulp": 1.49,
+          "Zizou Bergs": 2.63
+        },
+        "betrivers": {
+          "Botic van de Zandschulp": 1.49,
+          "Zizou Bergs": 2.63
+        },
+        "unibet_se": {
+          "Botic van de Zandschulp": 1.49,
+          "Zizou Bergs": 2.63
+        },
+        "fanduel": {
+          "Botic van de Zandschulp": 1.45,
+          "Zizou Bergs": 2.8
+        },
+        "pinnacle": {
+          "Botic van de Zandschulp": 1.49,
+          "Zizou Bergs": 2.81
+        },
+        "lowvig": {
+          "Botic van de Zandschulp": 1.46,
+          "Zizou Bergs": 2.89
+        },
+        "betonlineag": {
+          "Botic van de Zandschulp": 1.46,
+          "Zizou Bergs": 2.89
+        }
+      },
+      "prediction": {
+        "p1_name": "Zizou Bergs",
+        "p2_name": "Botic Van De Zandschulp",
+        "p1_prob": 0.523,
+        "p2_prob": 0.477,
+        "predicted_winner": "Zizou Bergs",
+        "confidence": "low",
+        "p1_edge": 0.177,
+        "p2_edge": -0.1853
+      },
+      "collected_at": "2026-09-04T12:27:42.178401+00:00",
+      "result": null
+    },
+    "6ae5fc5af940894326eb9be2a2dc4900": {
+      "match_id": "6ae5fc5af940894326eb9be2a2dc4900",
+      "commence_time": "2026-09-05T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Jakub Mensik",
+      "player2": "Learner Tien",
+      "bookmakers": {
+        "williamhill": {
+          "Jakub Mensik": 2.1,
+          "Learner Tien": 1.73
+        },
+        "betfair_ex_eu": {
+          "Jakub Mensik": 2.22,
+          "Learner Tien": 1.8
+        },
+        "nordicbet": {
+          "Jakub Mensik": 2.12,
+          "Learner Tien": 1.69
+        },
+        "unibet_fr": {
+          "Jakub Mensik": 2.1,
+          "Learner Tien": 1.68
+        },
+        "draftkings": {
+          "Jakub Mensik": 2.08,
+          "Learner Tien": 1.73
+        },
+        "coolbet": {
+          "Jakub Mensik": 2.15,
+          "Learner Tien": 1.77
+        },
+        "betmgm": {
+          "Jakub Mensik": 2.1,
+          "Learner Tien": 1.71
+        },
+        "sport888": {
+          "Jakub Mensik": 2.1,
+          "Learner Tien": 1.73
+        },
+        "onexbet": {
+          "Jakub Mensik": 2.12,
+          "Learner Tien": 1.75
+        },
+        "winamax_fr": {
+          "Jakub Mensik": 2.0,
+          "Learner Tien": 1.62
+        },
+        "betsson": {
+          "Jakub Mensik": 2.12,
+          "Learner Tien": 1.69
+        },
+        "betclic_fr": {
+          "Jakub Mensik": 2.12,
+          "Learner Tien": 1.7
+        },
+        "winamax_de": {
+          "Jakub Mensik": 2.1,
+          "Learner Tien": 1.7
+        },
+        "tipico_de": {
+          "Jakub Mensik": 2.1,
+          "Learner Tien": 1.7
+        },
+        "marathonbet": {
+          "Jakub Mensik": 2.09,
+          "Learner Tien": 1.73
+        },
+        "bovada": {
+          "Jakub Mensik": 2.15,
+          "Learner Tien": 1.71
+        },
+        "gtbets": {
+          "Jakub Mensik": 2.21,
+          "Learner Tien": 1.72
+        },
+        "matchbook": {
+          "Jakub Mensik": 2.22,
+          "Learner Tien": 1.8
+        },
+        "mybookieag": {
+          "Jakub Mensik": 2.12,
+          "Learner Tien": 1.7
+        },
+        "unibet_se": {
+          "Jakub Mensik": 2.12,
+          "Learner Tien": 1.72
+        },
+        "unibet_nl": {
+          "Jakub Mensik": 2.12,
+          "Learner Tien": 1.72
+        },
+        "betrivers": {
+          "Jakub Mensik": 2.12,
+          "Learner Tien": 1.72
+        },
+        "leovegas_se": {
+          "Jakub Mensik": 2.12,
+          "Learner Tien": 1.72
+        },
+        "pmu_fr": {
+          "Jakub Mensik": 2.07,
+          "Learner Tien": 1.68
+        },
+        "pinnacle": {
+          "Jakub Mensik": 2.17,
+          "Learner Tien": 1.76
+        },
+        "fanduel": {
+          "Jakub Mensik": 2.05,
+          "Learner Tien": 1.79
+        },
+        "lowvig": {
+          "Jakub Mensik": 2.19,
+          "Learner Tien": 1.71
+        },
+        "betonlineag": {
+          "Jakub Mensik": 2.19,
+          "Learner Tien": 1.71
+        }
+      },
+      "prediction": {
+        "p1_name": "Jakub Mensik",
+        "p2_name": "Learner Tien",
+        "p1_prob": 0.5061,
+        "p2_prob": 0.4939,
+        "predicted_winner": "Jakub Mensik",
+        "confidence": "low",
+        "p1_edge": 0.0556,
+        "p2_edge": -0.0617
+      },
+      "collected_at": "2026-09-04T12:27:42.301017+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-09-04T02:37:50.704671+00:00"
+  "last_updated": "2026-09-04T12:27:42.313350+00:00"
 }
