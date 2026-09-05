@@ -52476,7 +52476,11 @@
         "p2_edge": -0.3398
       },
       "collected_at": "2026-09-02T19:11:03.400553+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex Michelsen",
+        "correct": true,
+        "settled_at": "2026-09-05T02:38:57.894723+00:00"
+      }
     },
     "58f9ccb8193f27ca4b3f7666951845d5": {
       "match_id": "58f9ccb8193f27ca4b3f7666951845d5",
@@ -53078,7 +53082,11 @@
         "p2_edge": -0.0539
       },
       "collected_at": "2026-09-03T02:41:05.630492+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-09-05T02:38:57.591630+00:00"
+      }
     },
     "33c32753620466a1bdfc7d867baccbe4": {
       "match_id": "33c32753620466a1bdfc7d867baccbe4",
@@ -53234,7 +53242,11 @@
         "p2_edge": 0.069
       },
       "collected_at": "2026-09-03T02:41:05.768115+00:00",
-      "result": null
+      "result": {
+        "winner": "Stefanos Tsitsipas",
+        "correct": false,
+        "settled_at": "2026-09-05T02:38:57.742151+00:00"
+      }
     },
     "tml-2026-560-9": {
       "match_id": "tml-2026-560-9",
@@ -53410,7 +53422,11 @@
         "p2_edge": -0.1141
       },
       "collected_at": "2026-09-03T12:31:26.161445+00:00",
-      "result": null
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": true,
+        "settled_at": "2026-09-05T02:38:57.667101+00:00"
+      }
     },
     "5ebaa7ca70301167541b1c8721de3ee4": {
       "match_id": "5ebaa7ca70301167541b1c8721de3ee4",
@@ -53520,7 +53536,11 @@
         "p2_edge": -0.1733
       },
       "collected_at": "2026-09-03T12:31:26.284637+00:00",
-      "result": null
+      "result": {
+        "winner": "Frances Tiafoe",
+        "correct": false,
+        "settled_at": "2026-09-05T02:38:57.970692+00:00"
+      }
     },
     "c54ec41ffa7197a418bc22c602705e45": {
       "match_id": "c54ec41ffa7197a418bc22c602705e45",
@@ -53630,7 +53650,11 @@
         "p2_edge": -0.1937
       },
       "collected_at": "2026-09-03T12:31:26.358339+00:00",
-      "result": null
+      "result": {
+        "winner": "Tomas Martin Etcheverry",
+        "correct": true,
+        "settled_at": "2026-09-05T02:38:57.818236+00:00"
+      }
     },
     "e513bb819953e9a2dde3b09859119274": {
       "match_id": "e513bb819953e9a2dde3b09859119274",
@@ -54664,7 +54688,338 @@
       },
       "collected_at": "2026-09-04T12:27:42.301017+00:00",
       "result": null
+    },
+    "b180b0500ee5847e0612dba80f23f8eb": {
+      "match_id": "b180b0500ee5847e0612dba80f23f8eb",
+      "commence_time": "2026-09-06T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Alex Michelsen",
+      "player2": "Tomas Martin Etcheverry",
+      "bookmakers": {
+        "pinnacle": {
+          "Alex Michelsen": 1.32,
+          "Tomas Martin Etcheverry": 3.68
+        },
+        "marathonbet": {
+          "Alex Michelsen": 1.28,
+          "Tomas Martin Etcheverry": 3.6
+        },
+        "betfair_ex_eu": {
+          "Alex Michelsen": 1.33,
+          "Tomas Martin Etcheverry": 3.75
+        },
+        "draftkings": {
+          "Alex Michelsen": 1.29,
+          "Tomas Martin Etcheverry": 3.52
+        },
+        "coolbet": {
+          "Alex Michelsen": 1.31,
+          "Tomas Martin Etcheverry": 3.75
+        },
+        "sport888": {
+          "Alex Michelsen": 1.3,
+          "Tomas Martin Etcheverry": 3.5
+        },
+        "williamhill": {
+          "Alex Michelsen": 1.3,
+          "Tomas Martin Etcheverry": 3.5
+        },
+        "unibet_fr": {
+          "Alex Michelsen": 1.25,
+          "Tomas Martin Etcheverry": 3.35
+        },
+        "betsson": {
+          "Alex Michelsen": 1.27,
+          "Tomas Martin Etcheverry": 3.64
+        },
+        "onexbet": {
+          "Alex Michelsen": 1.3,
+          "Tomas Martin Etcheverry": 3.65
+        },
+        "betclic_fr": {
+          "Alex Michelsen": 1.25,
+          "Tomas Martin Etcheverry": 3.35
+        },
+        "nordicbet": {
+          "Alex Michelsen": 1.27,
+          "Tomas Martin Etcheverry": 3.64
+        },
+        "tipico_de": {
+          "Alex Michelsen": 1.28,
+          "Tomas Martin Etcheverry": 3.6
+        },
+        "gtbets": {
+          "Alex Michelsen": 1.3,
+          "Tomas Martin Etcheverry": 3.55
+        },
+        "mybookieag": {
+          "Alex Michelsen": 1.28,
+          "Tomas Martin Etcheverry": 3.6
+        },
+        "matchbook": {
+          "Alex Michelsen": 1.33,
+          "Tomas Martin Etcheverry": 3.75
+        },
+        "winamax_fr": {
+          "Alex Michelsen": 1.24,
+          "Tomas Martin Etcheverry": 3.25
+        },
+        "winamax_de": {
+          "Alex Michelsen": 1.28,
+          "Tomas Martin Etcheverry": 3.65
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex Michelsen",
+        "p2_name": "Tomas Martin Etcheverry",
+        "p1_prob": 0.5475,
+        "p2_prob": 0.4525,
+        "predicted_winner": "Alex Michelsen",
+        "confidence": "medium",
+        "p1_edge": -0.2044,
+        "p2_edge": 0.1858
+      },
+      "collected_at": "2026-09-05T02:39:06.954979+00:00",
+      "result": null
+    },
+    "375c143a5d5ad4155ac566ee0fe3acf4": {
+      "match_id": "375c143a5d5ad4155ac566ee0fe3acf4",
+      "commence_time": "2026-09-06T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Tommy Paul",
+      "player2": "Carlos Alcaraz",
+      "bookmakers": {
+        "sport888": {
+          "Carlos Alcaraz": 1.17,
+          "Tommy Paul": 5.0
+        },
+        "draftkings": {
+          "Carlos Alcaraz": 1.19,
+          "Tommy Paul": 4.65
+        },
+        "nordicbet": {
+          "Carlos Alcaraz": 1.2,
+          "Tommy Paul": 4.34
+        },
+        "onexbet": {
+          "Carlos Alcaraz": 1.23,
+          "Tommy Paul": 4.41
+        },
+        "betfair_ex_eu": {
+          "Carlos Alcaraz": 1.2,
+          "Tommy Paul": 5.5
+        },
+        "unibet_fr": {
+          "Carlos Alcaraz": 1.18,
+          "Tommy Paul": 3.95
+        },
+        "matchbook": {
+          "Carlos Alcaraz": 1.2,
+          "Tommy Paul": 5.5
+        },
+        "williamhill": {
+          "Carlos Alcaraz": 1.17,
+          "Tommy Paul": 5.0
+        },
+        "coolbet": {
+          "Carlos Alcaraz": 1.21,
+          "Tommy Paul": 4.9
+        },
+        "marathonbet": {
+          "Carlos Alcaraz": 1.21,
+          "Tommy Paul": 4.35
+        },
+        "betsson": {
+          "Carlos Alcaraz": 1.2,
+          "Tommy Paul": 4.34
+        },
+        "gtbets": {
+          "Carlos Alcaraz": 1.27,
+          "Tommy Paul": 4.28
+        },
+        "mybookieag": {
+          "Carlos Alcaraz": 1.2,
+          "Tommy Paul": 4.3
+        },
+        "betclic_fr": {
+          "Carlos Alcaraz": 1.18,
+          "Tommy Paul": 3.95
+        },
+        "bovada": {
+          "Carlos Alcaraz": 1.2,
+          "Tommy Paul": 4.75
+        },
+        "winamax_fr": {
+          "Carlos Alcaraz": 1.17,
+          "Tommy Paul": 3.85
+        },
+        "winamax_de": {
+          "Carlos Alcaraz": 1.21,
+          "Tommy Paul": 4.4
+        },
+        "tipico_de": {
+          "Carlos Alcaraz": 1.18,
+          "Tommy Paul": 4.6
+        },
+        "leovegas_se": {
+          "Carlos Alcaraz": 1.23,
+          "Tommy Paul": 4.2
+        },
+        "unibet_nl": {
+          "Carlos Alcaraz": 1.23,
+          "Tommy Paul": 4.2
+        },
+        "unibet_se": {
+          "Carlos Alcaraz": 1.23,
+          "Tommy Paul": 4.2
+        },
+        "betrivers": {
+          "Carlos Alcaraz": 1.23,
+          "Tommy Paul": 4.2
+        },
+        "pmu_fr": {
+          "Carlos Alcaraz": 1.2,
+          "Tommy Paul": 4.1
+        },
+        "betmgm": {
+          "Carlos Alcaraz": 1.19,
+          "Tommy Paul": 4.6
+        },
+        "pinnacle": {
+          "Carlos Alcaraz": 1.19,
+          "Tommy Paul": 5.32
+        }
+      },
+      "prediction": {
+        "p1_name": "Tommy Paul",
+        "p2_name": "Carlos Alcaraz",
+        "p1_prob": 0.1427,
+        "p2_prob": 0.8573,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": -0.0391,
+        "p2_edge": 0.0699
+      },
+      "collected_at": "2026-09-05T02:39:07.042621+00:00",
+      "result": null
+    },
+    "419c98e83aff032b1ef5c65b5a84cabf": {
+      "match_id": "419c98e83aff032b1ef5c65b5a84cabf",
+      "commence_time": "2026-09-06T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Daniil Medvedev",
+      "player2": "Frances Tiafoe",
+      "bookmakers": {
+        "gtbets": {
+          "Daniil Medvedev": 1.81,
+          "Frances Tiafoe": 2.02
+        },
+        "coolbet": {
+          "Daniil Medvedev": 1.77,
+          "Frances Tiafoe": 2.15
+        },
+        "sport888": {
+          "Daniil Medvedev": 1.73,
+          "Frances Tiafoe": 2.1
+        },
+        "tipico_de": {
+          "Daniil Medvedev": 1.72,
+          "Frances Tiafoe": 2.1
+        },
+        "williamhill": {
+          "Daniil Medvedev": 1.73,
+          "Frances Tiafoe": 2.1
+        },
+        "unibet_fr": {
+          "Daniil Medvedev": 1.66,
+          "Frances Tiafoe": 2.0
+        },
+        "betsson": {
+          "Daniil Medvedev": 1.72,
+          "Frances Tiafoe": 2.08
+        },
+        "betfair_ex_eu": {
+          "Daniil Medvedev": 1.75,
+          "Frances Tiafoe": 2.24
+        },
+        "draftkings": {
+          "Daniil Medvedev": 1.79,
+          "Frances Tiafoe": 2.0
+        },
+        "betclic_fr": {
+          "Daniil Medvedev": 1.66,
+          "Frances Tiafoe": 2.0
+        },
+        "onexbet": {
+          "Daniil Medvedev": 1.75,
+          "Frances Tiafoe": 2.12
+        },
+        "nordicbet": {
+          "Daniil Medvedev": 1.72,
+          "Frances Tiafoe": 2.08
+        },
+        "mybookieag": {
+          "Daniil Medvedev": 1.72,
+          "Frances Tiafoe": 2.09
+        },
+        "pinnacle": {
+          "Daniil Medvedev": 1.74,
+          "Frances Tiafoe": 2.21
+        },
+        "matchbook": {
+          "Daniil Medvedev": 1.75,
+          "Frances Tiafoe": 2.24
+        },
+        "winamax_fr": {
+          "Daniil Medvedev": 1.64,
+          "Frances Tiafoe": 1.98
+        },
+        "winamax_de": {
+          "Daniil Medvedev": 1.72,
+          "Frances Tiafoe": 2.1
+        }
+      },
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Frances Tiafoe",
+        "p1_prob": 0.7644,
+        "p2_prob": 0.2356,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": 0.2119,
+        "p2_edge": -0.2108
+      },
+      "collected_at": "2026-09-05T02:39:07.131037+00:00",
+      "result": null
+    },
+    "tml-2026-560-112": {
+      "match_id": "tml-2026-560-112",
+      "commence_time": "2026-09-04T00:00:00+00:00",
+      "tournament": "US Open",
+      "surface": "Hard",
+      "player1": "Carlos Alcaraz",
+      "player2": "Yibing Wu",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Carlos Alcaraz",
+        "p2_name": "Yibing Wu",
+        "p1_prob": 0.9532,
+        "p2_prob": 0.0468,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-05T02:39:14.691750+00:00",
+      "result": {
+        "winner": "Carlos Alcaraz",
+        "correct": true,
+        "settled_at": "2026-09-05T02:39:14.691750+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-04T12:27:42.313350+00:00"
+  "last_updated": "2026-09-05T02:39:14.705816+00:00"
 }
