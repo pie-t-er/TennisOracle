@@ -54029,7 +54029,11 @@
         "p2_edge": -0.0269
       },
       "collected_at": "2026-09-04T12:27:41.845704+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-09-06T11:53:51.267508+00:00"
+      }
     },
     "46c9fb0b0a11d55479f393e8e1c4710b": {
       "match_id": "46c9fb0b0a11d55479f393e8e1c4710b",
@@ -54715,7 +54719,11 @@
         "p2_edge": -0.0617
       },
       "collected_at": "2026-09-04T12:27:42.301017+00:00",
-      "result": null
+      "result": {
+        "winner": "Learner Tien",
+        "correct": false,
+        "settled_at": "2026-09-06T11:53:51.192218+00:00"
+      }
     },
     "b180b0500ee5847e0612dba80f23f8eb": {
       "match_id": "b180b0500ee5847e0612dba80f23f8eb",
@@ -55315,7 +55323,417 @@
       },
       "collected_at": "2026-09-06T02:36:06.473736+00:00",
       "result": null
+    },
+    "fe33d204a97e95299fdef4384acb8bbd": {
+      "match_id": "fe33d204a97e95299fdef4384acb8bbd",
+      "commence_time": "2026-09-07T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Luciano Darderi",
+      "bookmakers": {
+        "nordicbet": {
+          "Alexander Zverev": 1.08,
+          "Luciano Darderi": 7.36
+        },
+        "betfair_ex_eu": {
+          "Alexander Zverev": 1.12,
+          "Luciano Darderi": 8.6
+        },
+        "draftkings": {
+          "Alexander Zverev": 1.07,
+          "Luciano Darderi": 8.2
+        },
+        "gtbets": {
+          "Alexander Zverev": 1.09,
+          "Luciano Darderi": 7.54
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.07,
+          "Luciano Darderi": 6.1
+        },
+        "betsson": {
+          "Alexander Zverev": 1.08,
+          "Luciano Darderi": 7.36
+        },
+        "marathonbet": {
+          "Alexander Zverev": 1.08,
+          "Luciano Darderi": 7.8
+        },
+        "onexbet": {
+          "Alexander Zverev": 1.09,
+          "Luciano Darderi": 8.25
+        },
+        "williamhill": {
+          "Alexander Zverev": 1.07,
+          "Luciano Darderi": 8.0
+        },
+        "sport888": {
+          "Alexander Zverev": 1.06,
+          "Luciano Darderi": 8.0
+        },
+        "coolbet": {
+          "Alexander Zverev": 1.09,
+          "Luciano Darderi": 9.0
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 1.08,
+          "Luciano Darderi": 7.2
+        },
+        "tipico_de": {
+          "Alexander Zverev": 1.08,
+          "Luciano Darderi": 7.2
+        },
+        "mybookieag": {
+          "Alexander Zverev": 1.08,
+          "Luciano Darderi": 7.3
+        },
+        "bovada": {
+          "Alexander Zverev": 1.08,
+          "Luciano Darderi": 8.0
+        },
+        "matchbook": {
+          "Alexander Zverev": 1.12,
+          "Luciano Darderi": 8.6
+        },
+        "winamax_fr": {
+          "Alexander Zverev": 1.09,
+          "Luciano Darderi": 7.75
+        },
+        "winamax_de": {
+          "Alexander Zverev": 1.09,
+          "Luciano Darderi": 8.0
+        },
+        "pinnacle": {
+          "Alexander Zverev": 1.09,
+          "Luciano Darderi": 8.3
+        },
+        "pmu_fr": {
+          "Alexander Zverev": 1.07,
+          "Luciano Darderi": 7.0
+        },
+        "unibet_se": {
+          "Alexander Zverev": 1.09,
+          "Luciano Darderi": 7.0
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.09,
+          "Luciano Darderi": 7.0
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.09,
+          "Luciano Darderi": 7.0
+        },
+        "betrivers": {
+          "Alexander Zverev": 1.09,
+          "Luciano Darderi": 7.0
+        },
+        "fanduel": {
+          "Alexander Zverev": 1.08,
+          "Luciano Darderi": 8.6
+        },
+        "betmgm": {
+          "Alexander Zverev": 1.08,
+          "Luciano Darderi": 7.5
+        },
+        "lowvig": {
+          "Alexander Zverev": 1.09,
+          "Luciano Darderi": 8.0
+        },
+        "betonlineag": {
+          "Alexander Zverev": 1.09,
+          "Luciano Darderi": 8.0
+        },
+        "betanysports": {
+          "Alexander Zverev": 1.08,
+          "Luciano Darderi": 7.7
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Luciano Darderi",
+        "p1_prob": 0.779,
+        "p2_prob": 0.221,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": -0.1139,
+        "p2_edge": 0.1099
+      },
+      "collected_at": "2026-09-06T11:53:58.583443+00:00",
+      "result": null
+    },
+    "d41f84d62d9505420ef2be15531277cd": {
+      "match_id": "d41f84d62d9505420ef2be15531277cd",
+      "commence_time": "2026-09-07T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Arthur Gea",
+      "player2": "Botic van de Zandschulp",
+      "bookmakers": {
+        "pinnacle": {
+          "Arthur Gea": 2.38,
+          "Botic van de Zandschulp": 1.65
+        },
+        "betfair_ex_eu": {
+          "Arthur Gea": 2.46,
+          "Botic van de Zandschulp": 1.67
+        },
+        "draftkings": {
+          "Arthur Gea": 2.36,
+          "Botic van de Zandschulp": 1.58
+        },
+        "bovada": {
+          "Arthur Gea": 2.35,
+          "Botic van de Zandschulp": 1.61
+        },
+        "coolbet": {
+          "Arthur Gea": 2.4,
+          "Botic van de Zandschulp": 1.63
+        },
+        "gtbets": {
+          "Arthur Gea": 2.35,
+          "Botic van de Zandschulp": 1.6
+        },
+        "betsson": {
+          "Arthur Gea": 2.3,
+          "Botic van de Zandschulp": 1.59
+        },
+        "betclic_fr": {
+          "Arthur Gea": 2.31,
+          "Botic van de Zandschulp": 1.6
+        },
+        "unibet_fr": {
+          "Arthur Gea": 2.3,
+          "Botic van de Zandschulp": 1.6
+        },
+        "nordicbet": {
+          "Arthur Gea": 2.3,
+          "Botic van de Zandschulp": 1.59
+        },
+        "onexbet": {
+          "Arthur Gea": 2.35,
+          "Botic van de Zandschulp": 1.62
+        },
+        "marathonbet": {
+          "Arthur Gea": 2.32,
+          "Botic van de Zandschulp": 1.6
+        },
+        "mybookieag": {
+          "Arthur Gea": 2.31,
+          "Botic van de Zandschulp": 1.6
+        },
+        "sport888": {
+          "Arthur Gea": 2.3,
+          "Botic van de Zandschulp": 1.61
+        },
+        "williamhill": {
+          "Arthur Gea": 2.3,
+          "Botic van de Zandschulp": 1.62
+        },
+        "tipico_de": {
+          "Arthur Gea": 2.35,
+          "Botic van de Zandschulp": 1.57
+        },
+        "matchbook": {
+          "Arthur Gea": 2.46,
+          "Botic van de Zandschulp": 1.67
+        },
+        "winamax_fr": {
+          "Arthur Gea": 2.35,
+          "Botic van de Zandschulp": 1.62
+        },
+        "winamax_de": {
+          "Arthur Gea": 2.35,
+          "Botic van de Zandschulp": 1.62
+        },
+        "betmgm": {
+          "Arthur Gea": 2.3,
+          "Botic van de Zandschulp": 1.61
+        },
+        "pmu_fr": {
+          "Arthur Gea": 2.28,
+          "Botic van de Zandschulp": 1.56
+        },
+        "unibet_se": {
+          "Arthur Gea": 2.35,
+          "Botic van de Zandschulp": 1.6
+        },
+        "leovegas_se": {
+          "Arthur Gea": 2.35,
+          "Botic van de Zandschulp": 1.6
+        },
+        "unibet_nl": {
+          "Arthur Gea": 2.35,
+          "Botic van de Zandschulp": 1.6
+        },
+        "betrivers": {
+          "Arthur Gea": 2.35,
+          "Botic van de Zandschulp": 1.6
+        },
+        "fanduel": {
+          "Arthur Gea": 2.36,
+          "Botic van de Zandschulp": 1.61
+        },
+        "lowvig": {
+          "Arthur Gea": 2.36,
+          "Botic van de Zandschulp": 1.62
+        },
+        "betonlineag": {
+          "Arthur Gea": 2.36,
+          "Botic van de Zandschulp": 1.62
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Gea",
+        "p2_name": "Botic Van De Zandschulp",
+        "p1_prob": 0.4133,
+        "p2_prob": 0.5867,
+        "predicted_winner": "Botic Van De Zandschulp",
+        "confidence": "medium",
+        "p1_edge": 0.0068,
+        "p2_edge": -0.0121
+      },
+      "collected_at": "2026-09-06T11:53:58.671466+00:00",
+      "result": null
+    },
+    "2bf762a4e4d1966d36e7ab7492078c62": {
+      "match_id": "2bf762a4e4d1966d36e7ab7492078c62",
+      "commence_time": "2026-09-07T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Karen Khachanov",
+      "player2": "Learner Tien",
+      "bookmakers": {
+        "winamax_de": {
+          "Karen Khachanov": 2.5,
+          "Learner Tien": 1.56
+        },
+        "betfair_ex_eu": {
+          "Karen Khachanov": 2.48,
+          "Learner Tien": 1.56
+        },
+        "bovada": {
+          "Karen Khachanov": 2.45,
+          "Learner Tien": 1.57
+        },
+        "coolbet": {
+          "Karen Khachanov": 2.5,
+          "Learner Tien": 1.59
+        },
+        "unibet_fr": {
+          "Karen Khachanov": 2.3,
+          "Learner Tien": 1.5
+        },
+        "betclic_fr": {
+          "Karen Khachanov": 2.41,
+          "Learner Tien": 1.55
+        },
+        "mybookieag": {
+          "Karen Khachanov": 2.41,
+          "Learner Tien": 1.55
+        },
+        "betsson": {
+          "Karen Khachanov": 2.41,
+          "Learner Tien": 1.54
+        },
+        "nordicbet": {
+          "Karen Khachanov": 2.41,
+          "Learner Tien": 1.54
+        },
+        "winamax_fr": {
+          "Karen Khachanov": 2.5,
+          "Learner Tien": 1.54
+        },
+        "marathonbet": {
+          "Karen Khachanov": 2.43,
+          "Learner Tien": 1.55
+        },
+        "draftkings": {
+          "Karen Khachanov": 2.49,
+          "Learner Tien": 1.52
+        },
+        "onexbet": {
+          "Karen Khachanov": 2.46,
+          "Learner Tien": 1.57
+        },
+        "pinnacle": {
+          "Karen Khachanov": 2.49,
+          "Learner Tien": 1.59
+        },
+        "tipico_de": {
+          "Karen Khachanov": 2.4,
+          "Learner Tien": 1.55
+        },
+        "betrivers": {
+          "Karen Khachanov": 2.38,
+          "Learner Tien": 1.57
+        },
+        "unibet_se": {
+          "Karen Khachanov": 2.38,
+          "Learner Tien": 1.57
+        },
+        "pmu_fr": {
+          "Karen Khachanov": 2.32,
+          "Learner Tien": 1.55
+        },
+        "leovegas_se": {
+          "Karen Khachanov": 2.38,
+          "Learner Tien": 1.57
+        },
+        "matchbook": {
+          "Karen Khachanov": 2.5,
+          "Learner Tien": 1.59
+        },
+        "unibet_nl": {
+          "Karen Khachanov": 2.38,
+          "Learner Tien": 1.57
+        },
+        "fanduel": {
+          "Karen Khachanov": 2.46,
+          "Learner Tien": 1.56
+        },
+        "sport888": {
+          "Karen Khachanov": 2.38,
+          "Learner Tien": 1.57
+        },
+        "williamhill": {
+          "Karen Khachanov": 2.38,
+          "Learner Tien": 1.57
+        },
+        "gtbets": {
+          "Karen Khachanov": 2.45,
+          "Learner Tien": 1.56
+        },
+        "betmgm": {
+          "Karen Khachanov": 2.4,
+          "Learner Tien": 1.54
+        },
+        "betonlineag": {
+          "Karen Khachanov": 2.48,
+          "Learner Tien": 1.57
+        },
+        "lowvig": {
+          "Karen Khachanov": 2.48,
+          "Learner Tien": 1.57
+        },
+        "betanysports": {
+          "Karen Khachanov": 2.5,
+          "Learner Tien": 1.57
+        }
+      },
+      "prediction": {
+        "p1_name": "Karen Khachanov",
+        "p2_name": "Learner Tien",
+        "p1_prob": 0.3908,
+        "p2_prob": 0.6092,
+        "predicted_winner": "Learner Tien",
+        "confidence": "high",
+        "p1_edge": -0.0092,
+        "p2_edge": -0.0197
+      },
+      "collected_at": "2026-09-06T11:53:58.758430+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-09-06T02:36:06.486253+00:00"
+  "last_updated": "2026-09-06T11:53:58.771176+00:00"
 }
