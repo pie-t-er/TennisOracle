@@ -53760,7 +53760,11 @@
         "p2_edge": 0.0976
       },
       "collected_at": "2026-09-04T02:37:43.599376+00:00",
-      "result": null
+      "result": {
+        "winner": "Luciano Darderi",
+        "correct": true,
+        "settled_at": "2026-09-06T02:35:58.989795+00:00"
+      }
     },
     "b78a2994c6495039aa689e943ff2e194": {
       "match_id": "b78a2994c6495039aa689e943ff2e194",
@@ -53862,7 +53866,11 @@
         "p2_edge": 0.1898
       },
       "collected_at": "2026-09-04T02:37:43.685795+00:00",
-      "result": null
+      "result": {
+        "winner": "Francisco Cerundolo",
+        "correct": false,
+        "settled_at": "2026-09-06T02:35:58.915069+00:00"
+      }
     },
     "tml-2026-560-69": {
       "match_id": "tml-2026-560-69",
@@ -54293,7 +54301,11 @@
         "p2_edge": 0.0399
       },
       "collected_at": "2026-09-04T12:27:42.010618+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Gea",
+        "correct": false,
+        "settled_at": "2026-09-06T02:35:59.139574+00:00"
+      }
     },
     "2b34ae91d8c12ab0edcd7aaf19c74e07": {
       "match_id": "2b34ae91d8c12ab0edcd7aaf19c74e07",
@@ -54427,7 +54439,11 @@
         "p2_edge": -0.0332
       },
       "collected_at": "2026-09-04T12:27:42.094059+00:00",
-      "result": null
+      "result": {
+        "winner": "Karen Khachanov",
+        "correct": true,
+        "settled_at": "2026-09-06T02:35:59.064383+00:00"
+      }
     },
     "9fe6cf78efce0c0255eec3353bf470fb": {
       "match_id": "9fe6cf78efce0c0255eec3353bf470fb",
@@ -54561,7 +54577,11 @@
         "p2_edge": -0.1853
       },
       "collected_at": "2026-09-04T12:27:42.178401+00:00",
-      "result": null
+      "result": {
+        "winner": "Botic van de Zandschulp",
+        "correct": false,
+        "settled_at": "2026-09-06T02:35:59.221038+00:00"
+      }
     },
     "6ae5fc5af940894326eb9be2a2dc4900": {
       "match_id": "6ae5fc5af940894326eb9be2a2dc4900",
@@ -55161,7 +55181,141 @@
       },
       "collected_at": "2026-09-05T11:34:11.638263+00:00",
       "result": null
+    },
+    "772774e181b7af9eada58d283cd8f586": {
+      "match_id": "772774e181b7af9eada58d283cd8f586",
+      "commence_time": "2026-09-07T15:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Francisco Cerundolo",
+      "player2": "Alexander Blockx",
+      "bookmakers": {
+        "betclic_fr": {
+          "Alexander Blockx": 1.54,
+          "Francisco Cerundolo": 2.22
+        },
+        "matchbook": {
+          "Alexander Blockx": 1.66,
+          "Francisco Cerundolo": 2.48
+        },
+        "coolbet": {
+          "Alexander Blockx": 1.63,
+          "Francisco Cerundolo": 2.4
+        },
+        "betfair_ex_eu": {
+          "Alexander Blockx": 1.66,
+          "Francisco Cerundolo": 2.48
+        },
+        "nordicbet": {
+          "Alexander Blockx": 1.58,
+          "Francisco Cerundolo": 2.32
+        },
+        "sport888": {
+          "Alexander Blockx": 1.61,
+          "Francisco Cerundolo": 2.3
+        },
+        "draftkings": {
+          "Alexander Blockx": 1.57,
+          "Francisco Cerundolo": 2.37
+        },
+        "williamhill": {
+          "Alexander Blockx": 1.62,
+          "Francisco Cerundolo": 2.3
+        },
+        "gtbets": {
+          "Alexander Blockx": 1.56,
+          "Francisco Cerundolo": 2.33
+        },
+        "betsson": {
+          "Alexander Blockx": 1.58,
+          "Francisco Cerundolo": 2.32
+        },
+        "bovada": {
+          "Alexander Blockx": 1.61,
+          "Francisco Cerundolo": 2.35
+        },
+        "unibet_fr": {
+          "Alexander Blockx": 1.54,
+          "Francisco Cerundolo": 2.2
+        },
+        "mybookieag": {
+          "Alexander Blockx": 1.59,
+          "Francisco Cerundolo": 2.33
+        },
+        "winamax_de": {
+          "Alexander Blockx": 1.54,
+          "Francisco Cerundolo": 2.4
+        },
+        "winamax_fr": {
+          "Alexander Blockx": 1.49,
+          "Francisco Cerundolo": 2.25
+        },
+        "marathonbet": {
+          "Alexander Blockx": 1.57,
+          "Francisco Cerundolo": 2.39
+        },
+        "onexbet": {
+          "Alexander Blockx": 1.59,
+          "Francisco Cerundolo": 2.42
+        },
+        "tipico_de": {
+          "Alexander Blockx": 1.57,
+          "Francisco Cerundolo": 2.35
+        },
+        "betus": {
+          "Alexander Blockx": 1.61,
+          "Francisco Cerundolo": 2.34
+        },
+        "betrivers": {
+          "Alexander Blockx": 1.64,
+          "Francisco Cerundolo": 2.25
+        },
+        "unibet_nl": {
+          "Alexander Blockx": 1.64,
+          "Francisco Cerundolo": 2.25
+        },
+        "leovegas_se": {
+          "Alexander Blockx": 1.64,
+          "Francisco Cerundolo": 2.25
+        },
+        "pmu_fr": {
+          "Alexander Blockx": 1.6,
+          "Francisco Cerundolo": 2.2
+        },
+        "unibet_se": {
+          "Alexander Blockx": 1.64,
+          "Francisco Cerundolo": 2.25
+        },
+        "pinnacle": {
+          "Alexander Blockx": 1.65,
+          "Francisco Cerundolo": 2.36
+        },
+        "betonlineag": {
+          "Alexander Blockx": 1.65,
+          "Francisco Cerundolo": 2.35
+        },
+        "lowvig": {
+          "Alexander Blockx": 1.65,
+          "Francisco Cerundolo": 2.35
+        },
+        "betanysports": {
+          "Alexander Blockx": 1.65,
+          "Francisco Cerundolo": 2.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Francisco Cerundolo",
+        "p2_name": "Alexander Blockx",
+        "p1_prob": 0.5226,
+        "p2_prob": 0.4774,
+        "predicted_winner": "Francisco Cerundolo",
+        "confidence": "low",
+        "p1_edge": 0.1194,
+        "p2_edge": -0.125
+      },
+      "collected_at": "2026-09-06T02:36:06.473736+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-09-05T17:53:00.015653+00:00"
+  "last_updated": "2026-09-06T02:36:06.486253+00:00"
 }
