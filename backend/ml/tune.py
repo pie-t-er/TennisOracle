@@ -108,11 +108,11 @@ def main():
     print("Building training features...")
     X, y, dates = build_training_data(df)
 
-    train_mask = (dates.dt.year >= args.start) & (dates.dt.year <= 2024)
-    test_mask  =  dates.dt.year == 2025
+    train_mask = (dates.dt.year >= args.start) & (dates.dt.year <= 2025)
+    test_mask  =  dates.dt.year == 2026
     X_train, y_train = X[train_mask], y[train_mask]
     X_test,  y_test  = X[test_mask],  y[test_mask]
-    print(f"  Train ({args.start}–2024): {len(X_train):,} | Test (2025): {len(X_test):,}")
+    print(f"  Train ({args.start}–2025): {len(X_train):,} | Test (2026 YTD): {len(X_test):,}")
 
     metric = args.objective
     print(f"\nRunning {args.trials} Optuna trials (5-fold CV, optimising {metric})…")
@@ -141,7 +141,7 @@ def main():
 
     holdout_acc = accuracy_score(y_test, calibrated.predict(X_test))
     holdout_ll  = log_loss(y_test, calibrated.predict_proba(X_test))
-    print(f"2025 holdout — accuracy: {holdout_acc:.4f} | log-loss: {holdout_ll:.4f}")
+    print(f"2026 YTD holdout — accuracy: {holdout_acc:.4f} | log-loss: {holdout_ll:.4f}")
 
     if args.save:
         existing_acc = existing_ll = None
@@ -163,7 +163,7 @@ def main():
 
         if better:
             print(f"Tuned model is better ({reason}) — saving.")
-            save_model(calibrated, label=f"tuned {args.start}–2024")
+            save_model(calibrated, label=f"tuned {args.start}–2025")
         else:
             print(f"Tuned model doesn't improve on current ({reason}) — not saved.")
 

@@ -1,98 +1,98 @@
 [
   {
     "feature": "rank_points_diff",
-    "importance": 0.290141
+    "importance": 0.289503
   },
   {
     "feature": "rank_diff",
-    "importance": 0.140585
+    "importance": 0.160422
   },
   {
     "feature": "p1_surface_win_pct",
-    "importance": 0.049124
+    "importance": 0.037692
   },
   {
     "feature": "p2_surface_win_pct",
-    "importance": 0.047424
+    "importance": 0.03729
   },
   {
     "feature": "p2_career_win_pct",
-    "importance": 0.042795
+    "importance": 0.035618
   },
   {
     "feature": "p1_career_win_pct",
-    "importance": 0.041084
-  },
-  {
-    "feature": "p2_h2h_win_pct",
-    "importance": 0.036028
-  },
-  {
-    "feature": "p1_h2h_win_pct",
-    "importance": 0.034475
-  },
-  {
-    "feature": "p2_bmi",
-    "importance": 0.028696
-  },
-  {
-    "feature": "p1_bmi",
-    "importance": 0.028132
-  },
-  {
-    "feature": "p2_career_matches",
-    "importance": 0.020834
-  },
-  {
-    "feature": "p2_minutes_per_match",
-    "importance": 0.020793
-  },
-  {
-    "feature": "p1_minutes_per_match",
-    "importance": 0.020732
-  },
-  {
-    "feature": "p1_career_matches",
-    "importance": 0.020508
-  },
-  {
-    "feature": "p1_recent_win_pct",
-    "importance": 0.020169
-  },
-  {
-    "feature": "p2_recent_win_pct",
-    "importance": 0.018911
-  },
-  {
-    "feature": "p1_rank_points",
-    "importance": 0.018695
-  },
-  {
-    "feature": "p1_ace_rate",
-    "importance": 0.018094
-  },
-  {
-    "feature": "p2_rank_points",
-    "importance": 0.017812
-  },
-  {
-    "feature": "p2_ace_rate",
-    "importance": 0.017567
+    "importance": 0.035517
   },
   {
     "feature": "p1_rank",
-    "importance": 0.017026
+    "importance": 0.028814
   },
   {
     "feature": "p2_rank",
-    "importance": 0.016985
+    "importance": 0.028043
   },
   {
-    "feature": "p2_hand",
-    "importance": 0.016983
+    "feature": "p2_h2h_win_pct",
+    "importance": 0.027241
+  },
+  {
+    "feature": "p1_h2h_win_pct",
+    "importance": 0.025648
+  },
+  {
+    "feature": "p1_rank_points",
+    "importance": 0.024611
+  },
+  {
+    "feature": "p2_bmi",
+    "importance": 0.02446
+  },
+  {
+    "feature": "p2_rank_points",
+    "importance": 0.024406
+  },
+  {
+    "feature": "p1_bmi",
+    "importance": 0.024135
+  },
+  {
+    "feature": "p2_recent_win_pct",
+    "importance": 0.021594
+  },
+  {
+    "feature": "p1_recent_win_pct",
+    "importance": 0.021059
+  },
+  {
+    "feature": "p1_career_matches",
+    "importance": 0.020949
+  },
+  {
+    "feature": "p2_career_matches",
+    "importance": 0.020764
   },
   {
     "feature": "p1_hand",
-    "importance": 0.016405
+    "importance": 0.019364
+  },
+  {
+    "feature": "p1_minutes_per_match",
+    "importance": 0.01931
+  },
+  {
+    "feature": "p2_minutes_per_match",
+    "importance": 0.019309
+  },
+  {
+    "feature": "p2_hand",
+    "importance": 0.018735
+  },
+  {
+    "feature": "p2_ace_rate",
+    "importance": 0.017817
+  },
+  {
+    "feature": "p1_ace_rate",
+    "importance": 0.017699
   }
 ]

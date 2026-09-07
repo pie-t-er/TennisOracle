@@ -182,12 +182,12 @@
       "prediction": {
         "p1_name": "Zsombor Piros",
         "p2_name": "Billy Harris",
-        "p1_prob": 0.4356,
-        "p2_prob": 0.5644,
+        "p1_prob": 0.4685,
+        "p2_prob": 0.5315,
         "predicted_winner": "Billy Harris",
-        "confidence": "medium",
-        "p1_edge": 0.0207,
-        "p2_edge": -0.0606
+        "confidence": "low",
+        "p1_edge": 0.0536,
+        "p2_edge": -0.0935
       },
       "collected_at": "2026-06-23T13:45:17.093477+00:00",
       "result": null
@@ -224,12 +224,12 @@
       "prediction": {
         "p1_name": "Borna Gojo",
         "p2_name": "Colton Smith",
-        "p1_prob": 0.4034,
-        "p2_prob": 0.5966,
+        "p1_prob": 0.4013,
+        "p2_prob": 0.5987,
         "predicted_winner": "Colton Smith",
         "confidence": "medium",
-        "p1_edge": -0.1522,
-        "p2_edge": 0.1158
+        "p1_edge": -0.1543,
+        "p2_edge": 0.1179
       },
       "collected_at": "2026-06-23T13:45:17.100632+00:00",
       "result": null
@@ -274,12 +274,12 @@
       "prediction": {
         "p1_name": "Elias Ymer",
         "p2_name": "Timofey Skatov",
-        "p1_prob": 0.3679,
-        "p2_prob": 0.6321,
+        "p1_prob": 0.3957,
+        "p2_prob": 0.6043,
         "predicted_winner": "Timofey Skatov",
         "confidence": "high",
-        "p1_edge": -0.265,
-        "p2_edge": 0.2519
+        "p1_edge": -0.2372,
+        "p2_edge": 0.2241
       },
       "collected_at": "2026-06-23T13:45:17.110475+00:00",
       "result": null
@@ -324,12 +324,12 @@
       "prediction": {
         "p1_name": "Roman Safiullin",
         "p2_name": "Kimmer Coppejans",
-        "p1_prob": 0.6811,
-        "p2_prob": 0.3189,
+        "p1_prob": 0.657,
+        "p2_prob": 0.343,
         "predicted_winner": "Roman Safiullin",
         "confidence": "high",
-        "p1_edge": -0.1386,
-        "p2_edge": 0.1001
+        "p1_edge": -0.1627,
+        "p2_edge": 0.1242
       },
       "collected_at": "2026-06-23T13:45:17.121603+00:00",
       "result": null
@@ -370,12 +370,12 @@
       "prediction": {
         "p1_name": "Luca Nardi",
         "p2_name": "Otto Virtanen",
-        "p1_prob": 0.4739,
-        "p2_prob": 0.5261,
+        "p1_prob": 0.4606,
+        "p2_prob": 0.5394,
         "predicted_winner": "Otto Virtanen",
         "confidence": "low",
-        "p1_edge": 0.1789,
-        "p2_edge": -0.1985
+        "p1_edge": 0.1656,
+        "p2_edge": -0.1852
       },
       "collected_at": "2026-06-23T13:45:17.129213+00:00",
       "result": null
@@ -416,12 +416,12 @@
       "prediction": {
         "p1_name": "Mackenzie Mcdonald",
         "p2_name": "Roberto Carballes Baena",
-        "p1_prob": 0.619,
-        "p2_prob": 0.381,
+        "p1_prob": 0.6168,
+        "p2_prob": 0.3832,
         "predicted_winner": "Mackenzie Mcdonald",
         "confidence": "high",
-        "p1_edge": -0.0477,
-        "p2_edge": 0.0187
+        "p1_edge": -0.0499,
+        "p2_edge": 0.0209
       },
       "collected_at": "2026-06-23T13:45:17.136279+00:00",
       "result": null
@@ -454,12 +454,12 @@
       "prediction": {
         "p1_name": "Soonwoo Kwon",
         "p2_name": "Arthur Gea",
-        "p1_prob": 0.3132,
-        "p2_prob": 0.6868,
+        "p1_prob": 0.2578,
+        "p2_prob": 0.7422,
         "predicted_winner": "Arthur Gea",
         "confidence": "high",
-        "p1_edge": -0.456,
-        "p2_edge": 0.4429
+        "p1_edge": -0.5114,
+        "p2_edge": 0.4983
       },
       "collected_at": "2026-06-24T17:51:24.588418+00:00",
       "result": null
@@ -480,12 +480,12 @@
       "prediction": {
         "p1_name": "Aziz Dougaz",
         "p2_name": "Rei Sakamoto",
-        "p1_prob": 0.3601,
-        "p2_prob": 0.6399,
+        "p1_prob": 0.386,
+        "p2_prob": 0.614,
         "predicted_winner": "Rei Sakamoto",
         "confidence": "high",
-        "p1_edge": 0.323,
-        "p2_edge": -0.331
+        "p1_edge": 0.3489,
+        "p2_edge": -0.3569
       },
       "collected_at": "2026-06-24T17:51:24.596727+00:00",
       "result": null
@@ -522,12 +522,12 @@
       "prediction": {
         "p1_name": "Yi Zhou",
         "p2_name": "Billy Harris",
-        "p1_prob": 0.4521,
-        "p2_prob": 0.5479,
+        "p1_prob": 0.4695,
+        "p2_prob": 0.5305,
         "predicted_winner": "Billy Harris",
-        "confidence": "medium",
-        "p1_edge": 0.0719,
-        "p2_edge": -0.0931
+        "confidence": "low",
+        "p1_edge": 0.0893,
+        "p2_edge": -0.1105
       },
       "collected_at": "2026-06-24T17:51:24.605860+00:00",
       "result": null
@@ -572,12 +572,12 @@
       "prediction": {
         "p1_name": "Mackenzie Mcdonald",
         "p2_name": "Christopher O'Connell",
-        "p1_prob": 0.6384,
-        "p2_prob": 0.3616,
+        "p1_prob": 0.6348,
+        "p2_prob": 0.3652,
         "predicted_winner": "Mackenzie Mcdonald",
         "confidence": "high",
-        "p1_edge": 0.192,
-        "p2_edge": -0.2301
+        "p1_edge": 0.1884,
+        "p2_edge": -0.2265
       },
       "collected_at": "2026-06-24T17:51:24.613967+00:00",
       "result": null
@@ -622,12 +622,12 @@
       "prediction": {
         "p1_name": "Clement Tabur",
         "p2_name": "Shintaro Mochizuki",
-        "p1_prob": 0.4425,
-        "p2_prob": 0.5575,
+        "p1_prob": 0.4564,
+        "p2_prob": 0.5436,
         "predicted_winner": "Shintaro Mochizuki",
         "confidence": "medium",
-        "p1_edge": -0.0406,
-        "p2_edge": 0.0256
+        "p1_edge": -0.0267,
+        "p2_edge": 0.0117
       },
       "collected_at": "2026-06-24T17:51:24.622153+00:00",
       "result": null
@@ -664,12 +664,12 @@
       "prediction": {
         "p1_name": "Colton Smith",
         "p2_name": "Michael Zheng",
-        "p1_prob": 0.4157,
-        "p2_prob": 0.5843,
+        "p1_prob": 0.3389,
+        "p2_prob": 0.6611,
         "predicted_winner": "Michael Zheng",
-        "confidence": "medium",
-        "p1_edge": -0.0307,
-        "p2_edge": 0.0096
+        "confidence": "high",
+        "p1_edge": -0.1075,
+        "p2_edge": 0.0864
       },
       "collected_at": "2026-06-25T02:49:35.154164+00:00",
       "result": null
@@ -714,12 +714,12 @@
       "prediction": {
         "p1_name": "Dane Sweeny",
         "p2_name": "Tomas Barrios Vera",
-        "p1_prob": 0.4337,
-        "p2_prob": 0.5663,
+        "p1_prob": 0.372,
+        "p2_prob": 0.628,
         "predicted_winner": "Tomas Barrios Vera",
-        "confidence": "medium",
-        "p1_edge": 0.0188,
-        "p2_edge": -0.0361
+        "confidence": "high",
+        "p1_edge": -0.0429,
+        "p2_edge": 0.0256
       },
       "collected_at": "2026-06-25T02:49:35.163313+00:00",
       "result": null
@@ -756,12 +756,12 @@
       "prediction": {
         "p1_name": "Roman Safiullin",
         "p2_name": "Jerome Kym",
-        "p1_prob": 0.6139,
-        "p2_prob": 0.3861,
+        "p1_prob": 0.5287,
+        "p2_prob": 0.4713,
         "predicted_winner": "Roman Safiullin",
-        "confidence": "high",
-        "p1_edge": -0.023,
-        "p2_edge": 0.0059
+        "confidence": "low",
+        "p1_edge": -0.1082,
+        "p2_edge": 0.0911
       },
       "collected_at": "2026-06-25T02:49:35.172142+00:00",
       "result": null
@@ -798,12 +798,12 @@
       "prediction": {
         "p1_name": "Nicolas Mejia",
         "p2_name": "Tristan Schoolkate",
-        "p1_prob": 0.4571,
-        "p2_prob": 0.5429,
-        "predicted_winner": "Tristan Schoolkate",
+        "p1_prob": 0.5456,
+        "p2_prob": 0.4544,
+        "predicted_winner": "Nicolas Mejia",
         "confidence": "medium",
-        "p1_edge": 0.1883,
-        "p2_edge": -0.209
+        "p1_edge": 0.2768,
+        "p2_edge": -0.2975
       },
       "collected_at": "2026-06-25T02:49:35.181032+00:00",
       "result": null
@@ -844,12 +844,12 @@
       "prediction": {
         "p1_name": "Pablo Llamas Ruiz",
         "p2_name": "Tristan Boyer",
-        "p1_prob": 0.5506,
-        "p2_prob": 0.4494,
-        "predicted_winner": "Pablo Llamas Ruiz",
-        "confidence": "medium",
-        "p1_edge": -0.0446,
-        "p2_edge": 0.0184
+        "p1_prob": 0.4884,
+        "p2_prob": 0.5116,
+        "predicted_winner": "Tristan Boyer",
+        "confidence": "low",
+        "p1_edge": -0.1068,
+        "p2_edge": 0.0806
       },
       "collected_at": "2026-06-25T02:49:35.190065+00:00",
       "result": null
@@ -894,12 +894,12 @@
       "prediction": {
         "p1_name": "Vilius Gaubas",
         "p2_name": "Dusan Lajovic",
-        "p1_prob": 0.7012,
-        "p2_prob": 0.2988,
+        "p1_prob": 0.5776,
+        "p2_prob": 0.4224,
         "predicted_winner": "Vilius Gaubas",
-        "confidence": "high",
-        "p1_edge": 0.2062,
-        "p2_edge": -0.236
+        "confidence": "medium",
+        "p1_edge": 0.0826,
+        "p2_edge": -0.1124
       },
       "collected_at": "2026-06-25T02:49:35.199925+00:00",
       "result": null
@@ -940,12 +940,12 @@
       "prediction": {
         "p1_name": "Hugo Gaston",
         "p2_name": "Moez Echargui",
-        "p1_prob": 0.7,
-        "p2_prob": 0.3,
+        "p1_prob": 0.7003,
+        "p2_prob": 0.2997,
         "predicted_winner": "Hugo Gaston",
         "confidence": "high",
-        "p1_edge": -0.0634,
-        "p2_edge": 0.0199
+        "p1_edge": -0.0631,
+        "p2_edge": 0.0196
       },
       "collected_at": "2026-06-25T02:49:35.209080+00:00",
       "result": null
@@ -982,12 +982,12 @@
       "prediction": {
         "p1_name": "Jaime Faria",
         "p2_name": "Rei Sakamoto",
-        "p1_prob": 0.3792,
-        "p2_prob": 0.6208,
+        "p1_prob": 0.4427,
+        "p2_prob": 0.5573,
         "predicted_winner": "Rei Sakamoto",
-        "confidence": "high",
-        "p1_edge": -0.2744,
-        "p2_edge": 0.2637
+        "confidence": "medium",
+        "p1_edge": -0.2109,
+        "p2_edge": 0.2002
       },
       "collected_at": "2026-06-25T02:49:35.218312+00:00",
       "result": null
@@ -1032,12 +1032,12 @@
       "prediction": {
         "p1_name": "Timofey Skatov",
         "p2_name": "Kyrian Jacquet",
-        "p1_prob": 0.4974,
-        "p2_prob": 0.5026,
-        "predicted_winner": "Kyrian Jacquet",
+        "p1_prob": 0.5294,
+        "p2_prob": 0.4706,
+        "predicted_winner": "Timofey Skatov",
         "confidence": "low",
-        "p1_edge": 0.1573,
-        "p2_edge": -0.1641
+        "p1_edge": 0.1893,
+        "p2_edge": -0.1961
       },
       "collected_at": "2026-06-25T02:49:35.227805+00:00",
       "result": null
@@ -1078,12 +1078,12 @@
       "prediction": {
         "p1_name": "Nicolai Budkov Kjaer",
         "p2_name": "Otto Virtanen",
-        "p1_prob": 0.5434,
-        "p2_prob": 0.4566,
+        "p1_prob": 0.5325,
+        "p2_prob": 0.4675,
         "predicted_winner": "Nicolai Budkov Kjaer",
-        "confidence": "medium",
-        "p1_edge": 0.2656,
-        "p2_edge": -0.2733
+        "confidence": "low",
+        "p1_edge": 0.2547,
+        "p2_edge": -0.2624
       },
       "collected_at": "2026-06-25T02:49:35.237158+00:00",
       "result": null
@@ -5454,12 +5454,12 @@
       "prediction": {
         "p1_name": "Taylor Fritz",
         "p2_name": "Jack Draper",
-        "p1_prob": 0.601,
-        "p2_prob": 0.399,
+        "p1_prob": 0.5606,
+        "p2_prob": 0.4394,
         "predicted_winner": "Taylor Fritz",
-        "confidence": "high",
-        "p1_edge": -0.024,
-        "p2_edge": 0.0259
+        "confidence": "medium",
+        "p1_edge": -0.0644,
+        "p2_edge": 0.0663
       },
       "collected_at": "2026-06-27T10:02:46.435900+00:00",
       "result": null
@@ -6166,12 +6166,12 @@
       "prediction": {
         "p1_name": "Mattia Bellucci",
         "p2_name": "Zachary Svajda",
-        "p1_prob": 0.5907,
-        "p2_prob": 0.4093,
+        "p1_prob": 0.5144,
+        "p2_prob": 0.4856,
         "predicted_winner": "Mattia Bellucci",
-        "confidence": "medium",
-        "p1_edge": 0.016,
-        "p2_edge": -0.0162
+        "confidence": "low",
+        "p1_edge": -0.0603,
+        "p2_edge": 0.0601
       },
       "collected_at": "2026-06-27T10:02:46.576120+00:00",
       "result": null
@@ -19382,12 +19382,12 @@
       "prediction": {
         "p1_name": "Alex Michelsen",
         "p2_name": "Jack Draper",
-        "p1_prob": 0.541,
-        "p2_prob": 0.459,
+        "p1_prob": 0.5479,
+        "p2_prob": 0.4521,
         "predicted_winner": "Alex Michelsen",
         "confidence": "medium",
-        "p1_edge": 0.1062,
-        "p2_edge": -0.119
+        "p1_edge": 0.1131,
+        "p2_edge": -0.1259
       },
       "collected_at": "2026-07-27T02:30:49.566391+00:00",
       "result": null
@@ -19843,12 +19843,12 @@
       "prediction": {
         "p1_name": "Ugo Humbert",
         "p2_name": "Andrej Martin",
-        "p1_prob": 0.7967,
-        "p2_prob": 0.2033,
+        "p1_prob": 0.7985,
+        "p2_prob": 0.2015,
         "predicted_winner": "Ugo Humbert",
         "confidence": "high",
-        "p1_edge": -0.0033,
-        "p2_edge": -0.0095
+        "p1_edge": -0.0015,
+        "p2_edge": -0.0113
       },
       "collected_at": "2026-07-27T11:15:58.051673+00:00",
       "result": null
@@ -22153,12 +22153,12 @@
       "prediction": {
         "p1_name": "Martin Damm",
         "p2_name": "Henrique Rocha",
-        "p1_prob": 0.7867,
-        "p2_prob": 0.2133,
+        "p1_prob": 0.6455,
+        "p2_prob": 0.3545,
         "predicted_winner": "Martin Damm",
         "confidence": "high",
-        "p1_edge": 0.1244,
-        "p2_edge": -0.1684
+        "p1_edge": -0.0168,
+        "p2_edge": -0.0272
       },
       "collected_at": "2026-08-01T09:54:25.057424+00:00",
       "result": null
@@ -22179,12 +22179,12 @@
       "prediction": {
         "p1_name": "Marcos Giron",
         "p2_name": "Pablo Llamas Ruiz",
-        "p1_prob": 0.5219,
-        "p2_prob": 0.4781,
+        "p1_prob": 0.5034,
+        "p2_prob": 0.4966,
         "predicted_winner": "Marcos Giron",
         "confidence": "low",
-        "p1_edge": -0.1448,
-        "p2_edge": 0.1007
+        "p1_edge": -0.1633,
+        "p2_edge": 0.1192
       },
       "collected_at": "2026-08-01T09:54:25.097735+00:00",
       "result": null
@@ -22209,12 +22209,12 @@
       "prediction": {
         "p1_name": "Alexander Shevchenko",
         "p2_name": "Kyrian Jacquet",
-        "p1_prob": 0.6411,
-        "p2_prob": 0.3589,
+        "p1_prob": 0.6288,
+        "p2_prob": 0.3712,
         "predicted_winner": "Alexander Shevchenko",
         "confidence": "high",
-        "p1_edge": 0.2379,
-        "p2_edge": -0.2821
+        "p1_edge": 0.2256,
+        "p2_edge": -0.2698
       },
       "collected_at": "2026-08-01T09:54:25.137149+00:00",
       "result": null
@@ -22239,12 +22239,12 @@
       "prediction": {
         "p1_name": "Michael Zheng",
         "p2_name": "Kei Nishikori",
-        "p1_prob": 0.3659,
-        "p2_prob": 0.6341,
+        "p1_prob": 0.4981,
+        "p2_prob": 0.5019,
         "predicted_winner": "Kei Nishikori",
-        "confidence": "high",
-        "p1_edge": -0.3285,
-        "p2_edge": 0.2832
+        "confidence": "low",
+        "p1_edge": -0.1963,
+        "p2_edge": 0.151
       },
       "collected_at": "2026-08-01T09:54:25.177279+00:00",
       "result": null
@@ -22269,12 +22269,12 @@
       "prediction": {
         "p1_name": "Marco Trungelliti",
         "p2_name": "Nicolas Mejia",
-        "p1_prob": 0.4995,
-        "p2_prob": 0.5005,
-        "predicted_winner": "Nicolas Mejia",
-        "confidence": "low",
-        "p1_edge": -0.0853,
-        "p2_edge": 0.0418
+        "p1_prob": 0.5741,
+        "p2_prob": 0.4259,
+        "predicted_winner": "Marco Trungelliti",
+        "confidence": "medium",
+        "p1_edge": -0.0107,
+        "p2_edge": -0.0328
       },
       "collected_at": "2026-08-01T09:54:25.217201+00:00",
       "result": null
@@ -22299,12 +22299,12 @@
       "prediction": {
         "p1_name": "Aleksandar Vukic",
         "p2_name": "Tomas Barrios Vera",
-        "p1_prob": 0.5799,
-        "p2_prob": 0.4201,
+        "p1_prob": 0.5173,
+        "p2_prob": 0.4827,
         "predicted_winner": "Aleksandar Vukic",
-        "confidence": "medium",
-        "p1_edge": -0.105,
-        "p2_edge": 0.0617
+        "confidence": "low",
+        "p1_edge": -0.1676,
+        "p2_edge": 0.1243
       },
       "collected_at": "2026-08-01T09:54:25.257419+00:00",
       "result": null
@@ -22329,12 +22329,12 @@
       "prediction": {
         "p1_name": "Alexei Popyrin",
         "p2_name": "Thanasi Kokkinakis",
-        "p1_prob": 0.6382,
-        "p2_prob": 0.3618,
+        "p1_prob": 0.5828,
+        "p2_prob": 0.4172,
         "predicted_winner": "Alexei Popyrin",
-        "confidence": "high",
-        "p1_edge": 0.2506,
-        "p2_edge": -0.2918
+        "confidence": "medium",
+        "p1_edge": 0.1952,
+        "p2_edge": -0.2364
       },
       "collected_at": "2026-08-01T09:54:25.297431+00:00",
       "result": null
@@ -22359,12 +22359,12 @@
       "prediction": {
         "p1_name": "Jacob Fearnley",
         "p2_name": "Sebastian Ofner",
-        "p1_prob": 0.4775,
-        "p2_prob": 0.5225,
-        "predicted_winner": "Sebastian Ofner",
+        "p1_prob": 0.5087,
+        "p2_prob": 0.4913,
+        "predicted_winner": "Jacob Fearnley",
         "confidence": "low",
-        "p1_edge": -0.1554,
-        "p2_edge": 0.1127
+        "p1_edge": -0.1242,
+        "p2_edge": 0.0815
       },
       "collected_at": "2026-08-01T09:54:25.337387+00:00",
       "result": null
@@ -22385,12 +22385,12 @@
       "prediction": {
         "p1_name": "Sho Shimabukuro",
         "p2_name": "Nicolai Budkov Kjaer",
-        "p1_prob": 0.411,
-        "p2_prob": 0.589,
+        "p1_prob": 0.4149,
+        "p2_prob": 0.5851,
         "predicted_winner": "Nicolai Budkov Kjaer",
         "confidence": "medium",
-        "p1_edge": -0.1354,
-        "p2_edge": 0.094
+        "p1_edge": -0.1315,
+        "p2_edge": 0.0901
       },
       "collected_at": "2026-08-01T09:54:25.376875+00:00",
       "result": null
@@ -22415,12 +22415,12 @@
       "prediction": {
         "p1_name": "Benjamin Bonzi",
         "p2_name": "Hugo Dellien",
-        "p1_prob": 0.7379,
-        "p2_prob": 0.2621,
+        "p1_prob": 0.7209,
+        "p2_prob": 0.2791,
         "predicted_winner": "Benjamin Bonzi",
         "confidence": "high",
-        "p1_edge": -0.0751,
-        "p2_edge": 0.0343
+        "p1_edge": -0.0921,
+        "p2_edge": 0.0513
       },
       "collected_at": "2026-08-01T09:54:25.416005+00:00",
       "result": null
@@ -22445,12 +22445,12 @@
       "prediction": {
         "p1_name": "Jaime Faria",
         "p2_name": "Christopher O'Connell",
-        "p1_prob": 0.5201,
-        "p2_prob": 0.4799,
+        "p1_prob": 0.5721,
+        "p2_prob": 0.4279,
         "predicted_winner": "Jaime Faria",
-        "confidence": "low",
-        "p1_edge": -0.1422,
-        "p2_edge": 0.0997
+        "confidence": "medium",
+        "p1_edge": -0.0902,
+        "p2_edge": 0.0477
       },
       "collected_at": "2026-08-01T09:54:25.455340+00:00",
       "result": null
@@ -22475,12 +22475,12 @@
       "prediction": {
         "p1_name": "Shintaro Mochizuki",
         "p2_name": "Dane Sweeny",
-        "p1_prob": 0.5641,
-        "p2_prob": 0.4359,
+        "p1_prob": 0.5019,
+        "p2_prob": 0.4981,
         "predicted_winner": "Shintaro Mochizuki",
-        "confidence": "medium",
-        "p1_edge": -0.0494,
-        "p2_edge": 0.0049
+        "confidence": "low",
+        "p1_edge": -0.1116,
+        "p2_edge": 0.0671
       },
       "collected_at": "2026-08-01T09:54:25.494694+00:00",
       "result": null
@@ -22505,12 +22505,12 @@
       "prediction": {
         "p1_name": "Dalibor Svrcina",
         "p2_name": "Titouan Droguet",
-        "p1_prob": 0.4693,
-        "p2_prob": 0.5307,
+        "p1_prob": 0.4778,
+        "p2_prob": 0.5222,
         "predicted_winner": "Titouan Droguet",
         "confidence": "low",
-        "p1_edge": -0.0683,
-        "p2_edge": 0.0282
+        "p1_edge": -0.0598,
+        "p2_edge": 0.0197
       },
       "collected_at": "2026-08-01T09:54:25.534123+00:00",
       "result": null
@@ -25920,12 +25920,12 @@
       "prediction": {
         "p1_name": "Titouan Droguet",
         "p2_name": "Felix Auger-Aliassime",
-        "p1_prob": 0.1725,
-        "p2_prob": 0.8275,
+        "p1_prob": 0.1892,
+        "p2_prob": 0.8108,
         "predicted_winner": "Felix Auger-Aliassime",
         "confidence": "high",
-        "p1_edge": -0.0416,
-        "p2_edge": 0.021
+        "p1_edge": -0.0249,
+        "p2_edge": 0.0043
       },
       "collected_at": "2026-08-04T10:33:25.661440+00:00",
       "result": null
@@ -31354,12 +31354,12 @@
       "prediction": {
         "p1_name": "Alexander Shevchenko",
         "p2_name": "Pablo Llamas Ruiz",
-        "p1_prob": 0.6009,
-        "p2_prob": 0.3991,
+        "p1_prob": 0.5739,
+        "p2_prob": 0.4261,
         "predicted_winner": "Alexander Shevchenko",
-        "confidence": "high",
-        "p1_edge": -0.3337,
-        "p2_edge": 0.3269
+        "confidence": "medium",
+        "p1_edge": -0.3607,
+        "p2_edge": 0.3539
       },
       "collected_at": "2026-08-11T16:54:18.402487+00:00",
       "result": null
@@ -31384,12 +31384,12 @@
       "prediction": {
         "p1_name": "Christopher O'Connell",
         "p2_name": "Dane Sweeny",
-        "p1_prob": 0.5865,
-        "p2_prob": 0.4135,
+        "p1_prob": 0.5608,
+        "p2_prob": 0.4392,
         "predicted_winner": "Christopher O'Connell",
         "confidence": "medium",
-        "p1_edge": -0.0308,
-        "p2_edge": -0.0067
+        "p1_edge": -0.0565,
+        "p2_edge": 0.019
       },
       "collected_at": "2026-08-11T16:54:18.453267+00:00",
       "result": null
@@ -31430,12 +31430,12 @@
       "prediction": {
         "p1_name": "Dusan Lajovic",
         "p2_name": "Benjamin Bonzi",
-        "p1_prob": 0.3592,
-        "p2_prob": 0.6408,
+        "p1_prob": 0.3696,
+        "p2_prob": 0.6304,
         "predicted_winner": "Benjamin Bonzi",
         "confidence": "high",
-        "p1_edge": -0.0125,
-        "p2_edge": -0.0002
+        "p1_edge": -0.0021,
+        "p2_edge": -0.0106
       },
       "collected_at": "2026-08-11T16:54:18.504084+00:00",
       "result": null
@@ -31472,12 +31472,12 @@
       "prediction": {
         "p1_name": "Giovanni Mpetshi Perricard",
         "p2_name": "Zachary Svajda",
-        "p1_prob": 0.621,
-        "p2_prob": 0.379,
+        "p1_prob": 0.5704,
+        "p2_prob": 0.4296,
         "predicted_winner": "Giovanni Mpetshi Perricard",
-        "confidence": "high",
-        "p1_edge": -0.0001,
-        "p2_edge": 0.0543
+        "confidence": "medium",
+        "p1_edge": -0.0507,
+        "p2_edge": 0.1049
       },
       "collected_at": "2026-08-11T16:54:18.554797+00:00",
       "result": null
@@ -31514,12 +31514,12 @@
       "prediction": {
         "p1_name": "Luca Van Assche",
         "p2_name": "Gustavo Heide",
-        "p1_prob": 0.5813,
-        "p2_prob": 0.4187,
+        "p1_prob": 0.6061,
+        "p2_prob": 0.3939,
         "predicted_winner": "Luca Van Assche",
-        "confidence": "medium",
-        "p1_edge": -0.1706,
-        "p2_edge": 0.1596
+        "confidence": "high",
+        "p1_edge": -0.1458,
+        "p2_edge": 0.1348
       },
       "collected_at": "2026-08-11T16:54:18.605367+00:00",
       "result": null
@@ -31556,12 +31556,12 @@
       "prediction": {
         "p1_name": "Quentin Halys",
         "p2_name": "Soonwoo Kwon",
-        "p1_prob": 0.6921,
-        "p2_prob": 0.3079,
+        "p1_prob": 0.6375,
+        "p2_prob": 0.3625,
         "predicted_winner": "Quentin Halys",
         "confidence": "high",
-        "p1_edge": 0.1039,
-        "p2_edge": -0.1385
+        "p1_edge": 0.0493,
+        "p2_edge": -0.0839
       },
       "collected_at": "2026-08-11T16:54:18.656107+00:00",
       "result": null
@@ -31602,12 +31602,12 @@
       "prediction": {
         "p1_name": "Kei Nishikori",
         "p2_name": "Francisco Comesana",
-        "p1_prob": 0.6624,
-        "p2_prob": 0.3376,
+        "p1_prob": 0.6048,
+        "p2_prob": 0.3952,
         "predicted_winner": "Kei Nishikori",
         "confidence": "high",
-        "p1_edge": 0.1885,
-        "p2_edge": -0.1972
+        "p1_edge": 0.1309,
+        "p2_edge": -0.1396
       },
       "collected_at": "2026-08-11T16:54:18.707600+00:00",
       "result": null
@@ -31648,12 +31648,12 @@
       "prediction": {
         "p1_name": "Jaime Faria",
         "p2_name": "Nikoloz Basilashvili",
-        "p1_prob": 0.5435,
-        "p2_prob": 0.4565,
+        "p1_prob": 0.6184,
+        "p2_prob": 0.3816,
         "predicted_winner": "Jaime Faria",
-        "confidence": "medium",
-        "p1_edge": -0.1414,
-        "p2_edge": 0.1068
+        "confidence": "high",
+        "p1_edge": -0.0665,
+        "p2_edge": 0.0319
       },
       "collected_at": "2026-08-11T16:54:18.758687+00:00",
       "result": null
@@ -31694,12 +31694,12 @@
       "prediction": {
         "p1_name": "Marco Trungelliti",
         "p2_name": "Sebastian Ofner",
-        "p1_prob": 0.3449,
-        "p2_prob": 0.6551,
+        "p1_prob": 0.3928,
+        "p2_prob": 0.6072,
         "predicted_winner": "Sebastian Ofner",
         "confidence": "high",
-        "p1_edge": -0.0683,
-        "p2_edge": 0.049
+        "p1_edge": -0.0204,
+        "p2_edge": 0.0011
       },
       "collected_at": "2026-08-11T16:54:18.809998+00:00",
       "result": null
@@ -31736,12 +31736,12 @@
       "prediction": {
         "p1_name": "Moez Echargui",
         "p2_name": "Michael Zheng",
-        "p1_prob": 0.2997,
-        "p2_prob": 0.7003,
+        "p1_prob": 0.2612,
+        "p2_prob": 0.7388,
         "predicted_winner": "Michael Zheng",
         "confidence": "high",
-        "p1_edge": 0.1703,
-        "p2_edge": -0.2088
+        "p1_edge": 0.1318,
+        "p2_edge": -0.1703
       },
       "collected_at": "2026-08-11T16:54:18.860689+00:00",
       "result": null
@@ -31782,12 +31782,12 @@
       "prediction": {
         "p1_name": "Alexei Popyrin",
         "p2_name": "Titouan Droguet",
-        "p1_prob": 0.5596,
-        "p2_prob": 0.4404,
+        "p1_prob": 0.532,
+        "p2_prob": 0.468,
         "predicted_winner": "Alexei Popyrin",
-        "confidence": "medium",
-        "p1_edge": -0.0086,
-        "p2_edge": -0.0247
+        "confidence": "low",
+        "p1_edge": -0.0362,
+        "p2_edge": 0.0029
       },
       "collected_at": "2026-08-11T16:54:18.952813+00:00",
       "result": null
@@ -31824,12 +31824,12 @@
       "prediction": {
         "p1_name": "Billy Harris",
         "p2_name": "Kyrian Jacquet",
-        "p1_prob": 0.4913,
-        "p2_prob": 0.5087,
-        "predicted_winner": "Kyrian Jacquet",
+        "p1_prob": 0.51,
+        "p2_prob": 0.49,
+        "predicted_winner": "Billy Harris",
         "confidence": "low",
-        "p1_edge": 0.1972,
-        "p2_edge": -0.232
+        "p1_edge": 0.2159,
+        "p2_edge": -0.2507
       },
       "collected_at": "2026-08-11T16:54:19.004789+00:00",
       "result": null
@@ -31870,12 +31870,12 @@
       "prediction": {
         "p1_name": "Sho Shimabukuro",
         "p2_name": "Hugo Dellien",
-        "p1_prob": 0.566,
-        "p2_prob": 0.434,
+        "p1_prob": 0.5791,
+        "p2_prob": 0.4209,
         "predicted_winner": "Sho Shimabukuro",
         "confidence": "medium",
-        "p1_edge": -0.2673,
-        "p2_edge": 0.2261
+        "p1_edge": -0.2542,
+        "p2_edge": 0.213
       },
       "collected_at": "2026-08-11T16:54:19.056188+00:00",
       "result": null
@@ -31912,12 +31912,12 @@
       "prediction": {
         "p1_name": "Hugo Gaston",
         "p2_name": "Nicolai Budkov Kjaer",
-        "p1_prob": 0.4786,
-        "p2_prob": 0.5214,
+        "p1_prob": 0.4744,
+        "p2_prob": 0.5256,
         "predicted_winner": "Nicolai Budkov Kjaer",
         "confidence": "low",
-        "p1_edge": -0.0801,
-        "p2_edge": 0.0541
+        "p1_edge": -0.0843,
+        "p2_edge": 0.0583
       },
       "collected_at": "2026-08-11T16:54:19.107793+00:00",
       "result": null
@@ -31950,12 +31950,12 @@
       "prediction": {
         "p1_name": "Aleksandar Vukic",
         "p2_name": "Darwin Blanch",
-        "p1_prob": 0.5799,
-        "p2_prob": 0.4201,
+        "p1_prob": 0.5197,
+        "p2_prob": 0.4803,
         "predicted_winner": "Aleksandar Vukic",
-        "confidence": "medium",
-        "p1_edge": -0.0118,
-        "p2_edge": -0.0185
+        "confidence": "low",
+        "p1_edge": -0.072,
+        "p2_edge": 0.0417
       },
       "collected_at": "2026-08-11T16:54:19.159373+00:00",
       "result": null
@@ -31988,12 +31988,12 @@
       "prediction": {
         "p1_name": "Mark Lajal",
         "p2_name": "Dalibor Svrcina",
-        "p1_prob": 0.4655,
-        "p2_prob": 0.5345,
+        "p1_prob": 0.4214,
+        "p2_prob": 0.5786,
         "predicted_winner": "Dalibor Svrcina",
-        "confidence": "low",
-        "p1_edge": -0.0199,
-        "p2_edge": 0.0054
+        "confidence": "medium",
+        "p1_edge": -0.064,
+        "p2_edge": 0.0495
       },
       "collected_at": "2026-08-11T16:54:19.211010+00:00",
       "result": null
@@ -32030,12 +32030,12 @@
       "prediction": {
         "p1_name": "Marcos Giron",
         "p2_name": "Henrique Rocha",
-        "p1_prob": 0.7203,
-        "p2_prob": 0.2797,
+        "p1_prob": 0.6006,
+        "p2_prob": 0.3994,
         "predicted_winner": "Marcos Giron",
         "confidence": "high",
-        "p1_edge": 0.058,
-        "p2_edge": -0.0663
+        "p1_edge": -0.0617,
+        "p2_edge": 0.0534
       },
       "collected_at": "2026-08-11T16:54:19.262956+00:00",
       "result": null
@@ -32072,12 +32072,12 @@
       "prediction": {
         "p1_name": "Nicolas Mejia",
         "p2_name": "Jacob Fearnley",
-        "p1_prob": 0.3322,
-        "p2_prob": 0.6678,
+        "p1_prob": 0.3625,
+        "p2_prob": 0.6375,
         "predicted_winner": "Jacob Fearnley",
         "confidence": "high",
-        "p1_edge": 0.0731,
-        "p2_edge": -0.0898
+        "p1_edge": 0.1034,
+        "p2_edge": -0.1201
       },
       "collected_at": "2026-08-11T16:54:19.315083+00:00",
       "result": null
@@ -32230,14 +32230,14 @@
         }
       },
       "prediction": {
-        "p1_name": "J J Wolf",
+        "p1_name": "J.J. Wolf",
         "p2_name": "Shintaro Mochizuki",
-        "p1_prob": 0.6301,
-        "p2_prob": 0.3699,
-        "predicted_winner": "J J Wolf",
-        "confidence": "high",
-        "p1_edge": -0.0151,
-        "p2_edge": -0.0075
+        "p1_prob": 0.4289,
+        "p2_prob": 0.5711,
+        "predicted_winner": "Shintaro Mochizuki",
+        "confidence": "medium",
+        "p1_edge": -0.2163,
+        "p2_edge": 0.1937
       },
       "collected_at": "2026-08-12T01:26:51.542875+00:00",
       "result": null
@@ -32412,12 +32412,12 @@
       "prediction": {
         "p1_name": "Alexander Shevchenko",
         "p2_name": "Christopher O'Connell",
-        "p1_prob": 0.5807,
-        "p2_prob": 0.4193,
+        "p1_prob": 0.5614,
+        "p2_prob": 0.4386,
         "predicted_winner": "Alexander Shevchenko",
         "confidence": "medium",
-        "p1_edge": 0.0626,
-        "p2_edge": -0.0988
+        "p1_edge": 0.0433,
+        "p2_edge": -0.0795
       },
       "collected_at": "2026-08-12T09:07:51.270513+00:00",
       "result": null
@@ -32444,14 +32444,14 @@
         }
       },
       "prediction": {
-        "p1_name": "Hong Kit Jack Wong",
+        "p1_name": "Coleman Wong",
         "p2_name": "Otto Virtanen",
-        "p1_prob": 0.3893,
-        "p2_prob": 0.6107,
-        "predicted_winner": "Otto Virtanen",
-        "confidence": "high",
-        "p1_edge": -0.1033,
-        "p2_edge": 0.0582
+        "p1_prob": 0.5869,
+        "p2_prob": 0.4131,
+        "predicted_winner": "Coleman Wong",
+        "confidence": "medium",
+        "p1_edge": 0.0943,
+        "p2_edge": -0.1394
       },
       "collected_at": "2026-08-12T09:07:51.323310+00:00",
       "result": null
@@ -32484,12 +32484,12 @@
       "prediction": {
         "p1_name": "Luca Van Assche",
         "p2_name": "Dusan Lajovic",
-        "p1_prob": 0.6227,
-        "p2_prob": 0.3773,
+        "p1_prob": 0.664,
+        "p2_prob": 0.336,
         "predicted_winner": "Luca Van Assche",
         "confidence": "high",
-        "p1_edge": -0.0916,
-        "p2_edge": 0.0537
+        "p1_edge": -0.0503,
+        "p2_edge": 0.0124
       },
       "collected_at": "2026-08-12T09:07:51.375764+00:00",
       "result": null
@@ -32522,12 +32522,12 @@
       "prediction": {
         "p1_name": "Marco Trungelliti",
         "p2_name": "Kei Nishikori",
-        "p1_prob": 0.1698,
-        "p2_prob": 0.8302,
+        "p1_prob": 0.2313,
+        "p2_prob": 0.7687,
         "predicted_winner": "Kei Nishikori",
         "confidence": "high",
-        "p1_edge": -0.2975,
-        "p2_edge": 0.2715
+        "p1_edge": -0.236,
+        "p2_edge": 0.21
       },
       "collected_at": "2026-08-12T09:07:51.431809+00:00",
       "result": null
@@ -32556,12 +32556,12 @@
       "prediction": {
         "p1_name": "Zachary Svajda",
         "p2_name": "Michael Zheng",
-        "p1_prob": 0.444,
-        "p2_prob": 0.556,
+        "p1_prob": 0.452,
+        "p2_prob": 0.548,
         "predicted_winner": "Michael Zheng",
         "confidence": "medium",
-        "p1_edge": 0.1325,
-        "p2_edge": -0.1739
+        "p1_edge": 0.1405,
+        "p2_edge": -0.1819
       },
       "collected_at": "2026-08-12T09:07:51.484486+00:00",
       "result": null
@@ -32590,12 +32590,12 @@
       "prediction": {
         "p1_name": "Nicolai Budkov Kjaer",
         "p2_name": "Kyrian Jacquet",
-        "p1_prob": 0.5972,
-        "p2_prob": 0.4028,
+        "p1_prob": 0.5607,
+        "p2_prob": 0.4393,
         "predicted_winner": "Nicolai Budkov Kjaer",
         "confidence": "medium",
-        "p1_edge": 0.2141,
-        "p2_edge": -0.2508
+        "p1_edge": 0.1776,
+        "p2_edge": -0.2143
       },
       "collected_at": "2026-08-12T09:07:51.537047+00:00",
       "result": null
@@ -32636,12 +32636,12 @@
       "prediction": {
         "p1_name": "Sho Shimabukuro",
         "p2_name": "J.J. Wolf",
-        "p1_prob": 0.5022,
-        "p2_prob": 0.4978,
+        "p1_prob": 0.5282,
+        "p2_prob": 0.4718,
         "predicted_winner": "Sho Shimabukuro",
         "confidence": "low",
-        "p1_edge": 0.0349,
-        "p2_edge": -0.0457
+        "p1_edge": 0.0609,
+        "p2_edge": -0.0717
       },
       "collected_at": "2026-08-12T16:53:18.971060+00:00",
       "result": null
@@ -32980,12 +32980,12 @@
       "prediction": {
         "p1_name": "Botic Van De Zandschulp",
         "p2_name": "Tallon Griekspoor",
-        "p1_prob": 0.4652,
-        "p2_prob": 0.5348,
-        "predicted_winner": "Tallon Griekspoor",
+        "p1_prob": 0.5211,
+        "p2_prob": 0.4789,
+        "predicted_winner": "Botic Van De Zandschulp",
         "confidence": "low",
-        "p1_edge": -0.0529,
-        "p2_edge": 0.0494
+        "p1_edge": 0.003,
+        "p2_edge": -0.0065
       },
       "collected_at": "2026-08-12T16:53:19.228486+00:00",
       "result": null
@@ -33234,12 +33234,12 @@
       "prediction": {
         "p1_name": "Corentin Moutet",
         "p2_name": "Hubert Hurkacz",
-        "p1_prob": 0.4335,
-        "p2_prob": 0.5665,
+        "p1_prob": 0.3637,
+        "p2_prob": 0.6363,
         "predicted_winner": "Hubert Hurkacz",
-        "confidence": "medium",
-        "p1_edge": 0.1002,
-        "p2_edge": -0.1184
+        "confidence": "high",
+        "p1_edge": 0.0304,
+        "p2_edge": -0.0486
       },
       "collected_at": "2026-08-12T16:53:19.388103+00:00",
       "result": null
@@ -34520,12 +34520,12 @@
       "prediction": {
         "p1_name": "Aleksandar Vukic",
         "p2_name": "Mark Lajal",
-        "p1_prob": 0.5928,
-        "p2_prob": 0.4072,
+        "p1_prob": 0.5529,
+        "p2_prob": 0.4471,
         "predicted_winner": "Aleksandar Vukic",
         "confidence": "medium",
-        "p1_edge": 0.0341,
-        "p2_edge": -0.0601
+        "p1_edge": -0.0058,
+        "p2_edge": -0.0202
       },
       "collected_at": "2026-08-13T09:07:33.248961+00:00",
       "result": null
@@ -34558,12 +34558,12 @@
       "prediction": {
         "p1_name": "Henrique Rocha",
         "p2_name": "Nicolas Mejia",
-        "p1_prob": 0.449,
-        "p2_prob": 0.551,
-        "predicted_winner": "Nicolas Mejia",
-        "confidence": "medium",
-        "p1_edge": -0.129,
-        "p2_edge": 0.1085
+        "p1_prob": 0.6092,
+        "p2_prob": 0.3908,
+        "predicted_winner": "Henrique Rocha",
+        "confidence": "high",
+        "p1_edge": 0.0312,
+        "p2_edge": -0.0517
       },
       "collected_at": "2026-08-13T09:07:33.324480+00:00",
       "result": null
@@ -45029,12 +45029,12 @@
       "prediction": {
         "p1_name": "Marin Cilic",
         "p2_name": "Andrey Rublev",
-        "p1_prob": 0.3992,
-        "p2_prob": 0.6008,
+        "p1_prob": 0.3232,
+        "p2_prob": 0.6768,
         "predicted_winner": "Andrey Rublev",
         "confidence": "high",
-        "p1_edge": 0.1214,
-        "p2_edge": -0.1135
+        "p1_edge": 0.0454,
+        "p2_edge": -0.0375
       },
       "collected_at": "2026-08-28T08:44:17.837203+00:00",
       "result": null
@@ -46043,12 +46043,12 @@
       "prediction": {
         "p1_name": "Juan Manuel Cerundolo",
         "p2_name": "Casper Ruud",
-        "p1_prob": 0.2786,
-        "p2_prob": 0.7214,
+        "p1_prob": 0.326,
+        "p2_prob": 0.674,
         "predicted_winner": "Casper Ruud",
         "confidence": "high",
-        "p1_edge": 0.0215,
-        "p2_edge": -0.0085
+        "p1_edge": 0.0689,
+        "p2_edge": -0.0559
       },
       "collected_at": "2026-08-28T08:44:18.698647+00:00",
       "result": null
@@ -48211,12 +48211,12 @@
       "prediction": {
         "p1_name": "Rafael Jodar",
         "p2_name": "Thanasi Kokkinakis",
-        "p1_prob": 0.7813,
-        "p2_prob": 0.2187,
+        "p1_prob": 0.7695,
+        "p2_prob": 0.2305,
         "predicted_winner": "Rafael Jodar",
         "confidence": "high",
-        "p1_edge": -0.1196,
-        "p2_edge": 0.1024
+        "p1_edge": -0.1314,
+        "p2_edge": 0.1142
       },
       "collected_at": "2026-08-28T08:44:20.944719+00:00",
       "result": null
@@ -55330,12 +55330,12 @@
       "prediction": {
         "p1_name": "Francisco Cerundolo",
         "p2_name": "Alexander Blockx",
-        "p1_prob": 0.5226,
-        "p2_prob": 0.4774,
-        "predicted_winner": "Francisco Cerundolo",
+        "p1_prob": 0.4634,
+        "p2_prob": 0.5366,
+        "predicted_winner": "Alexander Blockx",
         "confidence": "low",
-        "p1_edge": 0.1194,
-        "p2_edge": -0.125
+        "p1_edge": 0.0602,
+        "p2_edge": -0.0658
       },
       "collected_at": "2026-09-06T02:36:06.473736+00:00",
       "result": null
@@ -55468,12 +55468,12 @@
       "prediction": {
         "p1_name": "Alexander Zverev",
         "p2_name": "Luciano Darderi",
-        "p1_prob": 0.779,
-        "p2_prob": 0.221,
+        "p1_prob": 0.7743,
+        "p2_prob": 0.2257,
         "predicted_winner": "Alexander Zverev",
         "confidence": "high",
-        "p1_edge": -0.1139,
-        "p2_edge": 0.1099
+        "p1_edge": -0.1186,
+        "p2_edge": 0.1146
       },
       "collected_at": "2026-09-06T11:53:58.583443+00:00",
       "result": null
@@ -55602,12 +55602,12 @@
       "prediction": {
         "p1_name": "Arthur Gea",
         "p2_name": "Botic Van De Zandschulp",
-        "p1_prob": 0.4133,
-        "p2_prob": 0.5867,
-        "predicted_winner": "Botic Van De Zandschulp",
-        "confidence": "medium",
-        "p1_edge": 0.0068,
-        "p2_edge": -0.0121
+        "p1_prob": 0.5063,
+        "p2_prob": 0.4937,
+        "predicted_winner": "Arthur Gea",
+        "confidence": "low",
+        "p1_edge": 0.0998,
+        "p2_edge": -0.1051
       },
       "collected_at": "2026-09-06T11:53:58.671466+00:00",
       "result": null
@@ -55740,12 +55740,12 @@
       "prediction": {
         "p1_name": "Karen Khachanov",
         "p2_name": "Learner Tien",
-        "p1_prob": 0.3908,
-        "p2_prob": 0.6092,
+        "p1_prob": 0.3444,
+        "p2_prob": 0.6556,
         "predicted_winner": "Learner Tien",
         "confidence": "high",
-        "p1_edge": -0.0092,
-        "p2_edge": -0.0197
+        "p1_edge": -0.0556,
+        "p2_edge": 0.0267
       },
       "collected_at": "2026-09-06T11:53:58.758430+00:00",
       "result": null
@@ -55858,12 +55858,12 @@
       "prediction": {
         "p1_name": "Frances Tiafoe",
         "p2_name": "Alex Michelsen",
-        "p1_prob": 0.4616,
-        "p2_prob": 0.5384,
-        "predicted_winner": "Alex Michelsen",
+        "p1_prob": 0.5178,
+        "p2_prob": 0.4822,
+        "predicted_winner": "Frances Tiafoe",
         "confidence": "low",
-        "p1_edge": -0.1372,
-        "p2_edge": 0.111
+        "p1_edge": -0.081,
+        "p2_edge": 0.0548
       },
       "collected_at": "2026-09-07T02:34:03.479258+00:00",
       "result": null
@@ -55960,16 +55960,16 @@
       "prediction": {
         "p1_name": "Ben Shelton",
         "p2_name": "Carlos Alcaraz",
-        "p1_prob": 0.1998,
-        "p2_prob": 0.8002,
+        "p1_prob": 0.3201,
+        "p2_prob": 0.6799,
         "predicted_winner": "Carlos Alcaraz",
         "confidence": "high",
-        "p1_edge": -0.0705,
-        "p2_edge": 0.0483
+        "p1_edge": 0.0498,
+        "p2_edge": -0.072
       },
       "collected_at": "2026-09-07T02:34:03.570978+00:00",
       "result": null
     }
   },
-  "last_updated": "2026-09-07T02:34:03.584109+00:00"
+  "last_updated": "2026-09-07T23:32:17.600295+00:00"
 }
