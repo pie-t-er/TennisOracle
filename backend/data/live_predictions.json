@@ -55480,7 +55480,11 @@
         "p2_edge": 0.1146
       },
       "collected_at": "2026-09-06T11:53:58.583443+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-09-08T12:34:23.710759+00:00"
+      }
     },
     "d41f84d62d9505420ef2be15531277cd": {
       "match_id": "d41f84d62d9505420ef2be15531277cd",
@@ -56081,7 +56085,275 @@
         "correct": true,
         "settled_at": "2026-09-08T02:47:04.987434+00:00"
       }
+    },
+    "c399320f054bede5f4cd2c5f6647e3ab": {
+      "match_id": "c399320f054bede5f4cd2c5f6647e3ab",
+      "commence_time": "2026-09-09T15:30:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Karen Khachanov",
+      "player2": "Alexander Blockx",
+      "bookmakers": {
+        "winamax_de": {
+          "Alexander Blockx": 2.4,
+          "Karen Khachanov": 1.62
+        },
+        "marathonbet": {
+          "Alexander Blockx": 2.36,
+          "Karen Khachanov": 1.6
+        },
+        "bovada": {
+          "Alexander Blockx": 2.4,
+          "Karen Khachanov": 1.59
+        },
+        "coolbet": {
+          "Alexander Blockx": 2.45,
+          "Karen Khachanov": 1.61
+        },
+        "betsson": {
+          "Alexander Blockx": 2.32,
+          "Karen Khachanov": 1.58
+        },
+        "betfair_ex_eu": {
+          "Alexander Blockx": 2.5,
+          "Karen Khachanov": 1.65
+        },
+        "winamax_fr": {
+          "Alexander Blockx": 2.35,
+          "Karen Khachanov": 1.6
+        },
+        "unibet_fr": {
+          "Alexander Blockx": 2.35,
+          "Karen Khachanov": 1.59
+        },
+        "mybookieag": {
+          "Alexander Blockx": 2.33,
+          "Karen Khachanov": 1.59
+        },
+        "nordicbet": {
+          "Alexander Blockx": 2.32,
+          "Karen Khachanov": 1.58
+        },
+        "betclic_fr": {
+          "Alexander Blockx": 2.4,
+          "Karen Khachanov": 1.58
+        },
+        "fanduel": {
+          "Alexander Blockx": 2.46,
+          "Karen Khachanov": 1.57
+        },
+        "draftkings": {
+          "Alexander Blockx": 2.3,
+          "Karen Khachanov": 1.63
+        },
+        "pinnacle": {
+          "Alexander Blockx": 2.5,
+          "Karen Khachanov": 1.59
+        },
+        "gtbets": {
+          "Alexander Blockx": 2.29,
+          "Karen Khachanov": 1.61
+        },
+        "matchbook": {
+          "Alexander Blockx": 2.5,
+          "Karen Khachanov": 1.65
+        },
+        "onexbet": {
+          "Alexander Blockx": 2.38,
+          "Karen Khachanov": 1.61
+        },
+        "sport888": {
+          "Alexander Blockx": 2.38,
+          "Karen Khachanov": 1.57
+        },
+        "williamhill": {
+          "Alexander Blockx": 2.38,
+          "Karen Khachanov": 1.57
+        },
+        "betmgm": {
+          "Alexander Blockx": 2.4,
+          "Karen Khachanov": 1.57
+        },
+        "betrivers": {
+          "Alexander Blockx": 2.33,
+          "Karen Khachanov": 1.6
+        },
+        "unibet_se": {
+          "Alexander Blockx": 2.33,
+          "Karen Khachanov": 1.6
+        },
+        "unibet_nl": {
+          "Alexander Blockx": 2.33,
+          "Karen Khachanov": 1.6
+        },
+        "leovegas_se": {
+          "Alexander Blockx": 2.33,
+          "Karen Khachanov": 1.6
+        },
+        "pmu_fr": {
+          "Alexander Blockx": 2.28,
+          "Karen Khachanov": 1.56
+        },
+        "tipico_de": {
+          "Alexander Blockx": 2.35,
+          "Karen Khachanov": 1.57
+        },
+        "betonlineag": {
+          "Alexander Blockx": 2.32,
+          "Karen Khachanov": 1.65
+        },
+        "lowvig": {
+          "Alexander Blockx": 2.32,
+          "Karen Khachanov": 1.65
+        }
+      },
+      "prediction": {
+        "p1_name": "Karen Khachanov",
+        "p2_name": "Alexander Blockx",
+        "p1_prob": 0.4393,
+        "p2_prob": 0.5607,
+        "predicted_winner": "Alexander Blockx",
+        "confidence": "medium",
+        "p1_edge": -0.1668,
+        "p2_edge": 0.1607
+      },
+      "collected_at": "2026-09-08T12:34:32.183176+00:00",
+      "result": null
+    },
+    "78400a165e824a6df488266f0d2cf7a6": {
+      "match_id": "78400a165e824a6df488266f0d2cf7a6",
+      "commence_time": "2026-09-09T15:30:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Botic van de Zandschulp",
+      "bookmakers": {
+        "betsson": {
+          "Alexander Zverev": 1.1,
+          "Botic van de Zandschulp": 6.58
+        },
+        "tipico_de": {
+          "Alexander Zverev": 1.09,
+          "Botic van de Zandschulp": 6.8
+        },
+        "winamax_fr": {
+          "Alexander Zverev": 1.11,
+          "Botic van de Zandschulp": 7.0
+        },
+        "matchbook": {
+          "Alexander Zverev": 1.13,
+          "Botic van de Zandschulp": 8.4
+        },
+        "betfair_ex_eu": {
+          "Alexander Zverev": 1.13,
+          "Botic van de Zandschulp": 8.2
+        },
+        "coolbet": {
+          "Alexander Zverev": 1.11,
+          "Botic van de Zandschulp": 7.75
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 1.11,
+          "Botic van de Zandschulp": 6.8
+        },
+        "fanduel": {
+          "Alexander Zverev": 1.11,
+          "Botic van de Zandschulp": 7.1
+        },
+        "draftkings": {
+          "Alexander Zverev": 1.12,
+          "Botic van de Zandschulp": 6.36
+        },
+        "onexbet": {
+          "Alexander Zverev": 1.1,
+          "Botic van de Zandschulp": 7.46
+        },
+        "winamax_de": {
+          "Alexander Zverev": 1.11,
+          "Botic van de Zandschulp": 7.25
+        },
+        "nordicbet": {
+          "Alexander Zverev": 1.1,
+          "Botic van de Zandschulp": 6.58
+        },
+        "gtbets": {
+          "Alexander Zverev": 1.13,
+          "Botic van de Zandschulp": 6.89
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.11,
+          "Botic van de Zandschulp": 6.7
+        },
+        "marathonbet": {
+          "Alexander Zverev": 1.09,
+          "Botic van de Zandschulp": 7.4
+        },
+        "mybookieag": {
+          "Alexander Zverev": 1.11,
+          "Botic van de Zandschulp": 6.5
+        },
+        "bovada": {
+          "Alexander Zverev": 1.11,
+          "Botic van de Zandschulp": 6.75
+        },
+        "betmgm": {
+          "Alexander Zverev": 1.11,
+          "Botic van de Zandschulp": 6.75
+        },
+        "sport888": {
+          "Alexander Zverev": 1.11,
+          "Botic van de Zandschulp": 6.5
+        },
+        "williamhill": {
+          "Alexander Zverev": 1.11,
+          "Botic van de Zandschulp": 6.5
+        },
+        "unibet_se": {
+          "Alexander Zverev": 1.08,
+          "Botic van de Zandschulp": 8.0
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.08,
+          "Botic van de Zandschulp": 8.0
+        },
+        "betrivers": {
+          "Alexander Zverev": 1.08,
+          "Botic van de Zandschulp": 8.0
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.08,
+          "Botic van de Zandschulp": 8.0
+        },
+        "pmu_fr": {
+          "Alexander Zverev": 1.06,
+          "Botic van de Zandschulp": 7.5
+        },
+        "pinnacle": {
+          "Alexander Zverev": 1.12,
+          "Botic van de Zandschulp": 6.95
+        },
+        "lowvig": {
+          "Alexander Zverev": 1.12,
+          "Botic van de Zandschulp": 7.0
+        },
+        "betonlineag": {
+          "Alexander Zverev": 1.12,
+          "Botic van de Zandschulp": 7.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Botic Van De Zandschulp",
+        "p1_prob": 0.861,
+        "p2_prob": 0.139,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": -0.024,
+        "p2_edge": 0.02
+      },
+      "collected_at": "2026-09-08T12:34:32.272527+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-09-08T02:47:05.000143+00:00"
+  "last_updated": "2026-09-08T12:34:32.287800+00:00"
 }
