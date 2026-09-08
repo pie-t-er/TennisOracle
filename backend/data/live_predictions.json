@@ -55338,7 +55338,11 @@
         "p2_edge": -0.0658
       },
       "collected_at": "2026-09-06T02:36:06.473736+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Blockx",
+        "correct": true,
+        "settled_at": "2026-09-08T02:46:49.542901+00:00"
+      }
     },
     "fe33d204a97e95299fdef4384acb8bbd": {
       "match_id": "fe33d204a97e95299fdef4384acb8bbd",
@@ -55610,7 +55614,11 @@
         "p2_edge": -0.1051
       },
       "collected_at": "2026-09-06T11:53:58.671466+00:00",
-      "result": null
+      "result": {
+        "winner": "Botic van de Zandschulp",
+        "correct": false,
+        "settled_at": "2026-09-08T02:46:49.619310+00:00"
+      }
     },
     "2bf762a4e4d1966d36e7ab7492078c62": {
       "match_id": "2bf762a4e4d1966d36e7ab7492078c62",
@@ -55748,7 +55756,11 @@
         "p2_edge": 0.0267
       },
       "collected_at": "2026-09-06T11:53:58.758430+00:00",
-      "result": null
+      "result": {
+        "winner": "Karen Khachanov",
+        "correct": false,
+        "settled_at": "2026-09-08T02:46:49.718592+00:00"
+      }
     },
     "82260e15a1cc2309da945f6cdd46459c": {
       "match_id": "82260e15a1cc2309da945f6cdd46459c",
@@ -55969,7 +55981,107 @@
       },
       "collected_at": "2026-09-07T02:34:03.570978+00:00",
       "result": null
+    },
+    "tml-2026-6242-9": {
+      "match_id": "tml-2026-6242-9",
+      "commence_time": "2026-08-25T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Mees Rottgering",
+      "player2": "Jan Choinski",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Mees Rottgering",
+        "p2_name": "Jan Choinski",
+        "p1_prob": 0.5764,
+        "p2_prob": 0.4236,
+        "predicted_winner": "Mees Rottgering",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-08T02:47:04.731070+00:00",
+      "result": {
+        "winner": "Mees Rottgering",
+        "correct": true,
+        "settled_at": "2026-09-08T02:47:04.731070+00:00"
+      }
+    },
+    "tml-2026-6242-23": {
+      "match_id": "tml-2026-6242-23",
+      "commence_time": "2026-08-26T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Juan Manuel Cerundolo",
+      "player2": "Dhakshineswar Suresh",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Juan Manuel Cerundolo",
+        "p2_name": "Dhakshineswar Suresh",
+        "p1_prob": 0.7141,
+        "p2_prob": 0.2859,
+        "predicted_winner": "Juan Manuel Cerundolo",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-08T02:47:04.818776+00:00",
+      "result": {
+        "winner": "Juan Manuel Cerundolo",
+        "correct": true,
+        "settled_at": "2026-09-08T02:47:04.818776+00:00"
+      }
+    },
+    "tml-2026-6242-31": {
+      "match_id": "tml-2026-6242-31",
+      "commence_time": "2026-08-26T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Mees Rottgering",
+      "player2": "Tomas Machac",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Mees Rottgering",
+        "p2_name": "Tomas Machac",
+        "p1_prob": 0.2636,
+        "p2_prob": 0.7364,
+        "predicted_winner": "Tomas Machac",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-08T02:47:04.903409+00:00",
+      "result": {
+        "winner": "Mees Rottgering",
+        "correct": false,
+        "settled_at": "2026-09-08T02:47:04.903409+00:00"
+      }
+    },
+    "tml-2026-6242-37": {
+      "match_id": "tml-2026-6242-37",
+      "commence_time": "2026-08-27T00:00:00+00:00",
+      "tournament": "Winston-Salem",
+      "surface": "Hard",
+      "player1": "Arthur Fery",
+      "player2": "Mees Rottgering",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Arthur Fery",
+        "p2_name": "Mees Rottgering",
+        "p1_prob": 0.7072,
+        "p2_prob": 0.2928,
+        "predicted_winner": "Arthur Fery",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-08T02:47:04.987434+00:00",
+      "result": {
+        "winner": "Arthur Fery",
+        "correct": true,
+        "settled_at": "2026-09-08T02:47:04.987434+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-07T23:32:17.600295+00:00"
+  "last_updated": "2026-09-08T02:47:05.000143+00:00"
 }
