@@ -55882,7 +55882,11 @@
         "p2_edge": 0.0548
       },
       "collected_at": "2026-09-07T02:34:03.479258+00:00",
-      "result": null
+      "result": {
+        "winner": "Frances Tiafoe",
+        "correct": true,
+        "settled_at": "2026-09-09T02:46:31.795017+00:00"
+      }
     },
     "387a94ba15ee0d940a884ffd32ace827": {
       "match_id": "387a94ba15ee0d940a884ffd32ace827",
@@ -56355,5 +56359,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-09-08T12:34:32.287800+00:00"
+  "last_updated": "2026-09-09T02:46:31.795036+00:00"
 }
