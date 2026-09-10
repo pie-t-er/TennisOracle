@@ -56503,7 +56503,149 @@
       },
       "collected_at": "2026-09-09T12:40:22.114783+00:00",
       "result": null
+    },
+    "a5886c5c9ac0bf4cac219e292081d438": {
+      "match_id": "a5886c5c9ac0bf4cac219e292081d438",
+      "commence_time": "2026-09-11T19:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Karen Khachanov",
+      "bookmakers": {
+        "draftkings": {
+          "Alexander Zverev": 1.18,
+          "Karen Khachanov": 5.08
+        },
+        "gtbets": {
+          "Alexander Zverev": 1.18,
+          "Karen Khachanov": 5.13
+        },
+        "coolbet": {
+          "Alexander Zverev": 1.19,
+          "Karen Khachanov": 5.25
+        },
+        "betsson": {
+          "Alexander Zverev": 1.17,
+          "Karen Khachanov": 4.81
+        },
+        "nordicbet": {
+          "Alexander Zverev": 1.17,
+          "Karen Khachanov": 4.81
+        },
+        "sport888": {
+          "Alexander Zverev": 1.17,
+          "Karen Khachanov": 5.0
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.17,
+          "Karen Khachanov": 4.6
+        },
+        "marathonbet": {
+          "Alexander Zverev": 1.18,
+          "Karen Khachanov": 4.95
+        },
+        "mybookieag": {
+          "Alexander Zverev": 1.17,
+          "Karen Khachanov": 4.8
+        },
+        "williamhill": {
+          "Alexander Zverev": 1.17,
+          "Karen Khachanov": 5.0
+        },
+        "betfair_ex_eu": {
+          "Alexander Zverev": 1.22,
+          "Karen Khachanov": 5.4
+        },
+        "onexbet": {
+          "Alexander Zverev": 1.19,
+          "Karen Khachanov": 4.99
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 1.18,
+          "Karen Khachanov": 5.1
+        },
+        "fanduel": {
+          "Alexander Zverev": 1.17,
+          "Karen Khachanov": 5.2
+        },
+        "tipico_de": {
+          "Alexander Zverev": 1.16,
+          "Karen Khachanov": 5.0
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.19,
+          "Karen Khachanov": 5.0
+        },
+        "betrivers": {
+          "Alexander Zverev": 1.19,
+          "Karen Khachanov": 5.0
+        },
+        "unibet_se": {
+          "Alexander Zverev": 1.19,
+          "Karen Khachanov": 5.0
+        },
+        "pmu_fr": {
+          "Alexander Zverev": 1.15,
+          "Karen Khachanov": 4.8
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.19,
+          "Karen Khachanov": 5.0
+        },
+        "bovada": {
+          "Alexander Zverev": 1.18,
+          "Karen Khachanov": 5.0
+        },
+        "winamax_de": {
+          "Alexander Zverev": 1.18,
+          "Karen Khachanov": 5.3
+        },
+        "winamax_fr": {
+          "Alexander Zverev": 1.17,
+          "Karen Khachanov": 5.1
+        },
+        "pinnacle": {
+          "Alexander Zverev": 1.2,
+          "Karen Khachanov": 5.12
+        },
+        "matchbook": {
+          "Alexander Zverev": 1.22,
+          "Karen Khachanov": 5.4
+        },
+        "betmgm": {
+          "Alexander Zverev": 1.2,
+          "Karen Khachanov": 4.6
+        },
+        "betonlineag": {
+          "Alexander Zverev": 1.19,
+          "Karen Khachanov": 5.0
+        },
+        "lowvig": {
+          "Alexander Zverev": 1.19,
+          "Karen Khachanov": 5.0
+        },
+        "betanysports": {
+          "Alexander Zverev": 1.17,
+          "Karen Khachanov": 5.0
+        },
+        "betus": {
+          "Alexander Zverev": 1.18,
+          "Karen Khachanov": 4.81
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Karen Khachanov",
+        "p1_prob": 0.8606,
+        "p2_prob": 0.1394,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": 0.0409,
+        "p2_edge": -0.0458
+      },
+      "collected_at": "2026-09-10T12:39:41.690222+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-09-10T02:48:17.988803+00:00"
+  "last_updated": "2026-09-10T12:39:41.702220+00:00"
 }
