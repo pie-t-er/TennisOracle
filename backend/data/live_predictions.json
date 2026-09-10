@@ -56226,7 +56226,11 @@
         "p2_edge": 0.1607
       },
       "collected_at": "2026-09-08T12:34:32.183176+00:00",
-      "result": null
+      "result": {
+        "winner": "Karen Khachanov",
+        "correct": false,
+        "settled_at": "2026-09-10T02:48:17.911117+00:00"
+      }
     },
     "78400a165e824a6df488266f0d2cf7a6": {
       "match_id": "78400a165e824a6df488266f0d2cf7a6",
@@ -56360,7 +56364,11 @@
         "p2_edge": 0.02
       },
       "collected_at": "2026-09-08T12:34:32.272527+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-09-10T02:48:17.988787+00:00"
+      }
     },
     "c0c9321519b34aea833d0e7708b28411": {
       "match_id": "c0c9321519b34aea833d0e7708b28411",
@@ -56497,5 +56505,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-09-09T12:40:22.124192+00:00"
+  "last_updated": "2026-09-10T02:48:17.988803+00:00"
 }
