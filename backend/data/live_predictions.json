@@ -56502,7 +56502,11 @@
         "p2_edge": -0.0677
       },
       "collected_at": "2026-09-09T12:40:22.114783+00:00",
-      "result": null
+      "result": {
+        "winner": "Ben Shelton",
+        "correct": true,
+        "settled_at": "2026-09-12T11:56:01.975854+00:00"
+      }
     },
     "a5886c5c9ac0bf4cac219e292081d438": {
       "match_id": "a5886c5c9ac0bf4cac219e292081d438",
@@ -56649,7 +56653,149 @@
         "correct": true,
         "settled_at": "2026-09-12T02:51:00.511996+00:00"
       }
+    },
+    "f3cdf500b7ae26bf7f70f24ac0f74d50": {
+      "match_id": "f3cdf500b7ae26bf7f70f24ac0f74d50",
+      "commence_time": "2026-09-13T18:00:00Z",
+      "tournament": "ATP US Open",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Ben Shelton",
+      "bookmakers": {
+        "onexbet": {
+          "Alexander Zverev": 1.71,
+          "Ben Shelton": 2.32
+        },
+        "draftkings": {
+          "Alexander Zverev": 1.67,
+          "Ben Shelton": 2.23
+        },
+        "gtbets": {
+          "Alexander Zverev": 1.7,
+          "Ben Shelton": 2.3
+        },
+        "coolbet": {
+          "Alexander Zverev": 1.68,
+          "Ben Shelton": 2.3
+        },
+        "betonlineag": {
+          "Alexander Zverev": 1.68,
+          "Ben Shelton": 2.28
+        },
+        "lowvig": {
+          "Alexander Zverev": 1.68,
+          "Ben Shelton": 2.28
+        },
+        "marathonbet": {
+          "Alexander Zverev": 1.67,
+          "Ben Shelton": 2.26
+        },
+        "pinnacle": {
+          "Alexander Zverev": 1.69,
+          "Ben Shelton": 2.28
+        },
+        "nordicbet": {
+          "Alexander Zverev": 1.65,
+          "Ben Shelton": 2.19
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.68,
+          "Ben Shelton": 2.25
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 1.68,
+          "Ben Shelton": 2.25
+        },
+        "tipico_de": {
+          "Alexander Zverev": 1.62,
+          "Ben Shelton": 2.25
+        },
+        "betsson": {
+          "Alexander Zverev": 1.65,
+          "Ben Shelton": 2.19
+        },
+        "mybookieag": {
+          "Alexander Zverev": 1.65,
+          "Ben Shelton": 2.2
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.67,
+          "Ben Shelton": 2.25
+        },
+        "pmu_fr": {
+          "Alexander Zverev": 1.61,
+          "Ben Shelton": 2.18
+        },
+        "unibet_se": {
+          "Alexander Zverev": 1.67,
+          "Ben Shelton": 2.25
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.67,
+          "Ben Shelton": 2.25
+        },
+        "betmgm": {
+          "Alexander Zverev": 1.69,
+          "Ben Shelton": 2.2
+        },
+        "fanduel": {
+          "Alexander Zverev": 1.66,
+          "Ben Shelton": 2.26
+        },
+        "betrivers": {
+          "Alexander Zverev": 1.67,
+          "Ben Shelton": 2.25
+        },
+        "betfair_ex_eu": {
+          "Alexander Zverev": 1.74,
+          "Ben Shelton": 2.32
+        },
+        "matchbook": {
+          "Alexander Zverev": 1.74,
+          "Ben Shelton": 2.32
+        },
+        "bovada": {
+          "Alexander Zverev": 1.67,
+          "Ben Shelton": 2.25
+        },
+        "betus": {
+          "Alexander Zverev": 1.66,
+          "Ben Shelton": 2.22
+        },
+        "winamax_fr": {
+          "Alexander Zverev": 1.68,
+          "Ben Shelton": 2.25
+        },
+        "winamax_de": {
+          "Alexander Zverev": 1.68,
+          "Ben Shelton": 2.25
+        },
+        "betanysports": {
+          "Alexander Zverev": 1.67,
+          "Ben Shelton": 2.2
+        },
+        "sport888": {
+          "Alexander Zverev": 1.67,
+          "Ben Shelton": 2.2
+        },
+        "williamhill": {
+          "Alexander Zverev": 1.67,
+          "Ben Shelton": 2.2
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Ben Shelton",
+        "p1_prob": 0.5449,
+        "p2_prob": 0.4551,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "medium",
+        "p1_edge": -0.0298,
+        "p2_edge": 0.0241
+      },
+      "collected_at": "2026-09-12T11:56:09.044580+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-09-12T02:51:00.512013+00:00"
+  "last_updated": "2026-09-12T11:56:09.058414+00:00"
 }
