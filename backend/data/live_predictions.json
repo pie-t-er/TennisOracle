@@ -57249,7 +57249,282 @@
         "correct": true,
         "settled_at": "2026-09-19T12:14:14.849197+00:00"
       }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-AUS-POL-01-2": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-AUS-POL-01-2",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: AUS vs POL",
+      "surface": "Hard",
+      "player1": "Kamil Majchrzak",
+      "player2": "James Duckworth",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Kamil Majchrzak",
+        "p2_name": "James Duckworth",
+        "p1_prob": 0.5736,
+        "p2_prob": 0.4264,
+        "predicted_winner": "Kamil Majchrzak",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T18:22:18.387313+00:00",
+      "result": {
+        "winner": "Kamil Majchrzak",
+        "correct": true,
+        "settled_at": "2026-09-19T18:22:18.387313+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-SVK-GRE-01-1": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-SVK-GRE-01-1",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: SVK vs GRE",
+      "surface": "Clay",
+      "player1": "Alex Molcan",
+      "player2": "Stefanos Sakellaridis",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alex Molcan",
+        "p2_name": "Stefanos Sakellaridis",
+        "p1_prob": 0.7176,
+        "p2_prob": 0.2824,
+        "predicted_winner": "Alex Molcan",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T18:22:18.475514+00:00",
+      "result": {
+        "winner": "Alex Molcan",
+        "correct": true,
+        "settled_at": "2026-09-19T18:22:18.475514+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-SVK-GRE-01-2": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-SVK-GRE-01-2",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: SVK vs GRE",
+      "surface": "Clay",
+      "player1": "Stefanos Tsitsipas",
+      "player2": "Norbert Gombos",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Stefanos Tsitsipas",
+        "p2_name": "Norbert Gombos",
+        "p1_prob": 0.8811,
+        "p2_prob": 0.1189,
+        "predicted_winner": "Stefanos Tsitsipas",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T18:22:18.564371+00:00",
+      "result": {
+        "winner": "Stefanos Tsitsipas",
+        "correct": true,
+        "settled_at": "2026-09-19T18:22:18.564371+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-DEN-BUL-01-3": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-DEN-BUL-01-3",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: DEN vs BUL",
+      "surface": "Hard",
+      "player1": "Holger Rune",
+      "player2": "Grigor Dimitrov",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Holger Rune",
+        "p2_name": "Grigor Dimitrov",
+        "p1_prob": 0.741,
+        "p2_prob": 0.259,
+        "predicted_winner": "Holger Rune",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T18:22:18.652977+00:00",
+      "result": {
+        "winner": "Holger Rune",
+        "correct": true,
+        "settled_at": "2026-09-19T18:22:18.652977+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-SRB-LTU-01-1": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-SRB-LTU-01-1",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: SRB vs LTU",
+      "surface": "Hard",
+      "player1": "Miomir Kecmanovic",
+      "player2": "Edas Butvilas",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Miomir Kecmanovic",
+        "p2_name": "Edas Butvilas",
+        "p1_prob": 0.7153,
+        "p2_prob": 0.2847,
+        "predicted_winner": "Miomir Kecmanovic",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T18:22:18.741083+00:00",
+      "result": {
+        "winner": "Miomir Kecmanovic",
+        "correct": true,
+        "settled_at": "2026-09-19T18:22:18.741083+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-QLS-M-GER-CRO-01-1": {
+      "match_id": "tml-2026-M-DC-2026-QLS-M-GER-CRO-01-1",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup QLS R2: GER vs CRO",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Matej Dodig",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Matej Dodig",
+        "p1_prob": 0.904,
+        "p2_prob": 0.096,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T18:22:18.829289+00:00",
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-09-19T18:22:18.829289+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-QLS-M-GBR-ECU-01-1": {
+      "match_id": "tml-2026-M-DC-2026-QLS-M-GBR-ECU-01-1",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup QLS R2: GBR vs ECU",
+      "surface": "Hard",
+      "player1": "Toby Samuel",
+      "player2": "Andres Andrade",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Toby Samuel",
+        "p2_name": "Andres Andrade",
+        "p1_prob": 0.628,
+        "p2_prob": 0.372,
+        "predicted_winner": "Toby Samuel",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T18:22:18.917084+00:00",
+      "result": {
+        "winner": "Toby Samuel",
+        "correct": true,
+        "settled_at": "2026-09-19T18:22:18.917084+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-QLS-M-GBR-ECU-01-2": {
+      "match_id": "tml-2026-M-DC-2026-QLS-M-GBR-ECU-01-2",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup QLS R2: GBR vs ECU",
+      "surface": "Hard",
+      "player1": "Arthur Fery",
+      "player2": "Alvaro Guillen Meza",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Arthur Fery",
+        "p2_name": "Alvaro Guillen Meza",
+        "p1_prob": 0.781,
+        "p2_prob": 0.219,
+        "predicted_winner": "Arthur Fery",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T18:22:19.007665+00:00",
+      "result": {
+        "winner": "Arthur Fery",
+        "correct": true,
+        "settled_at": "2026-09-19T18:22:19.007665+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-FIN-MON-01-3": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-FIN-MON-01-3",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: FIN vs MON",
+      "surface": "Hard",
+      "player1": "Valentin Vacherot",
+      "player2": "Otto Virtanen",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Valentin Vacherot",
+        "p2_name": "Otto Virtanen",
+        "p1_prob": 0.6599,
+        "p2_prob": 0.3401,
+        "predicted_winner": "Valentin Vacherot",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T18:22:19.141257+00:00",
+      "result": {
+        "winner": "Valentin Vacherot",
+        "correct": true,
+        "settled_at": "2026-09-19T18:22:19.141257+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-SRB-LTU-01-2": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-SRB-LTU-01-2",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: SRB vs LTU",
+      "surface": "Hard",
+      "player1": "Hamad Medjedovic",
+      "player2": "Vilius Gaubas",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Hamad Medjedovic",
+        "p2_name": "Vilius Gaubas",
+        "p1_prob": 0.6477,
+        "p2_prob": 0.3523,
+        "predicted_winner": "Hamad Medjedovic",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T18:22:19.231786+00:00",
+      "result": {
+        "winner": "Hamad Medjedovic",
+        "correct": true,
+        "settled_at": "2026-09-19T18:22:19.231786+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-ARG-TUR-01-1": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-ARG-TUR-01-1",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: ARG vs TUR",
+      "surface": "Hard",
+      "player1": "Francisco Cerundolo",
+      "player2": "Yanki Erel",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Francisco Cerundolo",
+        "p2_name": "Yanki Erel",
+        "p1_prob": 0.8497,
+        "p2_prob": 0.1503,
+        "predicted_winner": "Francisco Cerundolo",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T18:22:19.321184+00:00",
+      "result": {
+        "winner": "Francisco Cerundolo",
+        "correct": true,
+        "settled_at": "2026-09-19T18:22:19.321184+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-19T12:14:14.862637+00:00"
+  "last_updated": "2026-09-19T18:22:19.334554+00:00"
 }
