@@ -56799,7 +56799,457 @@
         "correct": true,
         "settled_at": "2026-09-14T03:03:47.842984+00:00"
       }
+    },
+    "tml-2026-M-DC-2026-QLS-M-KOR-IND-01-1": {
+      "match_id": "tml-2026-M-DC-2026-QLS-M-KOR-IND-01-1",
+      "commence_time": "2026-09-18T00:00:00+00:00",
+      "tournament": "Davis Cup QLS R2: KOR vs IND",
+      "surface": "Hard",
+      "player1": "Soonwoo Kwon",
+      "player2": "Dhakshineswar Suresh",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Soonwoo Kwon",
+        "p2_name": "Dhakshineswar Suresh",
+        "p1_prob": 0.5276,
+        "p2_prob": 0.4724,
+        "predicted_winner": "Soonwoo Kwon",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T12:14:13.262303+00:00",
+      "result": {
+        "winner": "Soonwoo Kwon",
+        "correct": true,
+        "settled_at": "2026-09-19T12:14:13.262303+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-QLS-M-KOR-IND-01-2": {
+      "match_id": "tml-2026-M-DC-2026-QLS-M-KOR-IND-01-2",
+      "commence_time": "2026-09-18T00:00:00+00:00",
+      "tournament": "Davis Cup QLS R2: KOR vs IND",
+      "surface": "Hard",
+      "player1": "Hyeon Chung",
+      "player2": "Sumit Nagal",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Hyeon Chung",
+        "p2_name": "Sumit Nagal",
+        "p1_prob": 0.6859,
+        "p2_prob": 0.3141,
+        "predicted_winner": "Hyeon Chung",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T12:14:13.352776+00:00",
+      "result": {
+        "winner": "Hyeon Chung",
+        "correct": true,
+        "settled_at": "2026-09-19T12:14:13.352776+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-QLS-M-KOR-IND-01-3": {
+      "match_id": "tml-2026-M-DC-2026-QLS-M-KOR-IND-01-3",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup QLS R2: KOR vs IND",
+      "surface": "Hard",
+      "player1": "Soonwoo Kwon",
+      "player2": "Sumit Nagal",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Soonwoo Kwon",
+        "p2_name": "Sumit Nagal",
+        "p1_prob": 0.5486,
+        "p2_prob": 0.4514,
+        "predicted_winner": "Soonwoo Kwon",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T12:14:13.442927+00:00",
+      "result": {
+        "winner": "Soonwoo Kwon",
+        "correct": true,
+        "settled_at": "2026-09-19T12:14:13.442927+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-QLS-M-AUT-BEL-01-2": {
+      "match_id": "tml-2026-M-DC-2026-QLS-M-AUT-BEL-01-2",
+      "commence_time": "2026-09-18T00:00:00+00:00",
+      "tournament": "Davis Cup QLS R2: AUT vs BEL",
+      "surface": "Clay",
+      "player1": "Zizou Bergs",
+      "player2": "Lukas Neumayer",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Zizou Bergs",
+        "p2_name": "Lukas Neumayer",
+        "p1_prob": 0.6682,
+        "p2_prob": 0.3318,
+        "predicted_winner": "Zizou Bergs",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T12:14:13.532817+00:00",
+      "result": {
+        "winner": "Zizou Bergs",
+        "correct": true,
+        "settled_at": "2026-09-19T12:14:13.532817+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-QLS-M-CZE-USA-01-2": {
+      "match_id": "tml-2026-M-DC-2026-QLS-M-CZE-USA-01-2",
+      "commence_time": "2026-09-18T00:00:00+00:00",
+      "tournament": "Davis Cup QLS R2: CZE vs USA",
+      "surface": "Hard",
+      "player1": "Jiri Lehecka",
+      "player2": "Ben Shelton",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Ben Shelton",
+        "p1_prob": 0.3707,
+        "p2_prob": 0.6293,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T12:14:13.621927+00:00",
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": false,
+        "settled_at": "2026-09-19T12:14:13.621927+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-QLS-M-CAN-FRA-01-1": {
+      "match_id": "tml-2026-M-DC-2026-QLS-M-CAN-FRA-01-1",
+      "commence_time": "2026-09-18T00:00:00+00:00",
+      "tournament": "Davis Cup QLS R2: CAN vs FRA",
+      "surface": "Hard",
+      "player1": "Liam Draxl",
+      "player2": "Arthur Rinderknech",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Liam Draxl",
+        "p2_name": "Arthur Rinderknech",
+        "p1_prob": 0.3428,
+        "p2_prob": 0.6572,
+        "predicted_winner": "Arthur Rinderknech",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T12:14:13.710427+00:00",
+      "result": {
+        "winner": "Liam Draxl",
+        "correct": false,
+        "settled_at": "2026-09-19T12:14:13.710427+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-QLS-M-CAN-FRA-01-2": {
+      "match_id": "tml-2026-M-DC-2026-QLS-M-CAN-FRA-01-2",
+      "commence_time": "2026-09-18T00:00:00+00:00",
+      "tournament": "Davis Cup QLS R2: CAN vs FRA",
+      "surface": "Hard",
+      "player1": "Felix Auger-Aliassime",
+      "player2": "Quentin Halys",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Felix Auger-Aliassime",
+        "p2_name": "Quentin Halys",
+        "p1_prob": 0.8298,
+        "p2_prob": 0.1702,
+        "predicted_winner": "Felix Auger-Aliassime",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T12:14:13.799320+00:00",
+      "result": {
+        "winner": "Felix Auger-Aliassime",
+        "correct": true,
+        "settled_at": "2026-09-19T12:14:13.799320+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-FIN-MON-01-1": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-FIN-MON-01-1",
+      "commence_time": "2026-09-18T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: FIN vs MON",
+      "surface": "Hard",
+      "player1": "Otto Virtanen",
+      "player2": "Lucas Catarina",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Otto Virtanen",
+        "p2_name": "Lucas Catarina",
+        "p1_prob": 0.6307,
+        "p2_prob": 0.3693,
+        "predicted_winner": "Otto Virtanen",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T12:14:13.890832+00:00",
+      "result": {
+        "winner": "Otto Virtanen",
+        "correct": true,
+        "settled_at": "2026-09-19T12:14:13.890832+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-FIN-MON-01-2": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-FIN-MON-01-2",
+      "commence_time": "2026-09-18T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: FIN vs MON",
+      "surface": "Hard",
+      "player1": "Valentin Vacherot",
+      "player2": "Eero Vasa",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Valentin Vacherot",
+        "p2_name": "Eero Vasa",
+        "p1_prob": 0.8606,
+        "p2_prob": 0.1394,
+        "predicted_winner": "Valentin Vacherot",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T12:14:14.032820+00:00",
+      "result": {
+        "winner": "Valentin Vacherot",
+        "correct": true,
+        "settled_at": "2026-09-19T12:14:14.032820+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-LUX-HUN-01-2": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-LUX-HUN-01-2",
+      "commence_time": "2026-09-18T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: LUX vs HUN",
+      "surface": "Hard",
+      "player1": "Zsombor Piros",
+      "player2": "Alex Knaff",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Zsombor Piros",
+        "p2_name": "Alex Knaff",
+        "p1_prob": 0.7541,
+        "p2_prob": 0.2459,
+        "predicted_winner": "Zsombor Piros",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T12:14:14.123643+00:00",
+      "result": {
+        "winner": "Zsombor Piros",
+        "correct": true,
+        "settled_at": "2026-09-19T12:14:14.123643+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-NED-COL-01-2": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-NED-COL-01-2",
+      "commence_time": "2026-09-18T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: NED vs COL",
+      "surface": "Hard",
+      "player1": "Tallon Griekspoor",
+      "player2": "Nicolas Mejia",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Tallon Griekspoor",
+        "p2_name": "Nicolas Mejia",
+        "p1_prob": 0.7634,
+        "p2_prob": 0.2366,
+        "predicted_winner": "Tallon Griekspoor",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T12:14:14.214586+00:00",
+      "result": {
+        "winner": "Tallon Griekspoor",
+        "correct": true,
+        "settled_at": "2026-09-19T12:14:14.214586+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-NOR-CHN-01-1": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-NOR-CHN-01-1",
+      "commence_time": "2026-09-18T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: NOR vs CHN",
+      "surface": "Clay",
+      "player1": "Casper Ruud",
+      "player2": "Rigele Te",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Casper Ruud",
+        "p2_name": "Rigele Te",
+        "p1_prob": 0.9371,
+        "p2_prob": 0.0629,
+        "predicted_winner": "Casper Ruud",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T12:14:14.305384+00:00",
+      "result": {
+        "winner": "Casper Ruud",
+        "correct": true,
+        "settled_at": "2026-09-19T12:14:14.305384+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-DEN-BUL-01-1": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-DEN-BUL-01-1",
+      "commence_time": "2026-09-18T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: DEN vs BUL",
+      "surface": "Hard",
+      "player1": "Grigor Dimitrov",
+      "player2": "Elmer Moller",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Grigor Dimitrov",
+        "p2_name": "Elmer Moller",
+        "p1_prob": 0.5669,
+        "p2_prob": 0.4331,
+        "predicted_winner": "Grigor Dimitrov",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T12:14:14.396142+00:00",
+      "result": {
+        "winner": "Grigor Dimitrov",
+        "correct": true,
+        "settled_at": "2026-09-19T12:14:14.396142+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-BRA-SUI-01-1": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-BRA-SUI-01-1",
+      "commence_time": "2026-09-18T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: BRA vs SUI",
+      "surface": "Hard",
+      "player1": "Joao Fonseca",
+      "player2": "Dominic Stricker",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Joao Fonseca",
+        "p2_name": "Dominic Stricker",
+        "p1_prob": 0.8064,
+        "p2_prob": 0.1936,
+        "predicted_winner": "Joao Fonseca",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T12:14:14.486827+00:00",
+      "result": {
+        "winner": "Joao Fonseca",
+        "correct": true,
+        "settled_at": "2026-09-19T12:14:14.486827+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-BRA-SUI-01-2": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-BRA-SUI-01-2",
+      "commence_time": "2026-09-18T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: BRA vs SUI",
+      "surface": "Hard",
+      "player1": "Gustavo Heide",
+      "player2": "Stan Wawrinka",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Gustavo Heide",
+        "p2_name": "Stan Wawrinka",
+        "p1_prob": 0.5033,
+        "p2_prob": 0.4967,
+        "predicted_winner": "Gustavo Heide",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T12:14:14.577537+00:00",
+      "result": {
+        "winner": "Gustavo Heide",
+        "correct": true,
+        "settled_at": "2026-09-19T12:14:14.577537+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-PER-PAR-01-2": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-PER-PAR-01-2",
+      "commence_time": "2026-09-18T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: PER vs PAR",
+      "surface": "Clay",
+      "player1": "Juan Pablo Varillas",
+      "player2": "Adolfo Daniel Vallejo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Juan Pablo Varillas",
+        "p2_name": "Adolfo Daniel Vallejo",
+        "p1_prob": 0.4055,
+        "p2_prob": 0.5945,
+        "predicted_winner": "Adolfo Daniel Vallejo",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T12:14:14.668310+00:00",
+      "result": {
+        "winner": "Juan Pablo Varillas",
+        "correct": false,
+        "settled_at": "2026-09-19T12:14:14.668310+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-NZL-JPN-01-2": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-NZL-JPN-01-2",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: NZL vs JPN",
+      "surface": "Hard",
+      "player1": "Sho Shimabukuro",
+      "player2": "James Watt",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Sho Shimabukuro",
+        "p2_name": "James Watt",
+        "p1_prob": 0.6233,
+        "p2_prob": 0.3767,
+        "predicted_winner": "Sho Shimabukuro",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T12:14:14.758593+00:00",
+      "result": {
+        "winner": "Sho Shimabukuro",
+        "correct": true,
+        "settled_at": "2026-09-19T12:14:14.758593+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-AUS-POL-01-1": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-AUS-POL-01-1",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: AUS vs POL",
+      "surface": "Hard",
+      "player1": "Alex De Minaur",
+      "player2": "Maks Kasnikowski",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alex De Minaur",
+        "p2_name": "Maks Kasnikowski",
+        "p1_prob": 0.861,
+        "p2_prob": 0.139,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-19T12:14:14.849197+00:00",
+      "result": {
+        "winner": "Alex De Minaur",
+        "correct": true,
+        "settled_at": "2026-09-19T12:14:14.849197+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-14T03:03:47.843004+00:00"
+  "last_updated": "2026-09-19T12:14:14.862637+00:00"
 }
