@@ -57524,7 +57524,157 @@
         "correct": true,
         "settled_at": "2026-09-19T18:22:19.321184+00:00"
       }
+    },
+    "tml-2026-M-DC-2026-QLS-M-AUT-BEL-01-3": {
+      "match_id": "tml-2026-M-DC-2026-QLS-M-AUT-BEL-01-3",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup QLS R2: AUT vs BEL",
+      "surface": "Clay",
+      "player1": "Jurij Rodionov",
+      "player2": "Zizou Bergs",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jurij Rodionov",
+        "p2_name": "Zizou Bergs",
+        "p1_prob": 0.3705,
+        "p2_prob": 0.6295,
+        "predicted_winner": "Zizou Bergs",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-20T03:04:51.652696+00:00",
+      "result": {
+        "winner": "Jurij Rodionov",
+        "correct": false,
+        "settled_at": "2026-09-20T03:04:51.652696+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-QLS-M-GER-CRO-01-2": {
+      "match_id": "tml-2026-M-DC-2026-QLS-M-GER-CRO-01-2",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup QLS R2: GER vs CRO",
+      "surface": "Hard",
+      "player1": "Dino Prizmic",
+      "player2": "Daniel Altmaier",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Dino Prizmic",
+        "p2_name": "Daniel Altmaier",
+        "p1_prob": 0.5504,
+        "p2_prob": 0.4496,
+        "predicted_winner": "Dino Prizmic",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-20T03:04:51.757890+00:00",
+      "result": {
+        "winner": "Dino Prizmic",
+        "correct": true,
+        "settled_at": "2026-09-20T03:04:51.757890+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-QLS-M-CZE-USA-01-3": {
+      "match_id": "tml-2026-M-DC-2026-QLS-M-CZE-USA-01-3",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup QLS R2: CZE vs USA",
+      "surface": "Hard",
+      "player1": "Jakub Mensik",
+      "player2": "Ben Shelton",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jakub Mensik",
+        "p2_name": "Ben Shelton",
+        "p1_prob": 0.4744,
+        "p2_prob": 0.5256,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-20T03:04:51.861251+00:00",
+      "result": {
+        "winner": "Jakub Mensik",
+        "correct": false,
+        "settled_at": "2026-09-20T03:04:51.861251+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-QLS-M-CZE-USA-01-4": {
+      "match_id": "tml-2026-M-DC-2026-QLS-M-CZE-USA-01-4",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup QLS R2: CZE vs USA",
+      "surface": "Hard",
+      "player1": "Jiri Lehecka",
+      "player2": "Learner Tien",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Learner Tien",
+        "p1_prob": 0.4249,
+        "p2_prob": 0.5751,
+        "predicted_winner": "Learner Tien",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-20T03:04:52.074544+00:00",
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": false,
+        "settled_at": "2026-09-20T03:04:52.074544+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-QLS-M-CHI-ESP-01-1": {
+      "match_id": "tml-2026-M-DC-2026-QLS-M-CHI-ESP-01-1",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup QLS R2: CHI vs ESP",
+      "surface": "Clay",
+      "player1": "Daniel Merida",
+      "player2": "Alejandro Tabilo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Daniel Merida",
+        "p2_name": "Alejandro Tabilo",
+        "p1_prob": 0.5197,
+        "p2_prob": 0.4803,
+        "predicted_winner": "Daniel Merida",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-20T03:04:52.314657+00:00",
+      "result": {
+        "winner": "Daniel Merida",
+        "correct": true,
+        "settled_at": "2026-09-20T03:04:52.314657+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-QLS-M-CHI-ESP-01-2": {
+      "match_id": "tml-2026-M-DC-2026-QLS-M-CHI-ESP-01-2",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup QLS R2: CHI vs ESP",
+      "surface": "Clay",
+      "player1": "Rafael Jodar",
+      "player2": "Cristian Garin",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Rafael Jodar",
+        "p2_name": "Cristian Garin",
+        "p1_prob": 0.7998,
+        "p2_prob": 0.2002,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-20T03:04:52.402510+00:00",
+      "result": {
+        "winner": "Rafael Jodar",
+        "correct": true,
+        "settled_at": "2026-09-20T03:04:52.402510+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-19T18:22:19.334554+00:00"
+  "last_updated": "2026-09-20T03:04:52.416198+00:00"
 }
