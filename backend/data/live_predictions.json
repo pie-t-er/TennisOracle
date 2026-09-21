@@ -57674,7 +57674,107 @@
         "correct": true,
         "settled_at": "2026-09-20T03:04:52.402510+00:00"
       }
+    },
+    "tml-2026-M-DC-2026-QLS-M-CAN-FRA-01-3": {
+      "match_id": "tml-2026-M-DC-2026-QLS-M-CAN-FRA-01-3",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup QLS R2: CAN vs FRA",
+      "surface": "Hard",
+      "player1": "Felix Auger-Aliassime",
+      "player2": "Arthur Rinderknech",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Felix Auger-Aliassime",
+        "p2_name": "Arthur Rinderknech",
+        "p1_prob": 0.7362,
+        "p2_prob": 0.2638,
+        "predicted_winner": "Felix Auger-Aliassime",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-21T03:01:18.287635+00:00",
+      "result": {
+        "winner": "Felix Auger-Aliassime",
+        "correct": true,
+        "settled_at": "2026-09-21T03:01:18.287635+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-PER-PAR-01-3": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-PER-PAR-01-3",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: PER vs PAR",
+      "surface": "Clay",
+      "player1": "Adolfo Daniel Vallejo",
+      "player2": "Ignacio Buse",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Adolfo Daniel Vallejo",
+        "p2_name": "Ignacio Buse",
+        "p1_prob": 0.3909,
+        "p2_prob": 0.6091,
+        "predicted_winner": "Ignacio Buse",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-21T03:01:18.377529+00:00",
+      "result": {
+        "winner": "Adolfo Daniel Vallejo",
+        "correct": false,
+        "settled_at": "2026-09-21T03:01:18.377529+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-AUS-POL-01-3": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-AUS-POL-01-3",
+      "commence_time": "2026-09-20T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: AUS vs POL",
+      "surface": "Hard",
+      "player1": "Alex De Minaur",
+      "player2": "Kamil Majchrzak",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alex De Minaur",
+        "p2_name": "Kamil Majchrzak",
+        "p1_prob": 0.7957,
+        "p2_prob": 0.2043,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-21T03:01:18.466589+00:00",
+      "result": {
+        "winner": "Alex De Minaur",
+        "correct": true,
+        "settled_at": "2026-09-21T03:01:18.466589+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-QLS-M-GER-CRO-01-3": {
+      "match_id": "tml-2026-M-DC-2026-QLS-M-GER-CRO-01-3",
+      "commence_time": "2026-09-20T00:00:00+00:00",
+      "tournament": "Davis Cup QLS R2: GER vs CRO",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Dino Prizmic",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Dino Prizmic",
+        "p1_prob": 0.8426,
+        "p2_prob": 0.1574,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-21T03:01:18.556246+00:00",
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-09-21T03:01:18.556246+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-20T03:04:52.416198+00:00"
+  "last_updated": "2026-09-21T03:01:18.569745+00:00"
 }
