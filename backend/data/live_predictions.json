@@ -57774,7 +57774,257 @@
         "correct": true,
         "settled_at": "2026-09-21T03:01:18.556246+00:00"
       }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-SVK-GRE-01-3": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-SVK-GRE-01-3",
+      "commence_time": "2026-09-20T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: SVK vs GRE",
+      "surface": "Clay",
+      "player1": "Stefanos Tsitsipas",
+      "player2": "Alex Molcan",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Stefanos Tsitsipas",
+        "p2_name": "Alex Molcan",
+        "p1_prob": 0.6093,
+        "p2_prob": 0.3907,
+        "predicted_winner": "Stefanos Tsitsipas",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-21T14:47:53.504756+00:00",
+      "result": {
+        "winner": "Stefanos Tsitsipas",
+        "correct": true,
+        "settled_at": "2026-09-21T14:47:53.504756+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG1-R1-SVK-GRE-01-4": {
+      "match_id": "tml-2026-M-DC-2026-WG1-R1-SVK-GRE-01-4",
+      "commence_time": "2026-09-20T00:00:00+00:00",
+      "tournament": "Davis Cup WG1 R1: SVK vs GRE",
+      "surface": "Clay",
+      "player1": "Norbert Gombos",
+      "player2": "Stefanos Sakellaridis",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Norbert Gombos",
+        "p2_name": "Stefanos Sakellaridis",
+        "p1_prob": 0.537,
+        "p2_prob": 0.463,
+        "predicted_winner": "Norbert Gombos",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-21T14:47:53.574767+00:00",
+      "result": {
+        "winner": "Norbert Gombos",
+        "correct": true,
+        "settled_at": "2026-09-21T14:47:53.574767+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG2-R1-KAZ-THA-01-2": {
+      "match_id": "tml-2026-M-DC-2026-WG2-R1-KAZ-THA-01-2",
+      "commence_time": "2026-09-18T00:00:00+00:00",
+      "tournament": "Davis Cup WG2 R1: KAZ vs THA",
+      "surface": "Hard",
+      "player1": "Timofey Skatov",
+      "player2": "Kasidit Samrej",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Timofey Skatov",
+        "p2_name": "Kasidit Samrej",
+        "p1_prob": 0.5256,
+        "p2_prob": 0.4744,
+        "predicted_winner": "Timofey Skatov",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-21T14:47:53.648790+00:00",
+      "result": {
+        "winner": "Timofey Skatov",
+        "correct": true,
+        "settled_at": "2026-09-21T14:47:53.648790+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG2-R1-KAZ-THA-01-3": {
+      "match_id": "tml-2026-M-DC-2026-WG2-R1-KAZ-THA-01-3",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup WG2 R1: KAZ vs THA",
+      "surface": "Hard",
+      "player1": "Kasidit Samrej",
+      "player2": "Alexander Shevchenko",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Kasidit Samrej",
+        "p2_name": "Alexander Shevchenko",
+        "p1_prob": 0.2762,
+        "p2_prob": 0.7238,
+        "predicted_winner": "Alexander Shevchenko",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-21T14:47:53.716083+00:00",
+      "result": {
+        "winner": "Kasidit Samrej",
+        "correct": false,
+        "settled_at": "2026-09-21T14:47:53.716083+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG2-R1-TUN-PAK-01-1": {
+      "match_id": "tml-2026-M-DC-2026-WG2-R1-TUN-PAK-01-1",
+      "commence_time": "2026-09-18T00:00:00+00:00",
+      "tournament": "Davis Cup WG2 R1: TUN vs PAK",
+      "surface": "Hard",
+      "player1": "Aziz Dougaz",
+      "player2": "Muhammad Shoaib",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Aziz Dougaz",
+        "p2_name": "Muhammad Shoaib",
+        "p1_prob": 0.648,
+        "p2_prob": 0.352,
+        "predicted_winner": "Aziz Dougaz",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-21T14:47:53.783270+00:00",
+      "result": {
+        "winner": "Aziz Dougaz",
+        "correct": true,
+        "settled_at": "2026-09-21T14:47:53.783270+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG2-R1-TUN-PAK-01-2": {
+      "match_id": "tml-2026-M-DC-2026-WG2-R1-TUN-PAK-01-2",
+      "commence_time": "2026-09-18T00:00:00+00:00",
+      "tournament": "Davis Cup WG2 R1: TUN vs PAK",
+      "surface": "Hard",
+      "player1": "Moez Echargui",
+      "player2": "Muzammil Murtaza",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Moez Echargui",
+        "p2_name": "Muzammil Murtaza",
+        "p1_prob": 0.5284,
+        "p2_prob": 0.4716,
+        "predicted_winner": "Moez Echargui",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-21T14:47:53.847772+00:00",
+      "result": {
+        "winner": "Moez Echargui",
+        "correct": true,
+        "settled_at": "2026-09-21T14:47:53.847772+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG2-R1-URU-EST-01-2": {
+      "match_id": "tml-2026-M-DC-2026-WG2-R1-URU-EST-01-2",
+      "commence_time": "2026-09-18T00:00:00+00:00",
+      "tournament": "Davis Cup WG2 R1: URU vs EST",
+      "surface": "Clay",
+      "player1": "Franco Roncadelli",
+      "player2": "Kristjan Tamm",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Franco Roncadelli",
+        "p2_name": "Kristjan Tamm",
+        "p1_prob": 0.5972,
+        "p2_prob": 0.4028,
+        "predicted_winner": "Franco Roncadelli",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-21T14:47:53.916497+00:00",
+      "result": {
+        "winner": "Franco Roncadelli",
+        "correct": true,
+        "settled_at": "2026-09-21T14:47:53.916497+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG2-R1-CYP-UKR-01-2": {
+      "match_id": "tml-2026-M-DC-2026-WG2-R1-CYP-UKR-01-2",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup WG2 R1: CYP vs UKR",
+      "surface": "Hard",
+      "player1": "Oleksii Krutykh",
+      "player2": "Menelaos Efstathiou",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Oleksii Krutykh",
+        "p2_name": "Menelaos Efstathiou",
+        "p1_prob": 0.6096,
+        "p2_prob": 0.3904,
+        "predicted_winner": "Oleksii Krutykh",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-21T14:47:53.984752+00:00",
+      "result": {
+        "winner": "Oleksii Krutykh",
+        "correct": true,
+        "settled_at": "2026-09-21T14:47:53.984752+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG2-R1-RSA-BIH-01-1": {
+      "match_id": "tml-2026-M-DC-2026-WG2-R1-RSA-BIH-01-1",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup WG2 R1: RSA vs BIH",
+      "surface": "Hard",
+      "player1": "Andrej Nedic",
+      "player2": "Philip Henning",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Andrej Nedic",
+        "p2_name": "Philip Henning",
+        "p1_prob": 0.5934,
+        "p2_prob": 0.4066,
+        "predicted_winner": "Andrej Nedic",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-21T14:47:54.094430+00:00",
+      "result": {
+        "winner": "Andrej Nedic",
+        "correct": true,
+        "settled_at": "2026-09-21T14:47:54.094430+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-WG2-R1-ESA-POR-01-2": {
+      "match_id": "tml-2026-M-DC-2026-WG2-R1-ESA-POR-01-2",
+      "commence_time": "2026-09-19T00:00:00+00:00",
+      "tournament": "Davis Cup WG2 R1: ESA vs POR",
+      "surface": "Hard",
+      "player1": "Jaime Faria",
+      "player2": "Cesar Cruz",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jaime Faria",
+        "p2_name": "Cesar Cruz",
+        "p1_prob": 0.8103,
+        "p2_prob": 0.1897,
+        "predicted_winner": "Jaime Faria",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-21T14:47:54.163372+00:00",
+      "result": {
+        "winner": "Jaime Faria",
+        "correct": true,
+        "settled_at": "2026-09-21T14:47:54.163372+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-21T03:01:18.569745+00:00"
+  "last_updated": "2026-09-21T14:47:54.173290+00:00"
 }
