@@ -58024,7 +58024,57 @@
         "correct": true,
         "settled_at": "2026-09-21T14:47:54.163372+00:00"
       }
+    },
+    "tml-2026-7581-1": {
+      "match_id": "tml-2026-7581-1",
+      "commence_time": "2026-09-23T00:00:00+00:00",
+      "tournament": "Chengdu",
+      "surface": "Hard",
+      "player1": "Jenson Brooksby",
+      "player2": "Sebastian Baez",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jenson Brooksby",
+        "p2_name": "Sebastian Baez",
+        "p1_prob": 0.5943,
+        "p2_prob": 0.4057,
+        "predicted_winner": "Jenson Brooksby",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-23T13:17:10.325047+00:00",
+      "result": {
+        "winner": "Jenson Brooksby",
+        "correct": true,
+        "settled_at": "2026-09-23T13:17:10.325047+00:00"
+      }
+    },
+    "tml-2026-4713-1": {
+      "match_id": "tml-2026-4713-1",
+      "commence_time": "2026-09-23T00:00:00+00:00",
+      "tournament": "Hangzhou",
+      "surface": "Hard",
+      "player1": "Kyrian Jacquet",
+      "player2": "Aleksandar Vukic",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Kyrian Jacquet",
+        "p2_name": "Aleksandar Vukic",
+        "p1_prob": 0.4673,
+        "p2_prob": 0.5327,
+        "predicted_winner": "Aleksandar Vukic",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-23T13:17:10.394590+00:00",
+      "result": {
+        "winner": "Kyrian Jacquet",
+        "correct": false,
+        "settled_at": "2026-09-23T13:17:10.394590+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-21T14:47:54.173290+00:00"
+  "last_updated": "2026-09-23T13:17:10.404496+00:00"
 }
