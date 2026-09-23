@@ -58074,7 +58074,32 @@
         "correct": false,
         "settled_at": "2026-09-23T13:17:10.394590+00:00"
       }
+    },
+    "tml-2026-4713-2": {
+      "match_id": "tml-2026-4713-2",
+      "commence_time": "2026-09-23T00:00:00+00:00",
+      "tournament": "Hangzhou",
+      "surface": "Hard",
+      "player1": "Valentin Royer",
+      "player2": "Adam Walton",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Valentin Royer",
+        "p2_name": "Adam Walton",
+        "p1_prob": 0.4855,
+        "p2_prob": 0.5145,
+        "predicted_winner": "Adam Walton",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-23T19:25:10.641375+00:00",
+      "result": {
+        "winner": "Valentin Royer",
+        "correct": false,
+        "settled_at": "2026-09-23T19:25:10.641375+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-23T13:17:10.404496+00:00"
+  "last_updated": "2026-09-23T19:25:10.655282+00:00"
 }
