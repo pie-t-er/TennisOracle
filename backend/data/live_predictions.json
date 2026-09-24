@@ -58549,7 +58549,57 @@
         "correct": true,
         "settled_at": "2026-09-24T13:07:28.868653+00:00"
       }
+    },
+    "tml-2026-7581-21": {
+      "match_id": "tml-2026-7581-21",
+      "commence_time": "2026-09-24T00:00:00+00:00",
+      "tournament": "Chengdu",
+      "surface": "Hard",
+      "player1": "Juan Manuel Cerundolo",
+      "player2": "Yi Zhou",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Juan Manuel Cerundolo",
+        "p2_name": "Yi Zhou",
+        "p1_prob": 0.61,
+        "p2_prob": 0.39,
+        "predicted_winner": "Juan Manuel Cerundolo",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-24T19:46:01.051595+00:00",
+      "result": {
+        "winner": "Juan Manuel Cerundolo",
+        "correct": true,
+        "settled_at": "2026-09-24T19:46:01.051595+00:00"
+      }
+    },
+    "tml-2026-4713-12": {
+      "match_id": "tml-2026-4713-12",
+      "commence_time": "2026-09-24T00:00:00+00:00",
+      "tournament": "Hangzhou",
+      "surface": "Hard",
+      "player1": "Coleman Wong",
+      "player2": "Zhizhen Zhang",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Coleman Wong",
+        "p2_name": "Zhizhen Zhang",
+        "p1_prob": 0.611,
+        "p2_prob": 0.389,
+        "predicted_winner": "Coleman Wong",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-24T19:46:01.143196+00:00",
+      "result": {
+        "winner": "Coleman Wong",
+        "correct": true,
+        "settled_at": "2026-09-24T19:46:01.143196+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-24T13:07:28.882555+00:00"
+  "last_updated": "2026-09-24T19:46:01.156922+00:00"
 }
