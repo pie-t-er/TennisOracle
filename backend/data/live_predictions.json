@@ -58599,7 +58599,157 @@
         "correct": true,
         "settled_at": "2026-09-24T19:46:01.143196+00:00"
       }
+    },
+    "tml-2026-4713-13": {
+      "match_id": "tml-2026-4713-13",
+      "commence_time": "2026-09-25T00:00:00+00:00",
+      "tournament": "Hangzhou",
+      "surface": "Hard",
+      "player1": "Kyrian Jacquet",
+      "player2": "Tomas Martin Etcheverry",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Kyrian Jacquet",
+        "p2_name": "Tomas Martin Etcheverry",
+        "p1_prob": 0.3426,
+        "p2_prob": 0.6574,
+        "predicted_winner": "Tomas Martin Etcheverry",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-25T13:12:35.345178+00:00",
+      "result": {
+        "winner": "Kyrian Jacquet",
+        "correct": false,
+        "settled_at": "2026-09-25T13:12:35.345178+00:00"
+      }
+    },
+    "tml-2026-7581-14": {
+      "match_id": "tml-2026-7581-14",
+      "commence_time": "2026-09-25T00:00:00+00:00",
+      "tournament": "Chengdu",
+      "surface": "Hard",
+      "player1": "Jenson Brooksby",
+      "player2": "Lorenzo Sonego",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jenson Brooksby",
+        "p2_name": "Lorenzo Sonego",
+        "p1_prob": 0.6083,
+        "p2_prob": 0.3917,
+        "predicted_winner": "Jenson Brooksby",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-25T13:12:35.432911+00:00",
+      "result": {
+        "winner": "Jenson Brooksby",
+        "correct": true,
+        "settled_at": "2026-09-25T13:12:35.432911+00:00"
+      }
+    },
+    "tml-2026-7581-15": {
+      "match_id": "tml-2026-7581-15",
+      "commence_time": "2026-09-25T00:00:00+00:00",
+      "tournament": "Chengdu",
+      "surface": "Hard",
+      "player1": "Adrian Mannarino",
+      "player2": "Alejandro Tabilo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Adrian Mannarino",
+        "p2_name": "Alejandro Tabilo",
+        "p1_prob": 0.3468,
+        "p2_prob": 0.6532,
+        "predicted_winner": "Alejandro Tabilo",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-25T13:12:35.520251+00:00",
+      "result": {
+        "winner": "Adrian Mannarino",
+        "correct": false,
+        "settled_at": "2026-09-25T13:12:35.520251+00:00"
+      }
+    },
+    "tml-2026-7581-16": {
+      "match_id": "tml-2026-7581-16",
+      "commence_time": "2026-09-25T00:00:00+00:00",
+      "tournament": "Chengdu",
+      "surface": "Hard",
+      "player1": "Nikoloz Basilashvili",
+      "player2": "Botic Van De Zandschulp",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Nikoloz Basilashvili",
+        "p2_name": "Botic Van De Zandschulp",
+        "p1_prob": 0.3581,
+        "p2_prob": 0.6419,
+        "predicted_winner": "Botic Van De Zandschulp",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-25T13:12:35.607417+00:00",
+      "result": {
+        "winner": "Nikoloz Basilashvili",
+        "correct": false,
+        "settled_at": "2026-09-25T13:12:35.607417+00:00"
+      }
+    },
+    "tml-2026-4713-14": {
+      "match_id": "tml-2026-4713-14",
+      "commence_time": "2026-09-25T00:00:00+00:00",
+      "tournament": "Hangzhou",
+      "surface": "Hard",
+      "player1": "Fabian Marozsan",
+      "player2": "Taro Daniel",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Fabian Marozsan",
+        "p2_name": "Taro Daniel",
+        "p1_prob": 0.6577,
+        "p2_prob": 0.3423,
+        "predicted_winner": "Fabian Marozsan",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-25T13:12:35.694592+00:00",
+      "result": {
+        "winner": "Fabian Marozsan",
+        "correct": true,
+        "settled_at": "2026-09-25T13:12:35.694592+00:00"
+      }
+    },
+    "tml-2026-4713-15": {
+      "match_id": "tml-2026-4713-15",
+      "commence_time": "2026-09-25T00:00:00+00:00",
+      "tournament": "Hangzhou",
+      "surface": "Hard",
+      "player1": "Andrey Rublev",
+      "player2": "Rinky Hijikata",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Andrey Rublev",
+        "p2_name": "Rinky Hijikata",
+        "p1_prob": 0.7378,
+        "p2_prob": 0.2622,
+        "predicted_winner": "Andrey Rublev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-25T13:12:35.781793+00:00",
+      "result": {
+        "winner": "Andrey Rublev",
+        "correct": true,
+        "settled_at": "2026-09-25T13:12:35.781793+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-24T19:46:01.156922+00:00"
+  "last_updated": "2026-09-25T13:12:35.796263+00:00"
 }
