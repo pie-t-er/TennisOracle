@@ -58749,7 +58749,82 @@
         "correct": true,
         "settled_at": "2026-09-25T13:12:35.781793+00:00"
       }
+    },
+    "tml-2026-4713-16": {
+      "match_id": "tml-2026-4713-16",
+      "commence_time": "2026-09-25T00:00:00+00:00",
+      "tournament": "Hangzhou",
+      "surface": "Hard",
+      "player1": "Hugo Gaston",
+      "player2": "Jaime Faria",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Hugo Gaston",
+        "p2_name": "Jaime Faria",
+        "p1_prob": 0.3849,
+        "p2_prob": 0.6151,
+        "predicted_winner": "Jaime Faria",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-25T19:47:13.052369+00:00",
+      "result": {
+        "winner": "Hugo Gaston",
+        "correct": false,
+        "settled_at": "2026-09-25T19:47:13.052369+00:00"
+      }
+    },
+    "tml-2026-9210-1": {
+      "match_id": "tml-2026-9210-1",
+      "commence_time": "2026-09-25T00:00:00+00:00",
+      "tournament": "Laver Cup",
+      "surface": "Hard",
+      "player1": "Casper Ruud",
+      "player2": "Francisco Cerundolo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Casper Ruud",
+        "p2_name": "Francisco Cerundolo",
+        "p1_prob": 0.5531,
+        "p2_prob": 0.4469,
+        "predicted_winner": "Casper Ruud",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-25T19:47:13.141999+00:00",
+      "result": {
+        "winner": "Casper Ruud",
+        "correct": true,
+        "settled_at": "2026-09-25T19:47:13.141999+00:00"
+      }
+    },
+    "tml-2026-9210-2": {
+      "match_id": "tml-2026-9210-2",
+      "commence_time": "2026-09-25T00:00:00+00:00",
+      "tournament": "Laver Cup",
+      "surface": "Hard",
+      "player1": "Brandon Nakashima",
+      "player2": "Jakub Mensik",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Brandon Nakashima",
+        "p2_name": "Jakub Mensik",
+        "p1_prob": 0.4449,
+        "p2_prob": 0.5551,
+        "predicted_winner": "Jakub Mensik",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-25T19:47:13.231745+00:00",
+      "result": {
+        "winner": "Brandon Nakashima",
+        "correct": false,
+        "settled_at": "2026-09-25T19:47:13.231745+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-25T13:12:35.796263+00:00"
+  "last_updated": "2026-09-25T19:47:13.244971+00:00"
 }
