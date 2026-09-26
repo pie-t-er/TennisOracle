@@ -58824,7 +58824,182 @@
         "correct": false,
         "settled_at": "2026-09-25T19:47:13.231745+00:00"
       }
+    },
+    "tml-2026-7581-17": {
+      "match_id": "tml-2026-7581-17",
+      "commence_time": "2026-09-26T00:00:00+00:00",
+      "tournament": "Chengdu",
+      "surface": "Hard",
+      "player1": "Alejandro Davidovich Fokina",
+      "player2": "Juan Manuel Cerundolo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alejandro Davidovich Fokina",
+        "p2_name": "Juan Manuel Cerundolo",
+        "p1_prob": 0.6342,
+        "p2_prob": 0.3658,
+        "predicted_winner": "Alejandro Davidovich Fokina",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-26T12:38:02.187038+00:00",
+      "result": {
+        "winner": "Alejandro Davidovich Fokina",
+        "correct": true,
+        "settled_at": "2026-09-26T12:38:02.187038+00:00"
+      }
+    },
+    "tml-2026-9210-3": {
+      "match_id": "tml-2026-9210-3",
+      "commence_time": "2026-09-25T00:00:00+00:00",
+      "tournament": "Laver Cup",
+      "surface": "Hard",
+      "player1": "Rafael Jodar",
+      "player2": "Alexander Bublik",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Rafael Jodar",
+        "p2_name": "Alexander Bublik",
+        "p1_prob": 0.6216,
+        "p2_prob": 0.3784,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-26T12:38:02.261156+00:00",
+      "result": {
+        "winner": "Rafael Jodar",
+        "correct": true,
+        "settled_at": "2026-09-26T12:38:02.261156+00:00"
+      }
+    },
+    "tml-2026-7581-18": {
+      "match_id": "tml-2026-7581-18",
+      "commence_time": "2026-09-26T00:00:00+00:00",
+      "tournament": "Chengdu",
+      "surface": "Hard",
+      "player1": "Alexandre Muller",
+      "player2": "Federico Cina",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alexandre Muller",
+        "p2_name": "Federico Cina",
+        "p1_prob": 0.523,
+        "p2_prob": 0.477,
+        "predicted_winner": "Alexandre Muller",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-26T12:38:02.329818+00:00",
+      "result": {
+        "winner": "Alexandre Muller",
+        "correct": true,
+        "settled_at": "2026-09-26T12:38:02.329818+00:00"
+      }
+    },
+    "tml-2026-4713-17": {
+      "match_id": "tml-2026-4713-17",
+      "commence_time": "2026-09-26T00:00:00+00:00",
+      "tournament": "Hangzhou",
+      "surface": "Hard",
+      "player1": "Roman Safiullin",
+      "player2": "Quentin Halys",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Roman Safiullin",
+        "p2_name": "Quentin Halys",
+        "p1_prob": 0.4944,
+        "p2_prob": 0.5056,
+        "predicted_winner": "Quentin Halys",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-26T12:38:02.400788+00:00",
+      "result": {
+        "winner": "Roman Safiullin",
+        "correct": false,
+        "settled_at": "2026-09-26T12:38:02.400788+00:00"
+      }
+    },
+    "tml-2026-7581-19": {
+      "match_id": "tml-2026-7581-19",
+      "commence_time": "2026-09-26T00:00:00+00:00",
+      "tournament": "Chengdu",
+      "surface": "Hard",
+      "player1": "Hubert Hurkacz",
+      "player2": "Martin Damm",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Hubert Hurkacz",
+        "p2_name": "Martin Damm",
+        "p1_prob": 0.5302,
+        "p2_prob": 0.4698,
+        "predicted_winner": "Hubert Hurkacz",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-26T12:38:02.470255+00:00",
+      "result": {
+        "winner": "Hubert Hurkacz",
+        "correct": true,
+        "settled_at": "2026-09-26T12:38:02.470255+00:00"
+      }
+    },
+    "tml-2026-4713-18": {
+      "match_id": "tml-2026-4713-18",
+      "commence_time": "2026-09-26T00:00:00+00:00",
+      "tournament": "Hangzhou",
+      "surface": "Hard",
+      "player1": "Yunchaokete Bu",
+      "player2": "Kamil Majchrzak",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Yunchaokete Bu",
+        "p2_name": "Kamil Majchrzak",
+        "p1_prob": 0.477,
+        "p2_prob": 0.523,
+        "predicted_winner": "Kamil Majchrzak",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-26T12:38:02.749927+00:00",
+      "result": {
+        "winner": "Yunchaokete Bu",
+        "correct": false,
+        "settled_at": "2026-09-26T12:38:02.749927+00:00"
+      }
+    },
+    "tml-2026-7581-20": {
+      "match_id": "tml-2026-7581-20",
+      "commence_time": "2026-09-26T00:00:00+00:00",
+      "tournament": "Chengdu",
+      "surface": "Hard",
+      "player1": "Lloyd Harris",
+      "player2": "Valentin Vacherot",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Lloyd Harris",
+        "p2_name": "Valentin Vacherot",
+        "p1_prob": 0.3797,
+        "p2_prob": 0.6203,
+        "predicted_winner": "Valentin Vacherot",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-26T12:38:02.821604+00:00",
+      "result": {
+        "winner": "Lloyd Harris",
+        "correct": false,
+        "settled_at": "2026-09-26T12:38:02.821604+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-25T19:47:13.244971+00:00"
+  "last_updated": "2026-09-26T12:38:02.877404+00:00"
 }
