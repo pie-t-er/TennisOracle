@@ -59099,7 +59099,132 @@
         "correct": true,
         "settled_at": "2026-09-27T03:19:52.738053+00:00"
       }
+    },
+    "tml-2026-4713-21": {
+      "match_id": "tml-2026-4713-21",
+      "commence_time": "2026-09-27T00:00:00+00:00",
+      "tournament": "Hangzhou",
+      "surface": "Hard",
+      "player1": "Kyrian Jacquet",
+      "player2": "Fabian Marozsan",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Kyrian Jacquet",
+        "p2_name": "Fabian Marozsan",
+        "p1_prob": 0.3479,
+        "p2_prob": 0.6521,
+        "predicted_winner": "Fabian Marozsan",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-27T13:29:57.073904+00:00",
+      "result": {
+        "winner": "Kyrian Jacquet",
+        "correct": false,
+        "settled_at": "2026-09-27T13:29:57.073904+00:00"
+      }
+    },
+    "tml-2026-7581-22": {
+      "match_id": "tml-2026-7581-22",
+      "commence_time": "2026-09-27T00:00:00+00:00",
+      "tournament": "Chengdu",
+      "surface": "Hard",
+      "player1": "Alejandro Davidovich Fokina",
+      "player2": "Alexandre Muller",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alejandro Davidovich Fokina",
+        "p2_name": "Alexandre Muller",
+        "p1_prob": 0.737,
+        "p2_prob": 0.263,
+        "predicted_winner": "Alejandro Davidovich Fokina",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-27T13:29:57.164822+00:00",
+      "result": {
+        "winner": "Alejandro Davidovich Fokina",
+        "correct": true,
+        "settled_at": "2026-09-27T13:29:57.164822+00:00"
+      }
+    },
+    "tml-2026-4713-22": {
+      "match_id": "tml-2026-4713-22",
+      "commence_time": "2026-09-27T00:00:00+00:00",
+      "tournament": "Hangzhou",
+      "surface": "Hard",
+      "player1": "Andrey Rublev",
+      "player2": "Hugo Gaston",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Andrey Rublev",
+        "p2_name": "Hugo Gaston",
+        "p1_prob": 0.8198,
+        "p2_prob": 0.1802,
+        "predicted_winner": "Andrey Rublev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-27T13:29:57.254509+00:00",
+      "result": {
+        "winner": "Andrey Rublev",
+        "correct": true,
+        "settled_at": "2026-09-27T13:29:57.254509+00:00"
+      }
+    },
+    "tml-2026-7581-23": {
+      "match_id": "tml-2026-7581-23",
+      "commence_time": "2026-09-27T00:00:00+00:00",
+      "tournament": "Chengdu",
+      "surface": "Hard",
+      "player1": "Denis Shapovalov",
+      "player2": "Adrian Mannarino",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Denis Shapovalov",
+        "p2_name": "Adrian Mannarino",
+        "p1_prob": 0.6583,
+        "p2_prob": 0.3417,
+        "predicted_winner": "Denis Shapovalov",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-27T13:29:57.344146+00:00",
+      "result": {
+        "winner": "Denis Shapovalov",
+        "correct": true,
+        "settled_at": "2026-09-27T13:29:57.344146+00:00"
+      }
+    },
+    "tml-2026-4713-23": {
+      "match_id": "tml-2026-4713-23",
+      "commence_time": "2026-09-27T00:00:00+00:00",
+      "tournament": "Hangzhou",
+      "surface": "Hard",
+      "player1": "Roman Safiullin",
+      "player2": "Yunchaokete Bu",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Roman Safiullin",
+        "p2_name": "Yunchaokete Bu",
+        "p1_prob": 0.4891,
+        "p2_prob": 0.5109,
+        "predicted_winner": "Yunchaokete Bu",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-27T13:29:57.434485+00:00",
+      "result": {
+        "winner": "Roman Safiullin",
+        "correct": false,
+        "settled_at": "2026-09-27T13:29:57.434485+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-27T03:19:52.752574+00:00"
+  "last_updated": "2026-09-27T13:29:57.447864+00:00"
 }
