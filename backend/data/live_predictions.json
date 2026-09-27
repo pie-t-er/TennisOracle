@@ -59224,7 +59224,82 @@
         "correct": false,
         "settled_at": "2026-09-27T13:29:57.434485+00:00"
       }
+    },
+    "tml-2026-7581-24": {
+      "match_id": "tml-2026-7581-24",
+      "commence_time": "2026-09-27T00:00:00+00:00",
+      "tournament": "Chengdu",
+      "surface": "Hard",
+      "player1": "Hubert Hurkacz",
+      "player2": "Lloyd Harris",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Hubert Hurkacz",
+        "p2_name": "Lloyd Harris",
+        "p1_prob": 0.6185,
+        "p2_prob": 0.3815,
+        "predicted_winner": "Hubert Hurkacz",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-27T19:29:09.461879+00:00",
+      "result": {
+        "winner": "Hubert Hurkacz",
+        "correct": true,
+        "settled_at": "2026-09-27T19:29:09.461879+00:00"
+      }
+    },
+    "tml-2026-4713-24": {
+      "match_id": "tml-2026-4713-24",
+      "commence_time": "2026-09-27T00:00:00+00:00",
+      "tournament": "Hangzhou",
+      "surface": "Hard",
+      "player1": "Daniil Medvedev",
+      "player2": "Coleman Wong",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Coleman Wong",
+        "p1_prob": 0.749,
+        "p2_prob": 0.251,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-27T19:29:09.554315+00:00",
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-09-27T19:29:09.554315+00:00"
+      }
+    },
+    "tml-2026-9210-10": {
+      "match_id": "tml-2026-9210-10",
+      "commence_time": "2026-09-27T00:00:00+00:00",
+      "tournament": "Laver Cup",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Learner Tien",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Learner Tien",
+        "p1_prob": 0.6105,
+        "p2_prob": 0.3895,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-27T19:29:09.646153+00:00",
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-09-27T19:29:09.646153+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-27T13:29:57.447864+00:00"
+  "last_updated": "2026-09-27T19:29:09.659547+00:00"
 }
