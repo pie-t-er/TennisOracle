@@ -59299,7 +59299,107 @@
         "correct": true,
         "settled_at": "2026-09-27T19:29:09.646153+00:00"
       }
+    },
+    "tml-2026-4713-25": {
+      "match_id": "tml-2026-4713-25",
+      "commence_time": "2026-09-28T00:00:00+00:00",
+      "tournament": "Hangzhou",
+      "surface": "Hard",
+      "player1": "Andrey Rublev",
+      "player2": "Kyrian Jacquet",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Andrey Rublev",
+        "p2_name": "Kyrian Jacquet",
+        "p1_prob": 0.8154,
+        "p2_prob": 0.1846,
+        "predicted_winner": "Andrey Rublev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-28T16:24:03.962782+00:00",
+      "result": {
+        "winner": "Andrey Rublev",
+        "correct": true,
+        "settled_at": "2026-09-28T16:24:03.962782+00:00"
+      }
+    },
+    "tml-2026-7581-25": {
+      "match_id": "tml-2026-7581-25",
+      "commence_time": "2026-09-28T00:00:00+00:00",
+      "tournament": "Chengdu",
+      "surface": "Hard",
+      "player1": "Alejandro Davidovich Fokina",
+      "player2": "Nikoloz Basilashvili",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alejandro Davidovich Fokina",
+        "p2_name": "Nikoloz Basilashvili",
+        "p1_prob": 0.7044,
+        "p2_prob": 0.2956,
+        "predicted_winner": "Alejandro Davidovich Fokina",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-28T16:24:04.054531+00:00",
+      "result": {
+        "winner": "Alejandro Davidovich Fokina",
+        "correct": true,
+        "settled_at": "2026-09-28T16:24:04.054531+00:00"
+      }
+    },
+    "tml-2026-4713-26": {
+      "match_id": "tml-2026-4713-26",
+      "commence_time": "2026-09-28T00:00:00+00:00",
+      "tournament": "Hangzhou",
+      "surface": "Hard",
+      "player1": "Daniil Medvedev",
+      "player2": "Roman Safiullin",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Roman Safiullin",
+        "p1_prob": 0.8384,
+        "p2_prob": 0.1616,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-28T16:24:04.146198+00:00",
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-09-28T16:24:04.146198+00:00"
+      }
+    },
+    "tml-2026-7581-26": {
+      "match_id": "tml-2026-7581-26",
+      "commence_time": "2026-09-28T00:00:00+00:00",
+      "tournament": "Chengdu",
+      "surface": "Hard",
+      "player1": "Hubert Hurkacz",
+      "player2": "Denis Shapovalov",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Hubert Hurkacz",
+        "p2_name": "Denis Shapovalov",
+        "p1_prob": 0.5683,
+        "p2_prob": 0.4317,
+        "predicted_winner": "Hubert Hurkacz",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-28T16:24:04.236882+00:00",
+      "result": {
+        "winner": "Hubert Hurkacz",
+        "correct": true,
+        "settled_at": "2026-09-28T16:24:04.236882+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-27T19:29:09.659547+00:00"
+  "last_updated": "2026-09-28T16:24:04.251196+00:00"
 }
