@@ -60181,7 +60181,1857 @@
       },
       "collected_at": "2026-09-29T03:54:17.572531+00:00",
       "result": null
+    },
+    "cc2d916c71c7c424e48b2025e02ead52": {
+      "match_id": "cc2d916c71c7c424e48b2025e02ead52",
+      "commence_time": "2026-09-30T09:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Zhizhen Zhang",
+      "player2": "Arthur Gea",
+      "bookmakers": {
+        "nordicbet": {
+          "Arthur Gea": 1.31,
+          "Zhizhen Zhang": 3.35
+        },
+        "betfair_ex_eu": {
+          "Arthur Gea": 1.33,
+          "Zhizhen Zhang": 3.6
+        },
+        "marathonbet": {
+          "Arthur Gea": 1.32,
+          "Zhizhen Zhang": 3.34
+        },
+        "betsson": {
+          "Arthur Gea": 1.31,
+          "Zhizhen Zhang": 3.35
+        },
+        "fanduel": {
+          "Arthur Gea": 1.3,
+          "Zhizhen Zhang": 3.6
+        },
+        "sport888": {
+          "Arthur Gea": 1.36,
+          "Zhizhen Zhang": 3.1
+        },
+        "gtbets": {
+          "Arthur Gea": 1.32,
+          "Zhizhen Zhang": 3.39
+        },
+        "draftkings": {
+          "Arthur Gea": 1.33,
+          "Zhizhen Zhang": 3.4
+        },
+        "coolbet": {
+          "Arthur Gea": 1.34,
+          "Zhizhen Zhang": 3.3
+        },
+        "williamhill": {
+          "Arthur Gea": 1.36,
+          "Zhizhen Zhang": 3.1
+        },
+        "matchbook": {
+          "Arthur Gea": 1.33,
+          "Zhizhen Zhang": 3.6
+        },
+        "betrivers": {
+          "Arthur Gea": 1.33,
+          "Zhizhen Zhang": 3.3
+        },
+        "unibet_se": {
+          "Arthur Gea": 1.33,
+          "Zhizhen Zhang": 3.3
+        },
+        "pmu_fr": {
+          "Arthur Gea": 1.28,
+          "Zhizhen Zhang": 3.15
+        },
+        "leovegas_se": {
+          "Arthur Gea": 1.33,
+          "Zhizhen Zhang": 3.3
+        },
+        "unibet_nl": {
+          "Arthur Gea": 1.33,
+          "Zhizhen Zhang": 3.3
+        },
+        "unibet_fr": {
+          "Arthur Gea": 1.28,
+          "Zhizhen Zhang": 3.15
+        },
+        "tipico_de": {
+          "Arthur Gea": 1.27,
+          "Zhizhen Zhang": 3.4
+        },
+        "pinnacle": {
+          "Arthur Gea": 1.34,
+          "Zhizhen Zhang": 3.47
+        },
+        "betmgm": {
+          "Arthur Gea": 1.33,
+          "Zhizhen Zhang": 3.25
+        },
+        "bovada": {
+          "Arthur Gea": 1.33,
+          "Zhizhen Zhang": 3.4
+        }
+      },
+      "prediction": {
+        "p1_name": "Zhizhen Zhang",
+        "p2_name": "Arthur Gea",
+        "p1_prob": 0.3365,
+        "p2_prob": 0.6635,
+        "predicted_winner": "Arthur Gea",
+        "confidence": "high",
+        "p1_edge": 0.0587,
+        "p2_edge": -0.0718
+      },
+      "collected_at": "2026-09-29T14:33:55.987431+00:00",
+      "result": null
+    },
+    "c83a68420401e6b8f8010e3050bed2ea": {
+      "match_id": "c83a68420401e6b8f8010e3050bed2ea",
+      "commence_time": "2026-10-01T02:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Alex Molcan",
+      "player2": "Arthur Rinderknech",
+      "bookmakers": {
+        "nordicbet": {
+          "Alex Molcan": 2.34,
+          "Arthur Rinderknech": 1.58
+        },
+        "betfair_ex_eu": {
+          "Alex Molcan": 2.56,
+          "Arthur Rinderknech": 1.42
+        },
+        "marathonbet": {
+          "Alex Molcan": 2.39,
+          "Arthur Rinderknech": 1.57
+        },
+        "betsson": {
+          "Alex Molcan": 2.34,
+          "Arthur Rinderknech": 1.58
+        },
+        "sport888": {
+          "Alex Molcan": 2.3,
+          "Arthur Rinderknech": 1.61
+        },
+        "fanduel": {
+          "Alex Molcan": 2.4,
+          "Arthur Rinderknech": 1.59
+        },
+        "gtbets": {
+          "Alex Molcan": 2.43,
+          "Arthur Rinderknech": 1.57
+        },
+        "williamhill": {
+          "Alex Molcan": 2.3,
+          "Arthur Rinderknech": 1.62
+        },
+        "unibet_se": {
+          "Alex Molcan": 2.5,
+          "Arthur Rinderknech": 1.53
+        },
+        "pmu_fr": {
+          "Alex Molcan": 2.38,
+          "Arthur Rinderknech": 1.47
+        },
+        "leovegas_se": {
+          "Alex Molcan": 2.5,
+          "Arthur Rinderknech": 1.53
+        },
+        "unibet_nl": {
+          "Alex Molcan": 2.5,
+          "Arthur Rinderknech": 1.53
+        },
+        "betrivers": {
+          "Alex Molcan": 2.5,
+          "Arthur Rinderknech": 1.53
+        },
+        "unibet_fr": {
+          "Alex Molcan": 2.2,
+          "Arthur Rinderknech": 1.51
+        },
+        "tipico_de": {
+          "Alex Molcan": 2.35,
+          "Arthur Rinderknech": 1.52
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex Molcan",
+        "p2_name": "Arthur Rinderknech",
+        "p1_prob": 0.363,
+        "p2_prob": 0.637,
+        "predicted_winner": "Arthur Rinderknech",
+        "confidence": "high",
+        "p1_edge": -0.0276,
+        "p2_edge": 0.0197
+      },
+      "collected_at": "2026-09-29T14:33:56.070078+00:00",
+      "result": null
+    },
+    "0538a6a69f027f97e7fc87dac711046e": {
+      "match_id": "0538a6a69f027f97e7fc87dac711046e",
+      "commence_time": "2026-10-01T02:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Botic van de Zandschulp",
+      "player2": "Francisco Cerundolo",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Botic van de Zandschulp": 1.96,
+          "Francisco Cerundolo": 1.54
+        },
+        "nordicbet": {
+          "Botic van de Zandschulp": 2.18,
+          "Francisco Cerundolo": 1.66
+        },
+        "marathonbet": {
+          "Botic van de Zandschulp": 2.17,
+          "Francisco Cerundolo": 1.68
+        },
+        "betsson": {
+          "Botic van de Zandschulp": 2.18,
+          "Francisco Cerundolo": 1.66
+        },
+        "sport888": {
+          "Botic van de Zandschulp": 2.2,
+          "Francisco Cerundolo": 1.67
+        },
+        "fanduel": {
+          "Botic van de Zandschulp": 2.22,
+          "Francisco Cerundolo": 1.68
+        },
+        "gtbets": {
+          "Botic van de Zandschulp": 2.21,
+          "Francisco Cerundolo": 1.67
+        },
+        "williamhill": {
+          "Botic van de Zandschulp": 2.2,
+          "Francisco Cerundolo": 1.67
+        },
+        "betrivers": {
+          "Botic van de Zandschulp": 2.12,
+          "Francisco Cerundolo": 1.72
+        },
+        "unibet_se": {
+          "Botic van de Zandschulp": 2.12,
+          "Francisco Cerundolo": 1.72
+        },
+        "pmu_fr": {
+          "Botic van de Zandschulp": 2.04,
+          "Francisco Cerundolo": 1.64
+        },
+        "leovegas_se": {
+          "Botic van de Zandschulp": 2.12,
+          "Francisco Cerundolo": 1.72
+        },
+        "unibet_nl": {
+          "Botic van de Zandschulp": 2.12,
+          "Francisco Cerundolo": 1.72
+        },
+        "unibet_fr": {
+          "Botic van de Zandschulp": 2.05,
+          "Francisco Cerundolo": 1.59
+        },
+        "tipico_de": {
+          "Botic van de Zandschulp": 2.15,
+          "Francisco Cerundolo": 1.62
+        }
+      },
+      "prediction": {
+        "p1_name": "Botic Van De Zandschulp",
+        "p2_name": "Francisco Cerundolo",
+        "p1_prob": 0.3909,
+        "p2_prob": 0.6091,
+        "predicted_winner": "Francisco Cerundolo",
+        "confidence": "high",
+        "p1_edge": -0.0596,
+        "p2_edge": 0.0277
+      },
+      "collected_at": "2026-09-29T14:33:56.205842+00:00",
+      "result": null
+    },
+    "d66f1937da5272c6644a583eaa98d7ce": {
+      "match_id": "d66f1937da5272c6644a583eaa98d7ce",
+      "commence_time": "2026-10-01T02:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Daniil Medvedev",
+      "player2": "Pablo Carreno Busta",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Daniil Medvedev": 1.15,
+          "Pablo Carreno Busta": 1.11
+        },
+        "nordicbet": {
+          "Daniil Medvedev": 1.26,
+          "Pablo Carreno Busta": 3.8
+        },
+        "betsson": {
+          "Daniil Medvedev": 1.26,
+          "Pablo Carreno Busta": 3.8
+        },
+        "sport888": {
+          "Daniil Medvedev": 1.29,
+          "Pablo Carreno Busta": 3.6
+        },
+        "fanduel": {
+          "Daniil Medvedev": 1.24,
+          "Pablo Carreno Busta": 4.0
+        },
+        "gtbets": {
+          "Daniil Medvedev": 1.28,
+          "Pablo Carreno Busta": 3.71
+        },
+        "marathonbet": {
+          "Daniil Medvedev": 1.27,
+          "Pablo Carreno Busta": 3.72
+        },
+        "unibet_se": {
+          "Daniil Medvedev": 1.27,
+          "Pablo Carreno Busta": 3.75
+        },
+        "leovegas_se": {
+          "Daniil Medvedev": 1.27,
+          "Pablo Carreno Busta": 3.75
+        },
+        "pmu_fr": {
+          "Daniil Medvedev": 1.23,
+          "Pablo Carreno Busta": 3.5
+        },
+        "unibet_nl": {
+          "Daniil Medvedev": 1.27,
+          "Pablo Carreno Busta": 3.75
+        },
+        "betrivers": {
+          "Daniil Medvedev": 1.27,
+          "Pablo Carreno Busta": 3.75
+        },
+        "williamhill": {
+          "Daniil Medvedev": 1.29,
+          "Pablo Carreno Busta": 3.6
+        },
+        "unibet_fr": {
+          "Daniil Medvedev": 1.22,
+          "Pablo Carreno Busta": 3.35
+        },
+        "tipico_de": {
+          "Daniil Medvedev": 1.22,
+          "Pablo Carreno Busta": 3.8
+        }
+      },
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Pablo Carreno Busta",
+        "p1_prob": 0.8154,
+        "p2_prob": 0.1846,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": 0.0402,
+        "p2_edge": -0.0654
+      },
+      "collected_at": "2026-09-29T14:33:56.272482+00:00",
+      "result": null
+    },
+    "8b509584519687ab6a46dc6b1f989a58": {
+      "match_id": "8b509584519687ab6a46dc6b1f989a58",
+      "commence_time": "2026-09-30T02:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Valentin Vacherot",
+      "player2": "Alexander Blockx",
+      "bookmakers": {
+        "matchbook": {
+          "Alexander Blockx": 1.74,
+          "Valentin Vacherot": 2.32
+        },
+        "betus": {
+          "Alexander Blockx": 1.67,
+          "Valentin Vacherot": 2.19
+        },
+        "betfair_ex_eu": {
+          "Alexander Blockx": 1.74,
+          "Valentin Vacherot": 2.32
+        },
+        "fanduel": {
+          "Alexander Blockx": 1.74,
+          "Valentin Vacherot": 2.12
+        },
+        "bovada": {
+          "Alexander Blockx": 1.67,
+          "Valentin Vacherot": 2.25
+        },
+        "marathonbet": {
+          "Alexander Blockx": 1.69,
+          "Valentin Vacherot": 2.15
+        },
+        "unibet_se": {
+          "Alexander Blockx": 1.71,
+          "Valentin Vacherot": 2.14
+        },
+        "pmu_fr": {
+          "Alexander Blockx": 1.64,
+          "Valentin Vacherot": 2.06
+        },
+        "unibet_nl": {
+          "Alexander Blockx": 1.71,
+          "Valentin Vacherot": 2.14
+        },
+        "williamhill": {
+          "Alexander Blockx": 1.67,
+          "Valentin Vacherot": 2.2
+        },
+        "sport888": {
+          "Alexander Blockx": 1.67,
+          "Valentin Vacherot": 2.2
+        },
+        "winamax_fr": {
+          "Alexander Blockx": 1.66,
+          "Valentin Vacherot": 2.15
+        },
+        "winamax_de": {
+          "Alexander Blockx": 1.7,
+          "Valentin Vacherot": 2.25
+        },
+        "pinnacle": {
+          "Alexander Blockx": 1.67,
+          "Valentin Vacherot": 2.3
+        },
+        "betonlineag": {
+          "Alexander Blockx": 1.69,
+          "Valentin Vacherot": 2.25
+        },
+        "lowvig": {
+          "Alexander Blockx": 1.69,
+          "Valentin Vacherot": 2.25
+        },
+        "tipico_de": {
+          "Alexander Blockx": 1.62,
+          "Valentin Vacherot": 2.15
+        },
+        "unibet_fr": {
+          "Alexander Blockx": 1.61,
+          "Valentin Vacherot": 2.1
+        }
+      },
+      "prediction": {
+        "p1_name": "Valentin Vacherot",
+        "p2_name": "Alexander Blockx",
+        "p1_prob": 0.5121,
+        "p2_prob": 0.4879,
+        "predicted_winner": "Valentin Vacherot",
+        "confidence": "low",
+        "p1_edge": 0.0811,
+        "p2_edge": -0.0868
+      },
+      "collected_at": "2026-09-29T14:33:56.448873+00:00",
+      "result": null
+    },
+    "0bff2782ee07c23760cbe4d2877ea6b4": {
+      "match_id": "0bff2782ee07c23760cbe4d2877ea6b4",
+      "commence_time": "2026-09-30T02:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Jiri Lehecka",
+      "player2": "Zizou Bergs",
+      "bookmakers": {
+        "betus": {
+          "Jiri Lehecka": 1.36,
+          "Zizou Bergs": 3.23
+        },
+        "betfair_ex_eu": {
+          "Jiri Lehecka": 1.4,
+          "Zizou Bergs": 3.35
+        },
+        "fanduel": {
+          "Jiri Lehecka": 1.37,
+          "Zizou Bergs": 3.1
+        },
+        "bovada": {
+          "Jiri Lehecka": 1.36,
+          "Zizou Bergs": 3.2
+        },
+        "matchbook": {
+          "Jiri Lehecka": 1.39,
+          "Zizou Bergs": 3.4
+        },
+        "marathonbet": {
+          "Jiri Lehecka": 1.36,
+          "Zizou Bergs": 3.12
+        },
+        "unibet_se": {
+          "Jiri Lehecka": 1.34,
+          "Zizou Bergs": 3.25
+        },
+        "pmu_fr": {
+          "Jiri Lehecka": 1.29,
+          "Zizou Bergs": 3.05
+        },
+        "unibet_nl": {
+          "Jiri Lehecka": 1.34,
+          "Zizou Bergs": 3.25
+        },
+        "williamhill": {
+          "Jiri Lehecka": 1.36,
+          "Zizou Bergs": 3.1
+        },
+        "sport888": {
+          "Jiri Lehecka": 1.36,
+          "Zizou Bergs": 3.1
+        },
+        "winamax_fr": {
+          "Jiri Lehecka": 1.34,
+          "Zizou Bergs": 3.15
+        },
+        "winamax_de": {
+          "Jiri Lehecka": 1.36,
+          "Zizou Bergs": 3.3
+        },
+        "pinnacle": {
+          "Jiri Lehecka": 1.37,
+          "Zizou Bergs": 3.3
+        },
+        "lowvig": {
+          "Jiri Lehecka": 1.36,
+          "Zizou Bergs": 3.3
+        },
+        "betonlineag": {
+          "Jiri Lehecka": 1.36,
+          "Zizou Bergs": 3.3
+        },
+        "tipico_de": {
+          "Jiri Lehecka": 1.35,
+          "Zizou Bergs": 2.95
+        },
+        "unibet_fr": {
+          "Jiri Lehecka": 1.34,
+          "Zizou Bergs": 2.85
+        }
+      },
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Zizou Bergs",
+        "p1_prob": 0.6453,
+        "p2_prob": 0.3547,
+        "predicted_winner": "Jiri Lehecka",
+        "confidence": "high",
+        "p1_edge": -0.069,
+        "p2_edge": 0.0606
+      },
+      "collected_at": "2026-09-29T14:33:56.514821+00:00",
+      "result": null
+    },
+    "65d2de2fdc31755b2b993f5176bbb836": {
+      "match_id": "65d2de2fdc31755b2b993f5176bbb836",
+      "commence_time": "2026-09-30T03:15:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Alejandro Tabilo",
+      "player2": "Tommy Paul",
+      "bookmakers": {
+        "matchbook": {
+          "Alejandro Tabilo": 3.4,
+          "Tommy Paul": 1.39
+        },
+        "betus": {
+          "Alejandro Tabilo": 3.26,
+          "Tommy Paul": 1.35
+        },
+        "betfair_ex_eu": {
+          "Alejandro Tabilo": 3.4,
+          "Tommy Paul": 1.39
+        },
+        "fanduel": {
+          "Alejandro Tabilo": 3.15,
+          "Tommy Paul": 1.37
+        },
+        "bovada": {
+          "Alejandro Tabilo": 3.25,
+          "Tommy Paul": 1.35
+        },
+        "marathonbet": {
+          "Alejandro Tabilo": 3.18,
+          "Tommy Paul": 1.35
+        },
+        "unibet_se": {
+          "Alejandro Tabilo": 3.15,
+          "Tommy Paul": 1.36
+        },
+        "pmu_fr": {
+          "Alejandro Tabilo": 3.0,
+          "Tommy Paul": 1.3
+        },
+        "unibet_nl": {
+          "Alejandro Tabilo": 3.15,
+          "Tommy Paul": 1.36
+        },
+        "williamhill": {
+          "Alejandro Tabilo": 3.1,
+          "Tommy Paul": 1.36
+        },
+        "sport888": {
+          "Alejandro Tabilo": 3.1,
+          "Tommy Paul": 1.36
+        },
+        "winamax_fr": {
+          "Alejandro Tabilo": 3.25,
+          "Tommy Paul": 1.32
+        },
+        "winamax_de": {
+          "Alejandro Tabilo": 3.4,
+          "Tommy Paul": 1.35
+        },
+        "pinnacle": {
+          "Alejandro Tabilo": 3.2,
+          "Tommy Paul": 1.39
+        },
+        "betonlineag": {
+          "Alejandro Tabilo": 3.14,
+          "Tommy Paul": 1.38
+        },
+        "lowvig": {
+          "Alejandro Tabilo": 3.14,
+          "Tommy Paul": 1.38
+        },
+        "tipico_de": {
+          "Alejandro Tabilo": 3.4,
+          "Tommy Paul": 1.27
+        },
+        "unibet_fr": {
+          "Alejandro Tabilo": 3.05,
+          "Tommy Paul": 1.3
+        }
+      },
+      "prediction": {
+        "p1_name": "Alejandro Tabilo",
+        "p2_name": "Tommy Paul",
+        "p1_prob": 0.3898,
+        "p2_prob": 0.6102,
+        "predicted_winner": "Tommy Paul",
+        "confidence": "high",
+        "p1_edge": 0.0957,
+        "p2_edge": -0.1092
+      },
+      "collected_at": "2026-09-29T14:33:56.643367+00:00",
+      "result": null
+    },
+    "de4c813cd2aaa6863d98ebc68a30defc": {
+      "match_id": "de4c813cd2aaa6863d98ebc68a30defc",
+      "commence_time": "2026-09-30T03:15:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Tomas Martin Etcheverry",
+      "player2": "Stefanos Tsitsipas",
+      "bookmakers": {
+        "williamhill": {
+          "Stefanos Tsitsipas": 1.36,
+          "Tomas Martin Etcheverry": 3.1
+        },
+        "winamax_fr": {
+          "Stefanos Tsitsipas": 1.3,
+          "Tomas Martin Etcheverry": 3.0
+        },
+        "matchbook": {
+          "Stefanos Tsitsipas": 1.38,
+          "Tomas Martin Etcheverry": 3.35
+        },
+        "betfair_ex_eu": {
+          "Stefanos Tsitsipas": 1.37,
+          "Tomas Martin Etcheverry": 3.4
+        },
+        "winamax_de": {
+          "Stefanos Tsitsipas": 1.34,
+          "Tomas Martin Etcheverry": 3.25
+        },
+        "sport888": {
+          "Stefanos Tsitsipas": 1.36,
+          "Tomas Martin Etcheverry": 3.1
+        },
+        "fanduel": {
+          "Stefanos Tsitsipas": 1.33,
+          "Tomas Martin Etcheverry": 3.35
+        },
+        "marathonbet": {
+          "Stefanos Tsitsipas": 1.34,
+          "Tomas Martin Etcheverry": 3.22
+        },
+        "unibet_nl": {
+          "Stefanos Tsitsipas": 1.33,
+          "Tomas Martin Etcheverry": 3.3
+        },
+        "unibet_se": {
+          "Stefanos Tsitsipas": 1.33,
+          "Tomas Martin Etcheverry": 3.3
+        },
+        "pmu_fr": {
+          "Stefanos Tsitsipas": 1.28,
+          "Tomas Martin Etcheverry": 3.15
+        },
+        "tipico_de": {
+          "Stefanos Tsitsipas": 1.3,
+          "Tomas Martin Etcheverry": 3.2
+        },
+        "unibet_fr": {
+          "Stefanos Tsitsipas": 1.29,
+          "Tomas Martin Etcheverry": 2.9
+        },
+        "pinnacle": {
+          "Stefanos Tsitsipas": 1.36,
+          "Tomas Martin Etcheverry": 3.33
+        },
+        "bovada": {
+          "Stefanos Tsitsipas": 1.35,
+          "Tomas Martin Etcheverry": 3.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Tomas Martin Etcheverry",
+        "p2_name": "Stefanos Tsitsipas",
+        "p1_prob": 0.4646,
+        "p2_prob": 0.5354,
+        "predicted_winner": "Stefanos Tsitsipas",
+        "confidence": "low",
+        "p1_edge": 0.1705,
+        "p2_edge": -0.1892
+      },
+      "collected_at": "2026-09-29T14:33:56.714958+00:00",
+      "result": null
+    },
+    "a85db81434b7d74d5946fa1c53960914": {
+      "match_id": "a85db81434b7d74d5946fa1c53960914",
+      "commence_time": "2026-09-30T07:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Arthur Fils",
+      "player2": "Luca Van Assche",
+      "bookmakers": {
+        "williamhill": {
+          "Arthur Fils": 1.17,
+          "Luca Van Assche": 5.0
+        },
+        "winamax_fr": {
+          "Arthur Fils": 1.11,
+          "Luca Van Assche": 4.8
+        },
+        "matchbook": {
+          "Arthur Fils": 1.18,
+          "Luca Van Assche": 6.0
+        },
+        "betfair_ex_eu": {
+          "Arthur Fils": 1.17,
+          "Luca Van Assche": 6.0
+        },
+        "winamax_de": {
+          "Arthur Fils": 1.14,
+          "Luca Van Assche": 5.6
+        },
+        "sport888": {
+          "Arthur Fils": 1.17,
+          "Luca Van Assche": 5.0
+        },
+        "fanduel": {
+          "Arthur Fils": 1.15,
+          "Luca Van Assche": 5.5
+        },
+        "marathonbet": {
+          "Arthur Fils": 1.16,
+          "Luca Van Assche": 5.25
+        },
+        "unibet_nl": {
+          "Arthur Fils": 1.16,
+          "Luca Van Assche": 5.2
+        },
+        "pmu_fr": {
+          "Arthur Fils": 1.12,
+          "Luca Van Assche": 4.8
+        },
+        "unibet_se": {
+          "Arthur Fils": 1.16,
+          "Luca Van Assche": 5.2
+        },
+        "tipico_de": {
+          "Arthur Fils": 1.11,
+          "Luca Van Assche": 5.5
+        },
+        "unibet_fr": {
+          "Arthur Fils": 1.12,
+          "Luca Van Assche": 4.85
+        },
+        "pinnacle": {
+          "Arthur Fils": 1.17,
+          "Luca Van Assche": 5.51
+        },
+        "bovada": {
+          "Arthur Fils": 1.15,
+          "Luca Van Assche": 5.5
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Fils",
+        "p2_name": "Luca Van Assche",
+        "p1_prob": 0.7614,
+        "p2_prob": 0.2386,
+        "predicted_winner": "Arthur Fils",
+        "confidence": "high",
+        "p1_edge": -0.0861,
+        "p2_edge": 0.0719
+      },
+      "collected_at": "2026-09-29T14:33:56.780833+00:00",
+      "result": null
+    },
+    "7e213fd4c70141d87eab30382aa14fdc": {
+      "match_id": "7e213fd4c70141d87eab30382aa14fdc",
+      "commence_time": "2026-09-30T08:15:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Matteo Arnaldi",
+      "player2": "Rei Sakamoto",
+      "bookmakers": {
+        "matchbook": {
+          "Matteo Arnaldi": 2.18,
+          "Rei Sakamoto": 1.79
+        },
+        "betus": {
+          "Matteo Arnaldi": 2.05,
+          "Rei Sakamoto": 1.74
+        },
+        "betfair_ex_eu": {
+          "Matteo Arnaldi": 2.2,
+          "Rei Sakamoto": 1.79
+        },
+        "fanduel": {
+          "Matteo Arnaldi": 2.22,
+          "Rei Sakamoto": 1.68
+        },
+        "bovada": {
+          "Matteo Arnaldi": 2.1,
+          "Rei Sakamoto": 1.77
+        },
+        "unibet_se": {
+          "Matteo Arnaldi": 2.14,
+          "Rei Sakamoto": 1.71
+        },
+        "pmu_fr": {
+          "Matteo Arnaldi": 2.05,
+          "Rei Sakamoto": 1.64
+        },
+        "unibet_nl": {
+          "Matteo Arnaldi": 2.14,
+          "Rei Sakamoto": 1.71
+        },
+        "williamhill": {
+          "Matteo Arnaldi": 2.1,
+          "Rei Sakamoto": 1.73
+        },
+        "sport888": {
+          "Matteo Arnaldi": 2.1,
+          "Rei Sakamoto": 1.73
+        },
+        "winamax_fr": {
+          "Matteo Arnaldi": 2.1,
+          "Rei Sakamoto": 1.7
+        },
+        "winamax_de": {
+          "Matteo Arnaldi": 2.15,
+          "Rei Sakamoto": 1.74
+        },
+        "pinnacle": {
+          "Matteo Arnaldi": 2.13,
+          "Rei Sakamoto": 1.77
+        },
+        "lowvig": {
+          "Matteo Arnaldi": 2.09,
+          "Rei Sakamoto": 1.78
+        },
+        "betonlineag": {
+          "Matteo Arnaldi": 2.09,
+          "Rei Sakamoto": 1.78
+        },
+        "tipico_de": {
+          "Matteo Arnaldi": 1.95,
+          "Rei Sakamoto": 1.75
+        },
+        "betanysports": {
+          "Matteo Arnaldi": 2.0,
+          "Rei Sakamoto": 1.77
+        }
+      },
+      "prediction": {
+        "p1_name": "Matteo Arnaldi",
+        "p2_name": "Rei Sakamoto",
+        "p1_prob": 0.5941,
+        "p2_prob": 0.4059,
+        "predicted_winner": "Matteo Arnaldi",
+        "confidence": "medium",
+        "p1_edge": 0.1436,
+        "p2_edge": -0.1528
+      },
+      "collected_at": "2026-09-29T14:33:56.847863+00:00",
+      "result": null
+    },
+    "07374dce8b25328307e583cea38d3b07": {
+      "match_id": "07374dce8b25328307e583cea38d3b07",
+      "commence_time": "2026-10-01T02:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Adolfo Daniel Vallejo",
+      "player2": "Rafael Jodar",
+      "bookmakers": {
+        "williamhill": {
+          "Adolfo Daniel Vallejo": 5.0,
+          "Rafael Jodar": 1.17
+        },
+        "betfair_ex_eu": {
+          "Adolfo Daniel Vallejo": 3.85,
+          "Rafael Jodar": 1.13
+        },
+        "fanduel": {
+          "Adolfo Daniel Vallejo": 5.9,
+          "Rafael Jodar": 1.13
+        },
+        "sport888": {
+          "Adolfo Daniel Vallejo": 5.0,
+          "Rafael Jodar": 1.17
+        },
+        "marathonbet": {
+          "Adolfo Daniel Vallejo": 5.7,
+          "Rafael Jodar": 1.14
+        },
+        "winamax_fr": {
+          "Adolfo Daniel Vallejo": 4.5,
+          "Rafael Jodar": 1.12
+        },
+        "winamax_de": {
+          "Adolfo Daniel Vallejo": 5.4,
+          "Rafael Jodar": 1.15
+        },
+        "unibet_se": {
+          "Adolfo Daniel Vallejo": 6.25,
+          "Rafael Jodar": 1.12
+        },
+        "pmu_fr": {
+          "Adolfo Daniel Vallejo": 5.6,
+          "Rafael Jodar": 1.08
+        },
+        "unibet_nl": {
+          "Adolfo Daniel Vallejo": 6.25,
+          "Rafael Jodar": 1.12
+        },
+        "unibet_fr": {
+          "Adolfo Daniel Vallejo": 4.45,
+          "Rafael Jodar": 1.12
+        },
+        "bovada": {
+          "Adolfo Daniel Vallejo": 5.5,
+          "Rafael Jodar": 1.15
+        },
+        "tipico_de": {
+          "Adolfo Daniel Vallejo": 5.2,
+          "Rafael Jodar": 1.13
+        }
+      },
+      "prediction": {
+        "p1_name": "Adolfo Daniel Vallejo",
+        "p2_name": "Rafael Jodar",
+        "p1_prob": 0.2575,
+        "p2_prob": 0.7425,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "high",
+        "p1_edge": 0.0975,
+        "p2_edge": -0.1122
+      },
+      "collected_at": "2026-09-29T14:33:56.914665+00:00",
+      "result": null
+    },
+    "124680a13038b2d61621ea996617ac43": {
+      "match_id": "124680a13038b2d61621ea996617ac43",
+      "commence_time": "2026-10-01T02:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Alejandro Davidovich Fokina",
+      "player2": "Matteo Berrettini",
+      "bookmakers": {
+        "matchbook": {
+          "Alejandro Davidovich Fokina": 1.71,
+          "Matteo Berrettini": 2.28
+        },
+        "betus": {
+          "Alejandro Davidovich Fokina": 1.65,
+          "Matteo Berrettini": 2.24
+        },
+        "betfair_ex_eu": {
+          "Alejandro Davidovich Fokina": 1.74,
+          "Matteo Berrettini": 2.24
+        },
+        "fanduel": {
+          "Alejandro Davidovich Fokina": 1.64,
+          "Matteo Berrettini": 2.28
+        },
+        "bovada": {
+          "Alejandro Davidovich Fokina": 1.69,
+          "Matteo Berrettini": 2.2
+        },
+        "marathonbet": {
+          "Alejandro Davidovich Fokina": 1.65,
+          "Matteo Berrettini": 2.22
+        },
+        "unibet_se": {
+          "Alejandro Davidovich Fokina": 1.64,
+          "Matteo Berrettini": 2.25
+        },
+        "pmu_fr": {
+          "Alejandro Davidovich Fokina": 1.56,
+          "Matteo Berrettini": 2.16
+        },
+        "unibet_nl": {
+          "Alejandro Davidovich Fokina": 1.64,
+          "Matteo Berrettini": 2.25
+        },
+        "williamhill": {
+          "Alejandro Davidovich Fokina": 1.67,
+          "Matteo Berrettini": 2.2
+        },
+        "sport888": {
+          "Alejandro Davidovich Fokina": 1.67,
+          "Matteo Berrettini": 2.2
+        },
+        "winamax_fr": {
+          "Alejandro Davidovich Fokina": 1.64,
+          "Matteo Berrettini": 2.2
+        },
+        "winamax_de": {
+          "Alejandro Davidovich Fokina": 1.68,
+          "Matteo Berrettini": 2.25
+        },
+        "pinnacle": {
+          "Alejandro Davidovich Fokina": 1.7,
+          "Matteo Berrettini": 2.25
+        },
+        "betonlineag": {
+          "Alejandro Davidovich Fokina": 1.67,
+          "Matteo Berrettini": 2.3
+        },
+        "lowvig": {
+          "Alejandro Davidovich Fokina": 1.67,
+          "Matteo Berrettini": 2.3
+        },
+        "tipico_de": {
+          "Alejandro Davidovich Fokina": 1.57,
+          "Matteo Berrettini": 2.25
+        },
+        "unibet_fr": {
+          "Alejandro Davidovich Fokina": 1.6,
+          "Matteo Berrettini": 2.1
+        },
+        "betanysports": {
+          "Alejandro Davidovich Fokina": 1.69,
+          "Matteo Berrettini": 2.15
+        }
+      },
+      "prediction": {
+        "p1_name": "Alejandro Davidovich Fokina",
+        "p2_name": "Matteo Berrettini",
+        "p1_prob": 0.5319,
+        "p2_prob": 0.4681,
+        "predicted_winner": "Alejandro Davidovich Fokina",
+        "confidence": "low",
+        "p1_edge": -0.0428,
+        "p2_edge": 0.0333
+      },
+      "collected_at": "2026-09-29T14:33:56.980987+00:00",
+      "result": null
+    },
+    "d700980c8b97f7b97b85b0698f5b3824": {
+      "match_id": "d700980c8b97f7b97b85b0698f5b3824",
+      "commence_time": "2026-10-01T02:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Carlos Alcaraz",
+      "player2": "Alex Michelsen",
+      "bookmakers": {
+        "matchbook": {
+          "Alex Michelsen": 5.4,
+          "Carlos Alcaraz": 1.18
+        },
+        "betus": {
+          "Alex Michelsen": 4.81,
+          "Carlos Alcaraz": 1.18
+        },
+        "betfair_ex_eu": {
+          "Alex Michelsen": 5.4,
+          "Carlos Alcaraz": 1.18
+        },
+        "fanduel": {
+          "Alex Michelsen": 5.4,
+          "Carlos Alcaraz": 1.15
+        },
+        "bovada": {
+          "Alex Michelsen": 5.0,
+          "Carlos Alcaraz": 1.18
+        },
+        "marathonbet": {
+          "Alex Michelsen": 4.85,
+          "Carlos Alcaraz": 1.18
+        },
+        "unibet_se": {
+          "Alex Michelsen": 5.1,
+          "Carlos Alcaraz": 1.17
+        },
+        "pmu_fr": {
+          "Alex Michelsen": 4.7,
+          "Carlos Alcaraz": 1.13
+        },
+        "unibet_nl": {
+          "Alex Michelsen": 5.1,
+          "Carlos Alcaraz": 1.17
+        },
+        "williamhill": {
+          "Alex Michelsen": 4.5,
+          "Carlos Alcaraz": 1.2
+        },
+        "sport888": {
+          "Alex Michelsen": 4.5,
+          "Carlos Alcaraz": 1.2
+        },
+        "winamax_fr": {
+          "Alex Michelsen": 4.9,
+          "Carlos Alcaraz": 1.16
+        },
+        "winamax_de": {
+          "Alex Michelsen": 5.3,
+          "Carlos Alcaraz": 1.18
+        },
+        "pinnacle": {
+          "Alex Michelsen": 5.27,
+          "Carlos Alcaraz": 1.19
+        },
+        "betonlineag": {
+          "Alex Michelsen": 4.79,
+          "Carlos Alcaraz": 1.19
+        },
+        "lowvig": {
+          "Alex Michelsen": 4.79,
+          "Carlos Alcaraz": 1.19
+        },
+        "tipico_de": {
+          "Alex Michelsen": 5.0,
+          "Carlos Alcaraz": 1.13
+        },
+        "unibet_fr": {
+          "Alex Michelsen": 4.3,
+          "Carlos Alcaraz": 1.14
+        }
+      },
+      "prediction": {
+        "p1_name": "Carlos Alcaraz",
+        "p2_name": "Alex Michelsen",
+        "p1_prob": 0.8773,
+        "p2_prob": 0.1227,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": 0.044,
+        "p2_edge": -0.0625
+      },
+      "collected_at": "2026-09-29T14:33:57.048346+00:00",
+      "result": null
+    },
+    "94cdbcf900c531f58cb48d03b93e7b26": {
+      "match_id": "94cdbcf900c531f58cb48d03b93e7b26",
+      "commence_time": "2026-10-01T02:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Lorenzo Musetti",
+      "player2": "Arthur Fery",
+      "bookmakers": {
+        "matchbook": {
+          "Arthur Fery": 3.0,
+          "Lorenzo Musetti": 1.46
+        },
+        "betus": {
+          "Arthur Fery": 2.93,
+          "Lorenzo Musetti": 1.43
+        },
+        "betfair_ex_eu": {
+          "Arthur Fery": 3.0,
+          "Lorenzo Musetti": 1.45
+        },
+        "fanduel": {
+          "Arthur Fery": 2.9,
+          "Lorenzo Musetti": 1.42
+        },
+        "bovada": {
+          "Arthur Fery": 2.9,
+          "Lorenzo Musetti": 1.43
+        },
+        "marathonbet": {
+          "Arthur Fery": 2.88,
+          "Lorenzo Musetti": 1.41
+        },
+        "unibet_se": {
+          "Arthur Fery": 3.0,
+          "Lorenzo Musetti": 1.38
+        },
+        "unibet_nl": {
+          "Arthur Fery": 3.0,
+          "Lorenzo Musetti": 1.38
+        },
+        "williamhill": {
+          "Arthur Fery": 2.75,
+          "Lorenzo Musetti": 1.44
+        },
+        "sport888": {
+          "Arthur Fery": 2.75,
+          "Lorenzo Musetti": 1.44
+        },
+        "winamax_fr": {
+          "Arthur Fery": 2.75,
+          "Lorenzo Musetti": 1.43
+        },
+        "winamax_de": {
+          "Arthur Fery": 2.85,
+          "Lorenzo Musetti": 1.46
+        },
+        "pinnacle": {
+          "Arthur Fery": 2.94,
+          "Lorenzo Musetti": 1.44
+        },
+        "betonlineag": {
+          "Arthur Fery": 2.84,
+          "Lorenzo Musetti": 1.45
+        },
+        "lowvig": {
+          "Arthur Fery": 2.84,
+          "Lorenzo Musetti": 1.45
+        },
+        "tipico_de": {
+          "Arthur Fery": 2.85,
+          "Lorenzo Musetti": 1.37
+        },
+        "unibet_fr": {
+          "Arthur Fery": 2.6,
+          "Lorenzo Musetti": 1.37
+        }
+      },
+      "prediction": {
+        "p1_name": "Lorenzo Musetti",
+        "p2_name": "Arthur Fery",
+        "p1_prob": 0.6448,
+        "p2_prob": 0.3552,
+        "predicted_winner": "Lorenzo Musetti",
+        "confidence": "high",
+        "p1_edge": -0.0401,
+        "p2_edge": 0.0219
+      },
+      "collected_at": "2026-09-29T14:33:57.115640+00:00",
+      "result": null
+    },
+    "bd73b6ff3eb4b9510110ca40bfc63f72": {
+      "match_id": "bd73b6ff3eb4b9510110ca40bfc63f72",
+      "commence_time": "2026-10-01T02:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Brandon Nakashima",
+      "player2": "Ugo Humbert",
+      "bookmakers": {
+        "matchbook": {
+          "Brandon Nakashima": 1.42,
+          "Ugo Humbert": 3.1
+        },
+        "betus": {
+          "Brandon Nakashima": 1.4,
+          "Ugo Humbert": 3.0
+        },
+        "betfair_ex_eu": {
+          "Brandon Nakashima": 1.44,
+          "Ugo Humbert": 3.1
+        },
+        "fanduel": {
+          "Brandon Nakashima": 1.37,
+          "Ugo Humbert": 3.1
+        },
+        "bovada": {
+          "Brandon Nakashima": 1.4,
+          "Ugo Humbert": 3.0
+        },
+        "marathonbet": {
+          "Brandon Nakashima": 1.39,
+          "Ugo Humbert": 2.97
+        },
+        "unibet_se": {
+          "Brandon Nakashima": 1.38,
+          "Ugo Humbert": 3.0
+        },
+        "pmu_fr": {
+          "Brandon Nakashima": 1.33,
+          "Ugo Humbert": 2.85
+        },
+        "unibet_nl": {
+          "Brandon Nakashima": 1.38,
+          "Ugo Humbert": 3.0
+        },
+        "williamhill": {
+          "Brandon Nakashima": 1.4,
+          "Ugo Humbert": 2.9
+        },
+        "sport888": {
+          "Brandon Nakashima": 1.4,
+          "Ugo Humbert": 2.9
+        },
+        "winamax_fr": {
+          "Brandon Nakashima": 1.37,
+          "Ugo Humbert": 3.0
+        },
+        "winamax_de": {
+          "Brandon Nakashima": 1.39,
+          "Ugo Humbert": 3.15
+        },
+        "pinnacle": {
+          "Brandon Nakashima": 1.42,
+          "Ugo Humbert": 3.02
+        },
+        "betonlineag": {
+          "Brandon Nakashima": 1.42,
+          "Ugo Humbert": 2.93
+        },
+        "lowvig": {
+          "Brandon Nakashima": 1.42,
+          "Ugo Humbert": 2.93
+        },
+        "tipico_de": {
+          "Brandon Nakashima": 1.35,
+          "Ugo Humbert": 2.95
+        },
+        "unibet_fr": {
+          "Brandon Nakashima": 1.33,
+          "Ugo Humbert": 2.85
+        },
+        "betanysports": {
+          "Brandon Nakashima": 1.4,
+          "Ugo Humbert": 3.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Brandon Nakashima",
+        "p2_name": "Ugo Humbert",
+        "p1_prob": 0.5321,
+        "p2_prob": 0.4679,
+        "predicted_winner": "Brandon Nakashima",
+        "confidence": "low",
+        "p1_edge": -0.1623,
+        "p2_edge": 0.1504
+      },
+      "collected_at": "2026-09-29T14:33:57.182422+00:00",
+      "result": null
+    },
+    "6b7d41a4a1150f4e15713dc6958fda96": {
+      "match_id": "6b7d41a4a1150f4e15713dc6958fda96",
+      "commence_time": "2026-10-01T02:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Luciano Darderi",
+      "player2": "Casper Ruud",
+      "bookmakers": {
+        "matchbook": {
+          "Casper Ruud": 1.46,
+          "Luciano Darderi": 3.1
+        },
+        "betus": {
+          "Casper Ruud": 1.43,
+          "Luciano Darderi": 2.93
+        },
+        "betfair_ex_eu": {
+          "Casper Ruud": 1.46,
+          "Luciano Darderi": 3.1
+        },
+        "fanduel": {
+          "Casper Ruud": 1.4,
+          "Luciano Darderi": 3.0
+        },
+        "bovada": {
+          "Casper Ruud": 1.43,
+          "Luciano Darderi": 2.9
+        },
+        "marathonbet": {
+          "Casper Ruud": 1.42,
+          "Luciano Darderi": 2.84
+        },
+        "unibet_se": {
+          "Casper Ruud": 1.41,
+          "Luciano Darderi": 2.9
+        },
+        "pmu_fr": {
+          "Casper Ruud": 1.36,
+          "Luciano Darderi": 2.75
+        },
+        "unibet_nl": {
+          "Casper Ruud": 1.41,
+          "Luciano Darderi": 2.9
+        },
+        "williamhill": {
+          "Casper Ruud": 1.44,
+          "Luciano Darderi": 2.75
+        },
+        "sport888": {
+          "Casper Ruud": 1.44,
+          "Luciano Darderi": 2.75
+        },
+        "winamax_fr": {
+          "Casper Ruud": 1.4,
+          "Luciano Darderi": 2.85
+        },
+        "winamax_de": {
+          "Casper Ruud": 1.43,
+          "Luciano Darderi": 2.95
+        },
+        "pinnacle": {
+          "Casper Ruud": 1.45,
+          "Luciano Darderi": 2.88
+        },
+        "betonlineag": {
+          "Casper Ruud": 1.45,
+          "Luciano Darderi": 2.84
+        },
+        "lowvig": {
+          "Casper Ruud": 1.45,
+          "Luciano Darderi": 2.84
+        },
+        "tipico_de": {
+          "Casper Ruud": 1.35,
+          "Luciano Darderi": 2.95
+        },
+        "unibet_fr": {
+          "Casper Ruud": 1.36,
+          "Luciano Darderi": 2.6
+        }
+      },
+      "prediction": {
+        "p1_name": "Luciano Darderi",
+        "p2_name": "Casper Ruud",
+        "p1_prob": 0.3662,
+        "p2_prob": 0.6338,
+        "predicted_winner": "Casper Ruud",
+        "confidence": "high",
+        "p1_edge": 0.0436,
+        "p2_edge": -0.0511
+      },
+      "collected_at": "2026-09-29T14:33:57.249368+00:00",
+      "result": null
+    },
+    "f4c24c41c66d5ecb136d40ee73c7d089": {
+      "match_id": "f4c24c41c66d5ecb136d40ee73c7d089",
+      "commence_time": "2026-10-01T02:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Denis Shapovalov",
+      "player2": "Sho Shimabukuro",
+      "bookmakers": {
+        "matchbook": {
+          "Denis Shapovalov": 1.3,
+          "Sho Shimabukuro": 3.9
+        },
+        "betus": {
+          "Denis Shapovalov": 1.28,
+          "Sho Shimabukuro": 3.57
+        },
+        "betfair_ex_eu": {
+          "Denis Shapovalov": 1.3,
+          "Sho Shimabukuro": 3.9
+        },
+        "fanduel": {
+          "Denis Shapovalov": 1.26,
+          "Sho Shimabukuro": 3.9
+        },
+        "bovada": {
+          "Denis Shapovalov": 1.29,
+          "Sho Shimabukuro": 3.75
+        },
+        "marathonbet": {
+          "Denis Shapovalov": 1.28,
+          "Sho Shimabukuro": 3.64
+        },
+        "unibet_se": {
+          "Denis Shapovalov": 1.25,
+          "Sho Shimabukuro": 3.95
+        },
+        "pmu_fr": {
+          "Denis Shapovalov": 1.2,
+          "Sho Shimabukuro": 3.7
+        },
+        "unibet_nl": {
+          "Denis Shapovalov": 1.25,
+          "Sho Shimabukuro": 3.95
+        },
+        "williamhill": {
+          "Denis Shapovalov": 1.3,
+          "Sho Shimabukuro": 3.5
+        },
+        "sport888": {
+          "Denis Shapovalov": 1.3,
+          "Sho Shimabukuro": 3.5
+        },
+        "winamax_fr": {
+          "Denis Shapovalov": 1.27,
+          "Sho Shimabukuro": 3.65
+        },
+        "winamax_de": {
+          "Denis Shapovalov": 1.29,
+          "Sho Shimabukuro": 3.85
+        },
+        "pinnacle": {
+          "Denis Shapovalov": 1.3,
+          "Sho Shimabukuro": 3.81
+        },
+        "betonlineag": {
+          "Denis Shapovalov": 1.3,
+          "Sho Shimabukuro": 3.68
+        },
+        "lowvig": {
+          "Denis Shapovalov": 1.3,
+          "Sho Shimabukuro": 3.68
+        },
+        "tipico_de": {
+          "Denis Shapovalov": 1.2,
+          "Sho Shimabukuro": 4.0
+        },
+        "unibet_fr": {
+          "Denis Shapovalov": 1.23,
+          "Sho Shimabukuro": 3.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Denis Shapovalov",
+        "p2_name": "Sho Shimabukuro",
+        "p1_prob": 0.7097,
+        "p2_prob": 0.2903,
+        "predicted_winner": "Denis Shapovalov",
+        "confidence": "high",
+        "p1_edge": -0.0595,
+        "p2_edge": 0.0403
+      },
+      "collected_at": "2026-09-29T14:33:57.316678+00:00",
+      "result": null
+    },
+    "150be9ac3e148ecdc824890bed898996": {
+      "match_id": "150be9ac3e148ecdc824890bed898996",
+      "commence_time": "2026-10-01T02:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Kei Nishikori",
+      "player2": "Frances Tiafoe",
+      "bookmakers": {
+        "matchbook": {
+          "Frances Tiafoe": 1.26,
+          "Kei Nishikori": 4.7
+        },
+        "betus": {
+          "Frances Tiafoe": 1.21,
+          "Kei Nishikori": 4.51
+        },
+        "betfair_ex_eu": {
+          "Frances Tiafoe": 1.25,
+          "Kei Nishikori": 4.7
+        },
+        "fanduel": {
+          "Frances Tiafoe": 1.2,
+          "Kei Nishikori": 4.7
+        },
+        "bovada": {
+          "Frances Tiafoe": 1.22,
+          "Kei Nishikori": 4.5
+        },
+        "marathonbet": {
+          "Frances Tiafoe": 1.22,
+          "Kei Nishikori": 4.25
+        },
+        "unibet_se": {
+          "Frances Tiafoe": 1.21,
+          "Kei Nishikori": 4.4
+        },
+        "pmu_fr": {
+          "Frances Tiafoe": 1.17,
+          "Kei Nishikori": 4.1
+        },
+        "unibet_nl": {
+          "Frances Tiafoe": 1.21,
+          "Kei Nishikori": 4.4
+        },
+        "williamhill": {
+          "Frances Tiafoe": 1.22,
+          "Kei Nishikori": 4.2
+        },
+        "sport888": {
+          "Frances Tiafoe": 1.22,
+          "Kei Nishikori": 4.2
+        },
+        "winamax_fr": {
+          "Frances Tiafoe": 1.22,
+          "Kei Nishikori": 4.1
+        },
+        "winamax_de": {
+          "Frances Tiafoe": 1.24,
+          "Kei Nishikori": 4.3
+        },
+        "pinnacle": {
+          "Frances Tiafoe": 1.23,
+          "Kei Nishikori": 4.55
+        },
+        "betonlineag": {
+          "Frances Tiafoe": 1.21,
+          "Kei Nishikori": 4.51
+        },
+        "lowvig": {
+          "Frances Tiafoe": 1.21,
+          "Kei Nishikori": 4.51
+        },
+        "tipico_de": {
+          "Frances Tiafoe": 1.18,
+          "Kei Nishikori": 4.3
+        },
+        "unibet_fr": {
+          "Frances Tiafoe": 1.17,
+          "Kei Nishikori": 3.8
+        },
+        "betanysports": {
+          "Frances Tiafoe": 1.22,
+          "Kei Nishikori": 4.3
+        }
+      },
+      "prediction": {
+        "p1_name": "Kei Nishikori",
+        "p2_name": "Frances Tiafoe",
+        "p1_prob": 0.3767,
+        "p2_prob": 0.6233,
+        "predicted_winner": "Frances Tiafoe",
+        "confidence": "high",
+        "p1_edge": 0.1639,
+        "p2_edge": -0.1704
+      },
+      "collected_at": "2026-09-29T14:33:57.382676+00:00",
+      "result": null
+    },
+    "38ffa72914becb0a7541e73396596e3d": {
+      "match_id": "38ffa72914becb0a7541e73396596e3d",
+      "commence_time": "2026-10-01T02:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Holger Rune",
+      "player2": "Kyrian Jacquet",
+      "bookmakers": {
+        "matchbook": {
+          "Holger Rune": 1.55,
+          "Kyrian Jacquet": 2.56
+        },
+        "betus": {
+          "Holger Rune": 1.55,
+          "Kyrian Jacquet": 2.52
+        },
+        "betfair_ex_eu": {
+          "Holger Rune": 1.13,
+          "Kyrian Jacquet": 2.6
+        },
+        "fanduel": {
+          "Holger Rune": 1.55,
+          "Kyrian Jacquet": 2.48
+        },
+        "bovada": {
+          "Holger Rune": 1.54,
+          "Kyrian Jacquet": 2.55
+        },
+        "marathonbet": {
+          "Holger Rune": 1.55,
+          "Kyrian Jacquet": 2.43
+        },
+        "unibet_se": {
+          "Holger Rune": 1.56,
+          "Kyrian Jacquet": 2.43
+        },
+        "pmu_fr": {
+          "Holger Rune": 1.5,
+          "Kyrian Jacquet": 2.32
+        },
+        "unibet_nl": {
+          "Holger Rune": 1.56,
+          "Kyrian Jacquet": 2.43
+        },
+        "williamhill": {
+          "Holger Rune": 1.53,
+          "Kyrian Jacquet": 2.5
+        },
+        "sport888": {
+          "Holger Rune": 1.53,
+          "Kyrian Jacquet": 2.5
+        },
+        "winamax_fr": {
+          "Holger Rune": 1.54,
+          "Kyrian Jacquet": 2.4
+        },
+        "winamax_de": {
+          "Holger Rune": 1.58,
+          "Kyrian Jacquet": 2.5
+        },
+        "pinnacle": {
+          "Holger Rune": 1.56,
+          "Kyrian Jacquet": 2.55
+        },
+        "betonlineag": {
+          "Holger Rune": 1.59,
+          "Kyrian Jacquet": 2.49
+        },
+        "lowvig": {
+          "Holger Rune": 1.59,
+          "Kyrian Jacquet": 2.49
+        },
+        "tipico_de": {
+          "Holger Rune": 1.47,
+          "Kyrian Jacquet": 2.5
+        },
+        "unibet_fr": {
+          "Holger Rune": 1.48,
+          "Kyrian Jacquet": 2.25
+        },
+        "betanysports": {
+          "Holger Rune": 1.54,
+          "Kyrian Jacquet": 2.55
+        }
+      },
+      "prediction": {
+        "p1_name": "Holger Rune",
+        "p2_name": "Kyrian Jacquet",
+        "p1_prob": 0.8418,
+        "p2_prob": 0.1582,
+        "predicted_winner": "Holger Rune",
+        "confidence": "high",
+        "p1_edge": 0.2129,
+        "p2_edge": -0.2264
+      },
+      "collected_at": "2026-09-29T14:33:57.448062+00:00",
+      "result": null
+    },
+    "bd913db5c5606c52b283feaa80665f42": {
+      "match_id": "bd913db5c5606c52b283feaa80665f42",
+      "commence_time": "2026-10-01T02:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Taylor Fritz",
+      "player2": "Jaume Munar",
+      "bookmakers": {
+        "williamhill": {
+          "Jaume Munar": 4.2,
+          "Taylor Fritz": 1.22
+        },
+        "betfair_ex_eu": {
+          "Jaume Munar": 3.25,
+          "Taylor Fritz": 1.25
+        },
+        "fanduel": {
+          "Jaume Munar": 4.7,
+          "Taylor Fritz": 1.18
+        },
+        "marathonbet": {
+          "Jaume Munar": 4.55,
+          "Taylor Fritz": 1.2
+        },
+        "sport888": {
+          "Jaume Munar": 4.2,
+          "Taylor Fritz": 1.22
+        },
+        "winamax_fr": {
+          "Jaume Munar": 3.95,
+          "Taylor Fritz": 1.16
+        },
+        "winamax_de": {
+          "Jaume Munar": 4.5,
+          "Taylor Fritz": 1.2
+        },
+        "unibet_se": {
+          "Jaume Munar": 4.35,
+          "Taylor Fritz": 1.22
+        },
+        "pmu_fr": {
+          "Jaume Munar": 4.1,
+          "Taylor Fritz": 1.17
+        },
+        "unibet_nl": {
+          "Jaume Munar": 4.35,
+          "Taylor Fritz": 1.22
+        },
+        "unibet_fr": {
+          "Jaume Munar": 3.85,
+          "Taylor Fritz": 1.16
+        },
+        "bovada": {
+          "Jaume Munar": 4.75,
+          "Taylor Fritz": 1.2
+        },
+        "tipico_de": {
+          "Jaume Munar": 4.3,
+          "Taylor Fritz": 1.18
+        }
+      },
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Jaume Munar",
+        "p1_prob": 0.7542,
+        "p2_prob": 0.2458,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "high",
+        "p1_edge": -0.0458,
+        "p2_edge": 0.0353
+      },
+      "collected_at": "2026-09-29T14:33:57.513848+00:00",
+      "result": null
+    },
+    "tml-2026-7581-27": {
+      "match_id": "tml-2026-7581-27",
+      "commence_time": "2026-09-29T00:00:00+00:00",
+      "tournament": "Chengdu",
+      "surface": "Hard",
+      "player1": "Alejandro Davidovich Fokina",
+      "player2": "Hubert Hurkacz",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alejandro Davidovich Fokina",
+        "p2_name": "Hubert Hurkacz",
+        "p1_prob": 0.5299,
+        "p2_prob": 0.4701,
+        "predicted_winner": "Alejandro Davidovich Fokina",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-29T14:34:02.799578+00:00",
+      "result": {
+        "winner": "Alejandro Davidovich Fokina",
+        "correct": true,
+        "settled_at": "2026-09-29T14:34:02.799578+00:00"
+      }
+    },
+    "tml-2026-4713-27": {
+      "match_id": "tml-2026-4713-27",
+      "commence_time": "2026-09-29T00:00:00+00:00",
+      "tournament": "Hangzhou",
+      "surface": "Hard",
+      "player1": "Daniil Medvedev",
+      "player2": "Andrey Rublev",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Andrey Rublev",
+        "p1_prob": 0.6528,
+        "p2_prob": 0.3472,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-29T14:34:02.867956+00:00",
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-09-29T14:34:02.867956+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-29T03:54:17.582161+00:00"
+  "last_updated": "2026-09-29T14:34:02.877994+00:00"
 }
