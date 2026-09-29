@@ -59399,7 +59399,789 @@
         "correct": true,
         "settled_at": "2026-09-28T16:24:04.236882+00:00"
       }
+    },
+    "f3149a5c4e24243211d462d3becfe39d": {
+      "match_id": "f3149a5c4e24243211d462d3becfe39d",
+      "commence_time": "2026-09-30T02:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Alex de Minaur",
+      "player2": "Mariano Navone",
+      "bookmakers": {
+        "marathonbet": {
+          "Alex de Minaur": 1.18,
+          "Mariano Navone": 4.85
+        },
+        "betrivers": {
+          "Alex de Minaur": 1.18,
+          "Mariano Navone": 4.75
+        },
+        "gtbets": {
+          "Alex de Minaur": 1.18,
+          "Mariano Navone": 5.25
+        },
+        "unibet_se": {
+          "Alex de Minaur": 1.18,
+          "Mariano Navone": 4.75
+        },
+        "coolbet": {
+          "Alex de Minaur": 1.17,
+          "Mariano Navone": 5.1
+        },
+        "betsson": {
+          "Alex de Minaur": 1.16,
+          "Mariano Navone": 5.0
+        },
+        "nordicbet": {
+          "Alex de Minaur": 1.16,
+          "Mariano Navone": 5.0
+        },
+        "draftkings": {
+          "Alex de Minaur": 1.17,
+          "Mariano Navone": 5.19
+        },
+        "unibet_nl": {
+          "Alex de Minaur": 1.18,
+          "Mariano Navone": 4.75
+        },
+        "pmu_fr": {
+          "Alex de Minaur": 1.14,
+          "Mariano Navone": 4.4
+        },
+        "leovegas_se": {
+          "Alex de Minaur": 1.18,
+          "Mariano Navone": 4.75
+        },
+        "sport888": {
+          "Alex de Minaur": 1.17,
+          "Mariano Navone": 5.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex De Minaur",
+        "p2_name": "Mariano Navone",
+        "p1_prob": 0.8064,
+        "p2_prob": 0.1936,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": -0.0411,
+        "p2_edge": 0.0031
+      },
+      "collected_at": "2026-09-29T03:54:17.051755+00:00",
+      "result": null
+    },
+    "8e1b1ccdaf9bc406f149cfba186e0337": {
+      "match_id": "8e1b1ccdaf9bc406f149cfba186e0337",
+      "commence_time": "2026-09-30T02:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Alexander Bublik",
+      "player2": "Jakub Mensik",
+      "bookmakers": {
+        "marathonbet": {
+          "Alexander Bublik": 2.43,
+          "Jakub Mensik": 1.55
+        },
+        "gtbets": {
+          "Alexander Bublik": 2.62,
+          "Jakub Mensik": 1.5
+        },
+        "betrivers": {
+          "Alexander Bublik": 2.38,
+          "Jakub Mensik": 1.57
+        },
+        "unibet_se": {
+          "Alexander Bublik": 2.38,
+          "Jakub Mensik": 1.57
+        },
+        "nordicbet": {
+          "Alexander Bublik": 2.49,
+          "Jakub Mensik": 1.52
+        },
+        "coolbet": {
+          "Alexander Bublik": 2.47,
+          "Jakub Mensik": 1.55
+        },
+        "betsson": {
+          "Alexander Bublik": 2.49,
+          "Jakub Mensik": 1.52
+        },
+        "draftkings": {
+          "Alexander Bublik": 2.47,
+          "Jakub Mensik": 1.55
+        },
+        "unibet_nl": {
+          "Alexander Bublik": 2.38,
+          "Jakub Mensik": 1.57
+        },
+        "pmu_fr": {
+          "Alexander Bublik": 2.25,
+          "Jakub Mensik": 1.51
+        },
+        "leovegas_se": {
+          "Alexander Bublik": 2.38,
+          "Jakub Mensik": 1.57
+        },
+        "sport888": {
+          "Alexander Bublik": 2.5,
+          "Jakub Mensik": 1.53
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Bublik",
+        "p2_name": "Jakub Mensik",
+        "p1_prob": 0.356,
+        "p2_prob": 0.644,
+        "predicted_winner": "Jakub Mensik",
+        "confidence": "high",
+        "p1_edge": -0.0257,
+        "p2_edge": 0.0071
+      },
+      "collected_at": "2026-09-29T03:54:17.102479+00:00",
+      "result": null
+    },
+    "baf8f73b47a664fcede53262ff09e26d": {
+      "match_id": "baf8f73b47a664fcede53262ff09e26d",
+      "commence_time": "2026-09-30T02:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Cameron Norrie",
+      "bookmakers": {
+        "marathonbet": {
+          "Alexander Zverev": 1.12,
+          "Cameron Norrie": 6.25
+        },
+        "betrivers": {
+          "Alexander Zverev": 1.09,
+          "Cameron Norrie": 7.5
+        },
+        "gtbets": {
+          "Alexander Zverev": 1.12,
+          "Cameron Norrie": 7.06
+        },
+        "betmgm": {
+          "Alexander Zverev": 1.12,
+          "Cameron Norrie": 6.0
+        },
+        "unibet_se": {
+          "Alexander Zverev": 1.09,
+          "Cameron Norrie": 7.5
+        },
+        "coolbet": {
+          "Alexander Zverev": 1.11,
+          "Cameron Norrie": 6.7
+        },
+        "betsson": {
+          "Alexander Zverev": 1.11,
+          "Cameron Norrie": 6.4
+        },
+        "nordicbet": {
+          "Alexander Zverev": 1.11,
+          "Cameron Norrie": 6.4
+        },
+        "draftkings": {
+          "Alexander Zverev": 1.08,
+          "Cameron Norrie": 8.2
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.09,
+          "Cameron Norrie": 7.5
+        },
+        "pmu_fr": {
+          "Alexander Zverev": 1.05,
+          "Cameron Norrie": 6.75
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.09,
+          "Cameron Norrie": 7.5
+        },
+        "sport888": {
+          "Alexander Zverev": 1.05,
+          "Cameron Norrie": 10.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Cameron Norrie",
+        "p1_prob": 0.8396,
+        "p2_prob": 0.1604,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": -0.0533,
+        "p2_edge": 0.0604
+      },
+      "collected_at": "2026-09-29T03:54:17.154214+00:00",
+      "result": null
+    },
+    "ef3f453a337c9dae404be4cbf6772441": {
+      "match_id": "ef3f453a337c9dae404be4cbf6772441",
+      "commence_time": "2026-09-30T02:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Tallon Griekspoor",
+      "player2": "Andrey Rublev",
+      "bookmakers": {
+        "unibet_nl": {
+          "Andrey Rublev": 1.48,
+          "Tallon Griekspoor": 2.65
+        },
+        "betrivers": {
+          "Andrey Rublev": 1.48,
+          "Tallon Griekspoor": 2.65
+        },
+        "gtbets": {
+          "Andrey Rublev": 1.46,
+          "Tallon Griekspoor": 2.74
+        },
+        "draftkings": {
+          "Andrey Rublev": 1.51,
+          "Tallon Griekspoor": 2.6
+        },
+        "betsson": {
+          "Andrey Rublev": 1.45,
+          "Tallon Griekspoor": 2.7
+        },
+        "unibet_se": {
+          "Andrey Rublev": 1.48,
+          "Tallon Griekspoor": 2.65
+        },
+        "coolbet": {
+          "Andrey Rublev": 1.47,
+          "Tallon Griekspoor": 2.7
+        },
+        "nordicbet": {
+          "Andrey Rublev": 1.45,
+          "Tallon Griekspoor": 2.7
+        },
+        "marathonbet": {
+          "Andrey Rublev": 1.45,
+          "Tallon Griekspoor": 2.73
+        },
+        "pmu_fr": {
+          "Andrey Rublev": 1.42,
+          "Tallon Griekspoor": 2.55
+        },
+        "leovegas_se": {
+          "Andrey Rublev": 1.48,
+          "Tallon Griekspoor": 2.65
+        },
+        "sport888": {
+          "Andrey Rublev": 1.5,
+          "Tallon Griekspoor": 2.6
+        }
+      },
+      "prediction": {
+        "p1_name": "Tallon Griekspoor",
+        "p2_name": "Andrey Rublev",
+        "p1_prob": 0.3227,
+        "p2_prob": 0.6773,
+        "predicted_winner": "Andrey Rublev",
+        "confidence": "high",
+        "p1_edge": -0.0423,
+        "p2_edge": 0.015
+      },
+      "collected_at": "2026-09-29T03:54:17.207575+00:00",
+      "result": null
+    },
+    "cd50cbdecb590b3b66ff69dac64b1c7d": {
+      "match_id": "cd50cbdecb590b3b66ff69dac64b1c7d",
+      "commence_time": "2026-09-30T02:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Karen Khachanov",
+      "player2": "Felix Auger-Aliassime",
+      "bookmakers": {
+        "marathonbet": {
+          "Felix Auger-Aliassime": 1.59,
+          "Karen Khachanov": 2.34
+        },
+        "gtbets": {
+          "Felix Auger-Aliassime": 1.62,
+          "Karen Khachanov": 2.31
+        },
+        "betmgm": {
+          "Felix Auger-Aliassime": 1.61,
+          "Karen Khachanov": 2.3
+        },
+        "unibet_se": {
+          "Felix Auger-Aliassime": 1.57,
+          "Karen Khachanov": 2.38
+        },
+        "nordicbet": {
+          "Felix Auger-Aliassime": 1.61,
+          "Karen Khachanov": 2.29
+        },
+        "betsson": {
+          "Felix Auger-Aliassime": 1.61,
+          "Karen Khachanov": 2.29
+        },
+        "coolbet": {
+          "Felix Auger-Aliassime": 1.6,
+          "Karen Khachanov": 2.35
+        },
+        "betrivers": {
+          "Felix Auger-Aliassime": 1.57,
+          "Karen Khachanov": 2.38
+        },
+        "draftkings": {
+          "Felix Auger-Aliassime": 1.59,
+          "Karen Khachanov": 2.38
+        },
+        "unibet_nl": {
+          "Felix Auger-Aliassime": 1.57,
+          "Karen Khachanov": 2.38
+        },
+        "pmu_fr": {
+          "Felix Auger-Aliassime": 1.51,
+          "Karen Khachanov": 2.25
+        },
+        "leovegas_se": {
+          "Felix Auger-Aliassime": 1.57,
+          "Karen Khachanov": 2.38
+        },
+        "sport888": {
+          "Felix Auger-Aliassime": 1.57,
+          "Karen Khachanov": 2.38
+        }
+      },
+      "prediction": {
+        "p1_name": "Karen Khachanov",
+        "p2_name": "Felix Auger-Aliassime",
+        "p1_prob": 0.2994,
+        "p2_prob": 0.7006,
+        "predicted_winner": "Felix Auger-Aliassime",
+        "confidence": "high",
+        "p1_edge": -0.1208,
+        "p2_edge": 0.0833
+      },
+      "collected_at": "2026-09-29T03:54:17.261376+00:00",
+      "result": null
+    },
+    "8385aac113ecfb54b50592228c73e06f": {
+      "match_id": "8385aac113ecfb54b50592228c73e06f",
+      "commence_time": "2026-09-30T02:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Roman Safiullin",
+      "player2": "Flavio Cobolli",
+      "bookmakers": {
+        "unibet_nl": {
+          "Flavio Cobolli": 1.76,
+          "Roman Safiullin": 2.06
+        },
+        "betrivers": {
+          "Flavio Cobolli": 1.76,
+          "Roman Safiullin": 2.06
+        },
+        "gtbets": {
+          "Flavio Cobolli": 1.81,
+          "Roman Safiullin": 2.02
+        },
+        "draftkings": {
+          "Flavio Cobolli": 1.78,
+          "Roman Safiullin": 2.06
+        },
+        "sport888": {
+          "Flavio Cobolli": 1.8,
+          "Roman Safiullin": 2.0
+        },
+        "betsson": {
+          "Flavio Cobolli": 1.78,
+          "Roman Safiullin": 2.01
+        },
+        "unibet_se": {
+          "Flavio Cobolli": 1.76,
+          "Roman Safiullin": 2.06
+        },
+        "coolbet": {
+          "Flavio Cobolli": 1.78,
+          "Roman Safiullin": 2.05
+        },
+        "nordicbet": {
+          "Flavio Cobolli": 1.78,
+          "Roman Safiullin": 2.01
+        },
+        "marathonbet": {
+          "Flavio Cobolli": 1.75,
+          "Roman Safiullin": 2.06
+        },
+        "pmu_fr": {
+          "Flavio Cobolli": 1.7,
+          "Roman Safiullin": 1.96
+        },
+        "leovegas_se": {
+          "Flavio Cobolli": 1.76,
+          "Roman Safiullin": 2.06
+        }
+      },
+      "prediction": {
+        "p1_name": "Roman Safiullin",
+        "p2_name": "Flavio Cobolli",
+        "p1_prob": 0.2213,
+        "p2_prob": 0.7787,
+        "predicted_winner": "Flavio Cobolli",
+        "confidence": "high",
+        "p1_edge": -0.2641,
+        "p2_edge": 0.2262
+      },
+      "collected_at": "2026-09-29T03:54:17.313254+00:00",
+      "result": null
+    },
+    "726e426c5068e86e57b7f81891e0136e": {
+      "match_id": "726e426c5068e86e57b7f81891e0136e",
+      "commence_time": "2026-09-30T02:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Learner Tien",
+      "player2": "Hubert Hurkacz",
+      "bookmakers": {
+        "marathonbet": {
+          "Hubert Hurkacz": 2.36,
+          "Learner Tien": 1.58
+        },
+        "gtbets": {
+          "Hubert Hurkacz": 2.48,
+          "Learner Tien": 1.53
+        },
+        "betrivers": {
+          "Hubert Hurkacz": 2.35,
+          "Learner Tien": 1.57
+        },
+        "sport888": {
+          "Hubert Hurkacz": 2.38,
+          "Learner Tien": 1.57
+        },
+        "unibet_se": {
+          "Hubert Hurkacz": 2.35,
+          "Learner Tien": 1.57
+        },
+        "nordicbet": {
+          "Hubert Hurkacz": 2.37,
+          "Learner Tien": 1.57
+        },
+        "coolbet": {
+          "Hubert Hurkacz": 2.4,
+          "Learner Tien": 1.58
+        },
+        "betsson": {
+          "Hubert Hurkacz": 2.37,
+          "Learner Tien": 1.57
+        },
+        "draftkings": {
+          "Hubert Hurkacz": 2.35,
+          "Learner Tien": 1.6
+        },
+        "unibet_nl": {
+          "Hubert Hurkacz": 2.35,
+          "Learner Tien": 1.57
+        },
+        "pmu_fr": {
+          "Hubert Hurkacz": 2.25,
+          "Learner Tien": 1.53
+        },
+        "leovegas_se": {
+          "Hubert Hurkacz": 2.35,
+          "Learner Tien": 1.57
+        }
+      },
+      "prediction": {
+        "p1_name": "Learner Tien",
+        "p2_name": "Hubert Hurkacz",
+        "p1_prob": 0.6271,
+        "p2_prob": 0.3729,
+        "predicted_winner": "Learner Tien",
+        "confidence": "high",
+        "p1_edge": 0.0021,
+        "p2_edge": -0.0303
+      },
+      "collected_at": "2026-09-29T03:54:17.364844+00:00",
+      "result": null
+    },
+    "0c39522d563ce8eb6ce47ba0d07b50d8": {
+      "match_id": "0c39522d563ce8eb6ce47ba0d07b50d8",
+      "commence_time": "2026-09-30T02:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Ignacio Buse",
+      "player2": "Quentin Halys",
+      "bookmakers": {
+        "marathonbet": {
+          "Ignacio Buse": 2.22,
+          "Quentin Halys": 1.65
+        },
+        "gtbets": {
+          "Ignacio Buse": 2.24,
+          "Quentin Halys": 1.59
+        },
+        "unibet_se": {
+          "Ignacio Buse": 2.23,
+          "Quentin Halys": 1.66
+        },
+        "nordicbet": {
+          "Ignacio Buse": 2.21,
+          "Quentin Halys": 1.65
+        },
+        "betsson": {
+          "Ignacio Buse": 2.21,
+          "Quentin Halys": 1.65
+        },
+        "coolbet": {
+          "Ignacio Buse": 2.2,
+          "Quentin Halys": 1.68
+        },
+        "betrivers": {
+          "Ignacio Buse": 2.23,
+          "Quentin Halys": 1.66
+        },
+        "draftkings": {
+          "Ignacio Buse": 2.26,
+          "Quentin Halys": 1.65
+        },
+        "unibet_nl": {
+          "Ignacio Buse": 2.23,
+          "Quentin Halys": 1.66
+        },
+        "sport888": {
+          "Ignacio Buse": 2.2,
+          "Quentin Halys": 1.67
+        },
+        "pmu_fr": {
+          "Ignacio Buse": 2.12,
+          "Quentin Halys": 1.6
+        },
+        "leovegas_se": {
+          "Ignacio Buse": 2.23,
+          "Quentin Halys": 1.66
+        }
+      },
+      "prediction": {
+        "p1_name": "Ignacio Buse",
+        "p2_name": "Quentin Halys",
+        "p1_prob": 0.6223,
+        "p2_prob": 0.3777,
+        "predicted_winner": "Ignacio Buse",
+        "confidence": "high",
+        "p1_edge": 0.1798,
+        "p2_edge": -0.2175
+      },
+      "collected_at": "2026-09-29T03:54:17.417125+00:00",
+      "result": null
+    },
+    "35b54ab48cccdd5228a9cbb1b90e93f9": {
+      "match_id": "35b54ab48cccdd5228a9cbb1b90e93f9",
+      "commence_time": "2026-09-30T02:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Jan-Lennard Struff",
+      "player2": "Thiago Agustin Tirante",
+      "bookmakers": {
+        "marathonbet": {
+          "Jan-Lennard Struff": 2.22,
+          "Thiago Agustin Tirante": 1.65
+        },
+        "gtbets": {
+          "Jan-Lennard Struff": 2.21,
+          "Thiago Agustin Tirante": 1.68
+        },
+        "unibet_se": {
+          "Jan-Lennard Struff": 2.23,
+          "Thiago Agustin Tirante": 1.65
+        },
+        "nordicbet": {
+          "Jan-Lennard Struff": 2.17,
+          "Thiago Agustin Tirante": 1.67
+        },
+        "betsson": {
+          "Jan-Lennard Struff": 2.17,
+          "Thiago Agustin Tirante": 1.67
+        },
+        "coolbet": {
+          "Jan-Lennard Struff": 2.23,
+          "Thiago Agustin Tirante": 1.66
+        },
+        "betrivers": {
+          "Jan-Lennard Struff": 2.23,
+          "Thiago Agustin Tirante": 1.65
+        },
+        "draftkings": {
+          "Jan-Lennard Struff": 2.29,
+          "Thiago Agustin Tirante": 1.63
+        },
+        "unibet_nl": {
+          "Jan-Lennard Struff": 2.23,
+          "Thiago Agustin Tirante": 1.65
+        },
+        "pmu_fr": {
+          "Jan-Lennard Struff": 2.14,
+          "Thiago Agustin Tirante": 1.6
+        },
+        "leovegas_se": {
+          "Jan-Lennard Struff": 2.23,
+          "Thiago Agustin Tirante": 1.65
+        },
+        "sport888": {
+          "Jan-Lennard Struff": 2.2,
+          "Thiago Agustin Tirante": 1.67
+        }
+      },
+      "prediction": {
+        "p1_name": "Jan-Lennard Struff",
+        "p2_name": "Thiago Agustin Tirante",
+        "p1_prob": 0.3839,
+        "p2_prob": 0.6161,
+        "predicted_winner": "Thiago Agustin Tirante",
+        "confidence": "high",
+        "p1_edge": -0.0528,
+        "p2_edge": 0.0209
+      },
+      "collected_at": "2026-09-29T03:54:17.468874+00:00",
+      "result": null
+    },
+    "c1bae50988ffee351524f95dacfa76f7": {
+      "match_id": "c1bae50988ffee351524f95dacfa76f7",
+      "commence_time": "2026-09-30T02:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Juncheng Shang",
+      "player2": "Sebastian Baez",
+      "bookmakers": {
+        "marathonbet": {
+          "Juncheng Shang": 1.67,
+          "Sebastian Baez": 2.19
+        },
+        "gtbets": {
+          "Juncheng Shang": 1.67,
+          "Sebastian Baez": 2.21
+        },
+        "betmgm": {
+          "Juncheng Shang": 1.65,
+          "Sebastian Baez": 2.2
+        },
+        "unibet_se": {
+          "Juncheng Shang": 1.68,
+          "Sebastian Baez": 2.18
+        },
+        "nordicbet": {
+          "Juncheng Shang": 1.66,
+          "Sebastian Baez": 2.18
+        },
+        "betsson": {
+          "Juncheng Shang": 1.66,
+          "Sebastian Baez": 2.18
+        },
+        "coolbet": {
+          "Juncheng Shang": 1.66,
+          "Sebastian Baez": 2.23
+        },
+        "betrivers": {
+          "Juncheng Shang": 1.68,
+          "Sebastian Baez": 2.18
+        },
+        "draftkings": {
+          "Juncheng Shang": 1.64,
+          "Sebastian Baez": 2.29
+        },
+        "unibet_nl": {
+          "Juncheng Shang": 1.68,
+          "Sebastian Baez": 2.18
+        },
+        "pmu_fr": {
+          "Juncheng Shang": 1.61,
+          "Sebastian Baez": 2.08
+        },
+        "leovegas_se": {
+          "Juncheng Shang": 1.68,
+          "Sebastian Baez": 2.18
+        },
+        "sport888": {
+          "Juncheng Shang": 1.67,
+          "Sebastian Baez": 2.2
+        }
+      },
+      "prediction": {
+        "p1_name": "Juncheng Shang",
+        "p2_name": "Sebastian Baez",
+        "p1_prob": 0.4951,
+        "p2_prob": 0.5049,
+        "predicted_winner": "Sebastian Baez",
+        "confidence": "low",
+        "p1_edge": -0.1001,
+        "p2_edge": 0.0682
+      },
+      "collected_at": "2026-09-29T03:54:17.520458+00:00",
+      "result": null
+    },
+    "1b9a358b39f42e7ac16354a717729f4f": {
+      "match_id": "1b9a358b39f42e7ac16354a717729f4f",
+      "commence_time": "2026-09-30T02:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Nuno Borges",
+      "player2": "Novak Djokovic",
+      "bookmakers": {
+        "marathonbet": {
+          "Novak Djokovic": 1.42,
+          "Nuno Borges": 2.84
+        },
+        "gtbets": {
+          "Novak Djokovic": 1.45,
+          "Nuno Borges": 2.76
+        },
+        "unibet_se": {
+          "Novak Djokovic": 1.42,
+          "Nuno Borges": 2.85
+        },
+        "nordicbet": {
+          "Novak Djokovic": 1.44,
+          "Nuno Borges": 2.75
+        },
+        "betsson": {
+          "Novak Djokovic": 1.44,
+          "Nuno Borges": 2.75
+        },
+        "coolbet": {
+          "Novak Djokovic": 1.45,
+          "Nuno Borges": 2.78
+        },
+        "betrivers": {
+          "Novak Djokovic": 1.42,
+          "Nuno Borges": 2.85
+        },
+        "draftkings": {
+          "Novak Djokovic": 1.46,
+          "Nuno Borges": 2.75
+        },
+        "unibet_nl": {
+          "Novak Djokovic": 1.42,
+          "Nuno Borges": 2.85
+        },
+        "pmu_fr": {
+          "Novak Djokovic": 1.36,
+          "Nuno Borges": 2.7
+        },
+        "leovegas_se": {
+          "Novak Djokovic": 1.42,
+          "Nuno Borges": 2.85
+        },
+        "sport888": {
+          "Novak Djokovic": 1.5,
+          "Nuno Borges": 2.6
+        }
+      },
+      "prediction": {
+        "p1_name": "Nuno Borges",
+        "p2_name": "Novak Djokovic",
+        "p1_prob": 0.1509,
+        "p2_prob": 0.8491,
+        "predicted_winner": "Novak Djokovic",
+        "confidence": "high",
+        "p1_edge": -0.2,
+        "p2_edge": 0.1824
+      },
+      "collected_at": "2026-09-29T03:54:17.572531+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-09-28T16:24:04.251196+00:00"
+  "last_updated": "2026-09-29T03:54:17.582161+00:00"
 }
