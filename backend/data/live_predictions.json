@@ -59756,7 +59756,11 @@
         "p2_edge": 0.0833
       },
       "collected_at": "2026-09-29T03:54:17.261376+00:00",
-      "result": null
+      "result": {
+        "winner": "Karen Khachanov",
+        "correct": false,
+        "settled_at": "2026-09-30T14:32:27.497678+00:00"
+      }
     },
     "8385aac113ecfb54b50592228c73e06f": {
       "match_id": "8385aac113ecfb54b50592228c73e06f",
@@ -60036,7 +60040,11 @@
         "p2_edge": 0.0209
       },
       "collected_at": "2026-09-29T03:54:17.468874+00:00",
-      "result": null
+      "result": {
+        "winner": "Jan-Lennard Struff",
+        "correct": false,
+        "settled_at": "2026-09-30T14:32:27.581972+00:00"
+      }
     },
     "c1bae50988ffee351524f95dacfa76f7": {
       "match_id": "c1bae50988ffee351524f95dacfa76f7",
@@ -60180,7 +60188,11 @@
         "p2_edge": 0.1824
       },
       "collected_at": "2026-09-29T03:54:17.572531+00:00",
-      "result": null
+      "result": {
+        "winner": "Novak Djokovic",
+        "correct": true,
+        "settled_at": "2026-09-30T14:32:27.751212+00:00"
+      }
     },
     "cc2d916c71c7c424e48b2025e02ead52": {
       "match_id": "cc2d916c71c7c424e48b2025e02ead52",
@@ -60286,7 +60298,11 @@
         "p2_edge": -0.0718
       },
       "collected_at": "2026-09-29T14:33:55.987431+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Gea",
+        "correct": true,
+        "settled_at": "2026-09-30T14:32:27.666576+00:00"
+      }
     },
     "c83a68420401e6b8f8010e3050bed2ea": {
       "match_id": "c83a68420401e6b8f8010e3050bed2ea",
@@ -60626,7 +60642,11 @@
         "p2_edge": -0.0868
       },
       "collected_at": "2026-09-29T14:33:56.448873+00:00",
-      "result": null
+      "result": {
+        "winner": "Valentin Vacherot",
+        "correct": true,
+        "settled_at": "2026-09-30T14:32:27.836760+00:00"
+      }
     },
     "0bff2782ee07c23760cbe4d2877ea6b4": {
       "match_id": "0bff2782ee07c23760cbe4d2877ea6b4",
@@ -60814,7 +60834,11 @@
         "p2_edge": -0.1092
       },
       "collected_at": "2026-09-29T14:33:56.643367+00:00",
-      "result": null
+      "result": {
+        "winner": "Alejandro Tabilo",
+        "correct": false,
+        "settled_at": "2026-09-30T14:32:27.920648+00:00"
+      }
     },
     "de4c813cd2aaa6863d98ebc68a30defc": {
       "match_id": "de4c813cd2aaa6863d98ebc68a30defc",
@@ -60978,7 +61002,11 @@
         "p2_edge": 0.0719
       },
       "collected_at": "2026-09-29T14:33:56.780833+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fils",
+        "correct": true,
+        "settled_at": "2026-09-30T14:32:28.003984+00:00"
+      }
     },
     "7e213fd4c70141d87eab30382aa14fdc": {
       "match_id": "7e213fd4c70141d87eab30382aa14fdc",
@@ -61068,7 +61096,11 @@
         "p2_edge": -0.1528
       },
       "collected_at": "2026-09-29T14:33:56.847863+00:00",
-      "result": null
+      "result": {
+        "winner": "Matteo Arnaldi",
+        "correct": true,
+        "settled_at": "2026-09-30T14:32:28.087454+00:00"
+      }
     },
     "07374dce8b25328307e583cea38d3b07": {
       "match_id": "07374dce8b25328307e583cea38d3b07",
@@ -62031,7 +62063,146 @@
         "correct": true,
         "settled_at": "2026-09-29T14:34:02.867956+00:00"
       }
+    },
+    "876850ae0404e0d4705053ed074268f6": {
+      "match_id": "876850ae0404e0d4705053ed074268f6",
+      "commence_time": "2026-10-01T02:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Jaime Faria",
+      "player2": "Arthur Fery",
+      "bookmakers": {
+        "unibet_nl": {
+          "Arthur Fery": 1.88,
+          "Jaime Faria": 1.91
+        },
+        "pmu_fr": {
+          "Arthur Fery": 1.81,
+          "Jaime Faria": 1.83
+        },
+        "unibet_se": {
+          "Arthur Fery": 1.88,
+          "Jaime Faria": 1.91
+        },
+        "betfair_ex_eu": {
+          "Arthur Fery": 1.97,
+          "Jaime Faria": 1.98
+        },
+        "betrivers": {
+          "Arthur Fery": 1.88,
+          "Jaime Faria": 1.91
+        },
+        "marathonbet": {
+          "Arthur Fery": 1.89,
+          "Jaime Faria": 1.9
+        },
+        "nordicbet": {
+          "Arthur Fery": 1.9,
+          "Jaime Faria": 1.87
+        },
+        "betsson": {
+          "Arthur Fery": 1.9,
+          "Jaime Faria": 1.87
+        },
+        "unibet_fr": {
+          "Arthur Fery": 1.81,
+          "Jaime Faria": 1.79
+        },
+        "winamax_de": {
+          "Arthur Fery": 1.94,
+          "Jaime Faria": 1.92
+        },
+        "betclic_fr": {
+          "Arthur Fery": 1.9,
+          "Jaime Faria": 1.87
+        },
+        "winamax_fr": {
+          "Arthur Fery": 1.88,
+          "Jaime Faria": 1.86
+        },
+        "fanduel": {
+          "Arthur Fery": 1.91,
+          "Jaime Faria": 1.91
+        },
+        "tipico_de": {
+          "Arthur Fery": 1.8,
+          "Jaime Faria": 1.9
+        },
+        "betmgm": {
+          "Arthur Fery": 1.85,
+          "Jaime Faria": 1.91
+        },
+        "gtbets": {
+          "Arthur Fery": 1.98,
+          "Jaime Faria": 1.83
+        },
+        "coolbet": {
+          "Arthur Fery": 1.92,
+          "Jaime Faria": 1.89
+        },
+        "matchbook": {
+          "Arthur Fery": 1.97,
+          "Jaime Faria": 1.98
+        },
+        "sport888": {
+          "Arthur Fery": 1.95,
+          "Jaime Faria": 1.85
+        },
+        "williamhill": {
+          "Arthur Fery": 1.95,
+          "Jaime Faria": 1.85
+        },
+        "draftkings": {
+          "Arthur Fery": 1.89,
+          "Jaime Faria": 1.92
+        },
+        "pinnacle": {
+          "Arthur Fery": 1.93,
+          "Jaime Faria": 1.94
+        },
+        "betus": {
+          "Arthur Fery": 1.87,
+          "Jaime Faria": 1.87
+        }
+      },
+      "prediction": {
+        "p1_name": "Jaime Faria",
+        "p2_name": "Arthur Fery",
+        "p1_prob": 0.4434,
+        "p2_prob": 0.5566,
+        "predicted_winner": "Arthur Fery",
+        "confidence": "medium",
+        "p1_edge": -0.0617,
+        "p2_edge": 0.0515
+      },
+      "collected_at": "2026-09-30T14:32:36.101782+00:00",
+      "result": null
+    },
+    "tml-2026-747-4": {
+      "match_id": "tml-2026-747-4",
+      "commence_time": "2026-09-30T00:00:00+00:00",
+      "tournament": "Beijing",
+      "surface": "Hard",
+      "player1": "Yunchaokete Bu",
+      "player2": "Juan Manuel Cerundolo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Yunchaokete Bu",
+        "p2_name": "Juan Manuel Cerundolo",
+        "p1_prob": 0.4782,
+        "p2_prob": 0.5218,
+        "predicted_winner": "Juan Manuel Cerundolo",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-09-30T14:32:42.815682+00:00",
+      "result": {
+        "winner": "Yunchaokete Bu",
+        "correct": false,
+        "settled_at": "2026-09-30T14:32:42.815682+00:00"
+      }
     }
   },
-  "last_updated": "2026-09-29T14:34:02.877994+00:00"
+  "last_updated": "2026-09-30T14:32:42.830601+00:00"
 }
