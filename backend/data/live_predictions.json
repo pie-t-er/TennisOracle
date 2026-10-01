@@ -61554,7 +61554,11 @@
         "p2_edge": 0.1504
       },
       "collected_at": "2026-09-29T14:33:57.182422+00:00",
-      "result": null
+      "result": {
+        "winner": "Ugo Humbert",
+        "correct": false,
+        "settled_at": "2026-10-01T03:48:28.064191+00:00"
+      }
     },
     "6b7d41a4a1150f4e15713dc6958fda96": {
       "match_id": "6b7d41a4a1150f4e15713dc6958fda96",
@@ -62202,7 +62206,81 @@
         "correct": false,
         "settled_at": "2026-09-30T14:32:42.815682+00:00"
       }
+    },
+    "fc4f09e7e4e761c5d4cf4f742f2aea79": {
+      "match_id": "fc4f09e7e4e761c5d4cf4f742f2aea79",
+      "commence_time": "2026-10-01T03:26:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Alex Molcan",
+      "player2": "Tomas Machac",
+      "bookmakers": {
+        "betrivers": {
+          "Alex Molcan": 1.81,
+          "Tomas Machac": 1.97
+        },
+        "unibet_nl": {
+          "Alex Molcan": 1.81,
+          "Tomas Machac": 1.97
+        },
+        "pmu_fr": {
+          "Alex Molcan": 1.71,
+          "Tomas Machac": 1.88
+        },
+        "betclic_fr": {
+          "Alex Molcan": 1.67,
+          "Tomas Machac": 1.96
+        },
+        "unibet_se": {
+          "Alex Molcan": 1.81,
+          "Tomas Machac": 1.97
+        },
+        "betmgm": {
+          "Alex Molcan": 1.71,
+          "Tomas Machac": 2.05
+        },
+        "leovegas_se": {
+          "Alex Molcan": 1.75,
+          "Tomas Machac": 1.92
+        },
+        "tipico_de": {
+          "Alex Molcan": 1.65,
+          "Tomas Machac": 2.1
+        },
+        "draftkings": {
+          "Alex Molcan": 1.76,
+          "Tomas Machac": 2.03
+        },
+        "coolbet": {
+          "Alex Molcan": 1.78,
+          "Tomas Machac": 2.05
+        },
+        "pinnacle": {
+          "Alex Molcan": 1.89,
+          "Tomas Machac": 1.96
+        },
+        "bovada": {
+          "Alex Molcan": 1.77,
+          "Tomas Machac": 2.1
+        },
+        "fanduel": {
+          "Alex Molcan": 1.71,
+          "Tomas Machac": 2.15
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex Molcan",
+        "p2_name": "Tomas Machac",
+        "p1_prob": 0.3733,
+        "p2_prob": 0.6267,
+        "predicted_winner": "Tomas Machac",
+        "confidence": "high",
+        "p1_edge": -0.1558,
+        "p2_edge": 0.1616
+      },
+      "collected_at": "2026-10-01T03:48:37.059803+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-09-30T14:32:42.830601+00:00"
+  "last_updated": "2026-10-01T03:48:37.076905+00:00"
 }
