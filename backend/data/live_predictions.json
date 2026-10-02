@@ -64370,7 +64370,162 @@
       },
       "collected_at": "2026-10-02T14:24:39.607525+00:00",
       "result": null
+    },
+    "69ec18acddec63da011d8f44d376b90c": {
+      "match_id": "69ec18acddec63da011d8f44d376b90c",
+      "commence_time": "2026-10-04T03:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Hubert Hurkacz",
+      "player2": "Karen Khachanov",
+      "bookmakers": {
+        "onexbet": {
+          "Hubert Hurkacz": 2.21,
+          "Karen Khachanov": 1.71
+        },
+        "betfair_ex_eu": {
+          "Hubert Hurkacz": 2.14,
+          "Karen Khachanov": 1.73
+        },
+        "sport888": {
+          "Hubert Hurkacz": 2.1,
+          "Karen Khachanov": 1.73
+        },
+        "marathonbet": {
+          "Hubert Hurkacz": 2.17,
+          "Karen Khachanov": 1.68
+        },
+        "betsson": {
+          "Hubert Hurkacz": 2.14,
+          "Karen Khachanov": 1.69
+        },
+        "nordicbet": {
+          "Hubert Hurkacz": 2.14,
+          "Karen Khachanov": 1.69
+        },
+        "unibet_fr": {
+          "Hubert Hurkacz": 2.0,
+          "Karen Khachanov": 1.61
+        },
+        "coolbet": {
+          "Hubert Hurkacz": 2.15,
+          "Karen Khachanov": 1.71
+        },
+        "williamhill": {
+          "Hubert Hurkacz": 2.1,
+          "Karen Khachanov": 1.73
+        },
+        "gtbets": {
+          "Hubert Hurkacz": 2.13,
+          "Karen Khachanov": 1.72
+        },
+        "betclic_fr": {
+          "Hubert Hurkacz": 2.05,
+          "Karen Khachanov": 1.63
+        },
+        "draftkings": {
+          "Hubert Hurkacz": 2.14,
+          "Karen Khachanov": 1.72
+        },
+        "fanduel": {
+          "Hubert Hurkacz": 2.06,
+          "Karen Khachanov": 1.78
+        },
+        "winamax_fr": {
+          "Hubert Hurkacz": 2.0,
+          "Karen Khachanov": 1.62
+        },
+        "winamax_de": {
+          "Hubert Hurkacz": 2.15,
+          "Karen Khachanov": 1.7
+        },
+        "matchbook": {
+          "Hubert Hurkacz": 2.02,
+          "Karen Khachanov": 1.63
+        },
+        "betmgm": {
+          "Hubert Hurkacz": 2.1,
+          "Karen Khachanov": 1.69
+        },
+        "betrivers": {
+          "Hubert Hurkacz": 2.25,
+          "Karen Khachanov": 1.65
+        },
+        "unibet_nl": {
+          "Hubert Hurkacz": 2.25,
+          "Karen Khachanov": 1.65
+        },
+        "pmu_fr": {
+          "Hubert Hurkacz": 2.15,
+          "Karen Khachanov": 1.57
+        },
+        "unibet_se": {
+          "Hubert Hurkacz": 2.25,
+          "Karen Khachanov": 1.65
+        },
+        "leovegas_se": {
+          "Hubert Hurkacz": 2.25,
+          "Karen Khachanov": 1.65
+        },
+        "bovada": {
+          "Hubert Hurkacz": 2.15,
+          "Karen Khachanov": 1.71
+        },
+        "lowvig": {
+          "Hubert Hurkacz": 2.15,
+          "Karen Khachanov": 1.74
+        },
+        "betonlineag": {
+          "Hubert Hurkacz": 2.15,
+          "Karen Khachanov": 1.74
+        },
+        "pinnacle": {
+          "Hubert Hurkacz": 2.2,
+          "Karen Khachanov": 1.74
+        },
+        "tipico_de": {
+          "Hubert Hurkacz": 2.1,
+          "Karen Khachanov": 1.65
+        }
+      },
+      "prediction": {
+        "p1_name": "Hubert Hurkacz",
+        "p2_name": "Karen Khachanov",
+        "p1_prob": 0.5364,
+        "p2_prob": 0.4636,
+        "predicted_winner": "Hubert Hurkacz",
+        "confidence": "low",
+        "p1_edge": 0.092,
+        "p2_edge": -0.0982
+      },
+      "collected_at": "2026-10-02T20:18:28.290310+00:00",
+      "result": null
+    },
+    "tml-2026-747-19": {
+      "match_id": "tml-2026-747-19",
+      "commence_time": "2026-10-02T00:00:00+00:00",
+      "tournament": "Beijing",
+      "surface": "Hard",
+      "player1": "Novak Djokovic",
+      "player2": "Yunchaokete Bu",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Novak Djokovic",
+        "p2_name": "Yunchaokete Bu",
+        "p1_prob": 0.8387,
+        "p2_prob": 0.1613,
+        "predicted_winner": "Novak Djokovic",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-02T20:18:36.104810+00:00",
+      "result": {
+        "winner": "Novak Djokovic",
+        "correct": true,
+        "settled_at": "2026-10-02T20:18:36.104810+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-02T14:24:39.622309+00:00"
+  "last_updated": "2026-10-02T20:18:36.120522+00:00"
 }
