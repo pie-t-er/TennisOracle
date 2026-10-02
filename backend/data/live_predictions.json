@@ -60584,7 +60584,11 @@
         "p2_edge": -0.0654
       },
       "collected_at": "2026-09-29T14:33:56.272482+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-10-02T14:24:30.768219+00:00"
+      }
     },
     "8b509584519687ab6a46dc6b1f989a58": {
       "match_id": "8b509584519687ab6a46dc6b1f989a58",
@@ -62493,7 +62497,11 @@
         "p2_edge": -0.1828
       },
       "collected_at": "2026-10-01T15:02:21.904567+00:00",
-      "result": null
+      "result": {
+        "winner": "Karen Khachanov",
+        "correct": true,
+        "settled_at": "2026-10-02T14:24:30.679218+00:00"
+      }
     },
     "74e207143d73fada6963397830c5c2d9": {
       "match_id": "74e207143d73fada6963397830c5c2d9",
@@ -62603,7 +62611,11 @@
         "p2_edge": 0.0241
       },
       "collected_at": "2026-10-01T15:02:22.030578+00:00",
-      "result": null
+      "result": {
+        "winner": "Hubert Hurkacz",
+        "correct": true,
+        "settled_at": "2026-10-02T14:24:30.857283+00:00"
+      }
     },
     "5f4504b72130e8d059ce2358912bc609": {
       "match_id": "5f4504b72130e8d059ce2358912bc609",
@@ -63311,7 +63323,11 @@
         "p2_edge": -0.1502
       },
       "collected_at": "2026-10-01T15:02:22.622278+00:00",
-      "result": null
+      "result": {
+        "winner": "Valentin Vacherot",
+        "correct": true,
+        "settled_at": "2026-10-02T14:24:30.946180+00:00"
+      }
     },
     "435f3a90c7a66fdf4f84a79ca37e05e1": {
       "match_id": "435f3a90c7a66fdf4f84a79ca37e05e1",
@@ -63437,7 +63453,11 @@
         "p2_edge": 0.1025
       },
       "collected_at": "2026-10-01T15:02:22.721157+00:00",
-      "result": null
+      "result": {
+        "winner": "Kyrian Jacquet",
+        "correct": false,
+        "settled_at": "2026-10-02T14:24:31.035725+00:00"
+      }
     },
     "908dd14275f11b8588bccce4d87aae14": {
       "match_id": "908dd14275f11b8588bccce4d87aae14",
@@ -63563,7 +63583,11 @@
         "p2_edge": 0.099
       },
       "collected_at": "2026-10-01T15:02:22.821489+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fils",
+        "correct": true,
+        "settled_at": "2026-10-02T14:24:31.123876+00:00"
+      }
     },
     "7b880c1411425677c923489ced32b94e": {
       "match_id": "7b880c1411425677c923489ced32b94e",
@@ -64016,7 +64040,337 @@
       },
       "collected_at": "2026-10-01T15:02:23.222153+00:00",
       "result": null
+    },
+    "84fefb7009232a1bafbed2450065664a": {
+      "match_id": "84fefb7009232a1bafbed2450065664a",
+      "commence_time": "2026-10-03T09:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Daniil Medvedev",
+      "player2": "Jan-Lennard Struff",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Daniil Medvedev": 1.17,
+          "Jan-Lennard Struff": 6.2
+        },
+        "matchbook": {
+          "Daniil Medvedev": 1.17,
+          "Jan-Lennard Struff": 6.2
+        },
+        "draftkings": {
+          "Daniil Medvedev": 1.15,
+          "Jan-Lennard Struff": 5.52
+        },
+        "unibet_se": {
+          "Daniil Medvedev": 1.18,
+          "Jan-Lennard Struff": 4.9
+        },
+        "leovegas_se": {
+          "Daniil Medvedev": 1.18,
+          "Jan-Lennard Struff": 4.9
+        },
+        "betrivers": {
+          "Daniil Medvedev": 1.18,
+          "Jan-Lennard Struff": 4.9
+        },
+        "onexbet": {
+          "Daniil Medvedev": 1.18,
+          "Jan-Lennard Struff": 5.4
+        },
+        "pmu_fr": {
+          "Daniil Medvedev": 1.14,
+          "Jan-Lennard Struff": 4.6
+        },
+        "gtbets": {
+          "Daniil Medvedev": 1.15,
+          "Jan-Lennard Struff": 5.11
+        },
+        "unibet_nl": {
+          "Daniil Medvedev": 1.18,
+          "Jan-Lennard Struff": 4.9
+        },
+        "marathonbet": {
+          "Daniil Medvedev": 1.16,
+          "Jan-Lennard Struff": 5.2
+        },
+        "coolbet": {
+          "Daniil Medvedev": 1.15,
+          "Jan-Lennard Struff": 5.5
+        },
+        "nordicbet": {
+          "Daniil Medvedev": 1.16,
+          "Jan-Lennard Struff": 5.2
+        },
+        "unibet_fr": {
+          "Daniil Medvedev": 1.13,
+          "Jan-Lennard Struff": 4.3
+        },
+        "winamax_fr": {
+          "Daniil Medvedev": 1.15,
+          "Jan-Lennard Struff": 5.1
+        },
+        "winamax_de": {
+          "Daniil Medvedev": 1.17,
+          "Jan-Lennard Struff": 5.5
+        },
+        "bovada": {
+          "Daniil Medvedev": 1.15,
+          "Jan-Lennard Struff": 5.5
+        },
+        "tipico_de": {
+          "Daniil Medvedev": 1.13,
+          "Jan-Lennard Struff": 5.0
+        },
+        "betclic_fr": {
+          "Daniil Medvedev": 1.15,
+          "Jan-Lennard Struff": 4.8
+        },
+        "fanduel": {
+          "Daniil Medvedev": 1.15,
+          "Jan-Lennard Struff": 5.4
+        },
+        "betsson": {
+          "Daniil Medvedev": 1.16,
+          "Jan-Lennard Struff": 5.2
+        },
+        "pinnacle": {
+          "Daniil Medvedev": 1.16,
+          "Jan-Lennard Struff": 5.87
+        },
+        "sport888": {
+          "Daniil Medvedev": 1.14,
+          "Jan-Lennard Struff": 5.5
+        },
+        "williamhill": {
+          "Daniil Medvedev": 1.14,
+          "Jan-Lennard Struff": 5.5
+        },
+        "betmgm": {
+          "Daniil Medvedev": 1.14,
+          "Jan-Lennard Struff": 5.5
+        }
+      },
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Jan-Lennard Struff",
+        "p1_prob": 0.8533,
+        "p2_prob": 0.1467,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": 0.0058,
+        "p2_edge": -0.0146
+      },
+      "collected_at": "2026-10-02T14:24:39.267530+00:00",
+      "result": null
+    },
+    "2ef03d744d19f6f72feffe902dd58fb3": {
+      "match_id": "2ef03d744d19f6f72feffe902dd58fb3",
+      "commence_time": "2026-10-04T02:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Valentin Vacherot",
+      "player2": "Arthur Fils",
+      "bookmakers": {
+        "pmu_fr": {
+          "Arthur Fils": 1.22,
+          "Valentin Vacherot": 3.55
+        },
+        "unibet_nl": {
+          "Arthur Fils": 1.27,
+          "Valentin Vacherot": 3.8
+        },
+        "betfair_ex_eu": {
+          "Arthur Fils": 1.21,
+          "Valentin Vacherot": 4.2
+        },
+        "williamhill": {
+          "Arthur Fils": 1.29,
+          "Valentin Vacherot": 3.6
+        },
+        "sport888": {
+          "Arthur Fils": 1.29,
+          "Valentin Vacherot": 3.6
+        },
+        "betrivers": {
+          "Arthur Fils": 1.27,
+          "Valentin Vacherot": 3.8
+        },
+        "unibet_se": {
+          "Arthur Fils": 1.27,
+          "Valentin Vacherot": 3.8
+        },
+        "betsson": {
+          "Arthur Fils": 1.26,
+          "Valentin Vacherot": 3.75
+        },
+        "nordicbet": {
+          "Arthur Fils": 1.26,
+          "Valentin Vacherot": 3.75
+        },
+        "unibet_fr": {
+          "Arthur Fils": 1.22,
+          "Valentin Vacherot": 3.35
+        },
+        "marathonbet": {
+          "Arthur Fils": 1.26,
+          "Valentin Vacherot": 3.8
+        },
+        "betclic_fr": {
+          "Arthur Fils": 1.23,
+          "Valentin Vacherot": 3.45
+        },
+        "gtbets": {
+          "Arthur Fils": 1.27,
+          "Valentin Vacherot": 3.79
+        },
+        "fanduel": {
+          "Arthur Fils": 1.26,
+          "Valentin Vacherot": 3.9
+        },
+        "draftkings": {
+          "Arthur Fils": 1.27,
+          "Valentin Vacherot": 3.86
+        },
+        "tipico_de": {
+          "Arthur Fils": 1.25,
+          "Valentin Vacherot": 3.6
+        },
+        "winamax_de": {
+          "Arthur Fils": 1.26,
+          "Valentin Vacherot": 3.8
+        },
+        "winamax_fr": {
+          "Arthur Fils": 1.22,
+          "Valentin Vacherot": 3.4
+        },
+        "bovada": {
+          "Arthur Fils": 1.27,
+          "Valentin Vacherot": 3.9
+        },
+        "coolbet": {
+          "Arthur Fils": 1.27,
+          "Valentin Vacherot": 3.8
+        }
+      },
+      "prediction": {
+        "p1_name": "Valentin Vacherot",
+        "p2_name": "Arthur Fils",
+        "p1_prob": 0.385,
+        "p2_prob": 0.615,
+        "predicted_winner": "Arthur Fils",
+        "confidence": "high",
+        "p1_edge": 0.1469,
+        "p2_edge": -0.1602
+      },
+      "collected_at": "2026-10-02T14:24:39.509421+00:00",
+      "result": null
+    },
+    "5357c574f469ea94b1ae1dd036711f7f": {
+      "match_id": "5357c574f469ea94b1ae1dd036711f7f",
+      "commence_time": "2026-10-04T02:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Jaume Munar",
+      "player2": "Kyrian Jacquet",
+      "bookmakers": {
+        "nordicbet": {
+          "Jaume Munar": 1.58,
+          "Kyrian Jacquet": 2.34
+        },
+        "betfair_ex_eu": {
+          "Jaume Munar": 1.52,
+          "Kyrian Jacquet": 2.34
+        },
+        "marathonbet": {
+          "Jaume Munar": 1.57,
+          "Kyrian Jacquet": 2.39
+        },
+        "betclic_fr": {
+          "Jaume Munar": 1.53,
+          "Kyrian Jacquet": 2.23
+        },
+        "unibet_fr": {
+          "Jaume Munar": 1.51,
+          "Kyrian Jacquet": 2.2
+        },
+        "fanduel": {
+          "Jaume Munar": 1.59,
+          "Kyrian Jacquet": 2.4
+        },
+        "betsson": {
+          "Jaume Munar": 1.58,
+          "Kyrian Jacquet": 2.34
+        },
+        "unibet_nl": {
+          "Jaume Munar": 1.51,
+          "Kyrian Jacquet": 2.55
+        },
+        "pmu_fr": {
+          "Jaume Munar": 1.45,
+          "Kyrian Jacquet": 2.43
+        },
+        "betrivers": {
+          "Jaume Munar": 1.51,
+          "Kyrian Jacquet": 2.55
+        },
+        "unibet_se": {
+          "Jaume Munar": 1.51,
+          "Kyrian Jacquet": 2.55
+        },
+        "winamax_de": {
+          "Jaume Munar": 1.58,
+          "Kyrian Jacquet": 2.35
+        },
+        "winamax_fr": {
+          "Jaume Munar": 1.52,
+          "Kyrian Jacquet": 2.2
+        },
+        "tipico_de": {
+          "Jaume Munar": 1.52,
+          "Kyrian Jacquet": 2.35
+        },
+        "gtbets": {
+          "Jaume Munar": 1.58,
+          "Kyrian Jacquet": 2.4
+        },
+        "sport888": {
+          "Jaume Munar": 1.61,
+          "Kyrian Jacquet": 2.3
+        },
+        "williamhill": {
+          "Jaume Munar": 1.62,
+          "Kyrian Jacquet": 2.3
+        },
+        "draftkings": {
+          "Jaume Munar": 1.65,
+          "Kyrian Jacquet": 2.26
+        },
+        "betmgm": {
+          "Jaume Munar": 1.61,
+          "Kyrian Jacquet": 2.3
+        },
+        "bovada": {
+          "Jaume Munar": 1.65,
+          "Kyrian Jacquet": 2.3
+        },
+        "coolbet": {
+          "Jaume Munar": 1.59,
+          "Kyrian Jacquet": 2.37
+        }
+      },
+      "prediction": {
+        "p1_name": "Jaume Munar",
+        "p2_name": "Kyrian Jacquet",
+        "p1_prob": 0.596,
+        "p2_prob": 0.404,
+        "predicted_winner": "Jaume Munar",
+        "confidence": "medium",
+        "p1_edge": -0.0101,
+        "p2_edge": 0.0118
+      },
+      "collected_at": "2026-10-02T14:24:39.607525+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-02T03:46:54.834157+00:00"
+  "last_updated": "2026-10-02T14:24:39.622309+00:00"
 }
