@@ -62749,7 +62749,11 @@
         "p2_edge": -0.0599
       },
       "collected_at": "2026-10-01T15:02:22.129672+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex de Minaur",
+        "correct": true,
+        "settled_at": "2026-10-03T12:59:10.916475+00:00"
+      }
     },
     "a71ce248f6b65793058c9b68a0439a8e": {
       "match_id": "a71ce248f6b65793058c9b68a0439a8e",
@@ -62867,7 +62871,11 @@
         "p2_edge": -0.0052
       },
       "collected_at": "2026-10-01T15:02:22.228063+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-10-03T12:59:11.067918+00:00"
+      }
     },
     "fab68d601d3c902595fb337427fca585": {
       "match_id": "fab68d601d3c902595fb337427fca585",
@@ -62977,7 +62985,11 @@
         "p2_edge": -0.1486
       },
       "collected_at": "2026-10-01T15:02:22.326300+00:00",
-      "result": null
+      "result": {
+        "winner": "Andrey Rublev",
+        "correct": true,
+        "settled_at": "2026-10-03T12:59:10.967924+00:00"
+      }
     },
     "33518edfa1e26f2c0e3ae617afe0ab1b": {
       "match_id": "33518edfa1e26f2c0e3ae617afe0ab1b",
@@ -63693,7 +63705,11 @@
         "p2_edge": -0.0171
       },
       "collected_at": "2026-10-01T15:02:22.922332+00:00",
-      "result": null
+      "result": {
+        "winner": "Adolfo Daniel Vallejo",
+        "correct": false,
+        "settled_at": "2026-10-03T12:59:11.225710+00:00"
+      }
     },
     "268a9759aa1b6d1e5477d1e887d1f376": {
       "match_id": "268a9759aa1b6d1e5477d1e887d1f376",
@@ -63811,7 +63827,11 @@
         "p2_edge": 0.1249
       },
       "collected_at": "2026-10-01T15:02:23.022992+00:00",
-      "result": null
+      "result": {
+        "winner": "Denis Shapovalov",
+        "correct": false,
+        "settled_at": "2026-10-03T12:59:11.119966+00:00"
+      }
     },
     "cfbbe35bd317e3fda613e84e1d6f42d4": {
       "match_id": "cfbbe35bd317e3fda613e84e1d6f42d4",
@@ -63917,7 +63937,11 @@
         "p2_edge": 0.0068
       },
       "collected_at": "2026-10-01T15:02:23.121982+00:00",
-      "result": null
+      "result": {
+        "winner": "Carlos Alcaraz",
+        "correct": true,
+        "settled_at": "2026-10-03T12:59:11.175631+00:00"
+      }
     },
     "66032d788e59686d66161167437ec068": {
       "match_id": "66032d788e59686d66161167437ec068",
@@ -64039,7 +64063,11 @@
         "p2_edge": -0.0891
       },
       "collected_at": "2026-10-01T15:02:23.222153+00:00",
-      "result": null
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": true,
+        "settled_at": "2026-10-03T12:59:11.275741+00:00"
+      }
     },
     "84fefb7009232a1bafbed2450065664a": {
       "match_id": "84fefb7009232a1bafbed2450065664a",
@@ -64161,7 +64189,11 @@
         "p2_edge": -0.0146
       },
       "collected_at": "2026-10-02T14:24:39.267530+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-10-03T12:59:11.018044+00:00"
+      }
     },
     "2ef03d744d19f6f72feffe902dd58fb3": {
       "match_id": "2ef03d744d19f6f72feffe902dd58fb3",
@@ -64525,7 +64557,357 @@
         "correct": true,
         "settled_at": "2026-10-02T20:18:36.104810+00:00"
       }
+    },
+    "e9d8fec90ecda0bc0721e481e8cdaa69": {
+      "match_id": "e9d8fec90ecda0bc0721e481e8cdaa69",
+      "commence_time": "2026-10-04T06:10:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Alex de Minaur",
+      "player2": "Andrey Rublev",
+      "bookmakers": {
+        "matchbook": {
+          "Alex de Minaur": 1.82,
+          "Andrey Rublev": 2.18
+        },
+        "coolbet": {
+          "Alex de Minaur": 1.75,
+          "Andrey Rublev": 2.1
+        },
+        "betfair_ex_eu": {
+          "Alex de Minaur": 1.82,
+          "Andrey Rublev": 2.18
+        },
+        "nordicbet": {
+          "Alex de Minaur": 1.72,
+          "Andrey Rublev": 2.09
+        },
+        "betclic_fr": {
+          "Alex de Minaur": 1.72,
+          "Andrey Rublev": 2.09
+        },
+        "unibet_fr": {
+          "Alex de Minaur": 1.64,
+          "Andrey Rublev": 1.96
+        },
+        "betsson": {
+          "Alex de Minaur": 1.72,
+          "Andrey Rublev": 2.09
+        },
+        "gtbets": {
+          "Alex de Minaur": 1.68,
+          "Andrey Rublev": 2.07
+        },
+        "fanduel": {
+          "Alex de Minaur": 1.74,
+          "Andrey Rublev": 2.12
+        },
+        "marathonbet": {
+          "Alex de Minaur": 1.71,
+          "Andrey Rublev": 2.12
+        },
+        "onexbet": {
+          "Alex de Minaur": 1.74,
+          "Andrey Rublev": 2.16
+        },
+        "bovada": {
+          "Alex de Minaur": 1.77,
+          "Andrey Rublev": 2.1
+        },
+        "winamax_fr": {
+          "Alex de Minaur": 1.66,
+          "Andrey Rublev": 2.0
+        },
+        "winamax_de": {
+          "Alex de Minaur": 1.72,
+          "Andrey Rublev": 2.1
+        },
+        "draftkings": {
+          "Alex de Minaur": 1.75,
+          "Andrey Rublev": 2.1
+        },
+        "leovegas_se": {
+          "Alex de Minaur": 1.74,
+          "Andrey Rublev": 2.08
+        },
+        "betrivers": {
+          "Alex de Minaur": 1.74,
+          "Andrey Rublev": 2.08
+        },
+        "pmu_fr": {
+          "Alex de Minaur": 1.67,
+          "Andrey Rublev": 2.0
+        },
+        "unibet_se": {
+          "Alex de Minaur": 1.74,
+          "Andrey Rublev": 2.08
+        },
+        "unibet_nl": {
+          "Alex de Minaur": 1.74,
+          "Andrey Rublev": 2.08
+        },
+        "tipico_de": {
+          "Alex de Minaur": 1.72,
+          "Andrey Rublev": 2.0
+        },
+        "sport888": {
+          "Alex de Minaur": 1.73,
+          "Andrey Rublev": 2.1
+        },
+        "williamhill": {
+          "Alex de Minaur": 1.73,
+          "Andrey Rublev": 2.1
+        },
+        "pinnacle": {
+          "Alex de Minaur": 1.78,
+          "Andrey Rublev": 2.14
+        },
+        "betmgm": {
+          "Alex de Minaur": 1.74,
+          "Andrey Rublev": 2.05
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex De Minaur",
+        "p2_name": "Andrey Rublev",
+        "p1_prob": 0.5872,
+        "p2_prob": 0.4128,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "medium",
+        "p1_edge": 0.0377,
+        "p2_edge": -0.0459
+      },
+      "collected_at": "2026-10-03T12:59:17.049101+00:00",
+      "result": null
+    },
+    "d29e017ede49b7615b809bfefcffea6c": {
+      "match_id": "d29e017ede49b7615b809bfefcffea6c",
+      "commence_time": "2026-10-04T04:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Carlos Alcaraz",
+      "player2": "Denis Shapovalov",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Carlos Alcaraz": 1.12,
+          "Denis Shapovalov": 8.6
+        },
+        "unibet_fr": {
+          "Carlos Alcaraz": 1.07,
+          "Denis Shapovalov": 5.3
+        },
+        "matchbook": {
+          "Carlos Alcaraz": 1.12,
+          "Denis Shapovalov": 8.6
+        },
+        "betclic_fr": {
+          "Carlos Alcaraz": 1.1,
+          "Denis Shapovalov": 6.6
+        },
+        "draftkings": {
+          "Carlos Alcaraz": 1.09,
+          "Denis Shapovalov": 7.7
+        },
+        "nordicbet": {
+          "Carlos Alcaraz": 1.1,
+          "Denis Shapovalov": 6.6
+        },
+        "marathonbet": {
+          "Carlos Alcaraz": 1.1,
+          "Denis Shapovalov": 6.8
+        },
+        "coolbet": {
+          "Carlos Alcaraz": 1.1,
+          "Denis Shapovalov": 7.1
+        },
+        "betsson": {
+          "Carlos Alcaraz": 1.1,
+          "Denis Shapovalov": 6.6
+        },
+        "gtbets": {
+          "Carlos Alcaraz": 1.1,
+          "Denis Shapovalov": 6.92
+        },
+        "fanduel": {
+          "Carlos Alcaraz": 1.08,
+          "Denis Shapovalov": 8.2
+        },
+        "winamax_de": {
+          "Carlos Alcaraz": 1.1,
+          "Denis Shapovalov": 6.75
+        },
+        "winamax_fr": {
+          "Carlos Alcaraz": 1.08,
+          "Denis Shapovalov": 5.7
+        },
+        "pinnacle": {
+          "Carlos Alcaraz": 1.1,
+          "Denis Shapovalov": 7.73
+        },
+        "unibet_nl": {
+          "Carlos Alcaraz": 1.11,
+          "Denis Shapovalov": 6.75
+        },
+        "unibet_se": {
+          "Carlos Alcaraz": 1.11,
+          "Denis Shapovalov": 6.75
+        },
+        "pmu_fr": {
+          "Carlos Alcaraz": 1.07,
+          "Denis Shapovalov": 6.1
+        },
+        "betrivers": {
+          "Carlos Alcaraz": 1.11,
+          "Denis Shapovalov": 6.75
+        },
+        "tipico_de": {
+          "Carlos Alcaraz": 1.08,
+          "Denis Shapovalov": 6.5
+        },
+        "sport888": {
+          "Carlos Alcaraz": 1.1,
+          "Denis Shapovalov": 7.0
+        },
+        "williamhill": {
+          "Carlos Alcaraz": 1.1,
+          "Denis Shapovalov": 7.0
+        },
+        "betmgm": {
+          "Carlos Alcaraz": 1.1,
+          "Denis Shapovalov": 6.75
+        },
+        "lowvig": {
+          "Carlos Alcaraz": 1.1,
+          "Denis Shapovalov": 7.61
+        },
+        "betonlineag": {
+          "Carlos Alcaraz": 1.1,
+          "Denis Shapovalov": 7.61
+        }
+      },
+      "prediction": {
+        "p1_name": "Carlos Alcaraz",
+        "p2_name": "Denis Shapovalov",
+        "p1_prob": 0.9022,
+        "p2_prob": 0.0978,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": 0.0093,
+        "p2_edge": -0.0185
+      },
+      "collected_at": "2026-10-03T12:59:17.124342+00:00",
+      "result": null
+    },
+    "8df898f639928a81d8b621732f0c3d95": {
+      "match_id": "8df898f639928a81d8b621732f0c3d95",
+      "commence_time": "2026-10-04T08:10:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Jiri Lehecka",
+      "player2": "Adolfo Daniel Vallejo",
+      "bookmakers": {
+        "winamax_fr": {
+          "Adolfo Daniel Vallejo": 2.75,
+          "Jiri Lehecka": 1.35
+        },
+        "betsson": {
+          "Adolfo Daniel Vallejo": 2.95,
+          "Jiri Lehecka": 1.39
+        },
+        "coolbet": {
+          "Adolfo Daniel Vallejo": 3.1,
+          "Jiri Lehecka": 1.37
+        },
+        "betfair_ex_eu": {
+          "Adolfo Daniel Vallejo": 1.1,
+          "Jiri Lehecka": 1.06
+        },
+        "winamax_de": {
+          "Adolfo Daniel Vallejo": 2.95,
+          "Jiri Lehecka": 1.39
+        },
+        "gtbets": {
+          "Adolfo Daniel Vallejo": 2.96,
+          "Jiri Lehecka": 1.4
+        },
+        "unibet_fr": {
+          "Adolfo Daniel Vallejo": 2.7,
+          "Jiri Lehecka": 1.34
+        },
+        "fanduel": {
+          "Adolfo Daniel Vallejo": 3.05,
+          "Jiri Lehecka": 1.37
+        },
+        "nordicbet": {
+          "Adolfo Daniel Vallejo": 2.95,
+          "Jiri Lehecka": 1.39
+        },
+        "betclic_fr": {
+          "Adolfo Daniel Vallejo": 2.75,
+          "Jiri Lehecka": 1.35
+        },
+        "draftkings": {
+          "Adolfo Daniel Vallejo": 3.19,
+          "Jiri Lehecka": 1.36
+        },
+        "marathonbet": {
+          "Adolfo Daniel Vallejo": 3.02,
+          "Jiri Lehecka": 1.38
+        },
+        "matchbook": {
+          "Adolfo Daniel Vallejo": 2.92,
+          "Jiri Lehecka": 1.34
+        },
+        "pinnacle": {
+          "Adolfo Daniel Vallejo": 3.26,
+          "Jiri Lehecka": 1.38
+        },
+        "tipico_de": {
+          "Adolfo Daniel Vallejo": 2.85,
+          "Jiri Lehecka": 1.37
+        },
+        "betmgm": {
+          "Adolfo Daniel Vallejo": 3.1,
+          "Jiri Lehecka": 1.36
+        },
+        "williamhill": {
+          "Adolfo Daniel Vallejo": 3.1,
+          "Jiri Lehecka": 1.36
+        },
+        "sport888": {
+          "Adolfo Daniel Vallejo": 3.1,
+          "Jiri Lehecka": 1.36
+        },
+        "unibet_nl": {
+          "Adolfo Daniel Vallejo": 3.1,
+          "Jiri Lehecka": 1.36
+        },
+        "betrivers": {
+          "Adolfo Daniel Vallejo": 3.1,
+          "Jiri Lehecka": 1.36
+        },
+        "pmu_fr": {
+          "Adolfo Daniel Vallejo": 2.95,
+          "Jiri Lehecka": 1.32
+        },
+        "unibet_se": {
+          "Adolfo Daniel Vallejo": 3.1,
+          "Jiri Lehecka": 1.36
+        }
+      },
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Adolfo Daniel Vallejo",
+        "p1_prob": 0.6902,
+        "p2_prob": 0.3098,
+        "predicted_winner": "Jiri Lehecka",
+        "confidence": "high",
+        "p1_edge": -0.0241,
+        "p2_edge": 0.0031
+      },
+      "collected_at": "2026-10-03T12:59:17.198677+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-02T20:18:36.120522+00:00"
+  "last_updated": "2026-10-03T12:59:17.209686+00:00"
 }
