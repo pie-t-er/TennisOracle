@@ -64299,7 +64299,11 @@
         "p2_edge": -0.1602
       },
       "collected_at": "2026-10-02T14:24:39.509421+00:00",
-      "result": null
+      "result": {
+        "winner": "Valentin Vacherot",
+        "correct": false,
+        "settled_at": "2026-10-04T13:38:03.261444+00:00"
+      }
     },
     "5357c574f469ea94b1ae1dd036711f7f": {
       "match_id": "5357c574f469ea94b1ae1dd036711f7f",
@@ -64539,7 +64543,11 @@
         "p2_edge": -0.0982
       },
       "collected_at": "2026-10-02T20:18:28.290310+00:00",
-      "result": null
+      "result": {
+        "winner": "Hubert Hurkacz",
+        "correct": true,
+        "settled_at": "2026-10-04T13:38:02.902064+00:00"
+      }
     },
     "tml-2026-747-19": {
       "match_id": "tml-2026-747-19",
@@ -64686,7 +64694,11 @@
         "p2_edge": -0.0459
       },
       "collected_at": "2026-10-03T12:59:17.049101+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex de Minaur",
+        "correct": true,
+        "settled_at": "2026-10-04T13:38:02.992240+00:00"
+      }
     },
     "d29e017ede49b7615b809bfefcffea6c": {
       "match_id": "d29e017ede49b7615b809bfefcffea6c",
@@ -64804,7 +64816,11 @@
         "p2_edge": -0.0185
       },
       "collected_at": "2026-10-03T12:59:17.124342+00:00",
-      "result": null
+      "result": {
+        "winner": "Carlos Alcaraz",
+        "correct": true,
+        "settled_at": "2026-10-04T13:38:03.171319+00:00"
+      }
     },
     "8df898f639928a81d8b621732f0c3d95": {
       "match_id": "8df898f639928a81d8b621732f0c3d95",
@@ -64914,7 +64930,11 @@
         "p2_edge": 0.0031
       },
       "collected_at": "2026-10-03T12:59:17.198677+00:00",
-      "result": null
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": true,
+        "settled_at": "2026-10-04T13:38:03.349834+00:00"
+      }
     },
     "503668639586796c463e08dc29b69bfb": {
       "match_id": "503668639586796c463e08dc29b69bfb",
@@ -65044,7 +65064,11 @@
         "p2_edge": 0.054
       },
       "collected_at": "2026-10-03T18:57:44.821846+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-10-04T13:38:03.082412+00:00"
+      }
     },
     "305b3ecd1828799e8cf4ddc17a43e582": {
       "match_id": "305b3ecd1828799e8cf4ddc17a43e582",
@@ -65175,7 +65199,361 @@
       },
       "collected_at": "2026-10-03T18:57:44.913026+00:00",
       "result": null
+    },
+    "d5f176ea16c34ec6c13647efacd2bb99": {
+      "match_id": "d5f176ea16c34ec6c13647efacd2bb99",
+      "commence_time": "2026-10-05T07:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Alex de Minaur",
+      "player2": "Hubert Hurkacz",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Alex de Minaur": 1.78,
+          "Hubert Hurkacz": 2.24
+        },
+        "sport888": {
+          "Alex de Minaur": 1.67,
+          "Hubert Hurkacz": 2.2
+        },
+        "onexbet": {
+          "Alex de Minaur": 1.68,
+          "Hubert Hurkacz": 2.26
+        },
+        "draftkings": {
+          "Alex de Minaur": 1.71,
+          "Hubert Hurkacz": 2.16
+        },
+        "coolbet": {
+          "Alex de Minaur": 1.68,
+          "Hubert Hurkacz": 2.2
+        },
+        "williamhill": {
+          "Alex de Minaur": 1.67,
+          "Hubert Hurkacz": 2.2
+        },
+        "betclic_fr": {
+          "Alex de Minaur": 1.61,
+          "Hubert Hurkacz": 2.09
+        },
+        "marathonbet": {
+          "Alex de Minaur": 1.66,
+          "Hubert Hurkacz": 2.2
+        },
+        "fanduel": {
+          "Alex de Minaur": 1.67,
+          "Hubert Hurkacz": 2.24
+        },
+        "matchbook": {
+          "Alex de Minaur": 1.78,
+          "Hubert Hurkacz": 2.22
+        },
+        "gtbets": {
+          "Alex de Minaur": 1.68,
+          "Hubert Hurkacz": 2.26
+        },
+        "winamax_de": {
+          "Alex de Minaur": 1.66,
+          "Hubert Hurkacz": 2.2
+        },
+        "winamax_fr": {
+          "Alex de Minaur": 1.6,
+          "Hubert Hurkacz": 2.05
+        },
+        "betsson": {
+          "Alex de Minaur": 1.66,
+          "Hubert Hurkacz": 2.19
+        },
+        "unibet_fr": {
+          "Alex de Minaur": 1.58,
+          "Hubert Hurkacz": 2.05
+        },
+        "nordicbet": {
+          "Alex de Minaur": 1.66,
+          "Hubert Hurkacz": 2.19
+        },
+        "leovegas_se": {
+          "Alex de Minaur": 1.68,
+          "Hubert Hurkacz": 2.17
+        },
+        "pmu_fr": {
+          "Alex de Minaur": 1.62,
+          "Hubert Hurkacz": 2.08
+        },
+        "betrivers": {
+          "Alex de Minaur": 1.68,
+          "Hubert Hurkacz": 2.17
+        },
+        "unibet_se": {
+          "Alex de Minaur": 1.68,
+          "Hubert Hurkacz": 2.17
+        },
+        "pinnacle": {
+          "Alex de Minaur": 1.76,
+          "Hubert Hurkacz": 2.17
+        },
+        "unibet_nl": {
+          "Alex de Minaur": 1.68,
+          "Hubert Hurkacz": 2.17
+        },
+        "tipico_de": {
+          "Alex de Minaur": 1.62,
+          "Hubert Hurkacz": 2.15
+        },
+        "lowvig": {
+          "Alex de Minaur": 1.73,
+          "Hubert Hurkacz": 2.17
+        },
+        "betonlineag": {
+          "Alex de Minaur": 1.73,
+          "Hubert Hurkacz": 2.17
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex De Minaur",
+        "p2_name": "Hubert Hurkacz",
+        "p1_prob": 0.6613,
+        "p2_prob": 0.3387,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": 0.0995,
+        "p2_edge": -0.1038
+      },
+      "collected_at": "2026-10-04T13:38:11.540984+00:00",
+      "result": null
+    },
+    "c927d344ac31cc74267be66b1129b3c4": {
+      "match_id": "c927d344ac31cc74267be66b1129b3c4",
+      "commence_time": "2026-10-05T07:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Carlos Alcaraz",
+      "player2": "Jaume Munar",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Carlos Alcaraz": 1.13,
+          "Jaume Munar": 8.6
+        },
+        "unibet_fr": {
+          "Carlos Alcaraz": 1.07,
+          "Jaume Munar": 5.4
+        },
+        "nordicbet": {
+          "Carlos Alcaraz": 1.09,
+          "Jaume Munar": 7.0
+        },
+        "betsson": {
+          "Carlos Alcaraz": 1.09,
+          "Jaume Munar": 7.0
+        },
+        "marathonbet": {
+          "Carlos Alcaraz": 1.09,
+          "Jaume Munar": 7.1
+        },
+        "fanduel": {
+          "Carlos Alcaraz": 1.08,
+          "Jaume Munar": 8.4
+        },
+        "betclic_fr": {
+          "Carlos Alcaraz": 1.08,
+          "Jaume Munar": 6.4
+        },
+        "coolbet": {
+          "Carlos Alcaraz": 1.1,
+          "Jaume Munar": 7.1
+        },
+        "draftkings": {
+          "Carlos Alcaraz": 1.09,
+          "Jaume Munar": 7.8
+        },
+        "gtbets": {
+          "Carlos Alcaraz": 1.08,
+          "Jaume Munar": 7.28
+        },
+        "matchbook": {
+          "Carlos Alcaraz": 1.12,
+          "Jaume Munar": 8.6
+        },
+        "winamax_de": {
+          "Carlos Alcaraz": 1.09,
+          "Jaume Munar": 7.25
+        },
+        "winamax_fr": {
+          "Carlos Alcaraz": 1.07,
+          "Jaume Munar": 5.8
+        },
+        "pinnacle": {
+          "Carlos Alcaraz": 1.11,
+          "Jaume Munar": 7.68
+        },
+        "tipico_de": {
+          "Carlos Alcaraz": 1.05,
+          "Jaume Munar": 7.8
+        },
+        "sport888": {
+          "Carlos Alcaraz": 1.08,
+          "Jaume Munar": 7.5
+        },
+        "betrivers": {
+          "Carlos Alcaraz": 1.1,
+          "Jaume Munar": 7.0
+        },
+        "williamhill": {
+          "Carlos Alcaraz": 1.08,
+          "Jaume Munar": 7.5
+        },
+        "unibet_se": {
+          "Carlos Alcaraz": 1.1,
+          "Jaume Munar": 7.0
+        },
+        "unibet_nl": {
+          "Carlos Alcaraz": 1.1,
+          "Jaume Munar": 7.0
+        },
+        "pmu_fr": {
+          "Carlos Alcaraz": 1.06,
+          "Jaume Munar": 6.25
+        },
+        "bovada": {
+          "Carlos Alcaraz": 1.09,
+          "Jaume Munar": 7.75
+        },
+        "betmgm": {
+          "Carlos Alcaraz": 1.09,
+          "Jaume Munar": 7.0
+        },
+        "betus": {
+          "Carlos Alcaraz": 1.09,
+          "Jaume Munar": 8.11
+        }
+      },
+      "prediction": {
+        "p1_name": "Carlos Alcaraz",
+        "p2_name": "Jaume Munar",
+        "p1_prob": 0.9411,
+        "p2_prob": 0.0589,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": 0.0561,
+        "p2_edge": -0.0574
+      },
+      "collected_at": "2026-10-04T13:38:11.639483+00:00",
+      "result": null
+    },
+    "4bfb84fc62ffc5b65c9d7213ee0caf6f": {
+      "match_id": "4bfb84fc62ffc5b65c9d7213ee0caf6f",
+      "commence_time": "2026-10-05T09:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Jiri Lehecka",
+      "player2": "Valentin Vacherot",
+      "bookmakers": {
+        "betrivers": {
+          "Jiri Lehecka": 1.49,
+          "Valentin Vacherot": 2.6
+        },
+        "betfair_ex_eu": {
+          "Jiri Lehecka": 1.54,
+          "Valentin Vacherot": 2.72
+        },
+        "matchbook": {
+          "Jiri Lehecka": 1.54,
+          "Valentin Vacherot": 2.72
+        },
+        "coolbet": {
+          "Jiri Lehecka": 1.5,
+          "Valentin Vacherot": 2.6
+        },
+        "draftkings": {
+          "Jiri Lehecka": 1.52,
+          "Valentin Vacherot": 2.58
+        },
+        "gtbets": {
+          "Jiri Lehecka": 1.52,
+          "Valentin Vacherot": 2.56
+        },
+        "pmu_fr": {
+          "Jiri Lehecka": 1.43,
+          "Valentin Vacherot": 2.48
+        },
+        "unibet_se": {
+          "Jiri Lehecka": 1.49,
+          "Valentin Vacherot": 2.6
+        },
+        "unibet_nl": {
+          "Jiri Lehecka": 1.49,
+          "Valentin Vacherot": 2.6
+        },
+        "marathonbet": {
+          "Jiri Lehecka": 1.5,
+          "Valentin Vacherot": 2.57
+        },
+        "unibet_fr": {
+          "Jiri Lehecka": 1.45,
+          "Valentin Vacherot": 2.35
+        },
+        "fanduel": {
+          "Jiri Lehecka": 1.53,
+          "Valentin Vacherot": 2.56
+        },
+        "betsson": {
+          "Jiri Lehecka": 1.51,
+          "Valentin Vacherot": 2.5
+        },
+        "nordicbet": {
+          "Jiri Lehecka": 1.51,
+          "Valentin Vacherot": 2.5
+        },
+        "betclic_fr": {
+          "Jiri Lehecka": 1.47,
+          "Valentin Vacherot": 2.39
+        },
+        "tipico_de": {
+          "Jiri Lehecka": 1.5,
+          "Valentin Vacherot": 2.4
+        },
+        "betus": {
+          "Jiri Lehecka": 1.5,
+          "Valentin Vacherot": 2.65
+        },
+        "winamax_de": {
+          "Jiri Lehecka": 1.52,
+          "Valentin Vacherot": 2.5
+        },
+        "winamax_fr": {
+          "Jiri Lehecka": 1.46,
+          "Valentin Vacherot": 2.35
+        },
+        "sport888": {
+          "Jiri Lehecka": 1.5,
+          "Valentin Vacherot": 2.6
+        },
+        "williamhill": {
+          "Jiri Lehecka": 1.5,
+          "Valentin Vacherot": 2.6
+        },
+        "pinnacle": {
+          "Jiri Lehecka": 1.52,
+          "Valentin Vacherot": 2.69
+        },
+        "betmgm": {
+          "Jiri Lehecka": 1.48,
+          "Valentin Vacherot": 2.6
+        }
+      },
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Valentin Vacherot",
+        "p1_prob": 0.527,
+        "p2_prob": 0.473,
+        "predicted_winner": "Jiri Lehecka",
+        "confidence": "low",
+        "p1_edge": -0.1224,
+        "p2_edge": 0.1054
+      },
+      "collected_at": "2026-10-04T13:38:11.740219+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-04T03:59:19.418640+00:00"
+  "last_updated": "2026-10-04T13:38:11.754813+00:00"
 }
