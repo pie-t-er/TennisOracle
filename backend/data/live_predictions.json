@@ -64405,7 +64405,11 @@
         "p2_edge": 0.0118
       },
       "collected_at": "2026-10-02T14:24:39.607525+00:00",
-      "result": null
+      "result": {
+        "winner": "Jaume Munar",
+        "correct": true,
+        "settled_at": "2026-10-04T03:59:19.418620+00:00"
+      }
     },
     "69ec18acddec63da011d8f44d376b90c": {
       "match_id": "69ec18acddec63da011d8f44d376b90c",
@@ -65173,5 +65177,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-10-03T18:57:44.926288+00:00"
+  "last_updated": "2026-10-04T03:59:19.418640+00:00"
 }
