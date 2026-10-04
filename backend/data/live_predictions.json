@@ -65198,7 +65198,11 @@
         "p2_edge": 0.3074
       },
       "collected_at": "2026-10-03T18:57:44.913026+00:00",
-      "result": null
+      "result": {
+        "winner": "Novak Djokovic",
+        "correct": true,
+        "settled_at": "2026-10-04T18:58:43.118848+00:00"
+      }
     },
     "d5f176ea16c34ec6c13647efacd2bb99": {
       "match_id": "d5f176ea16c34ec6c13647efacd2bb99",
@@ -65553,7 +65557,137 @@
       },
       "collected_at": "2026-10-04T13:38:11.740219+00:00",
       "result": null
+    },
+    "5b6e5bc4378ca36adad672d8515b2c2c": {
+      "match_id": "5b6e5bc4378ca36adad672d8515b2c2c",
+      "commence_time": "2026-10-05T11:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Novak Djokovic",
+      "player2": "Daniil Medvedev",
+      "bookmakers": {
+        "pmu_fr": {
+          "Daniil Medvedev": 1.56,
+          "Novak Djokovic": 2.18
+        },
+        "matchbook": {
+          "Daniil Medvedev": 1.68,
+          "Novak Djokovic": 2.44
+        },
+        "betfair_ex_eu": {
+          "Daniil Medvedev": 1.68,
+          "Novak Djokovic": 2.44
+        },
+        "coolbet": {
+          "Daniil Medvedev": 1.62,
+          "Novak Djokovic": 2.3
+        },
+        "betrivers": {
+          "Daniil Medvedev": 1.63,
+          "Novak Djokovic": 2.28
+        },
+        "unibet_nl": {
+          "Daniil Medvedev": 1.63,
+          "Novak Djokovic": 2.28
+        },
+        "leovegas_se": {
+          "Daniil Medvedev": 1.63,
+          "Novak Djokovic": 2.28
+        },
+        "unibet_se": {
+          "Daniil Medvedev": 1.63,
+          "Novak Djokovic": 2.28
+        },
+        "marathonbet": {
+          "Daniil Medvedev": 1.63,
+          "Novak Djokovic": 2.26
+        },
+        "onexbet": {
+          "Daniil Medvedev": 1.67,
+          "Novak Djokovic": 2.28
+        },
+        "draftkings": {
+          "Daniil Medvedev": 1.64,
+          "Novak Djokovic": 2.29
+        },
+        "gtbets": {
+          "Daniil Medvedev": 1.63,
+          "Novak Djokovic": 2.28
+        },
+        "unibet_fr": {
+          "Daniil Medvedev": 1.57,
+          "Novak Djokovic": 2.15
+        },
+        "betsson": {
+          "Daniil Medvedev": 1.62,
+          "Novak Djokovic": 2.27
+        },
+        "nordicbet": {
+          "Daniil Medvedev": 1.62,
+          "Novak Djokovic": 2.27
+        },
+        "betclic_fr": {
+          "Daniil Medvedev": 1.62,
+          "Novak Djokovic": 2.27
+        },
+        "fanduel": {
+          "Daniil Medvedev": 1.59,
+          "Novak Djokovic": 2.4
+        },
+        "winamax_fr": {
+          "Daniil Medvedev": 1.56,
+          "Novak Djokovic": 2.15
+        },
+        "winamax_de": {
+          "Daniil Medvedev": 1.62,
+          "Novak Djokovic": 2.25
+        },
+        "tipico_de": {
+          "Daniil Medvedev": 1.62,
+          "Novak Djokovic": 2.15
+        },
+        "sport888": {
+          "Daniil Medvedev": 1.61,
+          "Novak Djokovic": 2.3
+        },
+        "williamhill": {
+          "Daniil Medvedev": 1.62,
+          "Novak Djokovic": 2.3
+        },
+        "betmgm": {
+          "Daniil Medvedev": 1.65,
+          "Novak Djokovic": 2.2
+        },
+        "pinnacle": {
+          "Daniil Medvedev": 1.63,
+          "Novak Djokovic": 2.4
+        },
+        "bovada": {
+          "Daniil Medvedev": 1.65,
+          "Novak Djokovic": 2.3
+        },
+        "lowvig": {
+          "Daniil Medvedev": 1.65,
+          "Novak Djokovic": 2.35
+        },
+        "betonlineag": {
+          "Daniil Medvedev": 1.65,
+          "Novak Djokovic": 2.35
+        }
+      },
+      "prediction": {
+        "p1_name": "Novak Djokovic",
+        "p2_name": "Daniil Medvedev",
+        "p1_prob": 0.5994,
+        "p2_prob": 0.4006,
+        "predicted_winner": "Novak Djokovic",
+        "confidence": "medium",
+        "p1_edge": 0.1896,
+        "p2_edge": -0.1946
+      },
+      "collected_at": "2026-10-04T18:58:48.664469+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-04T13:38:11.754813+00:00"
+  "last_updated": "2026-10-04T18:58:48.675524+00:00"
 }
