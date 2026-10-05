@@ -65324,7 +65324,11 @@
         "p2_edge": -0.1038
       },
       "collected_at": "2026-10-04T13:38:11.540984+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex de Minaur",
+        "correct": true,
+        "settled_at": "2026-10-05T16:44:10.618116+00:00"
+      }
     },
     "c927d344ac31cc74267be66b1129b3c4": {
       "match_id": "c927d344ac31cc74267be66b1129b3c4",
@@ -65442,7 +65446,11 @@
         "p2_edge": -0.0574
       },
       "collected_at": "2026-10-04T13:38:11.639483+00:00",
-      "result": null
+      "result": {
+        "winner": "Carlos Alcaraz",
+        "correct": true,
+        "settled_at": "2026-10-05T16:44:10.710424+00:00"
+      }
     },
     "4bfb84fc62ffc5b65c9d7213ee0caf6f": {
       "match_id": "4bfb84fc62ffc5b65c9d7213ee0caf6f",
@@ -65556,7 +65564,11 @@
         "p2_edge": 0.1054
       },
       "collected_at": "2026-10-04T13:38:11.740219+00:00",
-      "result": null
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": true,
+        "settled_at": "2026-10-05T16:44:10.801729+00:00"
+      }
     },
     "5b6e5bc4378ca36adad672d8515b2c2c": {
       "match_id": "5b6e5bc4378ca36adad672d8515b2c2c",
@@ -65686,8 +65698,1416 @@
         "p2_edge": -0.1946
       },
       "collected_at": "2026-10-04T18:58:48.664469+00:00",
+      "result": {
+        "winner": "Novak Djokovic",
+        "correct": true,
+        "settled_at": "2026-10-05T16:44:13.240023+00:00"
+      }
+    },
+    "d77588347c84136dd9fe6fb7a54b40b4": {
+      "match_id": "d77588347c84136dd9fe6fb7a54b40b4",
+      "commence_time": "2026-10-06T11:00:00Z",
+      "tournament": "ATP China Open",
+      "surface": "Hard",
+      "player1": "Novak Djokovic",
+      "player2": "Alex de Minaur",
+      "bookmakers": {
+        "draftkings": {
+          "Alex de Minaur": 2.49,
+          "Novak Djokovic": 1.54
+        },
+        "matchbook": {
+          "Alex de Minaur": 2.74,
+          "Novak Djokovic": 1.56
+        },
+        "betfair_ex_eu": {
+          "Alex de Minaur": 2.74,
+          "Novak Djokovic": 1.56
+        },
+        "unibet_fr": {
+          "Alex de Minaur": 2.5,
+          "Novak Djokovic": 1.47
+        },
+        "marathonbet": {
+          "Alex de Minaur": 2.6,
+          "Novak Djokovic": 1.49
+        },
+        "coolbet": {
+          "Alex de Minaur": 2.6,
+          "Novak Djokovic": 1.5
+        },
+        "betsson": {
+          "Alex de Minaur": 2.49,
+          "Novak Djokovic": 1.52
+        },
+        "nordicbet": {
+          "Alex de Minaur": 2.5,
+          "Novak Djokovic": 1.51
+        },
+        "fanduel": {
+          "Alex de Minaur": 2.54,
+          "Novak Djokovic": 1.53
+        },
+        "winamax_de": {
+          "Alex de Minaur": 2.6,
+          "Novak Djokovic": 1.54
+        },
+        "betclic_fr": {
+          "Alex de Minaur": 2.49,
+          "Novak Djokovic": 1.52
+        },
+        "onexbet": {
+          "Alex de Minaur": 2.65,
+          "Novak Djokovic": 1.52
+        },
+        "winamax_fr": {
+          "Alex de Minaur": 2.55,
+          "Novak Djokovic": 1.5
+        },
+        "pinnacle": {
+          "Alex de Minaur": 2.67,
+          "Novak Djokovic": 1.53
+        },
+        "bovada": {
+          "Alex de Minaur": 2.55,
+          "Novak Djokovic": 1.54
+        },
+        "gtbets": {
+          "Alex de Minaur": 2.47,
+          "Novak Djokovic": 1.55
+        },
+        "betmgm": {
+          "Alex de Minaur": 2.54,
+          "Novak Djokovic": 1.53
+        },
+        "tipico_de": {
+          "Alex de Minaur": 2.5,
+          "Novak Djokovic": 1.47
+        },
+        "betonlineag": {
+          "Alex de Minaur": 2.65,
+          "Novak Djokovic": 1.53
+        },
+        "lowvig": {
+          "Alex de Minaur": 2.65,
+          "Novak Djokovic": 1.53
+        },
+        "sport888": {
+          "Alex de Minaur": 2.6,
+          "Novak Djokovic": 1.5
+        },
+        "williamhill": {
+          "Alex de Minaur": 2.6,
+          "Novak Djokovic": 1.5
+        },
+        "unibet_nl": {
+          "Alex de Minaur": 2.6,
+          "Novak Djokovic": 1.5
+        },
+        "pmu_fr": {
+          "Alex de Minaur": 2.45,
+          "Novak Djokovic": 1.43
+        },
+        "leovegas_se": {
+          "Alex de Minaur": 2.6,
+          "Novak Djokovic": 1.5
+        },
+        "betrivers": {
+          "Alex de Minaur": 2.6,
+          "Novak Djokovic": 1.5
+        },
+        "unibet_se": {
+          "Alex de Minaur": 2.6,
+          "Novak Djokovic": 1.5
+        }
+      },
+      "prediction": {
+        "p1_name": "Novak Djokovic",
+        "p2_name": "Alex De Minaur",
+        "p1_prob": 0.6626,
+        "p2_prob": 0.3374,
+        "predicted_winner": "Novak Djokovic",
+        "confidence": "high",
+        "p1_edge": 0.0216,
+        "p2_edge": -0.0276
+      },
+      "collected_at": "2026-10-05T16:44:20.481352+00:00",
+      "result": null
+    },
+    "c1bfe7c3313fc6b8cd0f91167146ab48": {
+      "match_id": "c1bfe7c3313fc6b8cd0f91167146ab48",
+      "commence_time": "2026-10-06T09:00:00Z",
+      "tournament": "ATP Japan Open",
+      "surface": "Hard",
+      "player1": "Carlos Alcaraz",
+      "player2": "Jiri Lehecka",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Carlos Alcaraz": 1.3,
+          "Jiri Lehecka": 4.1
+        },
+        "marathonbet": {
+          "Carlos Alcaraz": 1.26,
+          "Jiri Lehecka": 3.8
+        },
+        "nordicbet": {
+          "Carlos Alcaraz": 1.23,
+          "Jiri Lehecka": 4.1
+        },
+        "fanduel": {
+          "Carlos Alcaraz": 1.26,
+          "Jiri Lehecka": 3.9
+        },
+        "matchbook": {
+          "Carlos Alcaraz": 1.31,
+          "Jiri Lehecka": 4.2
+        },
+        "unibet_fr": {
+          "Carlos Alcaraz": 1.23,
+          "Jiri Lehecka": 4.2
+        },
+        "coolbet": {
+          "Carlos Alcaraz": 1.26,
+          "Jiri Lehecka": 3.9
+        },
+        "betsson": {
+          "Carlos Alcaraz": 1.25,
+          "Jiri Lehecka": 3.85
+        },
+        "tipico_de": {
+          "Carlos Alcaraz": 1.2,
+          "Jiri Lehecka": 4.0
+        },
+        "winamax_fr": {
+          "Carlos Alcaraz": 1.23,
+          "Jiri Lehecka": 4.1
+        },
+        "winamax_de": {
+          "Carlos Alcaraz": 1.24,
+          "Jiri Lehecka": 4.3
+        },
+        "betclic_fr": {
+          "Carlos Alcaraz": 1.24,
+          "Jiri Lehecka": 4.3
+        },
+        "betmgm": {
+          "Carlos Alcaraz": 1.24,
+          "Jiri Lehecka": 4.0
+        },
+        "draftkings": {
+          "Carlos Alcaraz": 1.25,
+          "Jiri Lehecka": 4.06
+        },
+        "gtbets": {
+          "Carlos Alcaraz": 1.24,
+          "Jiri Lehecka": 4.13
+        },
+        "sport888": {
+          "Carlos Alcaraz": 1.29,
+          "Jiri Lehecka": 3.6
+        },
+        "williamhill": {
+          "Carlos Alcaraz": 1.29,
+          "Jiri Lehecka": 3.6
+        },
+        "pinnacle": {
+          "Carlos Alcaraz": 1.28,
+          "Jiri Lehecka": 4.03
+        },
+        "unibet_se": {
+          "Carlos Alcaraz": 1.27,
+          "Jiri Lehecka": 3.85
+        },
+        "betrivers": {
+          "Carlos Alcaraz": 1.27,
+          "Jiri Lehecka": 3.85
+        },
+        "pmu_fr": {
+          "Carlos Alcaraz": 1.22,
+          "Jiri Lehecka": 3.6
+        },
+        "unibet_nl": {
+          "Carlos Alcaraz": 1.27,
+          "Jiri Lehecka": 3.85
+        },
+        "betus": {
+          "Carlos Alcaraz": 1.24,
+          "Jiri Lehecka": 4.17
+        },
+        "lowvig": {
+          "Carlos Alcaraz": 1.26,
+          "Jiri Lehecka": 4.03
+        },
+        "betonlineag": {
+          "Carlos Alcaraz": 1.26,
+          "Jiri Lehecka": 4.03
+        },
+        "bovada": {
+          "Carlos Alcaraz": 1.24,
+          "Jiri Lehecka": 4.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Carlos Alcaraz",
+        "p2_name": "Jiri Lehecka",
+        "p1_prob": 0.793,
+        "p2_prob": 0.207,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": 0.0296,
+        "p2_edge": -0.0256
+      },
+      "collected_at": "2026-10-05T16:44:20.586944+00:00",
+      "result": null
+    },
+    "791964bea0ff62114832d025fcec6b9d": {
+      "match_id": "791964bea0ff62114832d025fcec6b9d",
+      "commence_time": "2026-10-07T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Adolfo Daniel Vallejo",
+      "player2": "Valentin Royer",
+      "bookmakers": {
+        "unibet_fr": {
+          "Adolfo Daniel Vallejo": 1.65,
+          "Valentin Royer": 1.95
+        },
+        "unibet_nl": {
+          "Adolfo Daniel Vallejo": 1.77,
+          "Valentin Royer": 2.05
+        },
+        "onexbet": {
+          "Adolfo Daniel Vallejo": 1.75,
+          "Valentin Royer": 2.06
+        },
+        "draftkings": {
+          "Adolfo Daniel Vallejo": 1.77,
+          "Valentin Royer": 2.07
+        },
+        "unibet_se": {
+          "Adolfo Daniel Vallejo": 1.77,
+          "Valentin Royer": 2.05
+        },
+        "coolbet": {
+          "Adolfo Daniel Vallejo": 1.75,
+          "Valentin Royer": 2.1
+        },
+        "gtbets": {
+          "Adolfo Daniel Vallejo": 1.73,
+          "Valentin Royer": 2.12
+        },
+        "betrivers": {
+          "Adolfo Daniel Vallejo": 1.77,
+          "Valentin Royer": 2.05
+        },
+        "pmu_fr": {
+          "Adolfo Daniel Vallejo": 1.7,
+          "Valentin Royer": 1.95
+        },
+        "leovegas_se": {
+          "Adolfo Daniel Vallejo": 1.77,
+          "Valentin Royer": 2.05
+        },
+        "marathonbet": {
+          "Adolfo Daniel Vallejo": 1.75,
+          "Valentin Royer": 2.06
+        },
+        "betmgm": {
+          "Adolfo Daniel Vallejo": 1.74,
+          "Valentin Royer": 2.05
+        }
+      },
+      "prediction": {
+        "p1_name": "Adolfo Daniel Vallejo",
+        "p2_name": "Valentin Royer",
+        "p1_prob": 0.6028,
+        "p2_prob": 0.3972,
+        "predicted_winner": "Adolfo Daniel Vallejo",
+        "confidence": "high",
+        "p1_edge": 0.0378,
+        "p2_edge": -0.0745
+      },
+      "collected_at": "2026-10-05T16:44:20.689876+00:00",
+      "result": null
+    },
+    "24468f2798418b3734b62f8235a96196": {
+      "match_id": "24468f2798418b3734b62f8235a96196",
+      "commence_time": "2026-10-07T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Aleksandar Kovacevic",
+      "player2": "Matteo Berrettini",
+      "bookmakers": {
+        "nordicbet": {
+          "Aleksandar Kovacevic": 2.9,
+          "Matteo Berrettini": 1.42
+        },
+        "unibet_fr": {
+          "Aleksandar Kovacevic": 2.6,
+          "Matteo Berrettini": 1.36
+        },
+        "unibet_nl": {
+          "Aleksandar Kovacevic": 2.95,
+          "Matteo Berrettini": 1.4
+        },
+        "onexbet": {
+          "Aleksandar Kovacevic": 2.75,
+          "Matteo Berrettini": 1.45
+        },
+        "draftkings": {
+          "Aleksandar Kovacevic": 2.85,
+          "Matteo Berrettini": 1.43
+        },
+        "unibet_se": {
+          "Aleksandar Kovacevic": 2.95,
+          "Matteo Berrettini": 1.4
+        },
+        "betsson": {
+          "Aleksandar Kovacevic": 2.9,
+          "Matteo Berrettini": 1.42
+        },
+        "coolbet": {
+          "Aleksandar Kovacevic": 2.8,
+          "Matteo Berrettini": 1.44
+        },
+        "gtbets": {
+          "Aleksandar Kovacevic": 2.8,
+          "Matteo Berrettini": 1.4
+        },
+        "betrivers": {
+          "Aleksandar Kovacevic": 2.95,
+          "Matteo Berrettini": 1.4
+        },
+        "pmu_fr": {
+          "Aleksandar Kovacevic": 2.8,
+          "Matteo Berrettini": 1.35
+        },
+        "leovegas_se": {
+          "Aleksandar Kovacevic": 2.95,
+          "Matteo Berrettini": 1.4
+        },
+        "marathonbet": {
+          "Aleksandar Kovacevic": 2.76,
+          "Matteo Berrettini": 1.44
+        },
+        "betmgm": {
+          "Aleksandar Kovacevic": 2.7,
+          "Matteo Berrettini": 1.45
+        }
+      },
+      "prediction": {
+        "p1_name": "Aleksandar Kovacevic",
+        "p2_name": "Matteo Berrettini",
+        "p1_prob": 0.3313,
+        "p2_prob": 0.6687,
+        "predicted_winner": "Matteo Berrettini",
+        "confidence": "high",
+        "p1_edge": -0.0077,
+        "p2_edge": -0.021
+      },
+      "collected_at": "2026-10-05T16:44:20.796412+00:00",
+      "result": null
+    },
+    "1487c11ccf669ab9d00607993033871f": {
+      "match_id": "1487c11ccf669ab9d00607993033871f",
+      "commence_time": "2026-10-07T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Arthur Fery",
+      "player2": "Marin Cilic",
+      "bookmakers": {
+        "nordicbet": {
+          "Arthur Fery": 1.73,
+          "Marin Cilic": 2.12
+        },
+        "unibet_fr": {
+          "Arthur Fery": 1.63,
+          "Marin Cilic": 1.97
+        },
+        "unibet_nl": {
+          "Arthur Fery": 1.7,
+          "Marin Cilic": 2.15
+        },
+        "onexbet": {
+          "Arthur Fery": 1.73,
+          "Marin Cilic": 2.1
+        },
+        "draftkings": {
+          "Arthur Fery": 1.72,
+          "Marin Cilic": 2.14
+        },
+        "unibet_se": {
+          "Arthur Fery": 1.7,
+          "Marin Cilic": 2.15
+        },
+        "betsson": {
+          "Arthur Fery": 1.73,
+          "Marin Cilic": 2.12
+        },
+        "coolbet": {
+          "Arthur Fery": 1.73,
+          "Marin Cilic": 2.12
+        },
+        "gtbets": {
+          "Arthur Fery": 1.76,
+          "Marin Cilic": 2.08
+        },
+        "betrivers": {
+          "Arthur Fery": 1.7,
+          "Marin Cilic": 2.15
+        },
+        "pmu_fr": {
+          "Arthur Fery": 1.64,
+          "Marin Cilic": 2.06
+        },
+        "leovegas_se": {
+          "Arthur Fery": 1.7,
+          "Marin Cilic": 2.15
+        },
+        "marathonbet": {
+          "Arthur Fery": 1.71,
+          "Marin Cilic": 2.12
+        },
+        "betmgm": {
+          "Arthur Fery": 1.71,
+          "Marin Cilic": 2.1
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Fery",
+        "p2_name": "Marin Cilic",
+        "p1_prob": 0.5829,
+        "p2_prob": 0.4171,
+        "predicted_winner": "Arthur Fery",
+        "confidence": "medium",
+        "p1_edge": 0.0147,
+        "p2_edge": -0.048
+      },
+      "collected_at": "2026-10-05T16:44:20.899334+00:00",
+      "result": null
+    },
+    "8564e24052e05067cc7396a94ca6b79f": {
+      "match_id": "8564e24052e05067cc7396a94ca6b79f",
+      "commence_time": "2026-10-07T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Arthur Gea",
+      "player2": "Jaime Faria",
+      "bookmakers": {
+        "nordicbet": {
+          "Arthur Gea": 1.57,
+          "Jaime Faria": 2.42
+        },
+        "unibet_fr": {
+          "Arthur Gea": 1.49,
+          "Jaime Faria": 2.25
+        },
+        "unibet_nl": {
+          "Arthur Gea": 1.51,
+          "Jaime Faria": 2.55
+        },
+        "onexbet": {
+          "Arthur Gea": 1.55,
+          "Jaime Faria": 2.45
+        },
+        "draftkings": {
+          "Arthur Gea": 1.54,
+          "Jaime Faria": 2.49
+        },
+        "unibet_se": {
+          "Arthur Gea": 1.51,
+          "Jaime Faria": 2.55
+        },
+        "betsson": {
+          "Arthur Gea": 1.57,
+          "Jaime Faria": 2.42
+        },
+        "coolbet": {
+          "Arthur Gea": 1.57,
+          "Jaime Faria": 2.42
+        },
+        "gtbets": {
+          "Arthur Gea": 1.58,
+          "Jaime Faria": 2.4
+        },
+        "betrivers": {
+          "Arthur Gea": 1.51,
+          "Jaime Faria": 2.55
+        },
+        "pmu_fr": {
+          "Arthur Gea": 1.45,
+          "Jaime Faria": 2.43
+        },
+        "leovegas_se": {
+          "Arthur Gea": 1.51,
+          "Jaime Faria": 2.55
+        },
+        "marathonbet": {
+          "Arthur Gea": 1.53,
+          "Jaime Faria": 2.48
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Gea",
+        "p2_name": "Jaime Faria",
+        "p1_prob": 0.5238,
+        "p2_prob": 0.4762,
+        "predicted_winner": "Arthur Gea",
+        "confidence": "low",
+        "p1_edge": -0.1091,
+        "p2_edge": 0.084
+      },
+      "collected_at": "2026-10-05T16:44:21.002817+00:00",
+      "result": null
+    },
+    "790f5e853b0ee965cff9ae0f2521a4a4": {
+      "match_id": "790f5e853b0ee965cff9ae0f2521a4a4",
+      "commence_time": "2026-10-07T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Botic van de Zandschulp",
+      "player2": "Daniel Merida Aguilar",
+      "bookmakers": {
+        "unibet_fr": {
+          "Botic van de Zandschulp": 1.84,
+          "Daniel Merida Aguilar": 1.73
+        },
+        "unibet_nl": {
+          "Botic van de Zandschulp": 1.95,
+          "Daniel Merida Aguilar": 1.83
+        },
+        "onexbet": {
+          "Botic van de Zandschulp": 1.99,
+          "Daniel Merida Aguilar": 1.81
+        },
+        "draftkings": {
+          "Botic van de Zandschulp": 1.99,
+          "Daniel Merida Aguilar": 1.83
+        },
+        "unibet_se": {
+          "Botic van de Zandschulp": 1.95,
+          "Daniel Merida Aguilar": 1.83
+        },
+        "coolbet": {
+          "Botic van de Zandschulp": 2.0,
+          "Daniel Merida Aguilar": 1.82
+        },
+        "gtbets": {
+          "Botic van de Zandschulp": 2.0,
+          "Daniel Merida Aguilar": 1.81
+        },
+        "betrivers": {
+          "Botic van de Zandschulp": 1.95,
+          "Daniel Merida Aguilar": 1.83
+        },
+        "pmu_fr": {
+          "Botic van de Zandschulp": 1.88,
+          "Daniel Merida Aguilar": 1.76
+        },
+        "leovegas_se": {
+          "Botic van de Zandschulp": 1.95,
+          "Daniel Merida Aguilar": 1.83
+        },
+        "marathonbet": {
+          "Botic van de Zandschulp": 1.96,
+          "Daniel Merida Aguilar": 1.83
+        }
+      },
+      "prediction": {
+        "p1_name": "Botic Van De Zandschulp",
+        "p2_name": "Jorge Aguilar",
+        "p1_prob": 0.9104,
+        "p2_prob": 0.0896,
+        "predicted_winner": "Botic Van De Zandschulp",
+        "confidence": "high",
+        "p1_edge": 0.4104,
+        "p2_edge": -0.4568
+      },
+      "collected_at": "2026-10-05T16:44:21.106807+00:00",
+      "result": null
+    },
+    "6330b92e3c299cc0b3db77e4e0a4b83c": {
+      "match_id": "6330b92e3c299cc0b3db77e4e0a4b83c",
+      "commence_time": "2026-10-07T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Fabian Marozsan",
+      "player2": "Zachary Svajda",
+      "bookmakers": {
+        "unibet_fr": {
+          "Fabian Marozsan": 1.71,
+          "Zachary Svajda": 1.87
+        },
+        "unibet_nl": {
+          "Fabian Marozsan": 1.75,
+          "Zachary Svajda": 2.08
+        },
+        "onexbet": {
+          "Fabian Marozsan": 1.77,
+          "Zachary Svajda": 2.04
+        },
+        "draftkings": {
+          "Fabian Marozsan": 1.8,
+          "Zachary Svajda": 2.03
+        },
+        "unibet_se": {
+          "Fabian Marozsan": 1.75,
+          "Zachary Svajda": 2.08
+        },
+        "coolbet": {
+          "Fabian Marozsan": 1.78,
+          "Zachary Svajda": 2.05
+        },
+        "gtbets": {
+          "Fabian Marozsan": 1.81,
+          "Zachary Svajda": 2.01
+        },
+        "betrivers": {
+          "Fabian Marozsan": 1.75,
+          "Zachary Svajda": 2.08
+        },
+        "pmu_fr": {
+          "Fabian Marozsan": 1.68,
+          "Zachary Svajda": 1.97
+        },
+        "leovegas_se": {
+          "Fabian Marozsan": 1.75,
+          "Zachary Svajda": 2.08
+        },
+        "marathonbet": {
+          "Fabian Marozsan": 1.77,
+          "Zachary Svajda": 2.04
+        },
+        "betmgm": {
+          "Fabian Marozsan": 1.74,
+          "Zachary Svajda": 2.05
+        }
+      },
+      "prediction": {
+        "p1_name": "Fabian Marozsan",
+        "p2_name": "Zachary Svajda",
+        "p1_prob": 0.6019,
+        "p2_prob": 0.3981,
+        "predicted_winner": "Fabian Marozsan",
+        "confidence": "high",
+        "p1_edge": 0.0494,
+        "p2_edge": -0.0827
+      },
+      "collected_at": "2026-10-05T16:44:21.210122+00:00",
+      "result": null
+    },
+    "333980ed121c08c335b86c91a1de3a48": {
+      "match_id": "333980ed121c08c335b86c91a1de3a48",
+      "commence_time": "2026-10-07T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Nuno Borges",
+      "player2": "Facundo Diaz Acosta",
+      "bookmakers": {
+        "unibet_fr": {
+          "Facundo Diaz Acosta": 3.15,
+          "Nuno Borges": 1.25
+        },
+        "unibet_nl": {
+          "Facundo Diaz Acosta": 3.9,
+          "Nuno Borges": 1.26
+        },
+        "onexbet": {
+          "Facundo Diaz Acosta": 3.69,
+          "Nuno Borges": 1.28
+        },
+        "draftkings": {
+          "Facundo Diaz Acosta": 3.74,
+          "Nuno Borges": 1.28
+        },
+        "unibet_se": {
+          "Facundo Diaz Acosta": 3.9,
+          "Nuno Borges": 1.26
+        },
+        "coolbet": {
+          "Facundo Diaz Acosta": 3.55,
+          "Nuno Borges": 1.3
+        },
+        "gtbets": {
+          "Facundo Diaz Acosta": 3.7,
+          "Nuno Borges": 1.24
+        },
+        "betrivers": {
+          "Facundo Diaz Acosta": 3.9,
+          "Nuno Borges": 1.26
+        },
+        "pmu_fr": {
+          "Facundo Diaz Acosta": 3.65,
+          "Nuno Borges": 1.21
+        },
+        "leovegas_se": {
+          "Facundo Diaz Acosta": 3.9,
+          "Nuno Borges": 1.26
+        },
+        "marathonbet": {
+          "Facundo Diaz Acosta": 3.72,
+          "Nuno Borges": 1.27
+        },
+        "betmgm": {
+          "Facundo Diaz Acosta": 3.4,
+          "Nuno Borges": 1.31
+        }
+      },
+      "prediction": {
+        "p1_name": "Nuno Borges",
+        "p2_name": "Facundo Diaz Acosta",
+        "p1_prob": 0.6371,
+        "p2_prob": 0.3629,
+        "predicted_winner": "Nuno Borges",
+        "confidence": "high",
+        "p1_edge": -0.1263,
+        "p2_edge": 0.1065
+      },
+      "collected_at": "2026-10-05T16:44:21.313282+00:00",
+      "result": null
+    },
+    "fd28d05a1e60816704c0dc6a7eb12b72": {
+      "match_id": "fd28d05a1e60816704c0dc6a7eb12b72",
+      "commence_time": "2026-10-07T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Thiago Agustin Tirante",
+      "player2": "Hamad Medjedovic",
+      "bookmakers": {
+        "unibet_fr": {
+          "Hamad Medjedovic": 1.99,
+          "Thiago Agustin Tirante": 1.62
+        },
+        "unibet_nl": {
+          "Hamad Medjedovic": 2.07,
+          "Thiago Agustin Tirante": 1.75
+        },
+        "onexbet": {
+          "Hamad Medjedovic": 2.1,
+          "Thiago Agustin Tirante": 1.73
+        },
+        "draftkings": {
+          "Hamad Medjedovic": 2.07,
+          "Thiago Agustin Tirante": 1.77
+        },
+        "unibet_se": {
+          "Hamad Medjedovic": 2.07,
+          "Thiago Agustin Tirante": 1.75
+        },
+        "coolbet": {
+          "Hamad Medjedovic": 2.12,
+          "Thiago Agustin Tirante": 1.73
+        },
+        "gtbets": {
+          "Hamad Medjedovic": 2.07,
+          "Thiago Agustin Tirante": 1.76
+        },
+        "betrivers": {
+          "Hamad Medjedovic": 2.07,
+          "Thiago Agustin Tirante": 1.75
+        },
+        "pmu_fr": {
+          "Hamad Medjedovic": 1.97,
+          "Thiago Agustin Tirante": 1.68
+        },
+        "leovegas_se": {
+          "Hamad Medjedovic": 2.07,
+          "Thiago Agustin Tirante": 1.75
+        },
+        "marathonbet": {
+          "Hamad Medjedovic": 2.1,
+          "Thiago Agustin Tirante": 1.73
+        }
+      },
+      "prediction": {
+        "p1_name": "Thiago Agustin Tirante",
+        "p2_name": "Hamad Medjedovic",
+        "p1_prob": 0.4961,
+        "p2_prob": 0.5039,
+        "predicted_winner": "Hamad Medjedovic",
+        "confidence": "low",
+        "p1_edge": -0.0689,
+        "p2_edge": 0.0322
+      },
+      "collected_at": "2026-10-05T16:44:21.416636+00:00",
+      "result": null
+    },
+    "4ed151cdcdb29939aae76add155bbc56": {
+      "match_id": "4ed151cdcdb29939aae76add155bbc56",
+      "commence_time": "2026-10-07T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Martin Landaluce",
+      "player2": "Jan-Lennard Struff",
+      "bookmakers": {
+        "unibet_fr": {
+          "Jan-Lennard Struff": 1.84,
+          "Martin Landaluce": 1.73
+        },
+        "unibet_nl": {
+          "Jan-Lennard Struff": 1.94,
+          "Martin Landaluce": 1.85
+        },
+        "onexbet": {
+          "Jan-Lennard Struff": 1.96,
+          "Martin Landaluce": 1.83
+        },
+        "draftkings": {
+          "Jan-Lennard Struff": 1.98,
+          "Martin Landaluce": 1.84
+        },
+        "unibet_se": {
+          "Jan-Lennard Struff": 1.94,
+          "Martin Landaluce": 1.85
+        },
+        "coolbet": {
+          "Jan-Lennard Struff": 2.0,
+          "Martin Landaluce": 1.82
+        },
+        "gtbets": {
+          "Jan-Lennard Struff": 2.0,
+          "Martin Landaluce": 1.81
+        },
+        "betrivers": {
+          "Jan-Lennard Struff": 1.94,
+          "Martin Landaluce": 1.85
+        },
+        "pmu_fr": {
+          "Jan-Lennard Struff": 1.87,
+          "Martin Landaluce": 1.77
+        },
+        "leovegas_se": {
+          "Jan-Lennard Struff": 1.94,
+          "Martin Landaluce": 1.85
+        },
+        "marathonbet": {
+          "Jan-Lennard Struff": 1.96,
+          "Martin Landaluce": 1.83
+        },
+        "betmgm": {
+          "Jan-Lennard Struff": 1.91,
+          "Martin Landaluce": 1.85
+        }
+      },
+      "prediction": {
+        "p1_name": "Martin Landaluce",
+        "p2_name": "Jan-Lennard Struff",
+        "p1_prob": 0.611,
+        "p2_prob": 0.389,
+        "predicted_winner": "Martin Landaluce",
+        "confidence": "high",
+        "p1_edge": 0.0705,
+        "p2_edge": -0.111
+      },
+      "collected_at": "2026-10-05T16:44:21.520172+00:00",
+      "result": null
+    },
+    "e891a02e881883be43d898107660ddcf": {
+      "match_id": "e891a02e881883be43d898107660ddcf",
+      "commence_time": "2026-10-07T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Jaume Munar",
+      "player2": "Jenson Brooksby",
+      "bookmakers": {
+        "nordicbet": {
+          "Jaume Munar": 1.59,
+          "Jenson Brooksby": 2.37
+        },
+        "unibet_fr": {
+          "Jaume Munar": 1.51,
+          "Jenson Brooksby": 2.2
+        },
+        "unibet_nl": {
+          "Jaume Munar": 1.63,
+          "Jenson Brooksby": 2.28
+        },
+        "onexbet": {
+          "Jaume Munar": 1.61,
+          "Jenson Brooksby": 2.31
+        },
+        "draftkings": {
+          "Jaume Munar": 1.56,
+          "Jenson Brooksby": 2.45
+        },
+        "unibet_se": {
+          "Jaume Munar": 1.63,
+          "Jenson Brooksby": 2.28
+        },
+        "betsson": {
+          "Jaume Munar": 1.59,
+          "Jenson Brooksby": 2.37
+        },
+        "coolbet": {
+          "Jaume Munar": 1.59,
+          "Jenson Brooksby": 2.37
+        },
+        "gtbets": {
+          "Jaume Munar": 1.58,
+          "Jenson Brooksby": 2.4
+        },
+        "betrivers": {
+          "Jaume Munar": 1.63,
+          "Jenson Brooksby": 2.28
+        },
+        "pmu_fr": {
+          "Jaume Munar": 1.56,
+          "Jenson Brooksby": 2.18
+        },
+        "leovegas_se": {
+          "Jaume Munar": 1.63,
+          "Jenson Brooksby": 2.28
+        },
+        "marathonbet": {
+          "Jaume Munar": 1.59,
+          "Jenson Brooksby": 2.34
+        }
+      },
+      "prediction": {
+        "p1_name": "Jaume Munar",
+        "p2_name": "Jenson Brooksby",
+        "p1_prob": 0.3874,
+        "p2_prob": 0.6126,
+        "predicted_winner": "Jenson Brooksby",
+        "confidence": "high",
+        "p1_edge": -0.2261,
+        "p2_edge": 0.2044
+      },
+      "collected_at": "2026-10-05T16:44:21.623959+00:00",
+      "result": null
+    },
+    "f8c8d214822b7274556c6080c45b21b3": {
+      "match_id": "f8c8d214822b7274556c6080c45b21b3",
+      "commence_time": "2026-10-07T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Yannick Hanfmann",
+      "player2": "Kamil Majchrzak",
+      "bookmakers": {
+        "unibet_fr": {
+          "Kamil Majchrzak": 1.55,
+          "Yannick Hanfmann": 2.1
+        },
+        "unibet_nl": {
+          "Kamil Majchrzak": 1.61,
+          "Yannick Hanfmann": 2.3
+        },
+        "onexbet": {
+          "Kamil Majchrzak": 1.65,
+          "Yannick Hanfmann": 2.24
+        },
+        "draftkings": {
+          "Kamil Majchrzak": 1.59,
+          "Yannick Hanfmann": 2.38
+        },
+        "unibet_se": {
+          "Kamil Majchrzak": 1.61,
+          "Yannick Hanfmann": 2.3
+        },
+        "coolbet": {
+          "Kamil Majchrzak": 1.62,
+          "Yannick Hanfmann": 2.3
+        },
+        "gtbets": {
+          "Kamil Majchrzak": 1.63,
+          "Yannick Hanfmann": 2.29
+        },
+        "betrivers": {
+          "Kamil Majchrzak": 1.61,
+          "Yannick Hanfmann": 2.3
+        },
+        "pmu_fr": {
+          "Kamil Majchrzak": 1.55,
+          "Yannick Hanfmann": 2.2
+        },
+        "leovegas_se": {
+          "Kamil Majchrzak": 1.61,
+          "Yannick Hanfmann": 2.3
+        },
+        "marathonbet": {
+          "Kamil Majchrzak": 1.63,
+          "Yannick Hanfmann": 2.26
+        },
+        "betmgm": {
+          "Kamil Majchrzak": 1.62,
+          "Yannick Hanfmann": 2.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Yannick Hanfmann",
+        "p2_name": "Kamil Majchrzak",
+        "p1_prob": 0.5224,
+        "p2_prob": 0.4776,
+        "predicted_winner": "Yannick Hanfmann",
+        "confidence": "low",
+        "p1_edge": 0.1022,
+        "p2_edge": -0.1285
+      },
+      "collected_at": "2026-10-05T16:44:21.728705+00:00",
+      "result": null
+    },
+    "469d64661302be8270a740c26c2307d4": {
+      "match_id": "469d64661302be8270a740c26c2307d4",
+      "commence_time": "2026-10-07T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Marcos Giron",
+      "player2": "Sebastian Baez",
+      "bookmakers": {
+        "unibet_fr": {
+          "Marcos Giron": 1.87,
+          "Sebastian Baez": 1.71
+        },
+        "unibet_nl": {
+          "Marcos Giron": 1.95,
+          "Sebastian Baez": 1.83
+        },
+        "onexbet": {
+          "Marcos Giron": 1.95,
+          "Sebastian Baez": 1.84
+        },
+        "draftkings": {
+          "Marcos Giron": 1.93,
+          "Sebastian Baez": 1.89
+        },
+        "unibet_se": {
+          "Marcos Giron": 1.95,
+          "Sebastian Baez": 1.83
+        },
+        "coolbet": {
+          "Marcos Giron": 1.96,
+          "Sebastian Baez": 1.85
+        },
+        "gtbets": {
+          "Marcos Giron": 2.01,
+          "Sebastian Baez": 1.81
+        },
+        "betrivers": {
+          "Marcos Giron": 1.95,
+          "Sebastian Baez": 1.83
+        },
+        "pmu_fr": {
+          "Marcos Giron": 1.88,
+          "Sebastian Baez": 1.76
+        },
+        "leovegas_se": {
+          "Marcos Giron": 1.95,
+          "Sebastian Baez": 1.83
+        },
+        "marathonbet": {
+          "Marcos Giron": 1.95,
+          "Sebastian Baez": 1.84
+        },
+        "betmgm": {
+          "Marcos Giron": 1.91,
+          "Sebastian Baez": 1.87
+        }
+      },
+      "prediction": {
+        "p1_name": "Marcos Giron",
+        "p2_name": "Sebastian Baez",
+        "p1_prob": 0.4896,
+        "p2_prob": 0.5104,
+        "predicted_winner": "Sebastian Baez",
+        "confidence": "low",
+        "p1_edge": -0.0079,
+        "p2_edge": -0.0187
+      },
+      "collected_at": "2026-10-05T16:44:21.832432+00:00",
+      "result": null
+    },
+    "7aa5316e991e75b643af8f08eef61311": {
+      "match_id": "7aa5316e991e75b643af8f08eef61311",
+      "commence_time": "2026-10-07T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Mariano Navone",
+      "player2": "Pablo Carreno Busta",
+      "bookmakers": {
+        "unibet_fr": {
+          "Mariano Navone": 1.82,
+          "Pablo Carreno Busta": 1.75
+        },
+        "unibet_nl": {
+          "Mariano Navone": 2.02,
+          "Pablo Carreno Busta": 1.79
+        },
+        "onexbet": {
+          "Mariano Navone": 2.0,
+          "Pablo Carreno Busta": 1.8
+        },
+        "draftkings": {
+          "Mariano Navone": 1.93,
+          "Pablo Carreno Busta": 1.89
+        },
+        "unibet_se": {
+          "Mariano Navone": 2.02,
+          "Pablo Carreno Busta": 1.79
+        },
+        "coolbet": {
+          "Mariano Navone": 1.95,
+          "Pablo Carreno Busta": 1.87
+        },
+        "gtbets": {
+          "Mariano Navone": 1.99,
+          "Pablo Carreno Busta": 1.83
+        },
+        "betrivers": {
+          "Mariano Navone": 2.02,
+          "Pablo Carreno Busta": 1.79
+        },
+        "pmu_fr": {
+          "Mariano Navone": 1.93,
+          "Pablo Carreno Busta": 1.71
+        },
+        "leovegas_se": {
+          "Mariano Navone": 2.02,
+          "Pablo Carreno Busta": 1.79
+        },
+        "marathonbet": {
+          "Mariano Navone": 2.0,
+          "Pablo Carreno Busta": 1.8
+        }
+      },
+      "prediction": {
+        "p1_name": "Mariano Navone",
+        "p2_name": "Pablo Carreno Busta",
+        "p1_prob": 0.4881,
+        "p2_prob": 0.5119,
+        "predicted_winner": "Pablo Carreno Busta",
+        "confidence": "low",
+        "p1_edge": -0.0069,
+        "p2_edge": -0.0172
+      },
+      "collected_at": "2026-10-05T16:44:21.936008+00:00",
+      "result": null
+    },
+    "09891c53a582f50d3153736a7cf7e307": {
+      "match_id": "09891c53a582f50d3153736a7cf7e307",
+      "commence_time": "2026-10-07T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Sho Shimabukuro",
+      "player2": "Miomir Kecmanovic",
+      "bookmakers": {
+        "nordicbet": {
+          "Miomir Kecmanovic": 1.51,
+          "Sho Shimabukuro": 2.6
+        },
+        "unibet_fr": {
+          "Miomir Kecmanovic": 1.44,
+          "Sho Shimabukuro": 2.35
+        },
+        "unibet_nl": {
+          "Miomir Kecmanovic": 1.5,
+          "Sho Shimabukuro": 2.55
+        },
+        "onexbet": {
+          "Miomir Kecmanovic": 1.54,
+          "Sho Shimabukuro": 2.48
+        },
+        "draftkings": {
+          "Miomir Kecmanovic": 1.5,
+          "Sho Shimabukuro": 2.62
+        },
+        "unibet_se": {
+          "Miomir Kecmanovic": 1.5,
+          "Sho Shimabukuro": 2.55
+        },
+        "betsson": {
+          "Miomir Kecmanovic": 1.51,
+          "Sho Shimabukuro": 2.6
+        },
+        "coolbet": {
+          "Miomir Kecmanovic": 1.52,
+          "Sho Shimabukuro": 2.55
+        },
+        "gtbets": {
+          "Miomir Kecmanovic": 1.54,
+          "Sho Shimabukuro": 2.49
+        },
+        "betrivers": {
+          "Miomir Kecmanovic": 1.5,
+          "Sho Shimabukuro": 2.55
+        },
+        "pmu_fr": {
+          "Miomir Kecmanovic": 1.44,
+          "Sho Shimabukuro": 2.45
+        },
+        "leovegas_se": {
+          "Miomir Kecmanovic": 1.5,
+          "Sho Shimabukuro": 2.55
+        },
+        "marathonbet": {
+          "Miomir Kecmanovic": 1.52,
+          "Sho Shimabukuro": 2.51
+        },
+        "betmgm": {
+          "Miomir Kecmanovic": 1.53,
+          "Sho Shimabukuro": 2.45
+        }
+      },
+      "prediction": {
+        "p1_name": "Sho Shimabukuro",
+        "p2_name": "Miomir Kecmanovic",
+        "p1_prob": 0.3152,
+        "p2_prob": 0.6848,
+        "predicted_winner": "Miomir Kecmanovic",
+        "confidence": "high",
+        "p1_edge": -0.0665,
+        "p2_edge": 0.0354
+      },
+      "collected_at": "2026-10-05T16:44:22.039960+00:00",
+      "result": null
+    },
+    "02f6a0ddcd015fe9b206546eb4298936": {
+      "match_id": "02f6a0ddcd015fe9b206546eb4298936",
+      "commence_time": "2026-10-07T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Zhizhen Zhang",
+      "player2": "Tomas Machac",
+      "bookmakers": {
+        "nordicbet": {
+          "Tomas Machac": 1.42,
+          "Zhizhen Zhang": 2.9
+        },
+        "unibet_fr": {
+          "Tomas Machac": 1.35,
+          "Zhizhen Zhang": 2.6
+        },
+        "unibet_nl": {
+          "Tomas Machac": 1.38,
+          "Zhizhen Zhang": 3.0
+        },
+        "onexbet": {
+          "Tomas Machac": 1.41,
+          "Zhizhen Zhang": 2.9
+        },
+        "draftkings": {
+          "Tomas Machac": 1.41,
+          "Zhizhen Zhang": 2.93
+        },
+        "unibet_se": {
+          "Tomas Machac": 1.38,
+          "Zhizhen Zhang": 3.0
+        },
+        "betsson": {
+          "Tomas Machac": 1.42,
+          "Zhizhen Zhang": 2.9
+        },
+        "coolbet": {
+          "Tomas Machac": 1.41,
+          "Zhizhen Zhang": 2.93
+        },
+        "gtbets": {
+          "Tomas Machac": 1.41,
+          "Zhizhen Zhang": 2.95
+        },
+        "betrivers": {
+          "Tomas Machac": 1.38,
+          "Zhizhen Zhang": 3.0
+        },
+        "pmu_fr": {
+          "Tomas Machac": 1.34,
+          "Zhizhen Zhang": 2.85
+        },
+        "leovegas_se": {
+          "Tomas Machac": 1.38,
+          "Zhizhen Zhang": 3.0
+        },
+        "marathonbet": {
+          "Tomas Machac": 1.4,
+          "Zhizhen Zhang": 2.92
+        },
+        "betmgm": {
+          "Tomas Machac": 1.4,
+          "Zhizhen Zhang": 2.9
+        }
+      },
+      "prediction": {
+        "p1_name": "Zhizhen Zhang",
+        "p2_name": "Tomas Machac",
+        "p1_prob": 0.2883,
+        "p2_prob": 0.7117,
+        "predicted_winner": "Tomas Machac",
+        "confidence": "high",
+        "p1_edge": -0.045,
+        "p2_edge": 0.0075
+      },
+      "collected_at": "2026-10-05T16:44:22.200491+00:00",
+      "result": null
+    },
+    "df1352ed67512cd95822357e152abc7c": {
+      "match_id": "df1352ed67512cd95822357e152abc7c",
+      "commence_time": "2026-10-07T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Vit Kopriva",
+      "player2": "Zizou Bergs",
+      "bookmakers": {
+        "unibet_fr": {
+          "Vit Kopriva": 2.95,
+          "Zizou Bergs": 1.28
+        },
+        "unibet_nl": {
+          "Vit Kopriva": 3.2,
+          "Zizou Bergs": 1.35
+        },
+        "onexbet": {
+          "Vit Kopriva": 3.19,
+          "Zizou Bergs": 1.35
+        },
+        "draftkings": {
+          "Vit Kopriva": 3.27,
+          "Zizou Bergs": 1.35
+        },
+        "unibet_se": {
+          "Vit Kopriva": 3.2,
+          "Zizou Bergs": 1.35
+        },
+        "coolbet": {
+          "Vit Kopriva": 3.3,
+          "Zizou Bergs": 1.34
+        },
+        "gtbets": {
+          "Vit Kopriva": 3.34,
+          "Zizou Bergs": 1.33
+        },
+        "betrivers": {
+          "Vit Kopriva": 3.2,
+          "Zizou Bergs": 1.35
+        },
+        "pmu_fr": {
+          "Vit Kopriva": 3.05,
+          "Zizou Bergs": 1.3
+        },
+        "leovegas_se": {
+          "Vit Kopriva": 3.2,
+          "Zizou Bergs": 1.35
+        },
+        "marathonbet": {
+          "Vit Kopriva": 3.22,
+          "Zizou Bergs": 1.34
+        },
+        "betmgm": {
+          "Vit Kopriva": 3.25,
+          "Zizou Bergs": 1.33
+        }
+      },
+      "prediction": {
+        "p1_name": "Vit Kopriva",
+        "p2_name": "Zizou Bergs",
+        "p1_prob": 0.3156,
+        "p2_prob": 0.6844,
+        "predicted_winner": "Zizou Bergs",
+        "confidence": "high",
+        "p1_edge": 0.0162,
+        "p2_edge": -0.0563
+      },
+      "collected_at": "2026-10-05T16:44:22.305862+00:00",
       "result": null
     }
   },
-  "last_updated": "2026-10-04T18:58:48.675524+00:00"
+  "last_updated": "2026-10-05T16:44:22.322094+00:00"
 }
