@@ -67107,7 +67107,45 @@
       },
       "collected_at": "2026-10-05T16:44:22.305862+00:00",
       "result": null
+    },
+    "ff12f67489673ffd2bc90d9a6f686b15": {
+      "match_id": "ff12f67489673ffd2bc90d9a6f686b15",
+      "commence_time": "2026-10-07T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Holger Rune",
+      "player2": "Daniel Altmaier",
+      "bookmakers": {
+        "unibet_nl": {
+          "Daniel Altmaier": 2.95,
+          "Holger Rune": 1.4
+        },
+        "leovegas_se": {
+          "Daniel Altmaier": 2.95,
+          "Holger Rune": 1.4
+        },
+        "betrivers": {
+          "Daniel Altmaier": 2.95,
+          "Holger Rune": 1.4
+        },
+        "betmgm": {
+          "Daniel Altmaier": 2.9,
+          "Holger Rune": 1.4
+        }
+      },
+      "prediction": {
+        "p1_name": "Holger Rune",
+        "p2_name": "Daniel Altmaier",
+        "p1_prob": 0.7964,
+        "p2_prob": 0.2036,
+        "predicted_winner": "Holger Rune",
+        "confidence": "high",
+        "p1_edge": 0.0821,
+        "p2_edge": -0.1354
+      },
+      "collected_at": "2026-10-06T04:32:44.545433+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-05T16:44:22.322094+00:00"
+  "last_updated": "2026-10-06T04:32:44.561046+00:00"
 }
