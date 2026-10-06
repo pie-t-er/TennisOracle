@@ -67865,7 +67865,155 @@
       },
       "collected_at": "2026-10-06T14:41:30.881693+00:00",
       "result": null
+    },
+    "178d12455d95a9b449d926abe4656de0": {
+      "match_id": "178d12455d95a9b449d926abe4656de0",
+      "commence_time": "2026-10-08T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Bernard Tomic",
+      "player2": "Matteo Arnaldi",
+      "bookmakers": {
+        "fanduel": {
+          "Bernard Tomic": 2.68,
+          "Matteo Arnaldi": 1.49
+        },
+        "gtbets": {
+          "Bernard Tomic": 2.68,
+          "Matteo Arnaldi": 1.53
+        },
+        "onexbet": {
+          "Bernard Tomic": 2.73,
+          "Matteo Arnaldi": 1.48
+        },
+        "matchbook": {
+          "Bernard Tomic": 2.6,
+          "Matteo Arnaldi": 1.47
+        },
+        "williamhill": {
+          "Bernard Tomic": 2.75,
+          "Matteo Arnaldi": 1.44
+        },
+        "sport888": {
+          "Bernard Tomic": 2.75,
+          "Matteo Arnaldi": 1.44
+        },
+        "winamax_de": {
+          "Bernard Tomic": 2.65,
+          "Matteo Arnaldi": 1.47
+        },
+        "winamax_fr": {
+          "Bernard Tomic": 2.45,
+          "Matteo Arnaldi": 1.41
+        },
+        "draftkings": {
+          "Bernard Tomic": 2.74,
+          "Matteo Arnaldi": 1.46
+        },
+        "bovada": {
+          "Bernard Tomic": 2.75,
+          "Matteo Arnaldi": 1.47
+        },
+        "pinnacle": {
+          "Bernard Tomic": 2.81,
+          "Matteo Arnaldi": 1.47
+        },
+        "betmgm": {
+          "Bernard Tomic": 2.7,
+          "Matteo Arnaldi": 1.45
+        },
+        "betfair_ex_eu": {
+          "Bernard Tomic": 2.8,
+          "Matteo Arnaldi": 1.54
+        }
+      },
+      "prediction": {
+        "p1_name": "Bernard Tomic",
+        "p2_name": "Matteo Arnaldi",
+        "p1_prob": 0.3804,
+        "p2_prob": 0.6196,
+        "predicted_winner": "Matteo Arnaldi",
+        "confidence": "high",
+        "p1_edge": 0.0245,
+        "p2_edge": -0.0298
+      },
+      "collected_at": "2026-10-06T20:45:29.122887+00:00",
+      "result": null
+    },
+    "92596d91796dc3550ab6ffe4c7c772e0": {
+      "match_id": "92596d91796dc3550ab6ffe4c7c772e0",
+      "commence_time": "2026-10-08T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Kimmer Coppejans",
+      "player2": "Stefanos Tsitsipas",
+      "bookmakers": {
+        "fanduel": {
+          "Kimmer Coppejans": 8.4,
+          "Stefanos Tsitsipas": 1.08
+        },
+        "unibet_fr": {
+          "Kimmer Coppejans": 5.7,
+          "Stefanos Tsitsipas": 1.06
+        },
+        "onexbet": {
+          "Kimmer Coppejans": 8.25,
+          "Stefanos Tsitsipas": 1.09
+        },
+        "sport888": {
+          "Kimmer Coppejans": 7.5,
+          "Stefanos Tsitsipas": 1.08
+        },
+        "winamax_fr": {
+          "Kimmer Coppejans": 5.8,
+          "Stefanos Tsitsipas": 1.06
+        },
+        "winamax_de": {
+          "Kimmer Coppejans": 7.5,
+          "Stefanos Tsitsipas": 1.08
+        },
+        "draftkings": {
+          "Kimmer Coppejans": 8.0,
+          "Stefanos Tsitsipas": 1.08
+        },
+        "gtbets": {
+          "Kimmer Coppejans": 6.97,
+          "Stefanos Tsitsipas": 1.09
+        },
+        "bovada": {
+          "Kimmer Coppejans": 7.75,
+          "Stefanos Tsitsipas": 1.09
+        },
+        "pinnacle": {
+          "Kimmer Coppejans": 8.65,
+          "Stefanos Tsitsipas": 1.08
+        },
+        "matchbook": {
+          "Kimmer Coppejans": 9.0,
+          "Stefanos Tsitsipas": 1.09
+        },
+        "betmgm": {
+          "Kimmer Coppejans": 8.0,
+          "Stefanos Tsitsipas": 1.07
+        },
+        "betfair_ex_eu": {
+          "Kimmer Coppejans": 8.6,
+          "Stefanos Tsitsipas": 1.09
+        }
+      },
+      "prediction": {
+        "p1_name": "Kimmer Coppejans",
+        "p2_name": "Stefanos Tsitsipas",
+        "p1_prob": 0.1884,
+        "p2_prob": 0.8116,
+        "predicted_winner": "Stefanos Tsitsipas",
+        "confidence": "high",
+        "p1_edge": 0.0773,
+        "p2_edge": -0.1058
+      },
+      "collected_at": "2026-10-06T20:45:29.485654+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-06T14:41:30.897117+00:00"
+  "last_updated": "2026-10-06T20:45:29.499270+00:00"
 }
