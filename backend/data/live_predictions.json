@@ -66114,7 +66114,11 @@
         "p2_edge": -0.021
       },
       "collected_at": "2026-10-05T16:44:20.796412+00:00",
-      "result": null
+      "result": {
+        "winner": "Matteo Berrettini",
+        "correct": true,
+        "settled_at": "2026-10-07T15:01:17.146768+00:00"
+      }
     },
     "1487c11ccf669ab9d00607993033871f": {
       "match_id": "1487c11ccf669ab9d00607993033871f",
@@ -66192,7 +66196,11 @@
         "p2_edge": -0.048
       },
       "collected_at": "2026-10-05T16:44:20.899334+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fery",
+        "correct": true,
+        "settled_at": "2026-10-07T15:01:17.227218+00:00"
+      }
     },
     "8564e24052e05067cc7396a94ca6b79f": {
       "match_id": "8564e24052e05067cc7396a94ca6b79f",
@@ -66266,7 +66274,11 @@
         "p2_edge": 0.084
       },
       "collected_at": "2026-10-05T16:44:21.002817+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Gea",
+        "correct": true,
+        "settled_at": "2026-10-07T15:01:17.325901+00:00"
+      }
     },
     "790f5e853b0ee965cff9ae0f2521a4a4": {
       "match_id": "790f5e853b0ee965cff9ae0f2521a4a4",
@@ -66752,7 +66764,11 @@
         "p2_edge": -0.1285
       },
       "collected_at": "2026-10-05T16:44:21.728705+00:00",
-      "result": null
+      "result": {
+        "winner": "Yannick Hanfmann",
+        "correct": true,
+        "settled_at": "2026-10-07T15:01:17.419407+00:00"
+      }
     },
     "469d64661302be8270a740c26c2307d4": {
       "match_id": "469d64661302be8270a740c26c2307d4",
@@ -66966,7 +66982,11 @@
         "p2_edge": 0.0354
       },
       "collected_at": "2026-10-05T16:44:22.039960+00:00",
-      "result": null
+      "result": {
+        "winner": "Miomir Kecmanovic",
+        "correct": true,
+        "settled_at": "2026-10-07T15:01:17.548081+00:00"
+      }
     },
     "02f6a0ddcd015fe9b206546eb4298936": {
       "match_id": "02f6a0ddcd015fe9b206546eb4298936",
@@ -67044,7 +67064,11 @@
         "p2_edge": 0.0075
       },
       "collected_at": "2026-10-05T16:44:22.200491+00:00",
-      "result": null
+      "result": {
+        "winner": "Tomas Machac",
+        "correct": true,
+        "settled_at": "2026-10-07T15:01:17.955073+00:00"
+      }
     },
     "df1352ed67512cd95822357e152abc7c": {
       "match_id": "df1352ed67512cd95822357e152abc7c",
@@ -67234,7 +67258,11 @@
         "p2_edge": -0.0975
       },
       "collected_at": "2026-10-06T14:41:29.577688+00:00",
-      "result": null
+      "result": {
+        "winner": "Adrian Mannarino",
+        "correct": true,
+        "settled_at": "2026-10-07T15:01:18.076563+00:00"
+      }
     },
     "c59f211898a59a8fec6d1feb7a4e6d1b": {
       "match_id": "c59f211898a59a8fec6d1feb7a4e6d1b",
@@ -67308,7 +67336,11 @@
         "p2_edge": -0.0293
       },
       "collected_at": "2026-10-06T14:41:29.730460+00:00",
-      "result": null
+      "result": {
+        "winner": "Rei Sakamoto",
+        "correct": true,
+        "settled_at": "2026-10-07T15:01:18.295458+00:00"
+      }
     },
     "9af7d82bea534ce15e7c15b8867672e0": {
       "match_id": "9af7d82bea534ce15e7c15b8867672e0",
@@ -67390,7 +67422,11 @@
         "p2_edge": 0.1967
       },
       "collected_at": "2026-10-06T14:41:29.834360+00:00",
-      "result": null
+      "result": {
+        "winner": "Yi Zhou",
+        "correct": false,
+        "settled_at": "2026-10-07T15:01:18.457076+00:00"
+      }
     },
     "031b22614da140f4b89c1f323b3454c5": {
       "match_id": "031b22614da140f4b89c1f323b3454c5",
@@ -67472,7 +67508,11 @@
         "p2_edge": -0.2144
       },
       "collected_at": "2026-10-06T14:41:29.937303+00:00",
-      "result": null
+      "result": {
+        "winner": "Roman Safiullin",
+        "correct": false,
+        "settled_at": "2026-10-07T15:01:18.555772+00:00"
+      }
     },
     "dd1e20c942328c79a159efcf2c81a089": {
       "match_id": "dd1e20c942328c79a159efcf2c81a089",
@@ -67550,7 +67590,11 @@
         "p2_edge": 0.0395
       },
       "collected_at": "2026-10-06T14:41:30.040429+00:00",
-      "result": null
+      "result": {
+        "winner": "Quentin Halys",
+        "correct": false,
+        "settled_at": "2026-10-07T15:01:18.647410+00:00"
+      }
     },
     "e4ee78c7ad5031e88f5b5c2cc49f68cb": {
       "match_id": "e4ee78c7ad5031e88f5b5c2cc49f68cb",
@@ -68013,7 +68057,1035 @@
       },
       "collected_at": "2026-10-06T20:45:29.485654+00:00",
       "result": null
+    },
+    "f9f1baac19e915d28a83329e53af0ac8": {
+      "match_id": "f9f1baac19e915d28a83329e53af0ac8",
+      "commence_time": "2026-10-09T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Adrian Mannarino",
+      "player2": "Flavio Cobolli",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Adrian Mannarino": 2.68,
+          "Flavio Cobolli": 1.48
+        },
+        "onexbet": {
+          "Adrian Mannarino": 2.84,
+          "Flavio Cobolli": 1.45
+        },
+        "draftkings": {
+          "Adrian Mannarino": 2.86,
+          "Flavio Cobolli": 1.43
+        },
+        "gtbets": {
+          "Adrian Mannarino": 2.81,
+          "Flavio Cobolli": 1.39
+        },
+        "fanduel": {
+          "Adrian Mannarino": 2.84,
+          "Flavio Cobolli": 1.44
+        },
+        "unibet_fr": {
+          "Adrian Mannarino": 2.5,
+          "Flavio Cobolli": 1.38
+        },
+        "matchbook": {
+          "Adrian Mannarino": 2.68,
+          "Flavio Cobolli": 1.43
+        },
+        "winamax_de": {
+          "Adrian Mannarino": 2.75,
+          "Flavio Cobolli": 1.45
+        },
+        "winamax_fr": {
+          "Adrian Mannarino": 2.5,
+          "Flavio Cobolli": 1.39
+        },
+        "pmu_fr": {
+          "Adrian Mannarino": 2.7,
+          "Flavio Cobolli": 1.36
+        },
+        "unibet_se": {
+          "Adrian Mannarino": 2.85,
+          "Flavio Cobolli": 1.43
+        },
+        "unibet_nl": {
+          "Adrian Mannarino": 2.85,
+          "Flavio Cobolli": 1.43
+        },
+        "leovegas_se": {
+          "Adrian Mannarino": 2.85,
+          "Flavio Cobolli": 1.43
+        },
+        "betrivers": {
+          "Adrian Mannarino": 2.85,
+          "Flavio Cobolli": 1.43
+        },
+        "tipico_de": {
+          "Adrian Mannarino": 2.7,
+          "Flavio Cobolli": 1.4
+        },
+        "sport888": {
+          "Adrian Mannarino": 2.75,
+          "Flavio Cobolli": 1.44
+        },
+        "nordicbet": {
+          "Adrian Mannarino": 2.75,
+          "Flavio Cobolli": 1.45
+        },
+        "betsson": {
+          "Adrian Mannarino": 2.75,
+          "Flavio Cobolli": 1.45
+        },
+        "williamhill": {
+          "Adrian Mannarino": 2.75,
+          "Flavio Cobolli": 1.44
+        },
+        "betmgm": {
+          "Adrian Mannarino": 2.9,
+          "Flavio Cobolli": 1.4
+        },
+        "pinnacle": {
+          "Adrian Mannarino": 2.95,
+          "Flavio Cobolli": 1.44
+        }
+      },
+      "prediction": {
+        "p1_name": "Adrian Mannarino",
+        "p2_name": "Flavio Cobolli",
+        "p1_prob": 0.2124,
+        "p2_prob": 0.7876,
+        "predicted_winner": "Flavio Cobolli",
+        "confidence": "high",
+        "p1_edge": -0.1266,
+        "p2_edge": 0.1119
+      },
+      "collected_at": "2026-10-07T15:01:24.002506+00:00",
+      "result": null
+    },
+    "7fa3afd6824f6f399b190a8b95e17b57": {
+      "match_id": "7fa3afd6824f6f399b190a8b95e17b57",
+      "commence_time": "2026-10-09T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Alex de Minaur",
+      "player2": "Alex Molcan",
+      "bookmakers": {
+        "gtbets": {
+          "Alex de Minaur": 1.3,
+          "Alex Molcan": 3.98
+        },
+        "betfair_ex_eu": {
+          "Alex de Minaur": 1.29,
+          "Alex Molcan": 4.0
+        },
+        "draftkings": {
+          "Alex de Minaur": 1.26,
+          "Alex Molcan": 3.97
+        },
+        "unibet_fr": {
+          "Alex de Minaur": 1.23,
+          "Alex Molcan": 3.3
+        },
+        "sport888": {
+          "Alex de Minaur": 1.29,
+          "Alex Molcan": 3.6
+        },
+        "onexbet": {
+          "Alex de Minaur": 1.29,
+          "Alex Molcan": 3.77
+        },
+        "fanduel": {
+          "Alex de Minaur": 1.28,
+          "Alex Molcan": 3.8
+        },
+        "matchbook": {
+          "Alex de Minaur": 1.25,
+          "Alex Molcan": 3.75
+        },
+        "betmgm": {
+          "Alex de Minaur": 1.25,
+          "Alex Molcan": 3.9
+        },
+        "tipico_de": {
+          "Alex de Minaur": 1.25,
+          "Alex Molcan": 3.6
+        },
+        "pinnacle": {
+          "Alex de Minaur": 1.27,
+          "Alex Molcan": 4.03
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex De Minaur",
+        "p2_name": "Alex Molcan",
+        "p1_prob": 0.7624,
+        "p2_prob": 0.2376,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": -0.0068,
+        "p2_edge": -0.0105
+      },
+      "collected_at": "2026-10-07T15:01:24.083094+00:00",
+      "result": null
+    },
+    "4e2c5a5395b42d51415ecd6dcbb351fa": {
+      "match_id": "4e2c5a5395b42d51415ecd6dcbb351fa",
+      "commence_time": "2026-10-09T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Quentin Halys",
+      "player2": "Alexander Blockx",
+      "bookmakers": {
+        "gtbets": {
+          "Alexander Blockx": 1.63,
+          "Quentin Halys": 2.29
+        },
+        "onexbet": {
+          "Alexander Blockx": 1.69,
+          "Quentin Halys": 2.22
+        },
+        "betfair_ex_eu": {
+          "Alexander Blockx": 1.8,
+          "Quentin Halys": 2.12
+        },
+        "sport888": {
+          "Alexander Blockx": 1.67,
+          "Quentin Halys": 2.2
+        },
+        "draftkings": {
+          "Alexander Blockx": 1.66,
+          "Quentin Halys": 2.24
+        },
+        "unibet_fr": {
+          "Alexander Blockx": 1.59,
+          "Quentin Halys": 2.05
+        },
+        "fanduel": {
+          "Alexander Blockx": 1.7,
+          "Quentin Halys": 2.18
+        },
+        "leovegas_se": {
+          "Alexander Blockx": 1.65,
+          "Quentin Halys": 2.23
+        },
+        "pmu_fr": {
+          "Alexander Blockx": 1.57,
+          "Quentin Halys": 2.14
+        },
+        "unibet_se": {
+          "Alexander Blockx": 1.65,
+          "Quentin Halys": 2.23
+        },
+        "betrivers": {
+          "Alexander Blockx": 1.65,
+          "Quentin Halys": 2.23
+        },
+        "unibet_nl": {
+          "Alexander Blockx": 1.65,
+          "Quentin Halys": 2.23
+        },
+        "matchbook": {
+          "Alexander Blockx": 1.64,
+          "Quentin Halys": 2.06
+        },
+        "pinnacle": {
+          "Alexander Blockx": 1.71,
+          "Quentin Halys": 2.23
+        },
+        "winamax_fr": {
+          "Alexander Blockx": 1.6,
+          "Quentin Halys": 2.05
+        },
+        "winamax_de": {
+          "Alexander Blockx": 1.68,
+          "Quentin Halys": 2.15
+        },
+        "betmgm": {
+          "Alexander Blockx": 1.67,
+          "Quentin Halys": 2.15
+        },
+        "tipico_de": {
+          "Alexander Blockx": 1.7,
+          "Quentin Halys": 2.05
+        }
+      },
+      "prediction": {
+        "p1_name": "Quentin Halys",
+        "p2_name": "Alexander Blockx",
+        "p1_prob": 0.3702,
+        "p2_prob": 0.6298,
+        "predicted_winner": "Alexander Blockx",
+        "confidence": "high",
+        "p1_edge": -0.0665,
+        "p2_edge": 0.0742
+      },
+      "collected_at": "2026-10-07T15:01:24.249499+00:00",
+      "result": null
+    },
+    "7a32c48cac88a3d55ff9303c25cb94f2": {
+      "match_id": "7a32c48cac88a3d55ff9303c25cb94f2",
+      "commence_time": "2026-10-09T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Alexander Bublik",
+      "player2": "Tomas Machac",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Alexander Bublik": 1.61,
+          "Tomas Machac": 2.44
+        },
+        "onexbet": {
+          "Alexander Bublik": 1.58,
+          "Tomas Machac": 2.44
+        },
+        "unibet_fr": {
+          "Alexander Bublik": 1.49,
+          "Tomas Machac": 2.2
+        },
+        "gtbets": {
+          "Alexander Bublik": 1.53,
+          "Tomas Machac": 2.53
+        },
+        "fanduel": {
+          "Alexander Bublik": 1.57,
+          "Tomas Machac": 2.46
+        },
+        "draftkings": {
+          "Alexander Bublik": 1.56,
+          "Tomas Machac": 2.46
+        },
+        "matchbook": {
+          "Alexander Bublik": 1.56,
+          "Tomas Machac": 2.28
+        },
+        "tipico_de": {
+          "Alexander Bublik": 1.57,
+          "Tomas Machac": 2.25
+        },
+        "unibet_nl": {
+          "Alexander Bublik": 1.56,
+          "Tomas Machac": 2.4
+        },
+        "betrivers": {
+          "Alexander Bublik": 1.56,
+          "Tomas Machac": 2.4
+        },
+        "pmu_fr": {
+          "Alexander Bublik": 1.51,
+          "Tomas Machac": 2.3
+        },
+        "unibet_se": {
+          "Alexander Bublik": 1.56,
+          "Tomas Machac": 2.4
+        },
+        "leovegas_se": {
+          "Alexander Bublik": 1.56,
+          "Tomas Machac": 2.4
+        },
+        "pinnacle": {
+          "Alexander Bublik": 1.62,
+          "Tomas Machac": 2.39
+        },
+        "sport888": {
+          "Alexander Bublik": 1.61,
+          "Tomas Machac": 2.3
+        },
+        "betmgm": {
+          "Alexander Bublik": 1.57,
+          "Tomas Machac": 2.35
+        },
+        "winamax_fr": {
+          "Alexander Bublik": 1.5,
+          "Tomas Machac": 2.25
+        },
+        "winamax_de": {
+          "Alexander Bublik": 1.56,
+          "Tomas Machac": 2.4
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Bublik",
+        "p2_name": "Tomas Machac",
+        "p1_prob": 0.5737,
+        "p2_prob": 0.4263,
+        "predicted_winner": "Alexander Bublik",
+        "confidence": "medium",
+        "p1_edge": -0.0436,
+        "p2_edge": 0.031
+      },
+      "collected_at": "2026-10-07T15:01:24.331407+00:00",
+      "result": null
+    },
+    "09f619967e342f686cf7f54e12a2c3b8": {
+      "match_id": "09f619967e342f686cf7f54e12a2c3b8",
+      "commence_time": "2026-10-09T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Rei Sakamoto",
+      "player2": "Andrey Rublev",
+      "bookmakers": {
+        "pmu_fr": {
+          "Andrey Rublev": 1.28,
+          "Rei Sakamoto": 3.15
+        },
+        "betfair_ex_eu": {
+          "Andrey Rublev": 1.38,
+          "Rei Sakamoto": 3.35
+        },
+        "unibet_nl": {
+          "Andrey Rublev": 1.33,
+          "Rei Sakamoto": 3.35
+        },
+        "unibet_se": {
+          "Andrey Rublev": 1.33,
+          "Rei Sakamoto": 3.35
+        },
+        "leovegas_se": {
+          "Andrey Rublev": 1.33,
+          "Rei Sakamoto": 3.35
+        },
+        "draftkings": {
+          "Andrey Rublev": 1.31,
+          "Rei Sakamoto": 3.5
+        },
+        "betrivers": {
+          "Andrey Rublev": 1.33,
+          "Rei Sakamoto": 3.35
+        },
+        "fanduel": {
+          "Andrey Rublev": 1.36,
+          "Rei Sakamoto": 3.2
+        },
+        "winamax_fr": {
+          "Andrey Rublev": 1.34,
+          "Rei Sakamoto": 2.7
+        },
+        "onexbet": {
+          "Andrey Rublev": 1.38,
+          "Rei Sakamoto": 3.17
+        },
+        "tipico_de": {
+          "Andrey Rublev": 1.35,
+          "Rei Sakamoto": 2.95
+        },
+        "gtbets": {
+          "Andrey Rublev": 1.37,
+          "Rei Sakamoto": 3.3
+        },
+        "winamax_de": {
+          "Andrey Rublev": 1.39,
+          "Rei Sakamoto": 3.0
+        },
+        "matchbook": {
+          "Andrey Rublev": 1.34,
+          "Rei Sakamoto": 3.05
+        },
+        "sport888": {
+          "Andrey Rublev": 1.36,
+          "Rei Sakamoto": 3.1
+        },
+        "betmgm": {
+          "Andrey Rublev": 1.36,
+          "Rei Sakamoto": 3.1
+        },
+        "pinnacle": {
+          "Andrey Rublev": 1.39,
+          "Rei Sakamoto": 3.18
+        }
+      },
+      "prediction": {
+        "p1_name": "Rei Sakamoto",
+        "p2_name": "Andrey Rublev",
+        "p1_prob": 0.3859,
+        "p2_prob": 0.6141,
+        "predicted_winner": "Andrey Rublev",
+        "confidence": "high",
+        "p1_edge": 0.1002,
+        "p2_edge": -0.1053
+      },
+      "collected_at": "2026-10-07T15:01:24.511879+00:00",
+      "result": null
+    },
+    "eb1e0b228ed44a2ea7cd0398f92f30f5": {
+      "match_id": "eb1e0b228ed44a2ea7cd0398f92f30f5",
+      "commence_time": "2026-10-09T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Arthur Gea",
+      "player2": "Ugo Humbert",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Arthur Gea": 1.78,
+          "Ugo Humbert": 2.04
+        },
+        "onexbet": {
+          "Arthur Gea": 1.76,
+          "Ugo Humbert": 2.11
+        },
+        "draftkings": {
+          "Arthur Gea": 1.74,
+          "Ugo Humbert": 2.11
+        },
+        "gtbets": {
+          "Arthur Gea": 1.75,
+          "Ugo Humbert": 2.09
+        },
+        "fanduel": {
+          "Arthur Gea": 1.79,
+          "Ugo Humbert": 2.05
+        },
+        "unibet_fr": {
+          "Arthur Gea": 1.65,
+          "Ugo Humbert": 1.95
+        },
+        "winamax_de": {
+          "Arthur Gea": 1.74,
+          "Ugo Humbert": 2.05
+        },
+        "winamax_fr": {
+          "Arthur Gea": 1.66,
+          "Ugo Humbert": 1.96
+        },
+        "betrivers": {
+          "Arthur Gea": 1.72,
+          "Ugo Humbert": 2.12
+        },
+        "leovegas_se": {
+          "Arthur Gea": 1.72,
+          "Ugo Humbert": 2.12
+        },
+        "pmu_fr": {
+          "Arthur Gea": 1.65,
+          "Ugo Humbert": 2.04
+        },
+        "unibet_se": {
+          "Arthur Gea": 1.72,
+          "Ugo Humbert": 2.12
+        },
+        "unibet_nl": {
+          "Arthur Gea": 1.72,
+          "Ugo Humbert": 2.12
+        },
+        "tipico_de": {
+          "Arthur Gea": 1.75,
+          "Ugo Humbert": 1.97
+        },
+        "matchbook": {
+          "Arthur Gea": 1.68,
+          "Ugo Humbert": 1.95
+        },
+        "pinnacle": {
+          "Arthur Gea": 1.79,
+          "Ugo Humbert": 2.11
+        },
+        "sport888": {
+          "Arthur Gea": 1.73,
+          "Ugo Humbert": 2.1
+        },
+        "betmgm": {
+          "Arthur Gea": 1.74,
+          "Ugo Humbert": 2.05
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Gea",
+        "p2_name": "Ugo Humbert",
+        "p1_prob": 0.3904,
+        "p2_prob": 0.6096,
+        "predicted_winner": "Ugo Humbert",
+        "confidence": "high",
+        "p1_edge": -0.1683,
+        "p2_edge": 0.1379
+      },
+      "collected_at": "2026-10-07T15:01:24.730385+00:00",
+      "result": null
+    },
+    "42f0f2c2a0b4f7cf927b8b00a6089279": {
+      "match_id": "42f0f2c2a0b4f7cf927b8b00a6089279",
+      "commence_time": "2026-10-09T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Matteo Berrettini",
+      "player2": "Brandon Nakashima",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Brandon Nakashima": 1.12,
+          "Matteo Berrettini": 1.96
+        },
+        "onexbet": {
+          "Brandon Nakashima": 1.65,
+          "Matteo Berrettini": 2.29
+        },
+        "draftkings": {
+          "Brandon Nakashima": 1.68,
+          "Matteo Berrettini": 2.19
+        },
+        "gtbets": {
+          "Brandon Nakashima": 1.63,
+          "Matteo Berrettini": 2.36
+        },
+        "fanduel": {
+          "Brandon Nakashima": 1.62,
+          "Matteo Berrettini": 2.34
+        },
+        "unibet_fr": {
+          "Brandon Nakashima": 1.54,
+          "Matteo Berrettini": 2.15
+        },
+        "winamax_de": {
+          "Brandon Nakashima": 1.62,
+          "Matteo Berrettini": 2.3
+        },
+        "winamax_fr": {
+          "Brandon Nakashima": 1.54,
+          "Matteo Berrettini": 2.15
+        },
+        "betrivers": {
+          "Brandon Nakashima": 1.57,
+          "Matteo Berrettini": 2.35
+        },
+        "leovegas_se": {
+          "Brandon Nakashima": 1.57,
+          "Matteo Berrettini": 2.35
+        },
+        "pmu_fr": {
+          "Brandon Nakashima": 1.53,
+          "Matteo Berrettini": 2.25
+        },
+        "unibet_se": {
+          "Brandon Nakashima": 1.57,
+          "Matteo Berrettini": 2.35
+        },
+        "unibet_nl": {
+          "Brandon Nakashima": 1.57,
+          "Matteo Berrettini": 2.35
+        },
+        "tipico_de": {
+          "Brandon Nakashima": 1.57,
+          "Matteo Berrettini": 2.25
+        },
+        "matchbook": {
+          "Brandon Nakashima": 1.61,
+          "Matteo Berrettini": 2.1
+        },
+        "pinnacle": {
+          "Brandon Nakashima": 1.71,
+          "Matteo Berrettini": 2.23
+        },
+        "sport888": {
+          "Brandon Nakashima": 1.67,
+          "Matteo Berrettini": 2.2
+        },
+        "betmgm": {
+          "Brandon Nakashima": 1.67,
+          "Matteo Berrettini": 2.15
+        }
+      },
+      "prediction": {
+        "p1_name": "Matteo Berrettini",
+        "p2_name": "Brandon Nakashima",
+        "p1_prob": 0.4664,
+        "p2_prob": 0.5336,
+        "predicted_winner": "Brandon Nakashima",
+        "confidence": "low",
+        "p1_edge": 0.0427,
+        "p2_edge": -0.0512
+      },
+      "collected_at": "2026-10-07T15:01:24.830304+00:00",
+      "result": null
+    },
+    "39b35a80c6dcdf3022287f85ce86188f": {
+      "match_id": "39b35a80c6dcdf3022287f85ce86188f",
+      "commence_time": "2026-10-09T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Yannick Hanfmann",
+      "player2": "Frances Tiafoe",
+      "bookmakers": {
+        "pinnacle": {
+          "Frances Tiafoe": 1.41,
+          "Yannick Hanfmann": 3.06
+        },
+        "betfair_ex_eu": {
+          "Frances Tiafoe": 1.41,
+          "Yannick Hanfmann": 2.94
+        },
+        "unibet_fr": {
+          "Frances Tiafoe": 1.33,
+          "Yannick Hanfmann": 2.7
+        },
+        "fanduel": {
+          "Frances Tiafoe": 1.38,
+          "Yannick Hanfmann": 3.1
+        },
+        "onexbet": {
+          "Frances Tiafoe": 1.4,
+          "Yannick Hanfmann": 3.06
+        },
+        "tipico_de": {
+          "Frances Tiafoe": 1.35,
+          "Yannick Hanfmann": 2.95
+        },
+        "sport888": {
+          "Frances Tiafoe": 1.4,
+          "Yannick Hanfmann": 2.9
+        },
+        "matchbook": {
+          "Frances Tiafoe": 1.36,
+          "Yannick Hanfmann": 2.74
+        },
+        "betmgm": {
+          "Frances Tiafoe": 1.4,
+          "Yannick Hanfmann": 2.9
+        },
+        "draftkings": {
+          "Frances Tiafoe": 1.36,
+          "Yannick Hanfmann": 3.18
+        },
+        "gtbets": {
+          "Frances Tiafoe": 1.38,
+          "Yannick Hanfmann": 3.09
+        },
+        "unibet_nl": {
+          "Frances Tiafoe": 1.36,
+          "Yannick Hanfmann": 3.1
+        },
+        "betrivers": {
+          "Frances Tiafoe": 1.36,
+          "Yannick Hanfmann": 3.1
+        },
+        "unibet_se": {
+          "Frances Tiafoe": 1.36,
+          "Yannick Hanfmann": 3.1
+        },
+        "pmu_fr": {
+          "Frances Tiafoe": 1.32,
+          "Yannick Hanfmann": 2.95
+        },
+        "leovegas_se": {
+          "Frances Tiafoe": 1.36,
+          "Yannick Hanfmann": 3.1
+        },
+        "winamax_fr": {
+          "Frances Tiafoe": 1.33,
+          "Yannick Hanfmann": 2.75
+        },
+        "winamax_de": {
+          "Frances Tiafoe": 1.39,
+          "Yannick Hanfmann": 3.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Yannick Hanfmann",
+        "p2_name": "Frances Tiafoe",
+        "p1_prob": 0.3534,
+        "p2_prob": 0.6466,
+        "predicted_winner": "Frances Tiafoe",
+        "confidence": "high",
+        "p1_edge": 0.0389,
+        "p2_edge": -0.0626
+      },
+      "collected_at": "2026-10-07T15:01:24.911426+00:00",
+      "result": null
+    },
+    "9195be0514275073aba14213083da83a": {
+      "match_id": "9195be0514275073aba14213083da83a",
+      "commence_time": "2026-10-09T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Francisco Cerundolo",
+      "player2": "Roman Safiullin",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Francisco Cerundolo": 1.95,
+          "Roman Safiullin": 1.98
+        },
+        "onexbet": {
+          "Francisco Cerundolo": 1.94,
+          "Roman Safiullin": 1.91
+        },
+        "pinnacle": {
+          "Francisco Cerundolo": 1.92,
+          "Roman Safiullin": 1.95
+        },
+        "unibet_fr": {
+          "Francisco Cerundolo": 1.82,
+          "Roman Safiullin": 1.76
+        },
+        "fanduel": {
+          "Francisco Cerundolo": 1.94,
+          "Roman Safiullin": 1.88
+        },
+        "sport888": {
+          "Francisco Cerundolo": 1.85,
+          "Roman Safiullin": 1.95
+        },
+        "matchbook": {
+          "Francisco Cerundolo": 1.79,
+          "Roman Safiullin": 1.86
+        },
+        "draftkings": {
+          "Francisco Cerundolo": 1.83,
+          "Roman Safiullin": 1.99
+        },
+        "betmgm": {
+          "Francisco Cerundolo": 1.87,
+          "Roman Safiullin": 1.91
+        },
+        "gtbets": {
+          "Francisco Cerundolo": 1.85,
+          "Roman Safiullin": 1.96
+        },
+        "unibet_nl": {
+          "Francisco Cerundolo": 1.95,
+          "Roman Safiullin": 1.83
+        },
+        "betrivers": {
+          "Francisco Cerundolo": 1.95,
+          "Roman Safiullin": 1.83
+        },
+        "pmu_fr": {
+          "Francisco Cerundolo": 1.88,
+          "Roman Safiullin": 1.76
+        },
+        "unibet_se": {
+          "Francisco Cerundolo": 1.95,
+          "Roman Safiullin": 1.83
+        },
+        "leovegas_se": {
+          "Francisco Cerundolo": 1.95,
+          "Roman Safiullin": 1.83
+        },
+        "winamax_fr": {
+          "Francisco Cerundolo": 1.84,
+          "Roman Safiullin": 1.76
+        },
+        "winamax_de": {
+          "Francisco Cerundolo": 1.94,
+          "Roman Safiullin": 1.86
+        },
+        "tipico_de": {
+          "Francisco Cerundolo": 1.85,
+          "Roman Safiullin": 1.85
+        }
+      },
+      "prediction": {
+        "p1_name": "Francisco Cerundolo",
+        "p2_name": "Roman Safiullin",
+        "p1_prob": 0.6833,
+        "p2_prob": 0.3167,
+        "predicted_winner": "Francisco Cerundolo",
+        "confidence": "high",
+        "p1_edge": 0.1705,
+        "p2_edge": -0.1858
+      },
+      "collected_at": "2026-10-07T15:01:24.992679+00:00",
+      "result": null
+    },
+    "6f099b10621643e85800f00fb324d82c": {
+      "match_id": "6f099b10621643e85800f00fb324d82c",
+      "commence_time": "2026-10-09T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Miomir Kecmanovic",
+      "player2": "Jakub Mensik",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Jakub Mensik": 1.35,
+          "Miomir Kecmanovic": 3.7
+        },
+        "pmu_fr": {
+          "Jakub Mensik": 1.27,
+          "Miomir Kecmanovic": 3.25
+        },
+        "leovegas_se": {
+          "Jakub Mensik": 1.3,
+          "Miomir Kecmanovic": 3.45
+        },
+        "unibet_nl": {
+          "Jakub Mensik": 1.3,
+          "Miomir Kecmanovic": 3.45
+        },
+        "unibet_se": {
+          "Jakub Mensik": 1.3,
+          "Miomir Kecmanovic": 3.45
+        },
+        "betrivers": {
+          "Jakub Mensik": 1.3,
+          "Miomir Kecmanovic": 3.45
+        },
+        "draftkings": {
+          "Jakub Mensik": 1.3,
+          "Miomir Kecmanovic": 3.57
+        },
+        "unibet_fr": {
+          "Jakub Mensik": 1.28,
+          "Miomir Kecmanovic": 2.95
+        },
+        "fanduel": {
+          "Jakub Mensik": 1.32,
+          "Miomir Kecmanovic": 3.5
+        },
+        "winamax_de": {
+          "Jakub Mensik": 1.33,
+          "Miomir Kecmanovic": 3.3
+        },
+        "tipico_de": {
+          "Jakub Mensik": 1.27,
+          "Miomir Kecmanovic": 3.4
+        },
+        "winamax_fr": {
+          "Jakub Mensik": 1.28,
+          "Miomir Kecmanovic": 2.95
+        },
+        "onexbet": {
+          "Jakub Mensik": 1.34,
+          "Miomir Kecmanovic": 3.38
+        },
+        "gtbets": {
+          "Jakub Mensik": 1.27,
+          "Miomir Kecmanovic": 3.46
+        },
+        "matchbook": {
+          "Jakub Mensik": 1.28,
+          "Miomir Kecmanovic": 3.2
+        },
+        "pinnacle": {
+          "Jakub Mensik": 1.34,
+          "Miomir Kecmanovic": 3.47
+        },
+        "betmgm": {
+          "Jakub Mensik": 1.31,
+          "Miomir Kecmanovic": 3.4
+        },
+        "sport888": {
+          "Jakub Mensik": 1.33,
+          "Miomir Kecmanovic": 3.3
+        }
+      },
+      "prediction": {
+        "p1_name": "Miomir Kecmanovic",
+        "p2_name": "Jakub Mensik",
+        "p1_prob": 0.2694,
+        "p2_prob": 0.7306,
+        "predicted_winner": "Jakub Mensik",
+        "confidence": "high",
+        "p1_edge": -0.0009,
+        "p2_edge": -0.0101
+      },
+      "collected_at": "2026-10-07T15:01:25.073794+00:00",
+      "result": null
+    },
+    "28d2881b2a6fd12a3dd67402513f1793": {
+      "match_id": "28d2881b2a6fd12a3dd67402513f1793",
+      "commence_time": "2026-10-09T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Yi Zhou",
+      "player2": "Lorenzo Musetti",
+      "bookmakers": {
+        "onexbet": {
+          "Lorenzo Musetti": 1.15,
+          "Yi Zhou": 5.71
+        },
+        "unibet_fr": {
+          "Lorenzo Musetti": 1.12,
+          "Yi Zhou": 4.4
+        },
+        "draftkings": {
+          "Lorenzo Musetti": 1.19,
+          "Yi Zhou": 4.88
+        },
+        "gtbets": {
+          "Lorenzo Musetti": 1.18,
+          "Yi Zhou": 4.97
+        },
+        "winamax_fr": {
+          "Lorenzo Musetti": 1.12,
+          "Yi Zhou": 4.5
+        },
+        "winamax_de": {
+          "Lorenzo Musetti": 1.15,
+          "Yi Zhou": 5.3
+        },
+        "matchbook": {
+          "Lorenzo Musetti": 1.12,
+          "Yi Zhou": 5.6
+        },
+        "pinnacle": {
+          "Lorenzo Musetti": 1.14,
+          "Yi Zhou": 6.41
+        },
+        "betmgm": {
+          "Lorenzo Musetti": 1.12,
+          "Yi Zhou": 6.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Yi Zhou",
+        "p2_name": "Lorenzo Musetti",
+        "p1_prob": 0.2579,
+        "p2_prob": 0.7421,
+        "predicted_winner": "Lorenzo Musetti",
+        "confidence": "high",
+        "p1_edge": 0.1019,
+        "p2_edge": -0.0982
+      },
+      "collected_at": "2026-10-07T15:01:25.155815+00:00",
+      "result": null
+    },
+    "tml-2026-5014-8": {
+      "match_id": "tml-2026-5014-8",
+      "commence_time": "2026-10-07T00:00:00+00:00",
+      "tournament": "Shanghai",
+      "surface": "Hard",
+      "player1": "Alex Molcan",
+      "player2": "Federico Cina",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alex Molcan",
+        "p2_name": "Federico Cina",
+        "p1_prob": 0.5227,
+        "p2_prob": 0.4773,
+        "predicted_winner": "Alex Molcan",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-07T15:01:31.164555+00:00",
+      "result": {
+        "winner": "Alex Molcan",
+        "correct": true,
+        "settled_at": "2026-10-07T15:01:31.164555+00:00"
+      }
+    },
+    "tml-2026-5014-11": {
+      "match_id": "tml-2026-5014-11",
+      "commence_time": "2026-10-07T00:00:00+00:00",
+      "tournament": "Shanghai",
+      "surface": "Hard",
+      "player1": "Yibing Wu",
+      "player2": "Michael Zheng",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Yibing Wu",
+        "p2_name": "Michael Zheng",
+        "p1_prob": 0.4857,
+        "p2_prob": 0.5143,
+        "predicted_winner": "Michael Zheng",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-07T15:01:31.246404+00:00",
+      "result": {
+        "winner": "Yibing Wu",
+        "correct": false,
+        "settled_at": "2026-10-07T15:01:31.246404+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-06T20:45:29.499270+00:00"
+  "last_updated": "2026-10-07T15:01:31.258525+00:00"
 }
