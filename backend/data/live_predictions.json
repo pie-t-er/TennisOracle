@@ -67176,7 +67176,11 @@
         "p2_edge": -0.1354
       },
       "collected_at": "2026-10-06T04:32:44.545433+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniel Altmaier",
+        "correct": false,
+        "settled_at": "2026-10-07T20:57:37.750769+00:00"
+      }
     },
     "7fc5b0c8f64ed28733a5d1fed9aa6dc3": {
       "match_id": "7fc5b0c8f64ed28733a5d1fed9aa6dc3",
@@ -69085,7 +69089,187 @@
         "correct": false,
         "settled_at": "2026-10-07T15:01:31.246404+00:00"
       }
+    },
+    "bd351fd9f9a56cd0cc2878d9ec9cda89": {
+      "match_id": "bd351fd9f9a56cd0cc2878d9ec9cda89",
+      "commence_time": "2026-10-09T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Karen Khachanov",
+      "player2": "Arthur Fery",
+      "bookmakers": {
+        "matchbook": {
+          "Arthur Fery": 2.36,
+          "Karen Khachanov": 1.29
+        },
+        "betfair_ex_eu": {
+          "Arthur Fery": 2.58,
+          "Karen Khachanov": 1.1
+        },
+        "onexbet": {
+          "Arthur Fery": 3.22,
+          "Karen Khachanov": 1.37
+        },
+        "unibet_fr": {
+          "Arthur Fery": 2.8,
+          "Karen Khachanov": 1.31
+        },
+        "fanduel": {
+          "Arthur Fery": 3.2,
+          "Karen Khachanov": 1.36
+        },
+        "tipico_de": {
+          "Arthur Fery": 2.95,
+          "Karen Khachanov": 1.35
+        },
+        "draftkings": {
+          "Arthur Fery": 2.95,
+          "Karen Khachanov": 1.41
+        },
+        "winamax_de": {
+          "Arthur Fery": 3.1,
+          "Karen Khachanov": 1.36
+        },
+        "winamax_fr": {
+          "Arthur Fery": 2.8,
+          "Karen Khachanov": 1.31
+        },
+        "gtbets": {
+          "Arthur Fery": 3.19,
+          "Karen Khachanov": 1.36
+        },
+        "betmgm": {
+          "Arthur Fery": 3.1,
+          "Karen Khachanov": 1.35
+        },
+        "sport888": {
+          "Arthur Fery": 3.1,
+          "Karen Khachanov": 1.36
+        },
+        "unibet_nl": {
+          "Arthur Fery": 3.15,
+          "Karen Khachanov": 1.36
+        },
+        "unibet_se": {
+          "Arthur Fery": 3.15,
+          "Karen Khachanov": 1.36
+        },
+        "leovegas_se": {
+          "Arthur Fery": 3.15,
+          "Karen Khachanov": 1.36
+        },
+        "betrivers": {
+          "Arthur Fery": 3.15,
+          "Karen Khachanov": 1.36
+        },
+        "pmu_fr": {
+          "Arthur Fery": 2.95,
+          "Karen Khachanov": 1.32
+        }
+      },
+      "prediction": {
+        "p1_name": "Karen Khachanov",
+        "p2_name": "Arthur Fery",
+        "p1_prob": 0.5212,
+        "p2_prob": 0.4788,
+        "predicted_winner": "Karen Khachanov",
+        "confidence": "low",
+        "p1_edge": -0.188,
+        "p2_edge": 0.1682
+      },
+      "collected_at": "2026-10-07T20:57:46.671310+00:00",
+      "result": null
+    },
+    "1c50f0f54375e316e823480ca6ccf537": {
+      "match_id": "1c50f0f54375e316e823480ca6ccf537",
+      "commence_time": "2026-10-09T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Ben Shelton",
+      "player2": "Daniel Altmaier",
+      "bookmakers": {
+        "draftkings": {
+          "Ben Shelton": 1.11,
+          "Daniel Altmaier": 6.93
+        },
+        "unibet_fr": {
+          "Ben Shelton": 1.07,
+          "Daniel Altmaier": 5.3
+        },
+        "gtbets": {
+          "Ben Shelton": 1.12,
+          "Daniel Altmaier": 7.06
+        },
+        "onexbet": {
+          "Ben Shelton": 1.11,
+          "Daniel Altmaier": 7.24
+        },
+        "betmgm": {
+          "Ben Shelton": 1.1,
+          "Daniel Altmaier": 6.5
+        },
+        "winamax_fr": {
+          "Ben Shelton": 1.07,
+          "Daniel Altmaier": 5.5
+        },
+        "winamax_de": {
+          "Ben Shelton": 1.1,
+          "Daniel Altmaier": 7.0
+        },
+        "fanduel": {
+          "Ben Shelton": 1.09,
+          "Daniel Altmaier": 7.8
+        },
+        "betfair_ex_eu": {
+          "Ben Shelton": 1.11,
+          "Daniel Altmaier": 6.2
+        },
+        "matchbook": {
+          "Ben Shelton": 1.09,
+          "Daniel Altmaier": 5.4
+        },
+        "tipico_de": {
+          "Ben Shelton": 1.06,
+          "Daniel Altmaier": 7.2
+        },
+        "sport888": {
+          "Ben Shelton": 1.08,
+          "Daniel Altmaier": 7.5
+        },
+        "unibet_se": {
+          "Ben Shelton": 1.09,
+          "Daniel Altmaier": 7.5
+        },
+        "leovegas_se": {
+          "Ben Shelton": 1.09,
+          "Daniel Altmaier": 7.5
+        },
+        "unibet_nl": {
+          "Ben Shelton": 1.09,
+          "Daniel Altmaier": 7.5
+        },
+        "pmu_fr": {
+          "Ben Shelton": 1.05,
+          "Daniel Altmaier": 6.75
+        },
+        "betrivers": {
+          "Ben Shelton": 1.09,
+          "Daniel Altmaier": 7.5
+        }
+      },
+      "prediction": {
+        "p1_name": "Ben Shelton",
+        "p2_name": "Daniel Altmaier",
+        "p1_prob": 0.7817,
+        "p2_prob": 0.2183,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "high",
+        "p1_edge": -0.1112,
+        "p2_edge": 0.0901
+      },
+      "collected_at": "2026-10-07T20:57:46.792042+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-07T15:01:31.258525+00:00"
+  "last_updated": "2026-10-07T20:57:46.806414+00:00"
 }
