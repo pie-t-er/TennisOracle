@@ -71022,7 +71022,101 @@
         "correct": true,
         "settled_at": "2026-10-08T15:09:50.807690+00:00"
       }
+    },
+    "450360a425a5b30032be061533efc51a": {
+      "match_id": "450360a425a5b30032be061533efc51a",
+      "commence_time": "2026-10-10T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Dalibor Svrcina",
+      "player2": "Tomas Martin Etcheverry",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Dalibor Svrcina": 2.12,
+          "Tomas Martin Etcheverry": 1.78
+        },
+        "unibet_fr": {
+          "Dalibor Svrcina": 1.94,
+          "Tomas Martin Etcheverry": 1.65
+        },
+        "coolbet": {
+          "Dalibor Svrcina": 2.1,
+          "Tomas Martin Etcheverry": 1.75
+        },
+        "winamax_de": {
+          "Dalibor Svrcina": 2.05,
+          "Tomas Martin Etcheverry": 1.74
+        },
+        "sport888": {
+          "Dalibor Svrcina": 2.1,
+          "Tomas Martin Etcheverry": 1.73
+        },
+        "winamax_fr": {
+          "Dalibor Svrcina": 1.94,
+          "Tomas Martin Etcheverry": 1.66
+        },
+        "fanduel": {
+          "Dalibor Svrcina": 2.1,
+          "Tomas Martin Etcheverry": 1.76
+        },
+        "onexbet": {
+          "Dalibor Svrcina": 2.13,
+          "Tomas Martin Etcheverry": 1.75
+        },
+        "betmgm": {
+          "Dalibor Svrcina": 2.1,
+          "Tomas Martin Etcheverry": 1.71
+        },
+        "draftkings": {
+          "Dalibor Svrcina": 2.21,
+          "Tomas Martin Etcheverry": 1.68
+        },
+        "gtbets": {
+          "Dalibor Svrcina": 2.16,
+          "Tomas Martin Etcheverry": 1.7
+        },
+        "matchbook": {
+          "Dalibor Svrcina": 2.16,
+          "Tomas Martin Etcheverry": 1.75
+        },
+        "bovada": {
+          "Dalibor Svrcina": 2.15,
+          "Tomas Martin Etcheverry": 1.71
+        },
+        "pinnacle": {
+          "Dalibor Svrcina": 2.15,
+          "Tomas Martin Etcheverry": 1.76
+        },
+        "tipico_de": {
+          "Dalibor Svrcina": 2.05,
+          "Tomas Martin Etcheverry": 1.7
+        },
+        "lowvig": {
+          "Dalibor Svrcina": 2.16,
+          "Tomas Martin Etcheverry": 1.74
+        },
+        "betonlineag": {
+          "Dalibor Svrcina": 2.16,
+          "Tomas Martin Etcheverry": 1.74
+        },
+        "betanysports": {
+          "Dalibor Svrcina": 2.06,
+          "Tomas Martin Etcheverry": 1.74
+        }
+      },
+      "prediction": {
+        "p1_name": "Dalibor Svrcina",
+        "p2_name": "Tomas Martin Etcheverry",
+        "p1_prob": 0.3693,
+        "p2_prob": 0.6307,
+        "predicted_winner": "Tomas Martin Etcheverry",
+        "confidence": "high",
+        "p1_edge": -0.0832,
+        "p2_edge": 0.0689
+      },
+      "collected_at": "2026-10-08T20:59:44.191254+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-08T15:09:50.824516+00:00"
+  "last_updated": "2026-10-08T20:59:44.207780+00:00"
 }
