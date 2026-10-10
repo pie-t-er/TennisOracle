@@ -71108,7 +71108,11 @@
         "p2_edge": -0.0569
       },
       "collected_at": "2026-10-08T15:09:43.248074+00:00",
-      "result": null
+      "result": {
+        "winner": "Valentin Vacherot",
+        "correct": true,
+        "settled_at": "2026-10-10T19:41:32.764197+00:00"
+      }
     },
     "tml-2026-5014-30": {
       "match_id": "tml-2026-5014-30",
@@ -72208,7 +72212,593 @@
         "correct": true,
         "settled_at": "2026-10-10T14:10:22.665581+00:00"
       }
+    },
+    "f11e01ff73395ec9eaee7743f8e46586": {
+      "match_id": "f11e01ff73395ec9eaee7743f8e46586",
+      "commence_time": "2026-10-12T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Arthur Fils",
+      "player2": "Botic van de Zandschulp",
+      "bookmakers": {
+        "williamhill": {
+          "Arthur Fils": 1.22,
+          "Botic van de Zandschulp": 4.2
+        },
+        "unibet_fr": {
+          "Arthur Fils": 1.18,
+          "Botic van de Zandschulp": 3.7
+        },
+        "sport888": {
+          "Arthur Fils": 1.22,
+          "Botic van de Zandschulp": 4.2
+        },
+        "onexbet": {
+          "Arthur Fils": 1.24,
+          "Botic van de Zandschulp": 4.3
+        },
+        "gtbets": {
+          "Arthur Fils": 1.22,
+          "Botic van de Zandschulp": 4.4
+        },
+        "betsson": {
+          "Arthur Fils": 1.22,
+          "Botic van de Zandschulp": 4.3
+        },
+        "nordicbet": {
+          "Arthur Fils": 1.22,
+          "Botic van de Zandschulp": 4.3
+        },
+        "draftkings": {
+          "Arthur Fils": 1.21,
+          "Botic van de Zandschulp": 4.46
+        },
+        "winamax_fr": {
+          "Arthur Fils": 1.18,
+          "Botic van de Zandschulp": 3.75
+        },
+        "winamax_de": {
+          "Arthur Fils": 1.22,
+          "Botic van de Zandschulp": 4.3
+        },
+        "matchbook": {
+          "Arthur Fils": 1.24,
+          "Botic van de Zandschulp": 4.5
+        },
+        "pinnacle": {
+          "Arthur Fils": 1.24,
+          "Botic van de Zandschulp": 4.47
+        },
+        "betmgm": {
+          "Arthur Fils": 1.24,
+          "Botic van de Zandschulp": 4.0
+        },
+        "lowvig": {
+          "Arthur Fils": 1.24,
+          "Botic van de Zandschulp": 4.34
+        },
+        "betonlineag": {
+          "Arthur Fils": 1.24,
+          "Botic van de Zandschulp": 4.34
+        },
+        "pmu_fr": {
+          "Arthur Fils": 1.18,
+          "Botic van de Zandschulp": 4.0
+        },
+        "unibet_nl": {
+          "Arthur Fils": 1.22,
+          "Botic van de Zandschulp": 4.3
+        },
+        "betrivers": {
+          "Arthur Fils": 1.22,
+          "Botic van de Zandschulp": 4.3
+        },
+        "unibet_se": {
+          "Arthur Fils": 1.22,
+          "Botic van de Zandschulp": 4.3
+        },
+        "leovegas_se": {
+          "Arthur Fils": 1.22,
+          "Botic van de Zandschulp": 4.3
+        },
+        "fanduel": {
+          "Arthur Fils": 1.22,
+          "Botic van de Zandschulp": 4.5
+        },
+        "betfair_ex_eu": {
+          "Arthur Fils": 1.23,
+          "Botic van de Zandschulp": 4.2
+        },
+        "bovada": {
+          "Arthur Fils": 1.22,
+          "Botic van de Zandschulp": 4.5
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Fils",
+        "p2_name": "Botic Van De Zandschulp",
+        "p1_prob": 0.7082,
+        "p2_prob": 0.2918,
+        "predicted_winner": "Arthur Fils",
+        "confidence": "high",
+        "p1_edge": -0.0983,
+        "p2_edge": 0.0696
+      },
+      "collected_at": "2026-10-10T19:41:41.870053+00:00",
+      "result": null
+    },
+    "d84e5aa0d73e83aa621d6572011053e2": {
+      "match_id": "d84e5aa0d73e83aa621d6572011053e2",
+      "commence_time": "2026-10-12T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Zizou Bergs",
+      "player2": "Carlos Alcaraz",
+      "bookmakers": {
+        "draftkings": {
+          "Carlos Alcaraz": 1.05,
+          "Zizou Bergs": 10.2
+        },
+        "winamax_de": {
+          "Carlos Alcaraz": 1.05,
+          "Zizou Bergs": 9.5
+        },
+        "betsson": {
+          "Carlos Alcaraz": 1.06,
+          "Zizou Bergs": 9.6
+        },
+        "nordicbet": {
+          "Carlos Alcaraz": 1.06,
+          "Zizou Bergs": 9.6
+        },
+        "gtbets": {
+          "Carlos Alcaraz": 1.08,
+          "Zizou Bergs": 9.58
+        },
+        "winamax_fr": {
+          "Carlos Alcaraz": 1.03,
+          "Zizou Bergs": 6.75
+        },
+        "unibet_fr": {
+          "Carlos Alcaraz": 1.04,
+          "Zizou Bergs": 6.4
+        },
+        "onexbet": {
+          "Carlos Alcaraz": 1.05,
+          "Zizou Bergs": 10.7
+        },
+        "sport888": {
+          "Carlos Alcaraz": 1.06,
+          "Zizou Bergs": 9.0
+        },
+        "williamhill": {
+          "Carlos Alcaraz": 1.06,
+          "Zizou Bergs": 9.0
+        },
+        "matchbook": {
+          "Carlos Alcaraz": 1.08,
+          "Zizou Bergs": 11.0
+        },
+        "pinnacle": {
+          "Carlos Alcaraz": 1.06,
+          "Zizou Bergs": 10.84
+        },
+        "betmgm": {
+          "Carlos Alcaraz": 1.05,
+          "Zizou Bergs": 9.25
+        },
+        "lowvig": {
+          "Carlos Alcaraz": 1.07,
+          "Zizou Bergs": 8.78
+        },
+        "betonlineag": {
+          "Carlos Alcaraz": 1.07,
+          "Zizou Bergs": 8.78
+        },
+        "pmu_fr": {
+          "Carlos Alcaraz": 1.01,
+          "Zizou Bergs": 8.5
+        },
+        "unibet_se": {
+          "Carlos Alcaraz": 1.05,
+          "Zizou Bergs": 9.5
+        },
+        "betrivers": {
+          "Carlos Alcaraz": 1.05,
+          "Zizou Bergs": 9.5
+        },
+        "unibet_nl": {
+          "Carlos Alcaraz": 1.05,
+          "Zizou Bergs": 9.5
+        },
+        "leovegas_se": {
+          "Carlos Alcaraz": 1.05,
+          "Zizou Bergs": 9.5
+        },
+        "fanduel": {
+          "Carlos Alcaraz": 1.05,
+          "Zizou Bergs": 10.8
+        },
+        "betfair_ex_eu": {
+          "Carlos Alcaraz": 1.09,
+          "Zizou Bergs": 11.0
+        },
+        "bovada": {
+          "Carlos Alcaraz": 1.06,
+          "Zizou Bergs": 9.5
+        },
+        "betanysports": {
+          "Carlos Alcaraz": 1.06,
+          "Zizou Bergs": 8.95
+        }
+      },
+      "prediction": {
+        "p1_name": "Zizou Bergs",
+        "p2_name": "Carlos Alcaraz",
+        "p1_prob": 0.0921,
+        "p2_prob": 0.9079,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": 0.0012,
+        "p2_edge": -0.0095
+      },
+      "collected_at": "2026-10-10T19:41:41.978426+00:00",
+      "result": null
+    },
+    "0d2da7aba492b5313b97e79d051d44b8": {
+      "match_id": "0d2da7aba492b5313b97e79d051d44b8",
+      "commence_time": "2026-10-12T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Learner Tien",
+      "player2": "Casper Ruud",
+      "bookmakers": {
+        "unibet_fr": {
+          "Casper Ruud": 2.0,
+          "Learner Tien": 1.61
+        },
+        "bovada": {
+          "Casper Ruud": 2.2,
+          "Learner Tien": 1.69
+        },
+        "draftkings": {
+          "Casper Ruud": 2.11,
+          "Learner Tien": 1.74
+        },
+        "betfair_ex_eu": {
+          "Casper Ruud": 2.36,
+          "Learner Tien": 1.7
+        },
+        "sport888": {
+          "Casper Ruud": 2.2,
+          "Learner Tien": 1.67
+        },
+        "williamhill": {
+          "Casper Ruud": 2.2,
+          "Learner Tien": 1.67
+        },
+        "gtbets": {
+          "Casper Ruud": 2.12,
+          "Learner Tien": 1.72
+        },
+        "fanduel": {
+          "Casper Ruud": 2.18,
+          "Learner Tien": 1.7
+        },
+        "onexbet": {
+          "Casper Ruud": 2.17,
+          "Learner Tien": 1.72
+        },
+        "betsson": {
+          "Casper Ruud": 2.17,
+          "Learner Tien": 1.7
+        },
+        "nordicbet": {
+          "Casper Ruud": 2.17,
+          "Learner Tien": 1.7
+        },
+        "winamax_fr": {
+          "Casper Ruud": 2.0,
+          "Learner Tien": 1.6
+        },
+        "winamax_de": {
+          "Casper Ruud": 2.15,
+          "Learner Tien": 1.68
+        },
+        "matchbook": {
+          "Casper Ruud": 2.28,
+          "Learner Tien": 1.69
+        },
+        "pinnacle": {
+          "Casper Ruud": 2.26,
+          "Learner Tien": 1.71
+        },
+        "betrivers": {
+          "Casper Ruud": 2.15,
+          "Learner Tien": 1.7
+        },
+        "unibet_se": {
+          "Casper Ruud": 2.15,
+          "Learner Tien": 1.7
+        },
+        "leovegas_se": {
+          "Casper Ruud": 2.15,
+          "Learner Tien": 1.7
+        },
+        "unibet_nl": {
+          "Casper Ruud": 2.15,
+          "Learner Tien": 1.7
+        },
+        "pmu_fr": {
+          "Casper Ruud": 2.05,
+          "Learner Tien": 1.63
+        },
+        "betmgm": {
+          "Casper Ruud": 2.1,
+          "Learner Tien": 1.69
+        },
+        "betonlineag": {
+          "Casper Ruud": 2.2,
+          "Learner Tien": 1.71
+        },
+        "lowvig": {
+          "Casper Ruud": 2.2,
+          "Learner Tien": 1.71
+        },
+        "betanysports": {
+          "Casper Ruud": 2.1,
+          "Learner Tien": 1.71
+        }
+      },
+      "prediction": {
+        "p1_name": "Learner Tien",
+        "p2_name": "Casper Ruud",
+        "p1_prob": 0.581,
+        "p2_prob": 0.419,
+        "predicted_winner": "Learner Tien",
+        "confidence": "medium",
+        "p1_edge": 0.0063,
+        "p2_edge": -0.0047
+      },
+      "collected_at": "2026-10-10T19:41:42.086479+00:00",
+      "result": null
+    },
+    "6573741d499f14fef47c0d04920aa8d1": {
+      "match_id": "6573741d499f14fef47c0d04920aa8d1",
+      "commence_time": "2026-10-12T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Stefanos Tsitsipas",
+      "player2": "Taylor Fritz",
+      "bookmakers": {
+        "draftkings": {
+          "Stefanos Tsitsipas": 2.44,
+          "Taylor Fritz": 1.57
+        },
+        "betfair_ex_eu": {
+          "Stefanos Tsitsipas": 2.28,
+          "Taylor Fritz": 1.62
+        },
+        "betsson": {
+          "Stefanos Tsitsipas": 2.36,
+          "Taylor Fritz": 1.6
+        },
+        "onexbet": {
+          "Stefanos Tsitsipas": 2.32,
+          "Taylor Fritz": 1.64
+        },
+        "gtbets": {
+          "Stefanos Tsitsipas": 2.38,
+          "Taylor Fritz": 1.58
+        },
+        "sport888": {
+          "Stefanos Tsitsipas": 2.3,
+          "Taylor Fritz": 1.61
+        },
+        "williamhill": {
+          "Stefanos Tsitsipas": 2.3,
+          "Taylor Fritz": 1.62
+        },
+        "fanduel": {
+          "Stefanos Tsitsipas": 2.4,
+          "Taylor Fritz": 1.59
+        },
+        "nordicbet": {
+          "Stefanos Tsitsipas": 2.36,
+          "Taylor Fritz": 1.6
+        },
+        "unibet_fr": {
+          "Stefanos Tsitsipas": 2.15,
+          "Taylor Fritz": 1.52
+        },
+        "winamax_fr": {
+          "Stefanos Tsitsipas": 2.15,
+          "Taylor Fritz": 1.52
+        },
+        "matchbook": {
+          "Stefanos Tsitsipas": 2.44,
+          "Taylor Fritz": 1.6
+        },
+        "winamax_de": {
+          "Stefanos Tsitsipas": 2.35,
+          "Taylor Fritz": 1.58
+        },
+        "pinnacle": {
+          "Stefanos Tsitsipas": 2.44,
+          "Taylor Fritz": 1.61
+        },
+        "betmgm": {
+          "Stefanos Tsitsipas": 2.35,
+          "Taylor Fritz": 1.57
+        },
+        "lowvig": {
+          "Stefanos Tsitsipas": 2.39,
+          "Taylor Fritz": 1.62
+        },
+        "betonlineag": {
+          "Stefanos Tsitsipas": 2.39,
+          "Taylor Fritz": 1.62
+        },
+        "leovegas_se": {
+          "Stefanos Tsitsipas": 2.55,
+          "Taylor Fritz": 1.5
+        },
+        "unibet_se": {
+          "Stefanos Tsitsipas": 2.55,
+          "Taylor Fritz": 1.5
+        },
+        "unibet_nl": {
+          "Stefanos Tsitsipas": 2.55,
+          "Taylor Fritz": 1.5
+        },
+        "betrivers": {
+          "Stefanos Tsitsipas": 2.55,
+          "Taylor Fritz": 1.5
+        },
+        "pmu_fr": {
+          "Stefanos Tsitsipas": 2.45,
+          "Taylor Fritz": 1.44
+        },
+        "bovada": {
+          "Stefanos Tsitsipas": 2.4,
+          "Taylor Fritz": 1.59
+        },
+        "betanysports": {
+          "Stefanos Tsitsipas": 2.35,
+          "Taylor Fritz": 1.61
+        }
+      },
+      "prediction": {
+        "p1_name": "Stefanos Tsitsipas",
+        "p2_name": "Taylor Fritz",
+        "p1_prob": 0.4032,
+        "p2_prob": 0.5968,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "medium",
+        "p1_edge": 0.011,
+        "p2_edge": -0.013
+      },
+      "collected_at": "2026-10-10T19:41:42.271162+00:00",
+      "result": null
+    },
+    "72263289b6cc7dabed8977b5bec91008": {
+      "match_id": "72263289b6cc7dabed8977b5bec91008",
+      "commence_time": "2026-10-12T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Tommy Paul",
+      "player2": "Valentin Vacherot",
+      "bookmakers": {
+        "williamhill": {
+          "Tommy Paul": 1.67,
+          "Valentin Vacherot": 2.2
+        },
+        "betfair_ex_eu": {
+          "Tommy Paul": 1.66,
+          "Valentin Vacherot": 2.3
+        },
+        "fanduel": {
+          "Tommy Paul": 1.67,
+          "Valentin Vacherot": 2.25
+        },
+        "unibet_fr": {
+          "Tommy Paul": 1.58,
+          "Valentin Vacherot": 2.05
+        },
+        "betsson": {
+          "Tommy Paul": 1.67,
+          "Valentin Vacherot": 2.22
+        },
+        "sport888": {
+          "Tommy Paul": 1.67,
+          "Valentin Vacherot": 2.2
+        },
+        "onexbet": {
+          "Tommy Paul": 1.68,
+          "Valentin Vacherot": 2.23
+        },
+        "winamax_de": {
+          "Tommy Paul": 1.66,
+          "Valentin Vacherot": 2.2
+        },
+        "nordicbet": {
+          "Tommy Paul": 1.67,
+          "Valentin Vacherot": 2.22
+        },
+        "draftkings": {
+          "Tommy Paul": 1.68,
+          "Valentin Vacherot": 2.21
+        },
+        "winamax_fr": {
+          "Tommy Paul": 1.58,
+          "Valentin Vacherot": 2.05
+        },
+        "gtbets": {
+          "Tommy Paul": 1.68,
+          "Valentin Vacherot": 2.19
+        },
+        "matchbook": {
+          "Tommy Paul": 1.68,
+          "Valentin Vacherot": 2.3
+        },
+        "pinnacle": {
+          "Tommy Paul": 1.69,
+          "Valentin Vacherot": 2.28
+        },
+        "lowvig": {
+          "Tommy Paul": 1.69,
+          "Valentin Vacherot": 2.25
+        },
+        "betonlineag": {
+          "Tommy Paul": 1.69,
+          "Valentin Vacherot": 2.25
+        },
+        "pmu_fr": {
+          "Tommy Paul": 1.6,
+          "Valentin Vacherot": 2.14
+        },
+        "unibet_nl": {
+          "Tommy Paul": 1.66,
+          "Valentin Vacherot": 2.23
+        },
+        "unibet_se": {
+          "Tommy Paul": 1.66,
+          "Valentin Vacherot": 2.23
+        },
+        "leovegas_se": {
+          "Tommy Paul": 1.66,
+          "Valentin Vacherot": 2.23
+        },
+        "betrivers": {
+          "Tommy Paul": 1.66,
+          "Valentin Vacherot": 2.23
+        },
+        "betmgm": {
+          "Tommy Paul": 1.67,
+          "Valentin Vacherot": 2.15
+        },
+        "bovada": {
+          "Tommy Paul": 1.67,
+          "Valentin Vacherot": 2.25
+        },
+        "betanysports": {
+          "Tommy Paul": 1.69,
+          "Valentin Vacherot": 2.15
+        }
+      },
+      "prediction": {
+        "p1_name": "Tommy Paul",
+        "p2_name": "Valentin Vacherot",
+        "p1_prob": 0.5132,
+        "p2_prob": 0.4868,
+        "predicted_winner": "Tommy Paul",
+        "confidence": "low",
+        "p1_edge": -0.0785,
+        "p2_edge": 0.052
+      },
+      "collected_at": "2026-10-10T19:41:42.380612+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-10T14:10:22.675788+00:00"
+  "last_updated": "2026-10-10T19:41:42.447278+00:00"
 }
