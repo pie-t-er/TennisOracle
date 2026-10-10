@@ -69722,7 +69722,11 @@
         "p2_edge": -0.0285
       },
       "collected_at": "2026-10-08T15:09:41.818277+00:00",
-      "result": null
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": true,
+        "settled_at": "2026-10-10T14:10:12.559921+00:00"
+      }
     },
     "0ba9530b1d1041cc4c380ad01c4274f7": {
       "match_id": "0ba9530b1d1041cc4c380ad01c4274f7",
@@ -69828,7 +69832,11 @@
         "p2_edge": 0.0223
       },
       "collected_at": "2026-10-08T15:09:41.972722+00:00",
-      "result": null
+      "result": {
+        "winner": "Pablo Carreno Busta",
+        "correct": false,
+        "settled_at": "2026-10-10T14:10:12.301121+00:00"
+      }
     },
     "e0c5ded7e6d646cff787232a176cf72a": {
       "match_id": "e0c5ded7e6d646cff787232a176cf72a",
@@ -69930,7 +69938,11 @@
         "p2_edge": -0.0266
       },
       "collected_at": "2026-10-08T15:09:42.079325+00:00",
-      "result": null
+      "result": {
+        "winner": "Botic van de Zandschulp",
+        "correct": false,
+        "settled_at": "2026-10-10T14:10:12.611193+00:00"
+      }
     },
     "055b1621c396157741db4c035bdfbf97": {
       "match_id": "055b1621c396157741db4c035bdfbf97",
@@ -70040,7 +70052,11 @@
         "p2_edge": 0.0825
       },
       "collected_at": "2026-10-08T15:09:42.186267+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fils",
+        "correct": true,
+        "settled_at": "2026-10-10T14:10:12.350874+00:00"
+      }
     },
     "ab66ba3701bc01f34a870505b2ed3664": {
       "match_id": "ab66ba3701bc01f34a870505b2ed3664",
@@ -70142,7 +70158,11 @@
         "p2_edge": -0.1203
       },
       "collected_at": "2026-10-08T15:09:42.292846+00:00",
-      "result": null
+      "result": {
+        "winner": "Felix Auger-Aliassime",
+        "correct": true,
+        "settled_at": "2026-10-10T14:10:12.089333+00:00"
+      }
     },
     "14d23eb588c1738ee5f06755abbca7d6": {
       "match_id": "14d23eb588c1738ee5f06755abbca7d6",
@@ -70236,7 +70256,11 @@
         "p2_edge": -0.0191
       },
       "collected_at": "2026-10-08T15:09:42.398949+00:00",
-      "result": null
+      "result": {
+        "winner": "Carlos Alcaraz",
+        "correct": true,
+        "settled_at": "2026-10-10T14:10:12.509846+00:00"
+      }
     },
     "53f263949a01c4a81c3836741dc47fcb": {
       "match_id": "53f263949a01c4a81c3836741dc47fcb",
@@ -70436,7 +70460,11 @@
         "p2_edge": -0.1858
       },
       "collected_at": "2026-10-08T15:09:42.611395+00:00",
-      "result": null
+      "result": {
+        "winner": "Zizou Bergs",
+        "correct": false,
+        "settled_at": "2026-10-10T14:10:12.674350+00:00"
+      }
     },
     "0a4906a9969f8d393827e3f7139c07b3": {
       "match_id": "0a4906a9969f8d393827e3f7139c07b3",
@@ -70546,7 +70574,11 @@
         "p2_edge": 0.0494
       },
       "collected_at": "2026-10-08T15:09:42.717886+00:00",
-      "result": null
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": true,
+        "settled_at": "2026-10-10T14:10:12.143132+00:00"
+      }
     },
     "4d08f2ba5bba7246b62dd126b7d80b12": {
       "match_id": "4d08f2ba5bba7246b62dd126b7d80b12",
@@ -70648,7 +70680,11 @@
         "p2_edge": -0.0428
       },
       "collected_at": "2026-10-08T15:09:42.824005+00:00",
-      "result": null
+      "result": {
+        "winner": "Learner Tien",
+        "correct": true,
+        "settled_at": "2026-10-10T14:10:12.401274+00:00"
+      }
     },
     "83a3dfc3ecec15d3a3b663da0aefae6c": {
       "match_id": "83a3dfc3ecec15d3a3b663da0aefae6c",
@@ -70758,7 +70794,11 @@
         "p2_edge": -0.1164
       },
       "collected_at": "2026-10-08T15:09:42.930608+00:00",
-      "result": null
+      "result": {
+        "winner": "Stefanos Tsitsipas",
+        "correct": true,
+        "settled_at": "2026-10-10T14:10:12.451378+00:00"
+      }
     },
     "26d5d67b3a435622bd6308bcdbe7b10e": {
       "match_id": "26d5d67b3a435622bd6308bcdbe7b10e",
@@ -70860,7 +70900,11 @@
         "p2_edge": -0.0903
       },
       "collected_at": "2026-10-08T15:09:43.036016+00:00",
-      "result": null
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-10-10T14:10:12.249108+00:00"
+      }
     },
     "065609858b049e7674a0b4ed0a6be527": {
       "match_id": "065609858b049e7674a0b4ed0a6be527",
@@ -70962,7 +71006,11 @@
         "p2_edge": -0.0612
       },
       "collected_at": "2026-10-08T15:09:43.142870+00:00",
-      "result": null
+      "result": {
+        "winner": "Rafael Jodar",
+        "correct": true,
+        "settled_at": "2026-10-10T14:10:12.035667+00:00"
+      }
     },
     "e6e26f542ae70879e6846cf1721d2f08": {
       "match_id": "e6e26f542ae70879e6846cf1721d2f08",
@@ -71179,7 +71227,11 @@
         "p2_edge": 0.0689
       },
       "collected_at": "2026-10-08T20:59:44.191254+00:00",
-      "result": null
+      "result": {
+        "winner": "Dalibor Svrcina",
+        "correct": false,
+        "settled_at": "2026-10-10T14:10:12.194650+00:00"
+      }
     },
     "52d52225f4c13f3a96b8bff7a3a53de9": {
       "match_id": "52d52225f4c13f3a96b8bff7a3a53de9",
@@ -71901,7 +71953,262 @@
         "correct": true,
         "settled_at": "2026-10-09T14:55:19.665360+00:00"
       }
+    },
+    "8483a75a7f587d46746552be094d5212": {
+      "match_id": "8483a75a7f587d46746552be094d5212",
+      "commence_time": "2026-10-12T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Daniil Medvedev",
+      "player2": "Dalibor Svrcina",
+      "bookmakers": {
+        "nordicbet": {
+          "Dalibor Svrcina": 6.6,
+          "Daniil Medvedev": 1.11
+        },
+        "betsson": {
+          "Dalibor Svrcina": 6.6,
+          "Daniil Medvedev": 1.11
+        },
+        "draftkings": {
+          "Dalibor Svrcina": 6.71,
+          "Daniil Medvedev": 1.11
+        },
+        "sport888": {
+          "Dalibor Svrcina": 6.0,
+          "Daniil Medvedev": 1.12
+        },
+        "williamhill": {
+          "Dalibor Svrcina": 6.0,
+          "Daniil Medvedev": 1.12
+        },
+        "gtbets": {
+          "Dalibor Svrcina": 6.62,
+          "Daniil Medvedev": 1.11
+        },
+        "onexbet": {
+          "Dalibor Svrcina": 7.01,
+          "Daniil Medvedev": 1.11
+        },
+        "unibet_fr": {
+          "Dalibor Svrcina": 5.1,
+          "Daniil Medvedev": 1.08
+        },
+        "winamax_de": {
+          "Dalibor Svrcina": 6.5,
+          "Daniil Medvedev": 1.11
+        },
+        "winamax_fr": {
+          "Dalibor Svrcina": 5.2,
+          "Daniil Medvedev": 1.08
+        },
+        "fanduel": {
+          "Dalibor Svrcina": 7.1,
+          "Daniil Medvedev": 1.11
+        },
+        "betfair_ex_eu": {
+          "Dalibor Svrcina": 5.7,
+          "Daniil Medvedev": 1.12
+        },
+        "tipico_de": {
+          "Dalibor Svrcina": 6.0,
+          "Daniil Medvedev": 1.1
+        },
+        "betmgm": {
+          "Dalibor Svrcina": 6.25,
+          "Daniil Medvedev": 1.11
+        }
+      },
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Dalibor Svrcina",
+        "p1_prob": 0.8426,
+        "p2_prob": 0.1574,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": -0.0503,
+        "p2_edge": 0.0166
+      },
+      "collected_at": "2026-10-10T14:10:18.025236+00:00",
+      "result": null
+    },
+    "28e1e0d7171fb5be199378dd653cbbc2": {
+      "match_id": "28e1e0d7171fb5be199378dd653cbbc2",
+      "commence_time": "2026-10-12T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Pablo Carreno Busta",
+      "player2": "Felix Auger-Aliassime",
+      "bookmakers": {
+        "draftkings": {
+          "Felix Auger-Aliassime": 1.29,
+          "Pablo Carreno Busta": 3.67
+        },
+        "betfair_ex_eu": {
+          "Felix Auger-Aliassime": 1.26,
+          "Pablo Carreno Busta": 3.0
+        },
+        "gtbets": {
+          "Felix Auger-Aliassime": 1.28,
+          "Pablo Carreno Busta": 3.62
+        },
+        "onexbet": {
+          "Felix Auger-Aliassime": 1.35,
+          "Pablo Carreno Busta": 3.33
+        },
+        "fanduel": {
+          "Felix Auger-Aliassime": 1.36,
+          "Pablo Carreno Busta": 3.2
+        },
+        "williamhill": {
+          "Felix Auger-Aliassime": 1.25,
+          "Pablo Carreno Busta": 4.0
+        },
+        "sport888": {
+          "Felix Auger-Aliassime": 1.25,
+          "Pablo Carreno Busta": 4.0
+        },
+        "betsson": {
+          "Felix Auger-Aliassime": 1.37,
+          "Pablo Carreno Busta": 3.1
+        },
+        "unibet_fr": {
+          "Felix Auger-Aliassime": 1.31,
+          "Pablo Carreno Busta": 2.8
+        },
+        "nordicbet": {
+          "Felix Auger-Aliassime": 1.37,
+          "Pablo Carreno Busta": 3.1
+        },
+        "matchbook": {
+          "Felix Auger-Aliassime": 1.25,
+          "Pablo Carreno Busta": 2.88
+        },
+        "winamax_de": {
+          "Felix Auger-Aliassime": 1.34,
+          "Pablo Carreno Busta": 3.25
+        },
+        "winamax_fr": {
+          "Felix Auger-Aliassime": 1.29,
+          "Pablo Carreno Busta": 2.95
+        },
+        "tipico_de": {
+          "Felix Auger-Aliassime": 1.35,
+          "Pablo Carreno Busta": 2.9
+        },
+        "betmgm": {
+          "Felix Auger-Aliassime": 1.29,
+          "Pablo Carreno Busta": 3.6
+        }
+      },
+      "prediction": {
+        "p1_name": "Pablo Carreno Busta",
+        "p2_name": "Felix Auger-Aliassime",
+        "p1_prob": 0.2263,
+        "p2_prob": 0.7737,
+        "predicted_winner": "Felix Auger-Aliassime",
+        "confidence": "high",
+        "p1_edge": -0.0237,
+        "p2_edge": 0.0438
+      },
+      "collected_at": "2026-10-10T14:10:18.084842+00:00",
+      "result": null
+    },
+    "81fb9432657c7d0ee07960efc59890f2": {
+      "match_id": "81fb9432657c7d0ee07960efc59890f2",
+      "commence_time": "2026-10-12T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Jiri Lehecka",
+      "player2": "Rafael Jodar",
+      "bookmakers": {
+        "unibet_fr": {
+          "Jiri Lehecka": 1.78,
+          "Rafael Jodar": 1.8
+        },
+        "gtbets": {
+          "Jiri Lehecka": 1.9,
+          "Rafael Jodar": 1.91
+        },
+        "draftkings": {
+          "Jiri Lehecka": 1.95,
+          "Rafael Jodar": 1.86
+        },
+        "betfair_ex_eu": {
+          "Jiri Lehecka": 1.86,
+          "Rafael Jodar": 2.14
+        },
+        "betsson": {
+          "Jiri Lehecka": 1.89,
+          "Rafael Jodar": 1.92
+        },
+        "nordicbet": {
+          "Jiri Lehecka": 1.89,
+          "Rafael Jodar": 1.92
+        },
+        "onexbet": {
+          "Jiri Lehecka": 1.9,
+          "Rafael Jodar": 1.95
+        },
+        "fanduel": {
+          "Jiri Lehecka": 1.85,
+          "Rafael Jodar": 1.98
+        },
+        "winamax_fr": {
+          "Jiri Lehecka": 1.78,
+          "Rafael Jodar": 1.8
+        },
+        "winamax_de": {
+          "Jiri Lehecka": 1.88,
+          "Rafael Jodar": 1.9
+        },
+        "tipico_de": {
+          "Jiri Lehecka": 1.85,
+          "Rafael Jodar": 1.85
+        },
+        "betmgm": {
+          "Jiri Lehecka": 1.85,
+          "Rafael Jodar": 1.91
+        }
+      },
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Rafael Jodar",
+        "p1_prob": 0.4052,
+        "p2_prob": 0.5948,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "medium",
+        "p1_edge": -0.1076,
+        "p2_edge": 0.1275
+      },
+      "collected_at": "2026-10-10T14:10:18.144015+00:00",
+      "result": null
+    },
+    "tml-2026-5014-55": {
+      "match_id": "tml-2026-5014-55",
+      "commence_time": "2026-10-10T00:00:00+00:00",
+      "tournament": "Shanghai",
+      "surface": "Hard",
+      "player1": "Casper Ruud",
+      "player2": "Yunchaokete Bu",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Casper Ruud",
+        "p2_name": "Yunchaokete Bu",
+        "p1_prob": 0.7192,
+        "p2_prob": 0.2808,
+        "predicted_winner": "Casper Ruud",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-10T14:10:22.665581+00:00",
+      "result": {
+        "winner": "Casper Ruud",
+        "correct": true,
+        "settled_at": "2026-10-10T14:10:22.665581+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-10T04:02:11.000659+00:00"
+  "last_updated": "2026-10-10T14:10:22.675788+00:00"
 }
