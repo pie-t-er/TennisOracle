@@ -71317,7 +71317,11 @@
         "p2_edge": 0.0712
       },
       "collected_at": "2026-10-09T14:55:11.270074+00:00",
-      "result": null
+      "result": {
+        "winner": "Karen Khachanov",
+        "correct": true,
+        "settled_at": "2026-10-11T14:35:09.697035+00:00"
+      }
     },
     "bd69690bbcda67d0a8bcaa6f591baa47": {
       "match_id": "bd69690bbcda67d0a8bcaa6f591baa47",
@@ -71525,7 +71529,11 @@
         "p2_edge": 0.0113
       },
       "collected_at": "2026-10-09T14:55:11.528504+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex de Minaur",
+        "correct": true,
+        "settled_at": "2026-10-11T14:35:09.793957+00:00"
+      }
     },
     "97b9d913872cac78c1809329d557d089": {
       "match_id": "97b9d913872cac78c1809329d557d089",
@@ -71595,7 +71603,11 @@
         "p2_edge": -0.0124
       },
       "collected_at": "2026-10-09T14:55:11.635883+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Bublik",
+        "correct": false,
+        "settled_at": "2026-10-11T14:35:10.178235+00:00"
+      }
     },
     "e6003c91bfcfdd647a80a0852a7460c8": {
       "match_id": "e6003c91bfcfdd647a80a0852a7460c8",
@@ -71693,7 +71705,11 @@
         "p2_edge": -0.0279
       },
       "collected_at": "2026-10-09T14:55:11.743401+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-10-11T14:35:10.082397+00:00"
+      }
     },
     "e9d3e24e28821a6cf2331d48f2a9ccaf": {
       "match_id": "e9d3e24e28821a6cf2331d48f2a9ccaf",
@@ -71799,7 +71815,11 @@
         "p2_edge": 0.0007
       },
       "collected_at": "2026-10-09T14:55:11.852393+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Gea",
+        "correct": false,
+        "settled_at": "2026-10-11T14:35:09.599003+00:00"
+      }
     },
     "83fc3ac10a670054d814b0753ad75430": {
       "match_id": "83fc3ac10a670054d814b0753ad75430",
@@ -71881,7 +71901,11 @@
         "p2_edge": 0.0066
       },
       "collected_at": "2026-10-09T14:55:11.961309+00:00",
-      "result": null
+      "result": {
+        "winner": "Jakub Mensik",
+        "correct": true,
+        "settled_at": "2026-10-11T14:35:09.986387+00:00"
+      }
     },
     "7af1a6a9a980efbcc4cfa5a9ffed7fda": {
       "match_id": "7af1a6a9a980efbcc4cfa5a9ffed7fda",
@@ -71931,7 +71955,11 @@
         "p2_edge": 0.1085
       },
       "collected_at": "2026-10-09T14:55:12.068252+00:00",
-      "result": null
+      "result": {
+        "winner": "Hubert Hurkacz",
+        "correct": true,
+        "settled_at": "2026-10-11T14:35:09.889820+00:00"
+      }
     },
     "tml-2026-5014-39": {
       "match_id": "tml-2026-5014-39",
@@ -72798,7 +72826,191 @@
       },
       "collected_at": "2026-10-10T19:41:42.380612+00:00",
       "result": null
+    },
+    "caf387c8fabf2e7526a93321c6ebfb2d": {
+      "match_id": "caf387c8fabf2e7526a93321c6ebfb2d",
+      "commence_time": "2026-10-13T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Alex de Minaur",
+      "player2": "Karen Khachanov",
+      "bookmakers": {
+        "williamhill": {
+          "Alex de Minaur": 1.67,
+          "Karen Khachanov": 2.2
+        },
+        "unibet_fr": {
+          "Alex de Minaur": 1.58,
+          "Karen Khachanov": 2.05
+        },
+        "betfair_ex_eu": {
+          "Alex de Minaur": 1.7,
+          "Karen Khachanov": 2.16
+        },
+        "draftkings": {
+          "Alex de Minaur": 1.69,
+          "Karen Khachanov": 2.19
+        },
+        "sport888": {
+          "Alex de Minaur": 1.67,
+          "Karen Khachanov": 2.2
+        },
+        "onexbet": {
+          "Alex de Minaur": 1.67,
+          "Karen Khachanov": 2.25
+        },
+        "gtbets": {
+          "Alex de Minaur": 1.68,
+          "Karen Khachanov": 2.2
+        },
+        "fanduel": {
+          "Alex de Minaur": 1.67,
+          "Karen Khachanov": 2.25
+        },
+        "marathonbet": {
+          "Alex de Minaur": 1.65,
+          "Karen Khachanov": 2.22
+        },
+        "tipico_de": {
+          "Alex de Minaur": 1.62,
+          "Karen Khachanov": 2.15
+        },
+        "winamax_fr": {
+          "Alex de Minaur": 1.58,
+          "Karen Khachanov": 2.05
+        },
+        "winamax_de": {
+          "Alex de Minaur": 1.66,
+          "Karen Khachanov": 2.2
+        },
+        "betsson": {
+          "Alex de Minaur": 1.67,
+          "Karen Khachanov": 2.21
+        },
+        "nordicbet": {
+          "Alex de Minaur": 1.67,
+          "Karen Khachanov": 2.21
+        },
+        "betmgm": {
+          "Alex de Minaur": 1.67,
+          "Karen Khachanov": 2.18
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex De Minaur",
+        "p2_name": "Karen Khachanov",
+        "p1_prob": 0.7096,
+        "p2_prob": 0.2904,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": 0.1214,
+        "p2_edge": -0.154
+      },
+      "collected_at": "2026-10-11T14:35:18.338777+00:00",
+      "result": null
+    },
+    "f40a4027ec6234e8e3a47359c9444700": {
+      "match_id": "f40a4027ec6234e8e3a47359c9444700",
+      "commence_time": "2026-10-13T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Arthur Gea",
+      "player2": "Jakub Mensik",
+      "bookmakers": {
+        "winamax_de": {
+          "Arthur Gea": 2.55,
+          "Jakub Mensik": 1.5
+        },
+        "winamax_fr": {
+          "Arthur Gea": 2.35,
+          "Jakub Mensik": 1.44
+        },
+        "marathonbet": {
+          "Arthur Gea": 2.6,
+          "Jakub Mensik": 1.49
+        },
+        "unibet_fr": {
+          "Arthur Gea": 2.35,
+          "Jakub Mensik": 1.44
+        },
+        "nordicbet": {
+          "Arthur Gea": 2.6,
+          "Jakub Mensik": 1.51
+        },
+        "onexbet": {
+          "Arthur Gea": 2.63,
+          "Jakub Mensik": 1.51
+        },
+        "betsson": {
+          "Arthur Gea": 2.6,
+          "Jakub Mensik": 1.51
+        },
+        "betmgm": {
+          "Arthur Gea": 2.6,
+          "Jakub Mensik": 1.48
+        },
+        "leovegas_se": {
+          "Arthur Gea": 2.55,
+          "Jakub Mensik": 1.5
+        },
+        "pmu_fr": {
+          "Arthur Gea": 2.45,
+          "Jakub Mensik": 1.44
+        },
+        "unibet_nl": {
+          "Arthur Gea": 2.55,
+          "Jakub Mensik": 1.5
+        },
+        "betrivers": {
+          "Arthur Gea": 2.55,
+          "Jakub Mensik": 1.5
+        },
+        "unibet_se": {
+          "Arthur Gea": 2.55,
+          "Jakub Mensik": 1.5
+        },
+        "tipico_de": {
+          "Arthur Gea": 2.55,
+          "Jakub Mensik": 1.45
+        },
+        "gtbets": {
+          "Arthur Gea": 2.57,
+          "Jakub Mensik": 1.51
+        },
+        "fanduel": {
+          "Arthur Gea": 2.62,
+          "Jakub Mensik": 1.51
+        },
+        "betfair_ex_eu": {
+          "Arthur Gea": 2.32,
+          "Jakub Mensik": 1.57
+        },
+        "draftkings": {
+          "Arthur Gea": 2.72,
+          "Jakub Mensik": 1.47
+        },
+        "sport888": {
+          "Arthur Gea": 2.5,
+          "Jakub Mensik": 1.53
+        },
+        "williamhill": {
+          "Arthur Gea": 2.5,
+          "Jakub Mensik": 1.53
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Gea",
+        "p2_name": "Jakub Mensik",
+        "p1_prob": 0.3333,
+        "p2_prob": 0.6667,
+        "predicted_winner": "Jakub Mensik",
+        "confidence": "high",
+        "p1_edge": -0.0343,
+        "p2_edge": 0.0298
+      },
+      "collected_at": "2026-10-11T14:35:18.447198+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-10T19:41:42.447278+00:00"
+  "last_updated": "2026-10-11T14:35:18.463969+00:00"
 }
