@@ -71427,7 +71427,11 @@
         "p2_edge": 0.0093
       },
       "collected_at": "2026-10-09T14:55:11.420632+00:00",
-      "result": null
+      "result": {
+        "winner": "Alejandro Davidovich Fokina",
+        "correct": false,
+        "settled_at": "2026-10-11T19:53:33.896492+00:00"
+      }
     },
     "ed0f82f195d0edeb15e0672bf51496a0": {
       "match_id": "ed0f82f195d0edeb15e0672bf51496a0",
@@ -73010,7 +73014,239 @@
       },
       "collected_at": "2026-10-11T14:35:18.447198+00:00",
       "result": null
+    },
+    "9115ec9d559da806d8a0829db60d9a51": {
+      "match_id": "9115ec9d559da806d8a0829db60d9a51",
+      "commence_time": "2026-10-13T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Hubert Hurkacz",
+      "player2": "Alejandro Davidovich Fokina",
+      "bookmakers": {
+        "draftkings": {
+          "Alejandro Davidovich Fokina": 1.97,
+          "Hubert Hurkacz": 1.85
+        },
+        "unibet_fr": {
+          "Alejandro Davidovich Fokina": 1.81,
+          "Hubert Hurkacz": 1.76
+        },
+        "betsson": {
+          "Alejandro Davidovich Fokina": 1.93,
+          "Hubert Hurkacz": 1.88
+        },
+        "marathonbet": {
+          "Alejandro Davidovich Fokina": 1.93,
+          "Hubert Hurkacz": 1.86
+        },
+        "onexbet": {
+          "Alejandro Davidovich Fokina": 1.96,
+          "Hubert Hurkacz": 1.89
+        },
+        "nordicbet": {
+          "Alejandro Davidovich Fokina": 1.93,
+          "Hubert Hurkacz": 1.88
+        },
+        "winamax_de": {
+          "Alejandro Davidovich Fokina": 1.92,
+          "Hubert Hurkacz": 1.88
+        },
+        "winamax_fr": {
+          "Alejandro Davidovich Fokina": 1.82,
+          "Hubert Hurkacz": 1.78
+        },
+        "fanduel": {
+          "Alejandro Davidovich Fokina": 1.95,
+          "Hubert Hurkacz": 1.88
+        },
+        "betfair_ex_eu": {
+          "Alejandro Davidovich Fokina": 2.06,
+          "Hubert Hurkacz": 1.75
+        },
+        "gtbets": {
+          "Alejandro Davidovich Fokina": 1.9,
+          "Hubert Hurkacz": 1.9
+        },
+        "leovegas_se": {
+          "Alejandro Davidovich Fokina": 1.92,
+          "Hubert Hurkacz": 1.88
+        },
+        "unibet_nl": {
+          "Alejandro Davidovich Fokina": 1.92,
+          "Hubert Hurkacz": 1.88
+        },
+        "unibet_se": {
+          "Alejandro Davidovich Fokina": 1.92,
+          "Hubert Hurkacz": 1.88
+        },
+        "betrivers": {
+          "Alejandro Davidovich Fokina": 1.92,
+          "Hubert Hurkacz": 1.88
+        },
+        "pmu_fr": {
+          "Alejandro Davidovich Fokina": 1.85,
+          "Hubert Hurkacz": 1.8
+        },
+        "sport888": {
+          "Alejandro Davidovich Fokina": 1.95,
+          "Hubert Hurkacz": 1.85
+        },
+        "williamhill": {
+          "Alejandro Davidovich Fokina": 1.95,
+          "Hubert Hurkacz": 1.85
+        },
+        "lowvig": {
+          "Alejandro Davidovich Fokina": 1.93,
+          "Hubert Hurkacz": 1.88
+        },
+        "betonlineag": {
+          "Alejandro Davidovich Fokina": 1.93,
+          "Hubert Hurkacz": 1.88
+        },
+        "pinnacle": {
+          "Alejandro Davidovich Fokina": 2.03,
+          "Hubert Hurkacz": 1.87
+        },
+        "tipico_de": {
+          "Alejandro Davidovich Fokina": 1.9,
+          "Hubert Hurkacz": 1.8
+        },
+        "betmgm": {
+          "Alejandro Davidovich Fokina": 1.95,
+          "Hubert Hurkacz": 1.83
+        }
+      },
+      "prediction": {
+        "p1_name": "Hubert Hurkacz",
+        "p2_name": "Alejandro Davidovich Fokina",
+        "p1_prob": 0.4671,
+        "p2_prob": 0.5329,
+        "predicted_winner": "Alejandro Davidovich Fokina",
+        "confidence": "low",
+        "p1_edge": -0.0592,
+        "p2_edge": 0.0475
+      },
+      "collected_at": "2026-10-11T19:53:48.521969+00:00",
+      "result": null
+    },
+    "ac951eec8a949a45f8e37eb5cd117ac1": {
+      "match_id": "ac951eec8a949a45f8e37eb5cd117ac1",
+      "commence_time": "2026-10-13T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Alexander Bublik",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Alexander Bublik": 3.6,
+          "Alexander Zverev": 1.33
+        },
+        "gtbets": {
+          "Alexander Bublik": 3.5,
+          "Alexander Zverev": 1.31
+        },
+        "unibet_fr": {
+          "Alexander Bublik": 3.05,
+          "Alexander Zverev": 1.26
+        },
+        "draftkings": {
+          "Alexander Bublik": 3.6,
+          "Alexander Zverev": 1.3
+        },
+        "fanduel": {
+          "Alexander Bublik": 3.6,
+          "Alexander Zverev": 1.3
+        },
+        "onexbet": {
+          "Alexander Bublik": 3.46,
+          "Alexander Zverev": 1.33
+        },
+        "nordicbet": {
+          "Alexander Bublik": 3.45,
+          "Alexander Zverev": 1.31
+        },
+        "betsson": {
+          "Alexander Bublik": 3.45,
+          "Alexander Zverev": 1.31
+        },
+        "winamax_fr": {
+          "Alexander Bublik": 3.1,
+          "Alexander Zverev": 1.26
+        },
+        "winamax_de": {
+          "Alexander Bublik": 3.45,
+          "Alexander Zverev": 1.31
+        },
+        "betmgm": {
+          "Alexander Bublik": 3.4,
+          "Alexander Zverev": 1.31
+        },
+        "tipico_de": {
+          "Alexander Bublik": 3.4,
+          "Alexander Zverev": 1.27
+        },
+        "bovada": {
+          "Alexander Bublik": 3.4,
+          "Alexander Zverev": 1.33
+        },
+        "pinnacle": {
+          "Alexander Bublik": 3.73,
+          "Alexander Zverev": 1.31
+        },
+        "unibet_se": {
+          "Alexander Bublik": 3.5,
+          "Alexander Zverev": 1.3
+        },
+        "pmu_fr": {
+          "Alexander Bublik": 3.3,
+          "Alexander Zverev": 1.26
+        },
+        "leovegas_se": {
+          "Alexander Bublik": 3.5,
+          "Alexander Zverev": 1.3
+        },
+        "betrivers": {
+          "Alexander Bublik": 3.5,
+          "Alexander Zverev": 1.3
+        },
+        "unibet_nl": {
+          "Alexander Bublik": 3.5,
+          "Alexander Zverev": 1.3
+        },
+        "lowvig": {
+          "Alexander Bublik": 3.7,
+          "Alexander Zverev": 1.3
+        },
+        "betonlineag": {
+          "Alexander Bublik": 3.7,
+          "Alexander Zverev": 1.3
+        },
+        "marathonbet": {
+          "Alexander Bublik": 3.42,
+          "Alexander Zverev": 1.31
+        },
+        "williamhill": {
+          "Alexander Bublik": 3.6,
+          "Alexander Zverev": 1.29
+        },
+        "sport888": {
+          "Alexander Bublik": 3.6,
+          "Alexander Zverev": 1.29
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Alexander Bublik",
+        "p1_prob": 0.6896,
+        "p2_prob": 0.3104,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": -0.0623,
+        "p2_edge": 0.0423
+      },
+      "collected_at": "2026-10-11T19:53:48.656701+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-11T14:35:18.463969+00:00"
+  "last_updated": "2026-10-11T19:53:48.674576+00:00"
 }
