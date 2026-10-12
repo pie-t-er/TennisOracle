@@ -72066,7 +72066,11 @@
         "p2_edge": 0.0166
       },
       "collected_at": "2026-10-10T14:10:18.025236+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-10-12T17:17:13.420990+00:00"
+      }
     },
     "28e1e0d7171fb5be199378dd653cbbc2": {
       "match_id": "28e1e0d7171fb5be199378dd653cbbc2",
@@ -72148,7 +72152,11 @@
         "p2_edge": 0.0438
       },
       "collected_at": "2026-10-10T14:10:18.084842+00:00",
-      "result": null
+      "result": {
+        "winner": "Felix Auger-Aliassime",
+        "correct": true,
+        "settled_at": "2026-10-12T17:17:13.181643+00:00"
+      }
     },
     "81fb9432657c7d0ee07960efc59890f2": {
       "match_id": "81fb9432657c7d0ee07960efc59890f2",
@@ -72218,7 +72226,11 @@
         "p2_edge": 0.1275
       },
       "collected_at": "2026-10-10T14:10:18.144015+00:00",
-      "result": null
+      "result": {
+        "winner": "Rafael Jodar",
+        "correct": true,
+        "settled_at": "2026-10-12T17:17:13.234039+00:00"
+      }
     },
     "tml-2026-5014-55": {
       "match_id": "tml-2026-5014-55",
@@ -72357,7 +72369,11 @@
         "p2_edge": 0.0696
       },
       "collected_at": "2026-10-10T19:41:41.870053+00:00",
-      "result": null
+      "result": {
+        "winner": "Botic van de Zandschulp",
+        "correct": false,
+        "settled_at": "2026-10-12T17:17:13.603128+00:00"
+      }
     },
     "d84e5aa0d73e83aa621d6572011053e2": {
       "match_id": "d84e5aa0d73e83aa621d6572011053e2",
@@ -72475,7 +72491,11 @@
         "p2_edge": -0.0095
       },
       "collected_at": "2026-10-10T19:41:41.978426+00:00",
-      "result": null
+      "result": {
+        "winner": "Zizou Bergs",
+        "correct": false,
+        "settled_at": "2026-10-12T17:17:13.529514+00:00"
+      }
     },
     "0d2da7aba492b5313b97e79d051d44b8": {
       "match_id": "0d2da7aba492b5313b97e79d051d44b8",
@@ -72593,7 +72613,11 @@
         "p2_edge": -0.0047
       },
       "collected_at": "2026-10-10T19:41:42.086479+00:00",
-      "result": null
+      "result": {
+        "winner": "Casper Ruud",
+        "correct": false,
+        "settled_at": "2026-10-12T17:17:13.127945+00:00"
+      }
     },
     "6573741d499f14fef47c0d04920aa8d1": {
       "match_id": "6573741d499f14fef47c0d04920aa8d1",
@@ -72711,7 +72735,11 @@
         "p2_edge": -0.013
       },
       "collected_at": "2026-10-10T19:41:42.271162+00:00",
-      "result": null
+      "result": {
+        "winner": "Stefanos Tsitsipas",
+        "correct": false,
+        "settled_at": "2026-10-12T17:17:13.285168+00:00"
+      }
     },
     "72263289b6cc7dabed8977b5bec91008": {
       "match_id": "72263289b6cc7dabed8977b5bec91008",
@@ -72829,7 +72857,11 @@
         "p2_edge": 0.052
       },
       "collected_at": "2026-10-10T19:41:42.380612+00:00",
-      "result": null
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": true,
+        "settled_at": "2026-10-12T17:17:13.658446+00:00"
+      }
     },
     "caf387c8fabf2e7526a93321c6ebfb2d": {
       "match_id": "caf387c8fabf2e7526a93321c6ebfb2d",
@@ -73246,7 +73278,451 @@
       },
       "collected_at": "2026-10-11T19:53:48.656701+00:00",
       "result": null
+    },
+    "77cd15bc0cd98c5294c57d566ed289c9": {
+      "match_id": "77cd15bc0cd98c5294c57d566ed289c9",
+      "commence_time": "2026-10-14T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Botic van de Zandschulp",
+      "player2": "Rafael Jodar",
+      "bookmakers": {
+        "winamax_de": {
+          "Botic van de Zandschulp": 2.65,
+          "Rafael Jodar": 1.48
+        },
+        "betfair_ex_eu": {
+          "Botic van de Zandschulp": 2.66,
+          "Rafael Jodar": 1.57
+        },
+        "betsson": {
+          "Botic van de Zandschulp": 2.65,
+          "Rafael Jodar": 1.48
+        },
+        "marathonbet": {
+          "Botic van de Zandschulp": 2.8,
+          "Rafael Jodar": 1.43
+        },
+        "unibet_fr": {
+          "Botic van de Zandschulp": 2.45,
+          "Rafael Jodar": 1.41
+        },
+        "winamax_fr": {
+          "Botic van de Zandschulp": 2.45,
+          "Rafael Jodar": 1.42
+        },
+        "nordicbet": {
+          "Botic van de Zandschulp": 2.65,
+          "Rafael Jodar": 1.48
+        },
+        "pmu_fr": {
+          "Botic van de Zandschulp": 2.48,
+          "Rafael Jodar": 1.43
+        },
+        "betrivers": {
+          "Botic van de Zandschulp": 2.6,
+          "Rafael Jodar": 1.5
+        },
+        "leovegas_se": {
+          "Botic van de Zandschulp": 2.6,
+          "Rafael Jodar": 1.5
+        },
+        "unibet_se": {
+          "Botic van de Zandschulp": 2.6,
+          "Rafael Jodar": 1.5
+        },
+        "unibet_nl": {
+          "Botic van de Zandschulp": 2.6,
+          "Rafael Jodar": 1.5
+        },
+        "fanduel": {
+          "Botic van de Zandschulp": 2.76,
+          "Rafael Jodar": 1.47
+        },
+        "gtbets": {
+          "Botic van de Zandschulp": 2.61,
+          "Rafael Jodar": 1.5
+        },
+        "betmgm": {
+          "Botic van de Zandschulp": 2.54,
+          "Rafael Jodar": 1.5
+        },
+        "onexbet": {
+          "Botic van de Zandschulp": 2.84,
+          "Rafael Jodar": 1.45
+        },
+        "draftkings": {
+          "Botic van de Zandschulp": 2.57,
+          "Rafael Jodar": 1.52
+        },
+        "tipico_de": {
+          "Botic van de Zandschulp": 2.65,
+          "Rafael Jodar": 1.42
+        },
+        "matchbook": {
+          "Botic van de Zandschulp": 2.62,
+          "Rafael Jodar": 1.54
+        },
+        "sport888": {
+          "Botic van de Zandschulp": 2.5,
+          "Rafael Jodar": 1.53
+        },
+        "williamhill": {
+          "Botic van de Zandschulp": 2.5,
+          "Rafael Jodar": 1.53
+        },
+        "bovada": {
+          "Botic van de Zandschulp": 2.65,
+          "Rafael Jodar": 1.5
+        },
+        "pinnacle": {
+          "Botic van de Zandschulp": 2.61,
+          "Rafael Jodar": 1.55
+        }
+      },
+      "prediction": {
+        "p1_name": "Botic Van De Zandschulp",
+        "p2_name": "Rafael Jodar",
+        "p1_prob": 0.3307,
+        "p2_prob": 0.6693,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "high",
+        "p1_edge": -0.0214,
+        "p2_edge": 0.0324
+      },
+      "collected_at": "2026-10-12T17:17:19.579152+00:00",
+      "result": null
+    },
+    "a0fe8d4e228f3926bcb57dc37b2b23ac": {
+      "match_id": "a0fe8d4e228f3926bcb57dc37b2b23ac",
+      "commence_time": "2026-10-14T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Casper Ruud",
+      "player2": "Felix Auger-Aliassime",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Casper Ruud": 2.22,
+          "Felix Auger-Aliassime": 1.75
+        },
+        "betsson": {
+          "Casper Ruud": 2.22,
+          "Felix Auger-Aliassime": 1.67
+        },
+        "unibet_fr": {
+          "Casper Ruud": 1.98,
+          "Felix Auger-Aliassime": 1.62
+        },
+        "nordicbet": {
+          "Casper Ruud": 2.22,
+          "Felix Auger-Aliassime": 1.67
+        },
+        "marathonbet": {
+          "Casper Ruud": 2.14,
+          "Felix Auger-Aliassime": 1.7
+        },
+        "draftkings": {
+          "Casper Ruud": 2.1,
+          "Felix Auger-Aliassime": 1.75
+        },
+        "fanduel": {
+          "Casper Ruud": 2.22,
+          "Felix Auger-Aliassime": 1.68
+        },
+        "winamax_de": {
+          "Casper Ruud": 2.1,
+          "Felix Auger-Aliassime": 1.7
+        },
+        "gtbets": {
+          "Casper Ruud": 2.14,
+          "Felix Auger-Aliassime": 1.7
+        },
+        "winamax_fr": {
+          "Casper Ruud": 2.0,
+          "Felix Auger-Aliassime": 1.62
+        },
+        "onexbet": {
+          "Casper Ruud": 2.17,
+          "Felix Auger-Aliassime": 1.72
+        },
+        "matchbook": {
+          "Casper Ruud": 2.2,
+          "Felix Auger-Aliassime": 1.73
+        },
+        "betmgm": {
+          "Casper Ruud": 2.15,
+          "Felix Auger-Aliassime": 1.67
+        },
+        "pmu_fr": {
+          "Casper Ruud": 2.08,
+          "Felix Auger-Aliassime": 1.62
+        },
+        "betrivers": {
+          "Casper Ruud": 2.18,
+          "Felix Auger-Aliassime": 1.68
+        },
+        "unibet_se": {
+          "Casper Ruud": 2.18,
+          "Felix Auger-Aliassime": 1.68
+        },
+        "unibet_nl": {
+          "Casper Ruud": 2.18,
+          "Felix Auger-Aliassime": 1.68
+        },
+        "leovegas_se": {
+          "Casper Ruud": 2.18,
+          "Felix Auger-Aliassime": 1.68
+        },
+        "tipico_de": {
+          "Casper Ruud": 2.15,
+          "Felix Auger-Aliassime": 1.62
+        },
+        "pinnacle": {
+          "Casper Ruud": 2.21,
+          "Felix Auger-Aliassime": 1.74
+        },
+        "sport888": {
+          "Casper Ruud": 2.1,
+          "Felix Auger-Aliassime": 1.73
+        },
+        "williamhill": {
+          "Casper Ruud": 2.1,
+          "Felix Auger-Aliassime": 1.73
+        },
+        "bovada": {
+          "Casper Ruud": 2.15,
+          "Felix Auger-Aliassime": 1.71
+        }
+      },
+      "prediction": {
+        "p1_name": "Casper Ruud",
+        "p2_name": "Felix Auger-Aliassime",
+        "p1_prob": 0.3099,
+        "p2_prob": 0.6901,
+        "predicted_winner": "Felix Auger-Aliassime",
+        "confidence": "high",
+        "p1_edge": -0.1406,
+        "p2_edge": 0.1187
+      },
+      "collected_at": "2026-10-12T17:17:19.642457+00:00",
+      "result": null
+    },
+    "5107fa5e4b7c51b40fec9cd4f990a632": {
+      "match_id": "5107fa5e4b7c51b40fec9cd4f990a632",
+      "commence_time": "2026-10-14T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Daniil Medvedev",
+      "player2": "Stefanos Tsitsipas",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Daniil Medvedev": 1.45,
+          "Stefanos Tsitsipas": 2.96
+        },
+        "unibet_nl": {
+          "Daniil Medvedev": 1.43,
+          "Stefanos Tsitsipas": 2.8
+        },
+        "pmu_fr": {
+          "Daniil Medvedev": 1.38,
+          "Stefanos Tsitsipas": 2.65
+        },
+        "leovegas_se": {
+          "Daniil Medvedev": 1.43,
+          "Stefanos Tsitsipas": 2.8
+        },
+        "unibet_se": {
+          "Daniil Medvedev": 1.43,
+          "Stefanos Tsitsipas": 2.8
+        },
+        "betrivers": {
+          "Daniil Medvedev": 1.43,
+          "Stefanos Tsitsipas": 2.8
+        },
+        "marathonbet": {
+          "Daniil Medvedev": 1.43,
+          "Stefanos Tsitsipas": 2.8
+        },
+        "gtbets": {
+          "Daniil Medvedev": 1.48,
+          "Stefanos Tsitsipas": 2.88
+        },
+        "onexbet": {
+          "Daniil Medvedev": 1.45,
+          "Stefanos Tsitsipas": 2.84
+        },
+        "unibet_fr": {
+          "Daniil Medvedev": 1.36,
+          "Stefanos Tsitsipas": 2.6
+        },
+        "matchbook": {
+          "Daniil Medvedev": 1.4,
+          "Stefanos Tsitsipas": 2.74
+        },
+        "betsson": {
+          "Daniil Medvedev": 1.43,
+          "Stefanos Tsitsipas": 2.85
+        },
+        "betmgm": {
+          "Daniil Medvedev": 1.4,
+          "Stefanos Tsitsipas": 2.9
+        },
+        "fanduel": {
+          "Daniil Medvedev": 1.44,
+          "Stefanos Tsitsipas": 2.84
+        },
+        "nordicbet": {
+          "Daniil Medvedev": 1.43,
+          "Stefanos Tsitsipas": 2.85
+        },
+        "winamax_fr": {
+          "Daniil Medvedev": 1.37,
+          "Stefanos Tsitsipas": 2.6
+        },
+        "winamax_de": {
+          "Daniil Medvedev": 1.42,
+          "Stefanos Tsitsipas": 2.85
+        },
+        "draftkings": {
+          "Daniil Medvedev": 1.39,
+          "Stefanos Tsitsipas": 3.04
+        },
+        "tipico_de": {
+          "Daniil Medvedev": 1.4,
+          "Stefanos Tsitsipas": 2.7
+        },
+        "sport888": {
+          "Daniil Medvedev": 1.36,
+          "Stefanos Tsitsipas": 3.1
+        },
+        "williamhill": {
+          "Daniil Medvedev": 1.36,
+          "Stefanos Tsitsipas": 3.1
+        },
+        "bovada": {
+          "Daniil Medvedev": 1.42,
+          "Stefanos Tsitsipas": 2.95
+        }
+      },
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Stefanos Tsitsipas",
+        "p1_prob": 0.7161,
+        "p2_prob": 0.2839,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": 0.0404,
+        "p2_edge": -0.0387
+      },
+      "collected_at": "2026-10-12T17:17:19.701567+00:00",
+      "result": null
+    },
+    "21bd71c108821f51f2f5c0d4494cba2c": {
+      "match_id": "21bd71c108821f51f2f5c0d4494cba2c",
+      "commence_time": "2026-10-14T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Tommy Paul",
+      "player2": "Zizou Bergs",
+      "bookmakers": {
+        "leovegas_se": {
+          "Tommy Paul": 1.47,
+          "Zizou Bergs": 2.7
+        },
+        "betrivers": {
+          "Tommy Paul": 1.47,
+          "Zizou Bergs": 2.7
+        },
+        "pmu_fr": {
+          "Tommy Paul": 1.42,
+          "Zizou Bergs": 2.55
+        },
+        "unibet_nl": {
+          "Tommy Paul": 1.47,
+          "Zizou Bergs": 2.7
+        },
+        "unibet_se": {
+          "Tommy Paul": 1.47,
+          "Zizou Bergs": 2.7
+        },
+        "marathonbet": {
+          "Tommy Paul": 1.46,
+          "Zizou Bergs": 2.69
+        },
+        "betsson": {
+          "Tommy Paul": 1.47,
+          "Zizou Bergs": 2.7
+        },
+        "unibet_fr": {
+          "Tommy Paul": 1.41,
+          "Zizou Bergs": 2.45
+        },
+        "nordicbet": {
+          "Tommy Paul": 1.47,
+          "Zizou Bergs": 2.7
+        },
+        "draftkings": {
+          "Tommy Paul": 1.42,
+          "Zizou Bergs": 2.9
+        },
+        "winamax_fr": {
+          "Tommy Paul": 1.41,
+          "Zizou Bergs": 2.45
+        },
+        "winamax_de": {
+          "Tommy Paul": 1.47,
+          "Zizou Bergs": 2.65
+        },
+        "gtbets": {
+          "Tommy Paul": 1.47,
+          "Zizou Bergs": 2.7
+        },
+        "onexbet": {
+          "Tommy Paul": 1.48,
+          "Zizou Bergs": 2.73
+        },
+        "fanduel": {
+          "Tommy Paul": 1.48,
+          "Zizou Bergs": 2.72
+        },
+        "betfair_ex_eu": {
+          "Tommy Paul": 1.52,
+          "Zizou Bergs": 2.4
+        },
+        "tipico_de": {
+          "Tommy Paul": 1.42,
+          "Zizou Bergs": 2.65
+        },
+        "matchbook": {
+          "Tommy Paul": 1.47,
+          "Zizou Bergs": 2.84
+        },
+        "bovada": {
+          "Tommy Paul": 1.47,
+          "Zizou Bergs": 2.75
+        },
+        "pinnacle": {
+          "Tommy Paul": 1.48,
+          "Zizou Bergs": 2.84
+        },
+        "betmgm": {
+          "Tommy Paul": 1.45,
+          "Zizou Bergs": 2.7
+        }
+      },
+      "prediction": {
+        "p1_name": "Tommy Paul",
+        "p2_name": "Zizou Bergs",
+        "p1_prob": 0.6218,
+        "p2_prob": 0.3782,
+        "predicted_winner": "Tommy Paul",
+        "confidence": "high",
+        "p1_edge": -0.0361,
+        "p2_edge": 0.0334
+      },
+      "collected_at": "2026-10-12T17:17:19.763065+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-11T19:53:48.674576+00:00"
+  "last_updated": "2026-10-12T17:17:19.772605+00:00"
 }
