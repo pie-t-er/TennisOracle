@@ -72943,7 +72943,11 @@
         "p2_edge": -0.154
       },
       "collected_at": "2026-10-11T14:35:18.338777+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex de Minaur",
+        "correct": true,
+        "settled_at": "2026-10-13T15:31:14.463509+00:00"
+      }
     },
     "f40a4027ec6234e8e3a47359c9444700": {
       "match_id": "f40a4027ec6234e8e3a47359c9444700",
@@ -73045,7 +73049,11 @@
         "p2_edge": 0.0298
       },
       "collected_at": "2026-10-11T14:35:18.447198+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Gea",
+        "correct": false,
+        "settled_at": "2026-10-13T15:31:14.521011+00:00"
+      }
     },
     "9115ec9d559da806d8a0829db60d9a51": {
       "match_id": "9115ec9d559da806d8a0829db60d9a51",
@@ -73281,7 +73289,11 @@
         "p2_edge": 0.0423
       },
       "collected_at": "2026-10-11T19:53:48.656701+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-10-13T15:31:14.596767+00:00"
+      }
     },
     "77cd15bc0cd98c5294c57d566ed289c9": {
       "match_id": "77cd15bc0cd98c5294c57d566ed289c9",
@@ -73726,7 +73738,109 @@
       },
       "collected_at": "2026-10-12T17:17:19.763065+00:00",
       "result": null
+    },
+    "9f79a8611b72f362103f75adae40aa9f": {
+      "match_id": "9f79a8611b72f362103f75adae40aa9f",
+      "commence_time": "2026-10-15T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Alex de Minaur",
+      "bookmakers": {
+        "onexbet": {
+          "Alexander Zverev": 1.48,
+          "Alex de Minaur": 2.73
+        },
+        "betfair_ex_eu": {
+          "Alexander Zverev": 1.46,
+          "Alex de Minaur": 2.5
+        },
+        "gtbets": {
+          "Alexander Zverev": 1.46,
+          "Alex de Minaur": 2.74
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.42,
+          "Alex de Minaur": 2.4
+        },
+        "draftkings": {
+          "Alexander Zverev": 1.45,
+          "Alex de Minaur": 2.78
+        },
+        "betsson": {
+          "Alexander Zverev": 1.49,
+          "Alex de Minaur": 2.65
+        },
+        "fanduel": {
+          "Alexander Zverev": 1.48,
+          "Alex de Minaur": 2.72
+        },
+        "nordicbet": {
+          "Alexander Zverev": 1.49,
+          "Alex de Minaur": 2.65
+        },
+        "betmgm": {
+          "Alexander Zverev": 1.45,
+          "Alex de Minaur": 2.7
+        },
+        "marathonbet": {
+          "Alexander Zverev": 1.46,
+          "Alex de Minaur": 2.69
+        },
+        "pmu_fr": {
+          "Alexander Zverev": 1.38,
+          "Alex de Minaur": 2.65
+        },
+        "betrivers": {
+          "Alexander Zverev": 1.43,
+          "Alex de Minaur": 2.8
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.43,
+          "Alex de Minaur": 2.8
+        },
+        "unibet_se": {
+          "Alexander Zverev": 1.43,
+          "Alex de Minaur": 2.8
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.43,
+          "Alex de Minaur": 2.8
+        },
+        "pinnacle": {
+          "Alexander Zverev": 1.5,
+          "Alex de Minaur": 2.77
+        },
+        "matchbook": {
+          "Alexander Zverev": 1.43,
+          "Alex de Minaur": 2.5
+        },
+        "winamax_fr": {
+          "Alexander Zverev": 1.42,
+          "Alex de Minaur": 2.4
+        },
+        "winamax_de": {
+          "Alexander Zverev": 1.48,
+          "Alex de Minaur": 2.6
+        },
+        "tipico_de": {
+          "Alexander Zverev": 1.5,
+          "Alex de Minaur": 2.55
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Alex De Minaur",
+        "p1_prob": 0.6505,
+        "p2_prob": 0.3495,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": -0.0162,
+        "p2_edge": -0.0076
+      },
+      "collected_at": "2026-10-13T15:31:19.960145+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-13T05:10:33.673604+00:00"
+  "last_updated": "2026-10-13T15:31:19.970549+00:00"
 }
