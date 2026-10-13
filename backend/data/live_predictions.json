@@ -73840,7 +73840,97 @@
       },
       "collected_at": "2026-10-13T15:31:19.960145+00:00",
       "result": null
+    },
+    "7c66ab6e5bb9bc88359d8284d1aaa1ff": {
+      "match_id": "7c66ab6e5bb9bc88359d8284d1aaa1ff",
+      "commence_time": "2026-10-15T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Arthur Gea",
+      "player2": "Alejandro Davidovich Fokina",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Alejandro Davidovich Fokina": 1.84,
+          "Arthur Gea": 1.78
+        },
+        "betsson": {
+          "Alejandro Davidovich Fokina": 1.79,
+          "Arthur Gea": 2.04
+        },
+        "gtbets": {
+          "Alejandro Davidovich Fokina": 1.79,
+          "Arthur Gea": 2.03
+        },
+        "draftkings": {
+          "Alejandro Davidovich Fokina": 1.79,
+          "Arthur Gea": 2.05
+        },
+        "unibet_fr": {
+          "Alejandro Davidovich Fokina": 1.68,
+          "Arthur Gea": 1.9
+        },
+        "marathonbet": {
+          "Alejandro Davidovich Fokina": 1.8,
+          "Arthur Gea": 2.0
+        },
+        "onexbet": {
+          "Alejandro Davidovich Fokina": 1.82,
+          "Arthur Gea": 2.03
+        },
+        "matchbook": {
+          "Alejandro Davidovich Fokina": 1.72,
+          "Arthur Gea": 1.67
+        },
+        "fanduel": {
+          "Alejandro Davidovich Fokina": 1.78,
+          "Arthur Gea": 2.06
+        },
+        "nordicbet": {
+          "Alejandro Davidovich Fokina": 1.79,
+          "Arthur Gea": 2.04
+        },
+        "tipico_de": {
+          "Alejandro Davidovich Fokina": 1.77,
+          "Arthur Gea": 2.0
+        },
+        "betmgm": {
+          "Alejandro Davidovich Fokina": 1.8,
+          "Arthur Gea": 1.98
+        },
+        "bovada": {
+          "Alejandro Davidovich Fokina": 1.8,
+          "Arthur Gea": 2.05
+        },
+        "winamax_fr": {
+          "Alejandro Davidovich Fokina": 1.68,
+          "Arthur Gea": 1.9
+        },
+        "winamax_de": {
+          "Alejandro Davidovich Fokina": 1.78,
+          "Arthur Gea": 2.0
+        },
+        "williamhill": {
+          "Alejandro Davidovich Fokina": 1.8,
+          "Arthur Gea": 2.0
+        },
+        "sport888": {
+          "Alejandro Davidovich Fokina": 1.8,
+          "Arthur Gea": 2.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Gea",
+        "p2_name": "Alejandro Davidovich Fokina",
+        "p1_prob": 0.3703,
+        "p2_prob": 0.6297,
+        "predicted_winner": "Alejandro Davidovich Fokina",
+        "confidence": "high",
+        "p1_edge": -0.1151,
+        "p2_edge": 0.0862
+      },
+      "collected_at": "2026-10-13T20:57:37.361190+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-13T15:31:19.970549+00:00"
+  "last_updated": "2026-10-13T20:57:37.371123+00:00"
 }
