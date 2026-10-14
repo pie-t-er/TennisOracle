@@ -73407,7 +73407,11 @@
         "p2_edge": 0.0324
       },
       "collected_at": "2026-10-12T17:17:19.579152+00:00",
-      "result": null
+      "result": {
+        "winner": "Rafael Jodar",
+        "correct": true,
+        "settled_at": "2026-10-14T13:16:39.473254+00:00"
+      }
     },
     "a0fe8d4e228f3926bcb57dc37b2b23ac": {
       "match_id": "a0fe8d4e228f3926bcb57dc37b2b23ac",
@@ -73521,7 +73525,11 @@
         "p2_edge": 0.1187
       },
       "collected_at": "2026-10-12T17:17:19.642457+00:00",
-      "result": null
+      "result": {
+        "winner": "Casper Ruud",
+        "correct": false,
+        "settled_at": "2026-10-14T13:16:39.550519+00:00"
+      }
     },
     "5107fa5e4b7c51b40fec9cd4f990a632": {
       "match_id": "5107fa5e4b7c51b40fec9cd4f990a632",
@@ -73631,7 +73639,11 @@
         "p2_edge": -0.0387
       },
       "collected_at": "2026-10-12T17:17:19.701567+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-10-14T13:16:39.652898+00:00"
+      }
     },
     "21bd71c108821f51f2f5c0d4494cba2c": {
       "match_id": "21bd71c108821f51f2f5c0d4494cba2c",
@@ -73930,7 +73942,133 @@
       },
       "collected_at": "2026-10-13T20:57:37.361190+00:00",
       "result": null
+    },
+    "ef2bb3c52f4e2850db169deeec5c619b": {
+      "match_id": "ef2bb3c52f4e2850db169deeec5c619b",
+      "commence_time": "2026-10-16T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Rafael Jodar",
+      "player2": "Casper Ruud",
+      "bookmakers": {
+        "coolbet": {
+          "Casper Ruud": 2.2,
+          "Rafael Jodar": 1.68
+        },
+        "onexbet": {
+          "Casper Ruud": 2.23,
+          "Rafael Jodar": 1.68
+        },
+        "draftkings": {
+          "Casper Ruud": 2.26,
+          "Rafael Jodar": 1.65
+        },
+        "betfair_ex_eu": {
+          "Casper Ruud": 2.32,
+          "Rafael Jodar": 1.74
+        },
+        "nordicbet": {
+          "Casper Ruud": 2.27,
+          "Rafael Jodar": 1.64
+        },
+        "betsson": {
+          "Casper Ruud": 2.27,
+          "Rafael Jodar": 1.64
+        },
+        "marathonbet": {
+          "Casper Ruud": 2.19,
+          "Rafael Jodar": 1.67
+        },
+        "matchbook": {
+          "Casper Ruud": 2.28,
+          "Rafael Jodar": 1.68
+        },
+        "unibet_fr": {
+          "Casper Ruud": 2.0,
+          "Rafael Jodar": 1.61
+        },
+        "fanduel": {
+          "Casper Ruud": 2.26,
+          "Rafael Jodar": 1.66
+        },
+        "tipico_de": {
+          "Casper Ruud": 2.15,
+          "Rafael Jodar": 1.62
+        },
+        "gtbets": {
+          "Casper Ruud": 2.23,
+          "Rafael Jodar": 1.66
+        },
+        "leovegas_se": {
+          "Casper Ruud": 2.23,
+          "Rafael Jodar": 1.65
+        },
+        "betrivers": {
+          "Casper Ruud": 2.23,
+          "Rafael Jodar": 1.65
+        },
+        "unibet_nl": {
+          "Casper Ruud": 2.23,
+          "Rafael Jodar": 1.65
+        },
+        "pmu_fr": {
+          "Casper Ruud": 2.14,
+          "Rafael Jodar": 1.57
+        },
+        "unibet_se": {
+          "Casper Ruud": 2.23,
+          "Rafael Jodar": 1.65
+        },
+        "winamax_fr": {
+          "Casper Ruud": 2.0,
+          "Rafael Jodar": 1.62
+        },
+        "winamax_de": {
+          "Casper Ruud": 2.15,
+          "Rafael Jodar": 1.7
+        },
+        "sport888": {
+          "Casper Ruud": 2.2,
+          "Rafael Jodar": 1.67
+        },
+        "williamhill": {
+          "Casper Ruud": 2.2,
+          "Rafael Jodar": 1.67
+        },
+        "bovada": {
+          "Casper Ruud": 2.15,
+          "Rafael Jodar": 1.71
+        },
+        "betmgm": {
+          "Casper Ruud": 2.1,
+          "Rafael Jodar": 1.69
+        },
+        "pinnacle": {
+          "Casper Ruud": 2.3,
+          "Rafael Jodar": 1.68
+        },
+        "betonlineag": {
+          "Casper Ruud": 2.24,
+          "Rafael Jodar": 1.69
+        },
+        "lowvig": {
+          "Casper Ruud": 2.24,
+          "Rafael Jodar": 1.69
+        }
+      },
+      "prediction": {
+        "p1_name": "Rafael Jodar",
+        "p2_name": "Casper Ruud",
+        "p1_prob": 0.5911,
+        "p2_prob": 0.4089,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "medium",
+        "p1_edge": 0.0164,
+        "p2_edge": -0.0221
+      },
+      "collected_at": "2026-10-14T13:16:46.633382+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-13T20:57:37.371123+00:00"
+  "last_updated": "2026-10-14T13:16:46.646526+00:00"
 }
