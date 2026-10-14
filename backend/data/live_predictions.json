@@ -73749,7 +73749,11 @@
         "p2_edge": 0.0334
       },
       "collected_at": "2026-10-12T17:17:19.763065+00:00",
-      "result": null
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": true,
+        "settled_at": "2026-10-14T19:56:31.833704+00:00"
+      }
     },
     "9f79a8611b72f362103f75adae40aa9f": {
       "match_id": "9f79a8611b72f362103f75adae40aa9f",
@@ -74068,7 +74072,137 @@
       },
       "collected_at": "2026-10-14T13:16:46.633382+00:00",
       "result": null
+    },
+    "9dda9be8037459139ce1f25119c621ea": {
+      "match_id": "9dda9be8037459139ce1f25119c621ea",
+      "commence_time": "2026-10-16T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Daniil Medvedev",
+      "player2": "Tommy Paul",
+      "bookmakers": {
+        "unibet_fr": {
+          "Daniil Medvedev": 1.44,
+          "Tommy Paul": 2.35
+        },
+        "marathonbet": {
+          "Daniil Medvedev": 1.51,
+          "Tommy Paul": 2.54
+        },
+        "nordicbet": {
+          "Daniil Medvedev": 1.51,
+          "Tommy Paul": 2.6
+        },
+        "betsson": {
+          "Daniil Medvedev": 1.51,
+          "Tommy Paul": 2.6
+        },
+        "onexbet": {
+          "Daniil Medvedev": 1.53,
+          "Tommy Paul": 2.58
+        },
+        "coolbet": {
+          "Daniil Medvedev": 1.52,
+          "Tommy Paul": 2.55
+        },
+        "draftkings": {
+          "Daniil Medvedev": 1.49,
+          "Tommy Paul": 2.64
+        },
+        "gtbets": {
+          "Daniil Medvedev": 1.51,
+          "Tommy Paul": 2.58
+        },
+        "betfair_ex_eu": {
+          "Daniil Medvedev": 1.55,
+          "Tommy Paul": 2.74
+        },
+        "bovada": {
+          "Daniil Medvedev": 1.48,
+          "Tommy Paul": 2.7
+        },
+        "fanduel": {
+          "Daniil Medvedev": 1.54,
+          "Tommy Paul": 2.52
+        },
+        "unibet_se": {
+          "Daniil Medvedev": 1.53,
+          "Tommy Paul": 2.5
+        },
+        "leovegas_se": {
+          "Daniil Medvedev": 1.53,
+          "Tommy Paul": 2.5
+        },
+        "pmu_fr": {
+          "Daniil Medvedev": 1.45,
+          "Tommy Paul": 2.4
+        },
+        "unibet_nl": {
+          "Daniil Medvedev": 1.53,
+          "Tommy Paul": 2.5
+        },
+        "betrivers": {
+          "Daniil Medvedev": 1.53,
+          "Tommy Paul": 2.5
+        },
+        "tipico_de": {
+          "Daniil Medvedev": 1.5,
+          "Tommy Paul": 2.55
+        },
+        "matchbook": {
+          "Daniil Medvedev": 1.45,
+          "Tommy Paul": 1.87
+        },
+        "betmgm": {
+          "Daniil Medvedev": 1.53,
+          "Tommy Paul": 2.45
+        },
+        "sport888": {
+          "Daniil Medvedev": 1.53,
+          "Tommy Paul": 2.5
+        },
+        "williamhill": {
+          "Daniil Medvedev": 1.53,
+          "Tommy Paul": 2.5
+        },
+        "winamax_de": {
+          "Daniil Medvedev": 1.52,
+          "Tommy Paul": 2.6
+        },
+        "winamax_fr": {
+          "Daniil Medvedev": 1.5,
+          "Tommy Paul": 2.55
+        },
+        "pinnacle": {
+          "Daniil Medvedev": 1.53,
+          "Tommy Paul": 2.66
+        },
+        "lowvig": {
+          "Daniil Medvedev": 1.53,
+          "Tommy Paul": 2.65
+        },
+        "betonlineag": {
+          "Daniil Medvedev": 1.53,
+          "Tommy Paul": 2.65
+        },
+        "betanysports": {
+          "Daniil Medvedev": 1.51,
+          "Tommy Paul": 2.65
+        }
+      },
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Tommy Paul",
+        "p1_prob": 0.6528,
+        "p2_prob": 0.3472,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": 0.0076,
+        "p2_edge": -0.0178
+      },
+      "collected_at": "2026-10-14T19:56:40.509154+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-14T13:16:46.646526+00:00"
+  "last_updated": "2026-10-14T19:56:40.525914+00:00"
 }
