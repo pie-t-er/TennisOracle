@@ -73855,7 +73855,11 @@
         "p2_edge": -0.0076
       },
       "collected_at": "2026-10-13T15:31:19.960145+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-10-15T13:02:01.643254+00:00"
+      }
     },
     "7c66ab6e5bb9bc88359d8284d1aaa1ff": {
       "match_id": "7c66ab6e5bb9bc88359d8284d1aaa1ff",
@@ -73945,7 +73949,11 @@
         "p2_edge": 0.0862
       },
       "collected_at": "2026-10-13T20:57:37.361190+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Gea",
+        "correct": false,
+        "settled_at": "2026-10-15T13:02:01.557308+00:00"
+      }
     },
     "ef2bb3c52f4e2850db169deeec5c619b": {
       "match_id": "ef2bb3c52f4e2850db169deeec5c619b",
@@ -74202,7 +74210,85 @@
       },
       "collected_at": "2026-10-14T19:56:40.509154+00:00",
       "result": null
+    },
+    "85243da216a4bb91389e3da1f356f52c": {
+      "match_id": "85243da216a4bb91389e3da1f356f52c",
+      "commence_time": "2026-10-17T04:00:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Alejandro Davidovich Fokina",
+      "bookmakers": {
+        "onexbet": {
+          "Alejandro Davidovich Fokina": 3.96,
+          "Alexander Zverev": 1.27
+        },
+        "betrivers": {
+          "Alejandro Davidovich Fokina": 3.85,
+          "Alexander Zverev": 1.26
+        },
+        "unibet_se": {
+          "Alejandro Davidovich Fokina": 3.85,
+          "Alexander Zverev": 1.26
+        },
+        "marathonbet": {
+          "Alejandro Davidovich Fokina": 3.9,
+          "Alexander Zverev": 1.25
+        },
+        "coolbet": {
+          "Alejandro Davidovich Fokina": 3.7,
+          "Alexander Zverev": 1.28
+        },
+        "pmu_fr": {
+          "Alejandro Davidovich Fokina": 3.65,
+          "Alexander Zverev": 1.22
+        },
+        "unibet_nl": {
+          "Alejandro Davidovich Fokina": 3.85,
+          "Alexander Zverev": 1.26
+        },
+        "leovegas_se": {
+          "Alejandro Davidovich Fokina": 3.85,
+          "Alexander Zverev": 1.26
+        },
+        "gtbets": {
+          "Alejandro Davidovich Fokina": 3.71,
+          "Alexander Zverev": 1.28
+        },
+        "unibet_fr": {
+          "Alejandro Davidovich Fokina": 3.4,
+          "Alexander Zverev": 1.21
+        },
+        "betsson": {
+          "Alejandro Davidovich Fokina": 3.9,
+          "Alexander Zverev": 1.26
+        },
+        "nordicbet": {
+          "Alejandro Davidovich Fokina": 3.9,
+          "Alexander Zverev": 1.26
+        },
+        "winamax_fr": {
+          "Alejandro Davidovich Fokina": 3.45,
+          "Alexander Zverev": 1.21
+        },
+        "winamax_de": {
+          "Alejandro Davidovich Fokina": 3.9,
+          "Alexander Zverev": 1.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Alejandro Davidovich Fokina",
+        "p1_prob": 0.765,
+        "p2_prob": 0.235,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": -0.0162,
+        "p2_edge": -0.0175
+      },
+      "collected_at": "2026-10-15T13:02:09.195544+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-14T19:56:40.525914+00:00"
+  "last_updated": "2026-10-15T13:02:09.211725+00:00"
 }
