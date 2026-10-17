@@ -74393,8 +74393,138 @@
         "p2_edge": -0.1193
       },
       "collected_at": "2026-10-16T12:58:35.106204+00:00",
+      "result": {
+        "winner": "Rafael Jodar",
+        "correct": true,
+        "settled_at": "2026-10-17T18:07:10.558254+00:00"
+      }
+    },
+    "558c4df94e8e9d970b74c5213c82675c": {
+      "match_id": "558c4df94e8e9d970b74c5213c82675c",
+      "commence_time": "2026-10-18T08:30:00Z",
+      "tournament": "ATP Shanghai Masters",
+      "surface": "Hard",
+      "player1": "Alejandro Davidovich Fokina",
+      "player2": "Rafael Jodar",
+      "bookmakers": {
+        "draftkings": {
+          "Alejandro Davidovich Fokina": 2.2,
+          "Rafael Jodar": 1.68
+        },
+        "matchbook": {
+          "Alejandro Davidovich Fokina": 2.24,
+          "Rafael Jodar": 1.77
+        },
+        "nordicbet": {
+          "Alejandro Davidovich Fokina": 2.13,
+          "Rafael Jodar": 1.73
+        },
+        "betsson": {
+          "Alejandro Davidovich Fokina": 2.13,
+          "Rafael Jodar": 1.73
+        },
+        "winamax_fr": {
+          "Alejandro Davidovich Fokina": 2.1,
+          "Rafael Jodar": 1.72
+        },
+        "unibet_fr": {
+          "Alejandro Davidovich Fokina": 2.1,
+          "Rafael Jodar": 1.71
+        },
+        "winamax_de": {
+          "Alejandro Davidovich Fokina": 2.15,
+          "Rafael Jodar": 1.74
+        },
+        "coolbet": {
+          "Alejandro Davidovich Fokina": 2.15,
+          "Rafael Jodar": 1.71
+        },
+        "onexbet": {
+          "Alejandro Davidovich Fokina": 2.17,
+          "Rafael Jodar": 1.72
+        },
+        "marathonbet": {
+          "Alejandro Davidovich Fokina": 2.15,
+          "Rafael Jodar": 1.71
+        },
+        "fanduel": {
+          "Alejandro Davidovich Fokina": 2.14,
+          "Rafael Jodar": 1.73
+        },
+        "williamhill": {
+          "Alejandro Davidovich Fokina": 2.1,
+          "Rafael Jodar": 1.73
+        },
+        "sport888": {
+          "Alejandro Davidovich Fokina": 2.1,
+          "Rafael Jodar": 1.73
+        },
+        "betfair_ex_eu": {
+          "Alejandro Davidovich Fokina": 2.24,
+          "Rafael Jodar": 1.79
+        },
+        "pinnacle": {
+          "Alejandro Davidovich Fokina": 2.19,
+          "Rafael Jodar": 1.75
+        },
+        "betrivers": {
+          "Alejandro Davidovich Fokina": 2.15,
+          "Rafael Jodar": 1.7
+        },
+        "betmgm": {
+          "Alejandro Davidovich Fokina": 2.1,
+          "Rafael Jodar": 1.74
+        },
+        "leovegas_se": {
+          "Alejandro Davidovich Fokina": 2.15,
+          "Rafael Jodar": 1.7
+        },
+        "pmu_fr": {
+          "Alejandro Davidovich Fokina": 2.06,
+          "Rafael Jodar": 1.63
+        },
+        "unibet_se": {
+          "Alejandro Davidovich Fokina": 2.15,
+          "Rafael Jodar": 1.7
+        },
+        "unibet_nl": {
+          "Alejandro Davidovich Fokina": 2.15,
+          "Rafael Jodar": 1.7
+        },
+        "gtbets": {
+          "Alejandro Davidovich Fokina": 2.16,
+          "Rafael Jodar": 1.7
+        },
+        "tipico_de": {
+          "Alejandro Davidovich Fokina": 2.15,
+          "Rafael Jodar": 1.67
+        },
+        "bovada": {
+          "Alejandro Davidovich Fokina": 2.15,
+          "Rafael Jodar": 1.71
+        },
+        "lowvig": {
+          "Alejandro Davidovich Fokina": 2.2,
+          "Rafael Jodar": 1.71
+        },
+        "betonlineag": {
+          "Alejandro Davidovich Fokina": 2.2,
+          "Rafael Jodar": 1.71
+        }
+      },
+      "prediction": {
+        "p1_name": "Alejandro Davidovich Fokina",
+        "p2_name": "Rafael Jodar",
+        "p1_prob": 0.3985,
+        "p2_prob": 0.6015,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "high",
+        "p1_edge": -0.0479,
+        "p2_edge": 0.0428
+      },
+      "collected_at": "2026-10-17T18:07:16.728685+00:00",
       "result": null
     }
   },
-  "last_updated": "2026-10-17T11:56:37.547662+00:00"
+  "last_updated": "2026-10-17T18:07:16.741759+00:00"
 }
