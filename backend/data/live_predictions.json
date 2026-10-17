@@ -74295,7 +74295,11 @@
         "p2_edge": -0.0175
       },
       "collected_at": "2026-10-15T13:02:09.195544+00:00",
-      "result": null
+      "result": {
+        "winner": "Alejandro Davidovich Fokina",
+        "correct": false,
+        "settled_at": "2026-10-17T11:56:37.547640+00:00"
+      }
     },
     "ec7b2ed5ca42a47451864cedfd5b61d3": {
       "match_id": "ec7b2ed5ca42a47451864cedfd5b61d3",
@@ -74392,5 +74396,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-10-16T12:58:35.118718+00:00"
+  "last_updated": "2026-10-17T11:56:37.547662+00:00"
 }
