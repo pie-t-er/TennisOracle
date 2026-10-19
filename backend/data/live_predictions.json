@@ -74528,7 +74528,157 @@
         "correct": false,
         "settled_at": "2026-10-18T12:24:49.769840+00:00"
       }
+    },
+    "tml-2026-9410-1": {
+      "match_id": "tml-2026-9410-1",
+      "commence_time": "2026-10-20T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "James Duckworth",
+      "player2": "Miomir Kecmanovic",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "James Duckworth",
+        "p2_name": "Miomir Kecmanovic",
+        "p1_prob": 0.3719,
+        "p2_prob": 0.6281,
+        "predicted_winner": "Miomir Kecmanovic",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-19T15:14:22.368938+00:00",
+      "result": {
+        "winner": "James Duckworth",
+        "correct": false,
+        "settled_at": "2026-10-19T15:14:22.368938+00:00"
+      }
+    },
+    "tml-2026-9410-2": {
+      "match_id": "tml-2026-9410-2",
+      "commence_time": "2026-10-20T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Facundo Diaz Acosta",
+      "player2": "Thiago Agustin Tirante",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Facundo Diaz Acosta",
+        "p2_name": "Thiago Agustin Tirante",
+        "p1_prob": 0.3656,
+        "p2_prob": 0.6344,
+        "predicted_winner": "Thiago Agustin Tirante",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-19T15:14:22.483128+00:00",
+      "result": {
+        "winner": "Facundo Diaz Acosta",
+        "correct": false,
+        "settled_at": "2026-10-19T15:14:22.483128+00:00"
+      }
+    },
+    "tml-2026-9410-3": {
+      "match_id": "tml-2026-9410-3",
+      "commence_time": "2026-10-20T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Adrian Mannarino",
+      "player2": "Aleksandar Vukic",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Adrian Mannarino",
+        "p2_name": "Aleksandar Vukic",
+        "p1_prob": 0.4389,
+        "p2_prob": 0.5611,
+        "predicted_winner": "Aleksandar Vukic",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-19T15:14:22.596781+00:00",
+      "result": {
+        "winner": "Adrian Mannarino",
+        "correct": false,
+        "settled_at": "2026-10-19T15:14:22.596781+00:00"
+      }
+    },
+    "tml-2026-7485-1": {
+      "match_id": "tml-2026-7485-1",
+      "commence_time": "2026-10-20T00:00:00+00:00",
+      "tournament": "Brussels",
+      "surface": "Hard",
+      "player1": "Jaume Munar",
+      "player2": "Federico Cina",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jaume Munar",
+        "p2_name": "Federico Cina",
+        "p1_prob": 0.5296,
+        "p2_prob": 0.4704,
+        "predicted_winner": "Jaume Munar",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-19T15:14:22.709826+00:00",
+      "result": {
+        "winner": "Jaume Munar",
+        "correct": true,
+        "settled_at": "2026-10-19T15:14:22.709826+00:00"
+      }
+    },
+    "tml-2026-9410-4": {
+      "match_id": "tml-2026-9410-4",
+      "commence_time": "2026-10-20T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Nikoloz Basilashvili",
+      "player2": "Marin Cilic",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Nikoloz Basilashvili",
+        "p2_name": "Marin Cilic",
+        "p1_prob": 0.3954,
+        "p2_prob": 0.6046,
+        "predicted_winner": "Marin Cilic",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-19T15:14:22.823201+00:00",
+      "result": {
+        "winner": "Nikoloz Basilashvili",
+        "correct": false,
+        "settled_at": "2026-10-19T15:14:22.823201+00:00"
+      }
+    },
+    "tml-2026-7485-2": {
+      "match_id": "tml-2026-7485-2",
+      "commence_time": "2026-10-20T00:00:00+00:00",
+      "tournament": "Brussels",
+      "surface": "Hard",
+      "player1": "Martin Damm",
+      "player2": "Yannick Hanfmann",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Martin Damm",
+        "p2_name": "Yannick Hanfmann",
+        "p1_prob": 0.5564,
+        "p2_prob": 0.4436,
+        "predicted_winner": "Martin Damm",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-19T15:14:22.936305+00:00",
+      "result": {
+        "winner": "Martin Damm",
+        "correct": true,
+        "settled_at": "2026-10-19T15:14:22.936305+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-18T12:24:49.769857+00:00"
+  "last_updated": "2026-10-19T15:14:22.954183+00:00"
 }
