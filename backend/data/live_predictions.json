@@ -74678,7 +74678,82 @@
         "correct": true,
         "settled_at": "2026-10-19T15:14:22.936305+00:00"
       }
+    },
+    "tml-2026-496-2": {
+      "match_id": "tml-2026-496-2",
+      "commence_time": "2026-10-19T00:00:00+00:00",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "player1": "Lorenzo Musetti",
+      "player2": "Matteo Arnaldi",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Lorenzo Musetti",
+        "p2_name": "Matteo Arnaldi",
+        "p1_prob": 0.6624,
+        "p2_prob": 0.3376,
+        "predicted_winner": "Lorenzo Musetti",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-19T20:51:22.048687+00:00",
+      "result": {
+        "winner": "Lorenzo Musetti",
+        "correct": true,
+        "settled_at": "2026-10-19T20:51:22.048687+00:00"
+      }
+    },
+    "tml-2026-9410-5": {
+      "match_id": "tml-2026-9410-5",
+      "commence_time": "2026-10-20T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Mikhail Kukushkin",
+      "player2": "Stefanos Sakellaridis",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Mikhail Kukushkin",
+        "p2_name": "Stefanos Sakellaridis",
+        "p1_prob": 0.5412,
+        "p2_prob": 0.4588,
+        "predicted_winner": "Mikhail Kukushkin",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-19T20:51:22.171479+00:00",
+      "result": {
+        "winner": "Mikhail Kukushkin",
+        "correct": true,
+        "settled_at": "2026-10-19T20:51:22.171479+00:00"
+      }
+    },
+    "tml-2026-496-3": {
+      "match_id": "tml-2026-496-3",
+      "commence_time": "2026-10-19T00:00:00+00:00",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "player1": "Moise Kouame",
+      "player2": "Lorenzo Sonego",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Moise Kouame",
+        "p2_name": "Lorenzo Sonego",
+        "p1_prob": 0.535,
+        "p2_prob": 0.465,
+        "predicted_winner": "Moise Kouame",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-19T20:51:22.290284+00:00",
+      "result": {
+        "winner": "Moise Kouame",
+        "correct": true,
+        "settled_at": "2026-10-19T20:51:22.290284+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-19T15:14:22.954183+00:00"
+  "last_updated": "2026-10-19T20:51:22.308478+00:00"
 }
