@@ -74753,7 +74753,157 @@
         "correct": true,
         "settled_at": "2026-10-19T20:51:22.290284+00:00"
       }
+    },
+    "tml-2026-9410-6": {
+      "match_id": "tml-2026-9410-6",
+      "commence_time": "2026-10-21T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Terence Atmane",
+      "player2": "Rinky Hijikata",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Terence Atmane",
+        "p2_name": "Rinky Hijikata",
+        "p1_prob": 0.5489,
+        "p2_prob": 0.4511,
+        "predicted_winner": "Terence Atmane",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-20T13:15:24.705397+00:00",
+      "result": {
+        "winner": "Terence Atmane",
+        "correct": true,
+        "settled_at": "2026-10-20T13:15:24.705397+00:00"
+      }
+    },
+    "tml-2026-9410-7": {
+      "match_id": "tml-2026-9410-7",
+      "commence_time": "2026-10-21T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Sho Shimabukuro",
+      "player2": "Roman Safiullin",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Sho Shimabukuro",
+        "p2_name": "Roman Safiullin",
+        "p1_prob": 0.3676,
+        "p2_prob": 0.6324,
+        "predicted_winner": "Roman Safiullin",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-20T13:15:24.796706+00:00",
+      "result": {
+        "winner": "Sho Shimabukuro",
+        "correct": false,
+        "settled_at": "2026-10-20T13:15:24.796706+00:00"
+      }
+    },
+    "tml-2026-9410-8": {
+      "match_id": "tml-2026-9410-8",
+      "commence_time": "2026-10-21T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Stefanos Tsitsipas",
+      "player2": "Aleksandar Kovacevic",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Stefanos Tsitsipas",
+        "p2_name": "Aleksandar Kovacevic",
+        "p1_prob": 0.6647,
+        "p2_prob": 0.3353,
+        "predicted_winner": "Stefanos Tsitsipas",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-20T13:15:24.890016+00:00",
+      "result": {
+        "winner": "Stefanos Tsitsipas",
+        "correct": true,
+        "settled_at": "2026-10-20T13:15:24.890016+00:00"
+      }
+    },
+    "tml-2026-7485-4": {
+      "match_id": "tml-2026-7485-4",
+      "commence_time": "2026-10-21T00:00:00+00:00",
+      "tournament": "Brussels",
+      "surface": "Hard",
+      "player1": "Mariano Navone",
+      "player2": "Juan Manuel Cerundolo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Mariano Navone",
+        "p2_name": "Juan Manuel Cerundolo",
+        "p1_prob": 0.4605,
+        "p2_prob": 0.5395,
+        "predicted_winner": "Juan Manuel Cerundolo",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-20T13:15:24.979706+00:00",
+      "result": {
+        "winner": "Mariano Navone",
+        "correct": false,
+        "settled_at": "2026-10-20T13:15:24.979706+00:00"
+      }
+    },
+    "tml-2026-496-4": {
+      "match_id": "tml-2026-496-4",
+      "commence_time": "2026-10-20T00:00:00+00:00",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "player1": "Pierre-Hugues Herbert",
+      "player2": "Sebastian Baez",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Pierre-Hugues Herbert",
+        "p2_name": "Sebastian Baez",
+        "p1_prob": 0.3996,
+        "p2_prob": 0.6004,
+        "predicted_winner": "Sebastian Baez",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-20T13:15:25.069247+00:00",
+      "result": {
+        "winner": "Pierre-Hugues Herbert",
+        "correct": false,
+        "settled_at": "2026-10-20T13:15:25.069247+00:00"
+      }
+    },
+    "tml-2026-9410-9": {
+      "match_id": "tml-2026-9410-9",
+      "commence_time": "2026-10-21T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Fabian Marozsan",
+      "player2": "Timofey Skatov",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Fabian Marozsan",
+        "p2_name": "Timofey Skatov",
+        "p1_prob": 0.6991,
+        "p2_prob": 0.3009,
+        "predicted_winner": "Fabian Marozsan",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-20T13:15:25.159171+00:00",
+      "result": {
+        "winner": "Fabian Marozsan",
+        "correct": true,
+        "settled_at": "2026-10-20T13:15:25.159171+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-19T20:51:22.308478+00:00"
+  "last_updated": "2026-10-20T13:15:25.174082+00:00"
 }
