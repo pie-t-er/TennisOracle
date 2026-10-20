@@ -74903,7 +74903,232 @@
         "correct": true,
         "settled_at": "2026-10-20T13:15:25.159171+00:00"
       }
+    },
+    "tml-2026-7485-6": {
+      "match_id": "tml-2026-7485-6",
+      "commence_time": "2026-10-21T00:00:00+00:00",
+      "tournament": "Brussels",
+      "surface": "Hard",
+      "player1": "Jan-Lennard Struff",
+      "player2": "Marcos Giron",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jan-Lennard Struff",
+        "p2_name": "Marcos Giron",
+        "p1_prob": 0.5161,
+        "p2_prob": 0.4839,
+        "predicted_winner": "Jan-Lennard Struff",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-20T19:48:31.155426+00:00",
+      "result": {
+        "winner": "Jan-Lennard Struff",
+        "correct": true,
+        "settled_at": "2026-10-20T19:48:31.155426+00:00"
+      }
+    },
+    "tml-2026-496-5": {
+      "match_id": "tml-2026-496-5",
+      "commence_time": "2026-10-20T00:00:00+00:00",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "player1": "Borna Gojo",
+      "player2": "Arthur Fery",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Borna Gojo",
+        "p2_name": "Arthur Fery",
+        "p1_prob": 0.2949,
+        "p2_prob": 0.7051,
+        "predicted_winner": "Arthur Fery",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-20T19:48:31.266461+00:00",
+      "result": {
+        "winner": "Borna Gojo",
+        "correct": false,
+        "settled_at": "2026-10-20T19:48:31.266461+00:00"
+      }
+    },
+    "tml-2026-7485-8": {
+      "match_id": "tml-2026-7485-8",
+      "commence_time": "2026-10-21T00:00:00+00:00",
+      "tournament": "Brussels",
+      "surface": "Hard",
+      "player1": "Jacob Fearnley",
+      "player2": "Hugo Gaston",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jacob Fearnley",
+        "p2_name": "Hugo Gaston",
+        "p1_prob": 0.5346,
+        "p2_prob": 0.4654,
+        "predicted_winner": "Jacob Fearnley",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-20T19:48:31.375709+00:00",
+      "result": {
+        "winner": "Jacob Fearnley",
+        "correct": true,
+        "settled_at": "2026-10-20T19:48:31.375709+00:00"
+      }
+    },
+    "tml-2026-496-6": {
+      "match_id": "tml-2026-496-6",
+      "commence_time": "2026-10-20T00:00:00+00:00",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "player1": "Corentin Moutet",
+      "player2": "Ugo Humbert",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Corentin Moutet",
+        "p2_name": "Ugo Humbert",
+        "p1_prob": 0.3707,
+        "p2_prob": 0.6293,
+        "predicted_winner": "Ugo Humbert",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-20T19:48:31.485437+00:00",
+      "result": {
+        "winner": "Corentin Moutet",
+        "correct": false,
+        "settled_at": "2026-10-20T19:48:31.485437+00:00"
+      }
+    },
+    "tml-2026-9410-10": {
+      "match_id": "tml-2026-9410-10",
+      "commence_time": "2026-10-21T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Karen Khachanov",
+      "player2": "Rei Sakamoto",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Karen Khachanov",
+        "p2_name": "Rei Sakamoto",
+        "p1_prob": 0.5684,
+        "p2_prob": 0.4316,
+        "predicted_winner": "Karen Khachanov",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-20T19:48:31.594418+00:00",
+      "result": {
+        "winner": "Karen Khachanov",
+        "correct": true,
+        "settled_at": "2026-10-20T19:48:31.594418+00:00"
+      }
+    },
+    "tml-2026-496-7": {
+      "match_id": "tml-2026-496-7",
+      "commence_time": "2026-10-20T00:00:00+00:00",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "player1": "Daniel Altmaier",
+      "player2": "Titouan Droguet",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Daniel Altmaier",
+        "p2_name": "Titouan Droguet",
+        "p1_prob": 0.4839,
+        "p2_prob": 0.5161,
+        "predicted_winner": "Titouan Droguet",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-20T19:48:31.703139+00:00",
+      "result": {
+        "winner": "Daniel Altmaier",
+        "correct": false,
+        "settled_at": "2026-10-20T19:48:31.703139+00:00"
+      }
+    },
+    "tml-2026-7485-9": {
+      "match_id": "tml-2026-7485-9",
+      "commence_time": "2026-10-21T00:00:00+00:00",
+      "tournament": "Brussels",
+      "surface": "Hard",
+      "player1": "Zizou Bergs",
+      "player2": "Toby Samuel",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Zizou Bergs",
+        "p2_name": "Toby Samuel",
+        "p1_prob": 0.6989,
+        "p2_prob": 0.3011,
+        "predicted_winner": "Zizou Bergs",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-20T19:48:31.817809+00:00",
+      "result": {
+        "winner": "Zizou Bergs",
+        "correct": true,
+        "settled_at": "2026-10-20T19:48:31.817809+00:00"
+      }
+    },
+    "tml-2026-496-8": {
+      "match_id": "tml-2026-496-8",
+      "commence_time": "2026-10-20T00:00:00+00:00",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "player1": "Benjamin Bonzi",
+      "player2": "Cameron Norrie",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Benjamin Bonzi",
+        "p2_name": "Cameron Norrie",
+        "p1_prob": 0.3722,
+        "p2_prob": 0.6278,
+        "predicted_winner": "Cameron Norrie",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-20T19:48:32.161964+00:00",
+      "result": {
+        "winner": "Benjamin Bonzi",
+        "correct": false,
+        "settled_at": "2026-10-20T19:48:32.161964+00:00"
+      }
+    },
+    "tml-2026-496-9": {
+      "match_id": "tml-2026-496-9",
+      "commence_time": "2026-10-20T00:00:00+00:00",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "player1": "Luca Van Assche",
+      "player2": "Clement Tabur",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Luca Van Assche",
+        "p2_name": "Clement Tabur",
+        "p1_prob": 0.6201,
+        "p2_prob": 0.3799,
+        "predicted_winner": "Luca Van Assche",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-20T19:48:32.853316+00:00",
+      "result": {
+        "winner": "Luca Van Assche",
+        "correct": true,
+        "settled_at": "2026-10-20T19:48:32.853316+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-20T13:15:25.174082+00:00"
+  "last_updated": "2026-10-20T19:48:32.869692+00:00"
 }
