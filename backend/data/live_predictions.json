@@ -75203,7 +75203,157 @@
         "correct": true,
         "settled_at": "2026-10-21T03:03:21.954605+00:00"
       }
+    },
+    "tml-2026-9410-11": {
+      "match_id": "tml-2026-9410-11",
+      "commence_time": "2026-10-22T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "James Duckworth",
+      "player2": "Luciano Darderi",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "James Duckworth",
+        "p2_name": "Luciano Darderi",
+        "p1_prob": 0.3339,
+        "p2_prob": 0.6661,
+        "predicted_winner": "Luciano Darderi",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-21T13:23:00.301481+00:00",
+      "result": {
+        "winner": "James Duckworth",
+        "correct": false,
+        "settled_at": "2026-10-21T13:23:00.301481+00:00"
+      }
+    },
+    "tml-2026-9410-12": {
+      "match_id": "tml-2026-9410-12",
+      "commence_time": "2026-10-22T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Mattia Bellucci",
+      "player2": "Tomas Martin Etcheverry",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Mattia Bellucci",
+        "p2_name": "Tomas Martin Etcheverry",
+        "p1_prob": 0.3622,
+        "p2_prob": 0.6378,
+        "predicted_winner": "Tomas Martin Etcheverry",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-21T13:23:00.388311+00:00",
+      "result": {
+        "winner": "Mattia Bellucci",
+        "correct": false,
+        "settled_at": "2026-10-21T13:23:00.388311+00:00"
+      }
+    },
+    "tml-2026-9410-14": {
+      "match_id": "tml-2026-9410-14",
+      "commence_time": "2026-10-22T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Nikoloz Basilashvili",
+      "player2": "Facundo Diaz Acosta",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Nikoloz Basilashvili",
+        "p2_name": "Facundo Diaz Acosta",
+        "p1_prob": 0.5321,
+        "p2_prob": 0.4679,
+        "predicted_winner": "Nikoloz Basilashvili",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-21T13:23:00.474527+00:00",
+      "result": {
+        "winner": "Nikoloz Basilashvili",
+        "correct": true,
+        "settled_at": "2026-10-21T13:23:00.474527+00:00"
+      }
+    },
+    "tml-2026-7485-11": {
+      "match_id": "tml-2026-7485-11",
+      "commence_time": "2026-10-22T00:00:00+00:00",
+      "tournament": "Brussels",
+      "surface": "Hard",
+      "player1": "Francisco Cerundolo",
+      "player2": "Martin Damm",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Francisco Cerundolo",
+        "p2_name": "Martin Damm",
+        "p1_prob": 0.6271,
+        "p2_prob": 0.3729,
+        "predicted_winner": "Francisco Cerundolo",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-21T13:23:00.560385+00:00",
+      "result": {
+        "winner": "Francisco Cerundolo",
+        "correct": true,
+        "settled_at": "2026-10-21T13:23:00.560385+00:00"
+      }
+    },
+    "tml-2026-9410-15": {
+      "match_id": "tml-2026-9410-15",
+      "commence_time": "2026-10-22T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Adrian Mannarino",
+      "player2": "Andrey Rublev",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Adrian Mannarino",
+        "p2_name": "Andrey Rublev",
+        "p1_prob": 0.204,
+        "p2_prob": 0.796,
+        "predicted_winner": "Andrey Rublev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-21T13:23:00.646542+00:00",
+      "result": {
+        "winner": "Adrian Mannarino",
+        "correct": false,
+        "settled_at": "2026-10-21T13:23:00.646542+00:00"
+      }
+    },
+    "tml-2026-7485-12": {
+      "match_id": "tml-2026-7485-12",
+      "commence_time": "2026-10-22T00:00:00+00:00",
+      "tournament": "Brussels",
+      "surface": "Hard",
+      "player1": "Damir Dzumhur",
+      "player2": "Dino Prizmic",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Damir Dzumhur",
+        "p2_name": "Dino Prizmic",
+        "p1_prob": 0.3372,
+        "p2_prob": 0.6628,
+        "predicted_winner": "Dino Prizmic",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-21T13:23:00.732191+00:00",
+      "result": {
+        "winner": "Damir Dzumhur",
+        "correct": false,
+        "settled_at": "2026-10-21T13:23:00.732191+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-21T03:03:21.967914+00:00"
+  "last_updated": "2026-10-21T13:23:00.746362+00:00"
 }
