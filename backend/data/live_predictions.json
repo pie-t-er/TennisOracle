@@ -75353,7 +75353,107 @@
         "correct": false,
         "settled_at": "2026-10-21T13:23:00.732191+00:00"
       }
+    },
+    "tml-2026-7485-13": {
+      "match_id": "tml-2026-7485-13",
+      "commence_time": "2026-10-22T00:00:00+00:00",
+      "tournament": "Brussels",
+      "surface": "Hard",
+      "player1": "Tallon Griekspoor",
+      "player2": "Mariano Navone",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Tallon Griekspoor",
+        "p2_name": "Mariano Navone",
+        "p1_prob": 0.5291,
+        "p2_prob": 0.4709,
+        "predicted_winner": "Tallon Griekspoor",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-21T19:54:03.241386+00:00",
+      "result": {
+        "winner": "Tallon Griekspoor",
+        "correct": true,
+        "settled_at": "2026-10-21T19:54:03.241386+00:00"
+      }
+    },
+    "tml-2026-496-12": {
+      "match_id": "tml-2026-496-12",
+      "commence_time": "2026-10-21T00:00:00+00:00",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "player1": "Stan Wawrinka",
+      "player2": "Martin Landaluce",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Stan Wawrinka",
+        "p2_name": "Martin Landaluce",
+        "p1_prob": 0.3485,
+        "p2_prob": 0.6515,
+        "predicted_winner": "Martin Landaluce",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-21T19:54:03.328514+00:00",
+      "result": {
+        "winner": "Stan Wawrinka",
+        "correct": false,
+        "settled_at": "2026-10-21T19:54:03.328514+00:00"
+      }
+    },
+    "tml-2026-9410-16": {
+      "match_id": "tml-2026-9410-16",
+      "commence_time": "2026-10-22T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Stefanos Tsitsipas",
+      "player2": "Mikhail Kukushkin",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Stefanos Tsitsipas",
+        "p2_name": "Mikhail Kukushkin",
+        "p1_prob": 0.8173,
+        "p2_prob": 0.1827,
+        "predicted_winner": "Stefanos Tsitsipas",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-21T19:54:03.414711+00:00",
+      "result": {
+        "winner": "Stefanos Tsitsipas",
+        "correct": true,
+        "settled_at": "2026-10-21T19:54:03.414711+00:00"
+      }
+    },
+    "tml-2026-496-14": {
+      "match_id": "tml-2026-496-14",
+      "commence_time": "2026-10-21T00:00:00+00:00",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "player1": "Lorenzo Musetti",
+      "player2": "Moise Kouame",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Lorenzo Musetti",
+        "p2_name": "Moise Kouame",
+        "p1_prob": 0.6288,
+        "p2_prob": 0.3712,
+        "predicted_winner": "Lorenzo Musetti",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-21T19:54:03.501489+00:00",
+      "result": {
+        "winner": "Lorenzo Musetti",
+        "correct": true,
+        "settled_at": "2026-10-21T19:54:03.501489+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-21T13:23:00.746362+00:00"
+  "last_updated": "2026-10-21T19:54:03.514154+00:00"
 }
