@@ -75128,7 +75128,82 @@
         "correct": true,
         "settled_at": "2026-10-20T19:48:32.853316+00:00"
       }
+    },
+    "tml-2026-496-10": {
+      "match_id": "tml-2026-496-10",
+      "commence_time": "2026-10-20T00:00:00+00:00",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "player1": "Kyrian Jacquet",
+      "player2": "Matteo Berrettini",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Kyrian Jacquet",
+        "p2_name": "Matteo Berrettini",
+        "p1_prob": 0.2775,
+        "p2_prob": 0.7225,
+        "predicted_winner": "Matteo Berrettini",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-21T03:03:21.777886+00:00",
+      "result": {
+        "winner": "Kyrian Jacquet",
+        "correct": false,
+        "settled_at": "2026-10-21T03:03:21.777886+00:00"
+      }
+    },
+    "tml-2026-7485-10": {
+      "match_id": "tml-2026-7485-10",
+      "commence_time": "2026-10-21T00:00:00+00:00",
+      "tournament": "Brussels",
+      "surface": "Hard",
+      "player1": "Raphael Collignon",
+      "player2": "Nishesh Basavareddy",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Raphael Collignon",
+        "p2_name": "Nishesh Basavareddy",
+        "p1_prob": 0.5322,
+        "p2_prob": 0.4678,
+        "predicted_winner": "Raphael Collignon",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-21T03:03:21.866614+00:00",
+      "result": {
+        "winner": "Raphael Collignon",
+        "correct": true,
+        "settled_at": "2026-10-21T03:03:21.866614+00:00"
+      }
+    },
+    "tml-2026-496-11": {
+      "match_id": "tml-2026-496-11",
+      "commence_time": "2026-10-20T00:00:00+00:00",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "player1": "Brandon Nakashima",
+      "player2": "Hamad Medjedovic",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Brandon Nakashima",
+        "p2_name": "Hamad Medjedovic",
+        "p1_prob": 0.5965,
+        "p2_prob": 0.4035,
+        "predicted_winner": "Brandon Nakashima",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-21T03:03:21.954605+00:00",
+      "result": {
+        "winner": "Brandon Nakashima",
+        "correct": true,
+        "settled_at": "2026-10-21T03:03:21.954605+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-20T19:48:32.869692+00:00"
+  "last_updated": "2026-10-21T03:03:21.967914+00:00"
 }
