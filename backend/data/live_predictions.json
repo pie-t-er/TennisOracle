@@ -75478,7 +75478,82 @@
         "correct": true,
         "settled_at": "2026-10-22T03:02:12.151221+00:00"
       }
+    },
+    "tml-2026-9410-17": {
+      "match_id": "tml-2026-9410-17",
+      "commence_time": "2026-10-23T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Terence Atmane",
+      "player2": "Mattia Bellucci",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Terence Atmane",
+        "p2_name": "Mattia Bellucci",
+        "p1_prob": 0.5894,
+        "p2_prob": 0.4106,
+        "predicted_winner": "Terence Atmane",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-22T13:23:44.474045+00:00",
+      "result": {
+        "winner": "Terence Atmane",
+        "correct": true,
+        "settled_at": "2026-10-22T13:23:44.474045+00:00"
+      }
+    },
+    "tml-2026-9410-18": {
+      "match_id": "tml-2026-9410-18",
+      "commence_time": "2026-10-23T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Karen Khachanov",
+      "player2": "Tomas Machac",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Karen Khachanov",
+        "p2_name": "Tomas Machac",
+        "p1_prob": 0.5244,
+        "p2_prob": 0.4756,
+        "predicted_winner": "Karen Khachanov",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-22T13:23:44.560603+00:00",
+      "result": {
+        "winner": "Karen Khachanov",
+        "correct": true,
+        "settled_at": "2026-10-22T13:23:44.560603+00:00"
+      }
+    },
+    "tml-2026-7485-17": {
+      "match_id": "tml-2026-7485-17",
+      "commence_time": "2026-10-23T00:00:00+00:00",
+      "tournament": "Brussels",
+      "surface": "Hard",
+      "player1": "Jiri Lehecka",
+      "player2": "Raphael Collignon",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Raphael Collignon",
+        "p1_prob": 0.6791,
+        "p2_prob": 0.3209,
+        "predicted_winner": "Jiri Lehecka",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-22T13:23:44.646892+00:00",
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": true,
+        "settled_at": "2026-10-22T13:23:44.646892+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-22T03:02:12.168928+00:00"
+  "last_updated": "2026-10-22T13:23:44.661739+00:00"
 }
