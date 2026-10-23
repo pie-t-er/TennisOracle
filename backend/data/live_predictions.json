@@ -75853,7 +75853,157 @@
         "correct": true,
         "settled_at": "2026-10-23T13:02:14.093258+00:00"
       }
+    },
+    "tml-2026-496-21": {
+      "match_id": "tml-2026-496-21",
+      "commence_time": "2026-10-23T00:00:00+00:00",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "player1": "Tommy Paul",
+      "player2": "Corentin Moutet",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Tommy Paul",
+        "p2_name": "Corentin Moutet",
+        "p1_prob": 0.6977,
+        "p2_prob": 0.3023,
+        "predicted_winner": "Tommy Paul",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-23T19:44:43.447016+00:00",
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": true,
+        "settled_at": "2026-10-23T19:44:43.447016+00:00"
+      }
+    },
+    "tml-2026-7485-22": {
+      "match_id": "tml-2026-7485-22",
+      "commence_time": "2026-10-23T00:00:00+00:00",
+      "tournament": "Brussels",
+      "surface": "Hard",
+      "player1": "Tallon Griekspoor",
+      "player2": "Jiri Lehecka",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Tallon Griekspoor",
+        "p2_name": "Jiri Lehecka",
+        "p1_prob": 0.3232,
+        "p2_prob": 0.6768,
+        "predicted_winner": "Jiri Lehecka",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-23T19:44:43.558460+00:00",
+      "result": {
+        "winner": "Tallon Griekspoor",
+        "correct": false,
+        "settled_at": "2026-10-23T19:44:43.558460+00:00"
+      }
+    },
+    "tml-2026-496-22": {
+      "match_id": "tml-2026-496-22",
+      "commence_time": "2026-10-23T00:00:00+00:00",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "player1": "Taylor Fritz",
+      "player2": "Daniel Altmaier",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Daniel Altmaier",
+        "p1_prob": 0.7252,
+        "p2_prob": 0.2748,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-23T19:44:43.667711+00:00",
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-10-23T19:44:43.667711+00:00"
+      }
+    },
+    "tml-2026-9410-24": {
+      "match_id": "tml-2026-9410-24",
+      "commence_time": "2026-10-23T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Alexander Bublik",
+      "player2": "Karen Khachanov",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alexander Bublik",
+        "p2_name": "Karen Khachanov",
+        "p1_prob": 0.5824,
+        "p2_prob": 0.4176,
+        "predicted_winner": "Alexander Bublik",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-23T19:44:43.782651+00:00",
+      "result": {
+        "winner": "Alexander Bublik",
+        "correct": true,
+        "settled_at": "2026-10-23T19:44:43.782651+00:00"
+      }
+    },
+    "tml-2026-7485-23": {
+      "match_id": "tml-2026-7485-23",
+      "commence_time": "2026-10-23T00:00:00+00:00",
+      "tournament": "Brussels",
+      "surface": "Hard",
+      "player1": "Arthur Fils",
+      "player2": "Alex Michelsen",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Arthur Fils",
+        "p2_name": "Alex Michelsen",
+        "p1_prob": 0.586,
+        "p2_prob": 0.414,
+        "predicted_winner": "Arthur Fils",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-23T19:44:43.937182+00:00",
+      "result": {
+        "winner": "Arthur Fils",
+        "correct": true,
+        "settled_at": "2026-10-23T19:44:43.937182+00:00"
+      }
+    },
+    "tml-2026-496-23": {
+      "match_id": "tml-2026-496-23",
+      "commence_time": "2026-10-23T00:00:00+00:00",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "player1": "Flavio Cobolli",
+      "player2": "Brandon Nakashima",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Flavio Cobolli",
+        "p2_name": "Brandon Nakashima",
+        "p1_prob": 0.5201,
+        "p2_prob": 0.4799,
+        "predicted_winner": "Flavio Cobolli",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-23T19:44:44.049232+00:00",
+      "result": {
+        "winner": "Flavio Cobolli",
+        "correct": true,
+        "settled_at": "2026-10-23T19:44:44.049232+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-23T13:02:14.106260+00:00"
+  "last_updated": "2026-10-23T19:44:44.066259+00:00"
 }
