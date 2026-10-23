@@ -75803,7 +75803,57 @@
         "correct": true,
         "settled_at": "2026-10-23T03:06:32.428459+00:00"
       }
+    },
+    "tml-2026-9410-22": {
+      "match_id": "tml-2026-9410-22",
+      "commence_time": "2026-10-23T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Stefanos Tsitsipas",
+      "player2": "James Duckworth",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Stefanos Tsitsipas",
+        "p2_name": "James Duckworth",
+        "p1_prob": 0.7274,
+        "p2_prob": 0.2726,
+        "predicted_winner": "Stefanos Tsitsipas",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-23T13:02:14.005336+00:00",
+      "result": {
+        "winner": "Stefanos Tsitsipas",
+        "correct": true,
+        "settled_at": "2026-10-23T13:02:14.005336+00:00"
+      }
+    },
+    "tml-2026-9410-23": {
+      "match_id": "tml-2026-9410-23",
+      "commence_time": "2026-10-23T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Daniil Medvedev",
+      "player2": "Terence Atmane",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Terence Atmane",
+        "p1_prob": 0.8031,
+        "p2_prob": 0.1969,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-23T13:02:14.093258+00:00",
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-10-23T13:02:14.093258+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-23T03:06:32.447499+00:00"
+  "last_updated": "2026-10-23T13:02:14.106260+00:00"
 }
