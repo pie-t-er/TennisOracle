@@ -76003,7 +76003,57 @@
         "correct": true,
         "settled_at": "2026-10-23T19:44:44.049232+00:00"
       }
+    },
+    "tml-2026-7485-24": {
+      "match_id": "tml-2026-7485-24",
+      "commence_time": "2026-10-23T00:00:00+00:00",
+      "tournament": "Brussels",
+      "surface": "Hard",
+      "player1": "Jan-Lennard Struff",
+      "player2": "Zizou Bergs",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jan-Lennard Struff",
+        "p2_name": "Zizou Bergs",
+        "p1_prob": 0.3587,
+        "p2_prob": 0.6413,
+        "predicted_winner": "Zizou Bergs",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-24T03:01:49.040931+00:00",
+      "result": {
+        "winner": "Jan-Lennard Struff",
+        "correct": false,
+        "settled_at": "2026-10-24T03:01:49.040931+00:00"
+      }
+    },
+    "tml-2026-496-24": {
+      "match_id": "tml-2026-496-24",
+      "commence_time": "2026-10-23T00:00:00+00:00",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "player1": "Lorenzo Musetti",
+      "player2": "Luca Van Assche",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Lorenzo Musetti",
+        "p2_name": "Luca Van Assche",
+        "p1_prob": 0.7161,
+        "p2_prob": 0.2839,
+        "predicted_winner": "Lorenzo Musetti",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-24T03:01:49.113941+00:00",
+      "result": {
+        "winner": "Lorenzo Musetti",
+        "correct": true,
+        "settled_at": "2026-10-24T03:01:49.113941+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-23T19:44:44.066259+00:00"
+  "last_updated": "2026-10-24T03:01:49.125744+00:00"
 }
