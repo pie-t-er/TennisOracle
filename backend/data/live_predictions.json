@@ -76053,7 +76053,132 @@
         "correct": true,
         "settled_at": "2026-10-24T03:01:49.113941+00:00"
       }
+    },
+    "tml-2026-9410-25": {
+      "match_id": "tml-2026-9410-25",
+      "commence_time": "2026-10-24T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Nikoloz Basilashvili",
+      "player2": "Stefanos Tsitsipas",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Nikoloz Basilashvili",
+        "p2_name": "Stefanos Tsitsipas",
+        "p1_prob": 0.2534,
+        "p2_prob": 0.7466,
+        "predicted_winner": "Stefanos Tsitsipas",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-24T18:33:26.001646+00:00",
+      "result": {
+        "winner": "Nikoloz Basilashvili",
+        "correct": false,
+        "settled_at": "2026-10-24T18:33:26.001646+00:00"
+      }
+    },
+    "tml-2026-9410-26": {
+      "match_id": "tml-2026-9410-26",
+      "commence_time": "2026-10-24T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Daniil Medvedev",
+      "player2": "Alexander Bublik",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Alexander Bublik",
+        "p1_prob": 0.6601,
+        "p2_prob": 0.3399,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-24T18:33:26.113002+00:00",
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-10-24T18:33:26.113002+00:00"
+      }
+    },
+    "tml-2026-496-25": {
+      "match_id": "tml-2026-496-25",
+      "commence_time": "2026-10-24T00:00:00+00:00",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "player1": "Taylor Fritz",
+      "player2": "Tommy Paul",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Tommy Paul",
+        "p1_prob": 0.5736,
+        "p2_prob": 0.4264,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-24T18:33:26.225087+00:00",
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-10-24T18:33:26.225087+00:00"
+      }
+    },
+    "tml-2026-7485-25": {
+      "match_id": "tml-2026-7485-25",
+      "commence_time": "2026-10-24T00:00:00+00:00",
+      "tournament": "Brussels",
+      "surface": "Hard",
+      "player1": "Tallon Griekspoor",
+      "player2": "Francisco Cerundolo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Tallon Griekspoor",
+        "p2_name": "Francisco Cerundolo",
+        "p1_prob": 0.369,
+        "p2_prob": 0.631,
+        "predicted_winner": "Francisco Cerundolo",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-24T18:33:26.342131+00:00",
+      "result": {
+        "winner": "Tallon Griekspoor",
+        "correct": false,
+        "settled_at": "2026-10-24T18:33:26.342131+00:00"
+      }
+    },
+    "tml-2026-496-26": {
+      "match_id": "tml-2026-496-26",
+      "commence_time": "2026-10-24T00:00:00+00:00",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "player1": "Lorenzo Musetti",
+      "player2": "Flavio Cobolli",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Lorenzo Musetti",
+        "p2_name": "Flavio Cobolli",
+        "p1_prob": 0.4889,
+        "p2_prob": 0.5111,
+        "predicted_winner": "Flavio Cobolli",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-24T18:33:26.500342+00:00",
+      "result": {
+        "winner": "Lorenzo Musetti",
+        "correct": false,
+        "settled_at": "2026-10-24T18:33:26.500342+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-24T03:01:49.125744+00:00"
+  "last_updated": "2026-10-24T18:33:26.517577+00:00"
 }
