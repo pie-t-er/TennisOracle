@@ -76228,7 +76228,57 @@
         "correct": true,
         "settled_at": "2026-10-25T12:55:27.994572+00:00"
       }
+    },
+    "tml-2026-496-27": {
+      "match_id": "tml-2026-496-27",
+      "commence_time": "2026-10-25T00:00:00+00:00",
+      "tournament": "Lyon",
+      "surface": "Hard",
+      "player1": "Lorenzo Musetti",
+      "player2": "Taylor Fritz",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Lorenzo Musetti",
+        "p2_name": "Taylor Fritz",
+        "p1_prob": 0.4636,
+        "p2_prob": 0.5364,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-25T18:41:50.033319+00:00",
+      "result": {
+        "winner": "Lorenzo Musetti",
+        "correct": false,
+        "settled_at": "2026-10-25T18:41:50.033319+00:00"
+      }
+    },
+    "tml-2026-7485-27": {
+      "match_id": "tml-2026-7485-27",
+      "commence_time": "2026-10-25T00:00:00+00:00",
+      "tournament": "Brussels",
+      "surface": "Hard",
+      "player1": "Tallon Griekspoor",
+      "player2": "Jan-Lennard Struff",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Tallon Griekspoor",
+        "p2_name": "Jan-Lennard Struff",
+        "p1_prob": 0.5743,
+        "p2_prob": 0.4257,
+        "predicted_winner": "Tallon Griekspoor",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-25T18:41:50.144968+00:00",
+      "result": {
+        "winner": "Tallon Griekspoor",
+        "correct": true,
+        "settled_at": "2026-10-25T18:41:50.144968+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-25T12:55:28.006211+00:00"
+  "last_updated": "2026-10-25T18:41:50.161336+00:00"
 }
