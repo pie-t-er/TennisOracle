@@ -76203,7 +76203,32 @@
         "correct": false,
         "settled_at": "2026-10-25T02:55:46.815608+00:00"
       }
+    },
+    "tml-2026-9410-27": {
+      "match_id": "tml-2026-9410-27",
+      "commence_time": "2026-10-25T00:00:00+00:00",
+      "tournament": "Almaty",
+      "surface": "Hard",
+      "player1": "Daniil Medvedev",
+      "player2": "Nikoloz Basilashvili",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Nikoloz Basilashvili",
+        "p1_prob": 0.8531,
+        "p2_prob": 0.1469,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-25T12:55:27.994572+00:00",
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-10-25T12:55:27.994572+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-25T02:55:46.829153+00:00"
+  "last_updated": "2026-10-25T12:55:28.006211+00:00"
 }
