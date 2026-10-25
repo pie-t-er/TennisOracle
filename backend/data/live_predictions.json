@@ -76178,7 +76178,32 @@
         "correct": false,
         "settled_at": "2026-10-24T18:33:26.500342+00:00"
       }
+    },
+    "tml-2026-7485-26": {
+      "match_id": "tml-2026-7485-26",
+      "commence_time": "2026-10-24T00:00:00+00:00",
+      "tournament": "Brussels",
+      "surface": "Hard",
+      "player1": "Jan-Lennard Struff",
+      "player2": "Arthur Fils",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jan-Lennard Struff",
+        "p2_name": "Arthur Fils",
+        "p1_prob": 0.1983,
+        "p2_prob": 0.8017,
+        "predicted_winner": "Arthur Fils",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-25T02:55:46.815608+00:00",
+      "result": {
+        "winner": "Jan-Lennard Struff",
+        "correct": false,
+        "settled_at": "2026-10-25T02:55:46.815608+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-24T18:33:26.517577+00:00"
+  "last_updated": "2026-10-25T02:55:46.829153+00:00"
 }
