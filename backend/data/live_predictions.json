@@ -76278,7 +76278,3673 @@
         "correct": true,
         "settled_at": "2026-10-25T18:41:50.144968+00:00"
       }
+    },
+    "4fcca39f1c6a31253c07fe75fbb849c8": {
+      "match_id": "4fcca39f1c6a31253c07fe75fbb849c8",
+      "commence_time": "2026-10-26T12:38:08Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Valentin Vacherot",
+      "player2": "Mariano Navone",
+      "bookmakers": {
+        "pinnacle": {
+          "Mariano Navone": 5.31,
+          "Valentin Vacherot": 1.2
+        },
+        "bovada": {
+          "Mariano Navone": 19.0,
+          "Valentin Vacherot": 1.0
+        },
+        "matchbook": {
+          "Mariano Navone": 25.0,
+          "Valentin Vacherot": 1.02
+        },
+        "leovegas_se": {
+          "Mariano Navone": 9.0,
+          "Valentin Vacherot": 1.02
+        },
+        "pmu_fr": {
+          "Mariano Navone": 7.5,
+          "Valentin Vacherot": 1.02
+        },
+        "betfair_ex_eu": {
+          "Mariano Navone": 12.0,
+          "Valentin Vacherot": 1.08
+        },
+        "fanduel": {
+          "Mariano Navone": 16.0,
+          "Valentin Vacherot": 1.02
+        },
+        "unibet_se": {
+          "Mariano Navone": 9.0,
+          "Valentin Vacherot": 1.06
+        },
+        "unibet_nl": {
+          "Mariano Navone": 9.0,
+          "Valentin Vacherot": 1.06
+        },
+        "sport888": {
+          "Mariano Navone": 15.0,
+          "Valentin Vacherot": 1.01
+        },
+        "betmgm": {
+          "Mariano Navone": 16.0,
+          "Valentin Vacherot": 1.01
+        },
+        "winamax_fr": {
+          "Mariano Navone": 19.0,
+          "Valentin Vacherot": 1.01
+        },
+        "winamax_de": {
+          "Mariano Navone": 20.0,
+          "Valentin Vacherot": 1.01
+        },
+        "betrivers": {
+          "Mariano Navone": 9.0,
+          "Valentin Vacherot": 1.04
+        },
+        "draftkings": {
+          "Mariano Navone": 20.2,
+          "Valentin Vacherot": 1.03
+        },
+        "unibet_fr": {
+          "Mariano Navone": 8.75,
+          "Valentin Vacherot": 1.02
+        },
+        "williamhill": {
+          "Mariano Navone": 8.0,
+          "Valentin Vacherot": 1.06
+        },
+        "coolbet": {
+          "Mariano Navone": 14.75,
+          "Valentin Vacherot": 1.04
+        },
+        "betsson": {
+          "Mariano Navone": 8.75,
+          "Valentin Vacherot": 1.05
+        },
+        "nordicbet": {
+          "Mariano Navone": 12.0,
+          "Valentin Vacherot": 1.01
+        },
+        "tipico_de": {
+          "Mariano Navone": 7.0,
+          "Valentin Vacherot": 1.06
+        },
+        "betclic_fr": {
+          "Mariano Navone": 13.5,
+          "Valentin Vacherot": 1.0
+        },
+        "marathonbet": {
+          "Mariano Navone": 9.8,
+          "Valentin Vacherot": 1.05
+        }
+      },
+      "prediction": {
+        "p1_name": "Valentin Vacherot",
+        "p2_name": "Mariano Navone",
+        "p1_prob": 0.6651,
+        "p2_prob": 0.3349,
+        "predicted_winner": "Valentin Vacherot",
+        "confidence": "high",
+        "p1_edge": -0.1682,
+        "p2_edge": 0.2949
+      },
+      "collected_at": "2026-10-26T14:48:02.100149+00:00",
+      "result": null
+    },
+    "fc557e2864fbe07964a9d288a81d5009": {
+      "match_id": "fc557e2864fbe07964a9d288a81d5009",
+      "commence_time": "2026-10-26T14:00:57Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Daniel Altmaier",
+      "player2": "Juan Manuel Cerundolo",
+      "bookmakers": {
+        "pinnacle": {
+          "Daniel Altmaier": 2.24,
+          "Juan Manuel Cerundolo": 1.69
+        },
+        "bovada": {
+          "Daniel Altmaier": 2.2,
+          "Juan Manuel Cerundolo": 1.69
+        },
+        "matchbook": {
+          "Daniel Altmaier": 2.26,
+          "Juan Manuel Cerundolo": 1.74
+        },
+        "leovegas_se": {
+          "Daniel Altmaier": 2.02,
+          "Juan Manuel Cerundolo": 1.66
+        },
+        "pmu_fr": {
+          "Daniel Altmaier": 1.97,
+          "Juan Manuel Cerundolo": 1.63
+        },
+        "betfair_ex_eu": {
+          "Daniel Altmaier": 2.44,
+          "Juan Manuel Cerundolo": 1.68
+        },
+        "fanduel": {
+          "Daniel Altmaier": 2.1,
+          "Juan Manuel Cerundolo": 1.71
+        },
+        "unibet_se": {
+          "Daniel Altmaier": 2.0,
+          "Juan Manuel Cerundolo": 1.79
+        },
+        "unibet_nl": {
+          "Daniel Altmaier": 2.0,
+          "Juan Manuel Cerundolo": 1.79
+        },
+        "sport888": {
+          "Daniel Altmaier": 2.2,
+          "Juan Manuel Cerundolo": 1.61
+        },
+        "betmgm": {
+          "Daniel Altmaier": 2.1,
+          "Juan Manuel Cerundolo": 1.67
+        },
+        "winamax_fr": {
+          "Daniel Altmaier": 2.1,
+          "Juan Manuel Cerundolo": 1.54
+        },
+        "winamax_de": {
+          "Daniel Altmaier": 2.1,
+          "Juan Manuel Cerundolo": 1.64
+        },
+        "betrivers": {
+          "Daniel Altmaier": 2.08,
+          "Juan Manuel Cerundolo": 1.72
+        },
+        "draftkings": {
+          "Daniel Altmaier": 2.19,
+          "Juan Manuel Cerundolo": 1.66
+        },
+        "unibet_fr": {
+          "Daniel Altmaier": 2.0,
+          "Juan Manuel Cerundolo": 1.47
+        },
+        "williamhill": {
+          "Daniel Altmaier": 2.25,
+          "Juan Manuel Cerundolo": 1.6
+        },
+        "coolbet": {
+          "Daniel Altmaier": 2.25,
+          "Juan Manuel Cerundolo": 1.65
+        },
+        "betsson": {
+          "Daniel Altmaier": 2.25,
+          "Juan Manuel Cerundolo": 1.6
+        },
+        "nordicbet": {
+          "Daniel Altmaier": 2.3,
+          "Juan Manuel Cerundolo": 1.6
+        },
+        "tipico_de": {
+          "Daniel Altmaier": 2.2,
+          "Juan Manuel Cerundolo": 1.6
+        },
+        "betclic_fr": {
+          "Daniel Altmaier": 2.1,
+          "Juan Manuel Cerundolo": 1.57
+        },
+        "marathonbet": {
+          "Daniel Altmaier": 2.17,
+          "Juan Manuel Cerundolo": 1.67
+        }
+      },
+      "prediction": {
+        "p1_name": "Daniel Altmaier",
+        "p2_name": "Juan Manuel Cerundolo",
+        "p1_prob": 0.4628,
+        "p2_prob": 0.5372,
+        "predicted_winner": "Juan Manuel Cerundolo",
+        "confidence": "low",
+        "p1_edge": 0.053,
+        "p2_edge": -0.0215
+      },
+      "collected_at": "2026-10-26T14:48:02.213007+00:00",
+      "result": null
+    },
+    "7484e86bb920b4e17ec18fde7f1487a5": {
+      "match_id": "7484e86bb920b4e17ec18fde7f1487a5",
+      "commence_time": "2026-10-26T14:50:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Holger Rune",
+      "player2": "Quentin Halys",
+      "bookmakers": {
+        "lowvig": {
+          "Holger Rune": 1.83,
+          "Quentin Halys": 2.0
+        },
+        "pinnacle": {
+          "Holger Rune": 1.91,
+          "Quentin Halys": 1.97
+        },
+        "betanysports": {
+          "Holger Rune": 1.91,
+          "Quentin Halys": 1.91
+        },
+        "bovada": {
+          "Holger Rune": 1.91,
+          "Quentin Halys": 1.91
+        },
+        "matchbook": {
+          "Holger Rune": 1.93,
+          "Quentin Halys": 2.04
+        },
+        "leovegas_se": {
+          "Holger Rune": 1.88,
+          "Quentin Halys": 1.91
+        },
+        "pmu_fr": {
+          "Holger Rune": 1.8,
+          "Quentin Halys": 1.83
+        },
+        "betfair_ex_eu": {
+          "Holger Rune": 1.92,
+          "Quentin Halys": 2.06
+        },
+        "fanduel": {
+          "Holger Rune": 1.89,
+          "Quentin Halys": 1.93
+        },
+        "betonlineag": {
+          "Holger Rune": 1.83,
+          "Quentin Halys": 2.0
+        },
+        "unibet_se": {
+          "Holger Rune": 1.88,
+          "Quentin Halys": 1.91
+        },
+        "unibet_nl": {
+          "Holger Rune": 1.88,
+          "Quentin Halys": 1.91
+        },
+        "betus": {
+          "Holger Rune": 1.86,
+          "Quentin Halys": 1.88
+        },
+        "sport888": {
+          "Holger Rune": 1.85,
+          "Quentin Halys": 1.95
+        },
+        "betmgm": {
+          "Holger Rune": 1.85,
+          "Quentin Halys": 1.91
+        },
+        "winamax_fr": {
+          "Holger Rune": 1.82,
+          "Quentin Halys": 1.9
+        },
+        "winamax_de": {
+          "Holger Rune": 1.88,
+          "Quentin Halys": 1.98
+        },
+        "betrivers": {
+          "Holger Rune": 1.88,
+          "Quentin Halys": 1.91
+        },
+        "draftkings": {
+          "Holger Rune": 1.91,
+          "Quentin Halys": 1.9
+        },
+        "unibet_fr": {
+          "Holger Rune": 1.88,
+          "Quentin Halys": 1.86
+        },
+        "williamhill": {
+          "Holger Rune": 1.85,
+          "Quentin Halys": 1.95
+        },
+        "coolbet": {
+          "Holger Rune": 1.85,
+          "Quentin Halys": 1.96
+        },
+        "betsson": {
+          "Holger Rune": 1.88,
+          "Quentin Halys": 1.89
+        },
+        "nordicbet": {
+          "Holger Rune": 1.88,
+          "Quentin Halys": 1.89
+        },
+        "tipico_de": {
+          "Holger Rune": 1.9,
+          "Quentin Halys": 1.8
+        },
+        "onexbet": {
+          "Holger Rune": 1.91,
+          "Quentin Halys": 1.94
+        },
+        "betclic_fr": {
+          "Holger Rune": 1.79,
+          "Quentin Halys": 1.88
+        },
+        "marathonbet": {
+          "Holger Rune": 1.88,
+          "Quentin Halys": 1.91
+        }
+      },
+      "prediction": {
+        "p1_name": "Holger Rune",
+        "p2_name": "Quentin Halys",
+        "p1_prob": 0.7964,
+        "p2_prob": 0.2036,
+        "predicted_winner": "Holger Rune",
+        "confidence": "high",
+        "p1_edge": 0.2783,
+        "p2_edge": -0.2818
+      },
+      "collected_at": "2026-10-26T14:48:02.325415+00:00",
+      "result": null
+    },
+    "4e0a2e9c11be94414228a1a7579f4f8b": {
+      "match_id": "4e0a2e9c11be94414228a1a7579f4f8b",
+      "commence_time": "2026-10-26T19:00:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Dominic Stephan Stricker",
+      "player2": "Casper Ruud",
+      "bookmakers": {
+        "lowvig": {
+          "Casper Ruud": 1.38,
+          "Dominic Stephan Stricker": 3.14
+        },
+        "pinnacle": {
+          "Casper Ruud": 1.38,
+          "Dominic Stephan Stricker": 3.3
+        },
+        "betanysports": {
+          "Casper Ruud": 1.38,
+          "Dominic Stephan Stricker": 3.1
+        },
+        "bovada": {
+          "Casper Ruud": 1.38,
+          "Dominic Stephan Stricker": 3.1
+        },
+        "matchbook": {
+          "Casper Ruud": 1.39,
+          "Dominic Stephan Stricker": 3.45
+        },
+        "leovegas_se": {
+          "Casper Ruud": 1.36,
+          "Dominic Stephan Stricker": 3.1
+        },
+        "pmu_fr": {
+          "Casper Ruud": 1.3,
+          "Dominic Stephan Stricker": 2.95
+        },
+        "betfair_ex_eu": {
+          "Casper Ruud": 1.39,
+          "Dominic Stephan Stricker": 3.45
+        },
+        "fanduel": {
+          "Casper Ruud": 1.32,
+          "Dominic Stephan Stricker": 3.4
+        },
+        "betonlineag": {
+          "Casper Ruud": 1.38,
+          "Dominic Stephan Stricker": 3.14
+        },
+        "unibet_se": {
+          "Casper Ruud": 1.36,
+          "Dominic Stephan Stricker": 3.1
+        },
+        "unibet_nl": {
+          "Casper Ruud": 1.36,
+          "Dominic Stephan Stricker": 3.1
+        },
+        "betus": {
+          "Casper Ruud": 1.36,
+          "Dominic Stephan Stricker": 3.23
+        },
+        "sport888": {
+          "Casper Ruud": 1.36,
+          "Dominic Stephan Stricker": 3.1
+        },
+        "winamax_fr": {
+          "Casper Ruud": 1.37,
+          "Dominic Stephan Stricker": 2.9
+        },
+        "winamax_de": {
+          "Casper Ruud": 1.41,
+          "Dominic Stephan Stricker": 3.05
+        },
+        "betrivers": {
+          "Casper Ruud": 1.36,
+          "Dominic Stephan Stricker": 3.1
+        },
+        "draftkings": {
+          "Casper Ruud": 1.37,
+          "Dominic Stephan Stricker": 3.15
+        },
+        "unibet_fr": {
+          "Casper Ruud": 1.35,
+          "Dominic Stephan Stricker": 2.85
+        },
+        "williamhill": {
+          "Casper Ruud": 1.36,
+          "Dominic Stephan Stricker": 3.1
+        },
+        "betmgm": {
+          "Casper Ruud": 1.36,
+          "Dominic Stephan Stricker": 3.1
+        },
+        "coolbet": {
+          "Casper Ruud": 1.37,
+          "Dominic Stephan Stricker": 3.1
+        },
+        "betsson": {
+          "Casper Ruud": 1.37,
+          "Dominic Stephan Stricker": 3.0
+        },
+        "nordicbet": {
+          "Casper Ruud": 1.37,
+          "Dominic Stephan Stricker": 3.0
+        },
+        "onexbet": {
+          "Casper Ruud": 1.38,
+          "Dominic Stephan Stricker": 3.17
+        },
+        "tipico_de": {
+          "Casper Ruud": 1.32,
+          "Dominic Stephan Stricker": 3.1
+        },
+        "betclic_fr": {
+          "Casper Ruud": 1.36,
+          "Dominic Stephan Stricker": 2.98
+        },
+        "marathonbet": {
+          "Casper Ruud": 1.36,
+          "Dominic Stephan Stricker": 3.12
+        }
+      },
+      "prediction": {
+        "p1_name": "Dominic Stricker",
+        "p2_name": "Casper Ruud",
+        "p1_prob": 0.1994,
+        "p2_prob": 0.8006,
+        "predicted_winner": "Casper Ruud",
+        "confidence": "high",
+        "p1_edge": -0.0905,
+        "p2_edge": 0.0914
+      },
+      "collected_at": "2026-10-26T14:48:02.437836+00:00",
+      "result": null
+    },
+    "36ef4cd7da7144b2b8560ee591755aea": {
+      "match_id": "36ef4cd7da7144b2b8560ee591755aea",
+      "commence_time": "2026-10-27T11:00:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Hubert Hurkacz",
+      "player2": "Zizou Bergs",
+      "bookmakers": {
+        "lowvig": {
+          "Hubert Hurkacz": 1.59,
+          "Zizou Bergs": 2.47
+        },
+        "bovada": {
+          "Hubert Hurkacz": 1.57,
+          "Zizou Bergs": 2.45
+        },
+        "leovegas_se": {
+          "Hubert Hurkacz": 1.51,
+          "Zizou Bergs": 2.55
+        },
+        "pmu_fr": {
+          "Hubert Hurkacz": 1.44,
+          "Zizou Bergs": 2.43
+        },
+        "betfair_ex_eu": {
+          "Hubert Hurkacz": 1.62,
+          "Zizou Bergs": 2.36
+        },
+        "fanduel": {
+          "Hubert Hurkacz": 1.58,
+          "Zizou Bergs": 2.4
+        },
+        "betonlineag": {
+          "Hubert Hurkacz": 1.59,
+          "Zizou Bergs": 2.47
+        },
+        "unibet_se": {
+          "Hubert Hurkacz": 1.51,
+          "Zizou Bergs": 2.55
+        },
+        "unibet_nl": {
+          "Hubert Hurkacz": 1.51,
+          "Zizou Bergs": 2.55
+        },
+        "sport888": {
+          "Hubert Hurkacz": 1.57,
+          "Zizou Bergs": 2.38
+        },
+        "winamax_fr": {
+          "Hubert Hurkacz": 1.52,
+          "Zizou Bergs": 2.25
+        },
+        "winamax_de": {
+          "Hubert Hurkacz": 1.56,
+          "Zizou Bergs": 2.35
+        },
+        "betrivers": {
+          "Hubert Hurkacz": 1.51,
+          "Zizou Bergs": 2.55
+        },
+        "draftkings": {
+          "Hubert Hurkacz": 1.56,
+          "Zizou Bergs": 2.46
+        },
+        "betmgm": {
+          "Hubert Hurkacz": 1.57,
+          "Zizou Bergs": 2.35
+        },
+        "unibet_fr": {
+          "Hubert Hurkacz": 1.51,
+          "Zizou Bergs": 2.25
+        },
+        "williamhill": {
+          "Hubert Hurkacz": 1.57,
+          "Zizou Bergs": 2.38
+        },
+        "betsson": {
+          "Hubert Hurkacz": 1.57,
+          "Zizou Bergs": 2.37
+        },
+        "nordicbet": {
+          "Hubert Hurkacz": 1.57,
+          "Zizou Bergs": 2.37
+        },
+        "tipico_de": {
+          "Hubert Hurkacz": 1.52,
+          "Zizou Bergs": 2.35
+        },
+        "onexbet": {
+          "Hubert Hurkacz": 1.58,
+          "Zizou Bergs": 2.44
+        },
+        "betclic_fr": {
+          "Hubert Hurkacz": 1.52,
+          "Zizou Bergs": 2.26
+        },
+        "marathonbet": {
+          "Hubert Hurkacz": 1.56,
+          "Zizou Bergs": 2.41
+        },
+        "coolbet": {
+          "Hubert Hurkacz": 1.57,
+          "Zizou Bergs": 2.42
+        }
+      },
+      "prediction": {
+        "p1_name": "Hubert Hurkacz",
+        "p2_name": "Zizou Bergs",
+        "p1_prob": 0.5541,
+        "p2_prob": 0.4459,
+        "predicted_winner": "Hubert Hurkacz",
+        "confidence": "medium",
+        "p1_edge": -0.0632,
+        "p2_edge": 0.0537
+      },
+      "collected_at": "2026-10-26T14:48:02.549148+00:00",
+      "result": null
+    },
+    "7803d8ad15e62ae9b557be677f69e021": {
+      "match_id": "7803d8ad15e62ae9b557be677f69e021",
+      "commence_time": "2026-10-27T12:10:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Jerome Kym",
+      "player2": "Arthur Rinderknech",
+      "bookmakers": {
+        "lowvig": {
+          "Arthur Rinderknech": 2.2,
+          "Jerome Kym": 1.71
+        },
+        "pinnacle": {
+          "Arthur Rinderknech": 2.17,
+          "Jerome Kym": 1.76
+        },
+        "betanysports": {
+          "Arthur Rinderknech": 2.2,
+          "Jerome Kym": 1.71
+        },
+        "bovada": {
+          "Arthur Rinderknech": 2.15,
+          "Jerome Kym": 1.71
+        },
+        "matchbook": {
+          "Arthur Rinderknech": 2.2,
+          "Jerome Kym": 1.8
+        },
+        "leovegas_se": {
+          "Arthur Rinderknech": 2.08,
+          "Jerome Kym": 1.73
+        },
+        "pmu_fr": {
+          "Arthur Rinderknech": 1.97,
+          "Jerome Kym": 1.65
+        },
+        "betfair_ex_eu": {
+          "Arthur Rinderknech": 2.2,
+          "Jerome Kym": 1.8
+        },
+        "fanduel": {
+          "Arthur Rinderknech": 2.12,
+          "Jerome Kym": 1.74
+        },
+        "betonlineag": {
+          "Arthur Rinderknech": 2.2,
+          "Jerome Kym": 1.71
+        },
+        "unibet_se": {
+          "Arthur Rinderknech": 2.08,
+          "Jerome Kym": 1.73
+        },
+        "unibet_nl": {
+          "Arthur Rinderknech": 2.08,
+          "Jerome Kym": 1.73
+        },
+        "betus": {
+          "Arthur Rinderknech": 2.11,
+          "Jerome Kym": 1.71
+        },
+        "sport888": {
+          "Arthur Rinderknech": 2.1,
+          "Jerome Kym": 1.73
+        },
+        "betmgm": {
+          "Arthur Rinderknech": 2.1,
+          "Jerome Kym": 1.71
+        },
+        "winamax_fr": {
+          "Arthur Rinderknech": 2.05,
+          "Jerome Kym": 1.7
+        },
+        "winamax_de": {
+          "Arthur Rinderknech": 2.15,
+          "Jerome Kym": 1.76
+        },
+        "betrivers": {
+          "Arthur Rinderknech": 2.08,
+          "Jerome Kym": 1.73
+        },
+        "draftkings": {
+          "Arthur Rinderknech": 2.17,
+          "Jerome Kym": 1.7
+        },
+        "unibet_fr": {
+          "Arthur Rinderknech": 1.98,
+          "Jerome Kym": 1.66
+        },
+        "williamhill": {
+          "Arthur Rinderknech": 2.1,
+          "Jerome Kym": 1.73
+        },
+        "coolbet": {
+          "Arthur Rinderknech": 2.1,
+          "Jerome Kym": 1.75
+        },
+        "betsson": {
+          "Arthur Rinderknech": 2.08,
+          "Jerome Kym": 1.73
+        },
+        "nordicbet": {
+          "Arthur Rinderknech": 2.08,
+          "Jerome Kym": 1.73
+        },
+        "onexbet": {
+          "Arthur Rinderknech": 2.13,
+          "Jerome Kym": 1.75
+        },
+        "tipico_de": {
+          "Arthur Rinderknech": 1.95,
+          "Jerome Kym": 1.75
+        },
+        "betclic_fr": {
+          "Arthur Rinderknech": 2.06,
+          "Jerome Kym": 1.71
+        },
+        "marathonbet": {
+          "Arthur Rinderknech": 2.1,
+          "Jerome Kym": 1.73
+        }
+      },
+      "prediction": {
+        "p1_name": "Jerome Kym",
+        "p2_name": "Arthur Rinderknech",
+        "p1_prob": 0.4058,
+        "p2_prob": 0.5942,
+        "predicted_winner": "Arthur Rinderknech",
+        "confidence": "medium",
+        "p1_edge": -0.1498,
+        "p2_edge": 0.1397
+      },
+      "collected_at": "2026-10-26T14:48:02.660964+00:00",
+      "result": null
+    },
+    "3c6239f48e3a272aa8f7bb0ae354f14a": {
+      "match_id": "3c6239f48e3a272aa8f7bb0ae354f14a",
+      "commence_time": "2026-10-27T13:00:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Alejandro Tabilo",
+      "player2": "Rafael Jodar",
+      "bookmakers": {
+        "lowvig": {
+          "Alejandro Tabilo": 3.68,
+          "Rafael Jodar": 1.3
+        },
+        "pinnacle": {
+          "Alejandro Tabilo": 3.83,
+          "Rafael Jodar": 1.3
+        },
+        "betanysports": {
+          "Alejandro Tabilo": 3.7,
+          "Rafael Jodar": 1.29
+        },
+        "bovada": {
+          "Alejandro Tabilo": 3.75,
+          "Rafael Jodar": 1.29
+        },
+        "matchbook": {
+          "Alejandro Tabilo": 3.95,
+          "Rafael Jodar": 1.31
+        },
+        "leovegas_se": {
+          "Alejandro Tabilo": 3.95,
+          "Rafael Jodar": 1.25
+        },
+        "pmu_fr": {
+          "Alejandro Tabilo": 3.65,
+          "Rafael Jodar": 1.2
+        },
+        "betfair_ex_eu": {
+          "Alejandro Tabilo": 3.95,
+          "Rafael Jodar": 1.31
+        },
+        "fanduel": {
+          "Alejandro Tabilo": 3.7,
+          "Rafael Jodar": 1.29
+        },
+        "betonlineag": {
+          "Alejandro Tabilo": 3.68,
+          "Rafael Jodar": 1.3
+        },
+        "unibet_se": {
+          "Alejandro Tabilo": 3.95,
+          "Rafael Jodar": 1.25
+        },
+        "unibet_nl": {
+          "Alejandro Tabilo": 3.95,
+          "Rafael Jodar": 1.25
+        },
+        "betus": {
+          "Alejandro Tabilo": 3.5,
+          "Rafael Jodar": 1.29
+        },
+        "sport888": {
+          "Alejandro Tabilo": 3.5,
+          "Rafael Jodar": 1.3
+        },
+        "betmgm": {
+          "Alejandro Tabilo": 3.6,
+          "Rafael Jodar": 1.29
+        },
+        "winamax_fr": {
+          "Alejandro Tabilo": 3.55,
+          "Rafael Jodar": 1.26
+        },
+        "winamax_de": {
+          "Alejandro Tabilo": 3.85,
+          "Rafael Jodar": 1.29
+        },
+        "betrivers": {
+          "Alejandro Tabilo": 3.95,
+          "Rafael Jodar": 1.25
+        },
+        "draftkings": {
+          "Alejandro Tabilo": 3.72,
+          "Rafael Jodar": 1.28
+        },
+        "unibet_fr": {
+          "Alejandro Tabilo": 3.3,
+          "Rafael Jodar": 1.24
+        },
+        "williamhill": {
+          "Alejandro Tabilo": 3.5,
+          "Rafael Jodar": 1.3
+        },
+        "coolbet": {
+          "Alejandro Tabilo": 3.65,
+          "Rafael Jodar": 1.29
+        },
+        "betsson": {
+          "Alejandro Tabilo": 3.6,
+          "Rafael Jodar": 1.28
+        },
+        "nordicbet": {
+          "Alejandro Tabilo": 3.6,
+          "Rafael Jodar": 1.28
+        },
+        "tipico_de": {
+          "Alejandro Tabilo": 3.6,
+          "Rafael Jodar": 1.25
+        },
+        "onexbet": {
+          "Alejandro Tabilo": 3.77,
+          "Rafael Jodar": 1.29
+        },
+        "betclic_fr": {
+          "Alejandro Tabilo": 3.55,
+          "Rafael Jodar": 1.27
+        },
+        "marathonbet": {
+          "Alejandro Tabilo": 3.72,
+          "Rafael Jodar": 1.27
+        }
+      },
+      "prediction": {
+        "p1_name": "Alejandro Tabilo",
+        "p2_name": "Rafael Jodar",
+        "p1_prob": 0.3538,
+        "p2_prob": 0.6462,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "high",
+        "p1_edge": 0.1006,
+        "p2_edge": -0.1172
+      },
+      "collected_at": "2026-10-26T14:48:02.771663+00:00",
+      "result": null
+    },
+    "7e3e5dde6da7e8cb88cd907563786e42": {
+      "match_id": "7e3e5dde6da7e8cb88cd907563786e42",
+      "commence_time": "2026-10-27T13:20:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Alex Michelsen",
+      "player2": "Botic van de Zandschulp",
+      "bookmakers": {
+        "lowvig": {
+          "Alex Michelsen": 1.49,
+          "Botic van de Zandschulp": 2.72
+        },
+        "pinnacle": {
+          "Alex Michelsen": 1.51,
+          "Botic van de Zandschulp": 2.73
+        },
+        "betanysports": {
+          "Alex Michelsen": 1.49,
+          "Botic van de Zandschulp": 2.7
+        },
+        "bovada": {
+          "Alex Michelsen": 1.5,
+          "Botic van de Zandschulp": 2.65
+        },
+        "matchbook": {
+          "Alex Michelsen": 1.54,
+          "Botic van de Zandschulp": 2.78
+        },
+        "leovegas_se": {
+          "Alex Michelsen": 1.43,
+          "Botic van de Zandschulp": 2.8
+        },
+        "pmu_fr": {
+          "Alex Michelsen": 1.36,
+          "Botic van de Zandschulp": 2.65
+        },
+        "betfair_ex_eu": {
+          "Alex Michelsen": 1.54,
+          "Botic van de Zandschulp": 2.78
+        },
+        "fanduel": {
+          "Alex Michelsen": 1.48,
+          "Botic van de Zandschulp": 2.72
+        },
+        "betonlineag": {
+          "Alex Michelsen": 1.49,
+          "Botic van de Zandschulp": 2.72
+        },
+        "unibet_se": {
+          "Alex Michelsen": 1.43,
+          "Botic van de Zandschulp": 2.8
+        },
+        "unibet_nl": {
+          "Alex Michelsen": 1.43,
+          "Botic van de Zandschulp": 2.8
+        },
+        "betus": {
+          "Alex Michelsen": 1.49,
+          "Botic van de Zandschulp": 2.69
+        },
+        "sport888": {
+          "Alex Michelsen": 1.5,
+          "Botic van de Zandschulp": 2.6
+        },
+        "betmgm": {
+          "Alex Michelsen": 1.5,
+          "Botic van de Zandschulp": 2.54
+        },
+        "winamax_fr": {
+          "Alex Michelsen": 1.47,
+          "Botic van de Zandschulp": 2.55
+        },
+        "winamax_de": {
+          "Alex Michelsen": 1.5,
+          "Botic van de Zandschulp": 2.7
+        },
+        "betrivers": {
+          "Alex Michelsen": 1.43,
+          "Botic van de Zandschulp": 2.8
+        },
+        "draftkings": {
+          "Alex Michelsen": 1.5,
+          "Botic van de Zandschulp": 2.63
+        },
+        "unibet_fr": {
+          "Alex Michelsen": 1.43,
+          "Botic van de Zandschulp": 2.45
+        },
+        "williamhill": {
+          "Alex Michelsen": 1.5,
+          "Botic van de Zandschulp": 2.6
+        },
+        "coolbet": {
+          "Alex Michelsen": 1.48,
+          "Botic van de Zandschulp": 2.67
+        },
+        "betsson": {
+          "Alex Michelsen": 1.48,
+          "Botic van de Zandschulp": 2.6
+        },
+        "nordicbet": {
+          "Alex Michelsen": 1.48,
+          "Botic van de Zandschulp": 2.6
+        },
+        "tipico_de": {
+          "Alex Michelsen": 1.45,
+          "Botic van de Zandschulp": 2.55
+        },
+        "onexbet": {
+          "Alex Michelsen": 1.48,
+          "Botic van de Zandschulp": 2.73
+        },
+        "betclic_fr": {
+          "Alex Michelsen": 1.47,
+          "Botic van de Zandschulp": 2.55
+        },
+        "marathonbet": {
+          "Alex Michelsen": 1.46,
+          "Botic van de Zandschulp": 2.69
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex Michelsen",
+        "p2_name": "Botic Van De Zandschulp",
+        "p1_prob": 0.6154,
+        "p2_prob": 0.3846,
+        "predicted_winner": "Alex Michelsen",
+        "confidence": "high",
+        "p1_edge": -0.034,
+        "p2_edge": 0.0275
+      },
+      "collected_at": "2026-10-26T14:48:02.882678+00:00",
+      "result": null
+    },
+    "0fb51999c3020ac1f14f5cebbed40671": {
+      "match_id": "0fb51999c3020ac1f14f5cebbed40671",
+      "commence_time": "2026-10-27T14:10:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Giovanni Mpetshi Perricard",
+      "player2": "Arthur Fils",
+      "bookmakers": {
+        "bovada": {
+          "Arthur Fils": 1.13,
+          "Giovanni Mpetshi Perricard": 6.0
+        },
+        "leovegas_se": {
+          "Arthur Fils": 1.13,
+          "Giovanni Mpetshi Perricard": 6.0
+        },
+        "pmu_fr": {
+          "Arthur Fils": 1.08,
+          "Giovanni Mpetshi Perricard": 5.4
+        },
+        "betfair_ex_eu": {
+          "Arthur Fils": 1.16,
+          "Giovanni Mpetshi Perricard": 5.8
+        },
+        "fanduel": {
+          "Arthur Fils": 1.12,
+          "Giovanni Mpetshi Perricard": 6.3
+        },
+        "unibet_se": {
+          "Arthur Fils": 1.13,
+          "Giovanni Mpetshi Perricard": 6.0
+        },
+        "unibet_nl": {
+          "Arthur Fils": 1.13,
+          "Giovanni Mpetshi Perricard": 6.0
+        },
+        "sport888": {
+          "Arthur Fils": 1.14,
+          "Giovanni Mpetshi Perricard": 5.5
+        },
+        "winamax_fr": {
+          "Arthur Fils": 1.1,
+          "Giovanni Mpetshi Perricard": 4.8
+        },
+        "winamax_de": {
+          "Arthur Fils": 1.13,
+          "Giovanni Mpetshi Perricard": 5.8
+        },
+        "betrivers": {
+          "Arthur Fils": 1.13,
+          "Giovanni Mpetshi Perricard": 6.0
+        },
+        "draftkings": {
+          "Arthur Fils": 1.14,
+          "Giovanni Mpetshi Perricard": 5.92
+        },
+        "betmgm": {
+          "Arthur Fils": 1.13,
+          "Giovanni Mpetshi Perricard": 5.75
+        },
+        "unibet_fr": {
+          "Arthur Fils": 1.11,
+          "Giovanni Mpetshi Perricard": 4.8
+        },
+        "williamhill": {
+          "Arthur Fils": 1.14,
+          "Giovanni Mpetshi Perricard": 5.5
+        },
+        "betsson": {
+          "Arthur Fils": 1.13,
+          "Giovanni Mpetshi Perricard": 5.6
+        },
+        "nordicbet": {
+          "Arthur Fils": 1.13,
+          "Giovanni Mpetshi Perricard": 5.6
+        },
+        "tipico_de": {
+          "Arthur Fils": 1.1,
+          "Giovanni Mpetshi Perricard": 5.7
+        },
+        "onexbet": {
+          "Arthur Fils": 1.15,
+          "Giovanni Mpetshi Perricard": 5.9
+        },
+        "betclic_fr": {
+          "Arthur Fils": 1.11,
+          "Giovanni Mpetshi Perricard": 5.0
+        },
+        "marathonbet": {
+          "Arthur Fils": 1.13,
+          "Giovanni Mpetshi Perricard": 5.75
+        },
+        "coolbet": {
+          "Arthur Fils": 1.14,
+          "Giovanni Mpetshi Perricard": 5.8
+        }
+      },
+      "prediction": {
+        "p1_name": "Giovanni Mpetshi Perricard",
+        "p2_name": "Arthur Fils",
+        "p1_prob": 0.3217,
+        "p2_prob": 0.6783,
+        "predicted_winner": "Arthur Fils",
+        "confidence": "high",
+        "p1_edge": 0.163,
+        "p2_edge": -0.1838
+      },
+      "collected_at": "2026-10-26T14:48:02.993974+00:00",
+      "result": null
+    },
+    "a22f58e89e8b3130ae03006d1cb2d9ee": {
+      "match_id": "a22f58e89e8b3130ae03006d1cb2d9ee",
+      "commence_time": "2026-10-27T17:00:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Ben Shelton",
+      "player2": "Aleksandar Kovacevic",
+      "bookmakers": {
+        "bovada": {
+          "Aleksandar Kovacevic": 4.75,
+          "Ben Shelton": 1.2
+        },
+        "leovegas_se": {
+          "Aleksandar Kovacevic": 4.0,
+          "Ben Shelton": 1.24
+        },
+        "pmu_fr": {
+          "Aleksandar Kovacevic": 3.75,
+          "Ben Shelton": 1.19
+        },
+        "betfair_ex_eu": {
+          "Aleksandar Kovacevic": 5.3,
+          "Ben Shelton": 1.21
+        },
+        "fanduel": {
+          "Aleksandar Kovacevic": 4.7,
+          "Ben Shelton": 1.18
+        },
+        "unibet_se": {
+          "Aleksandar Kovacevic": 4.0,
+          "Ben Shelton": 1.24
+        },
+        "unibet_nl": {
+          "Aleksandar Kovacevic": 4.0,
+          "Ben Shelton": 1.24
+        },
+        "sport888": {
+          "Aleksandar Kovacevic": 4.5,
+          "Ben Shelton": 1.2
+        },
+        "winamax_fr": {
+          "Aleksandar Kovacevic": 4.4,
+          "Ben Shelton": 1.18
+        },
+        "winamax_de": {
+          "Aleksandar Kovacevic": 4.8,
+          "Ben Shelton": 1.21
+        },
+        "betrivers": {
+          "Aleksandar Kovacevic": 4.0,
+          "Ben Shelton": 1.24
+        },
+        "betmgm": {
+          "Aleksandar Kovacevic": 4.75,
+          "Ben Shelton": 1.18
+        },
+        "draftkings": {
+          "Aleksandar Kovacevic": 4.99,
+          "Ben Shelton": 1.18
+        },
+        "unibet_fr": {
+          "Aleksandar Kovacevic": 3.9,
+          "Ben Shelton": 1.17
+        },
+        "williamhill": {
+          "Aleksandar Kovacevic": 4.5,
+          "Ben Shelton": 1.2
+        },
+        "matchbook": {
+          "Aleksandar Kovacevic": 5.3,
+          "Ben Shelton": 1.21
+        },
+        "coolbet": {
+          "Aleksandar Kovacevic": 4.5,
+          "Ben Shelton": 1.21
+        },
+        "betsson": {
+          "Aleksandar Kovacevic": 4.4,
+          "Ben Shelton": 1.2
+        },
+        "nordicbet": {
+          "Aleksandar Kovacevic": 4.4,
+          "Ben Shelton": 1.2
+        },
+        "tipico_de": {
+          "Aleksandar Kovacevic": 4.5,
+          "Ben Shelton": 1.16
+        },
+        "onexbet": {
+          "Aleksandar Kovacevic": 4.56,
+          "Ben Shelton": 1.22
+        },
+        "betclic_fr": {
+          "Aleksandar Kovacevic": 4.4,
+          "Ben Shelton": 1.18
+        },
+        "marathonbet": {
+          "Aleksandar Kovacevic": 4.35,
+          "Ben Shelton": 1.21
+        },
+        "pinnacle": {
+          "Aleksandar Kovacevic": 5.02,
+          "Ben Shelton": 1.2
+        },
+        "lowvig": {
+          "Aleksandar Kovacevic": 5.15,
+          "Ben Shelton": 1.18
+        },
+        "betonlineag": {
+          "Aleksandar Kovacevic": 5.15,
+          "Ben Shelton": 1.18
+        }
+      },
+      "prediction": {
+        "p1_name": "Ben Shelton",
+        "p2_name": "Aleksandar Kovacevic",
+        "p1_prob": 0.7867,
+        "p2_prob": 0.2133,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "high",
+        "p1_edge": -0.0198,
+        "p2_edge": 0.0246
+      },
+      "collected_at": "2026-10-26T14:48:03.105825+00:00",
+      "result": null
+    },
+    "0ccce6d326e553ba75890585346be8db": {
+      "match_id": "0ccce6d326e553ba75890585346be8db",
+      "commence_time": "2026-10-27T18:10:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Stan Wawrinka",
+      "player2": "Jiri Lehecka",
+      "bookmakers": {
+        "lowvig": {
+          "Jiri Lehecka": 1.19,
+          "Stan Wawrinka": 4.96
+        },
+        "pinnacle": {
+          "Jiri Lehecka": 1.2,
+          "Stan Wawrinka": 5.11
+        },
+        "betanysports": {
+          "Jiri Lehecka": 1.17,
+          "Stan Wawrinka": 5.0
+        },
+        "bovada": {
+          "Jiri Lehecka": 1.18,
+          "Stan Wawrinka": 5.0
+        },
+        "matchbook": {
+          "Jiri Lehecka": 1.2,
+          "Stan Wawrinka": 5.5
+        },
+        "leovegas_se": {
+          "Jiri Lehecka": 1.18,
+          "Stan Wawrinka": 4.9
+        },
+        "pmu_fr": {
+          "Jiri Lehecka": 1.14,
+          "Stan Wawrinka": 4.5
+        },
+        "betfair_ex_eu": {
+          "Jiri Lehecka": 1.2,
+          "Stan Wawrinka": 5.5
+        },
+        "fanduel": {
+          "Jiri Lehecka": 1.18,
+          "Stan Wawrinka": 4.8
+        },
+        "betonlineag": {
+          "Jiri Lehecka": 1.19,
+          "Stan Wawrinka": 4.96
+        },
+        "unibet_se": {
+          "Jiri Lehecka": 1.18,
+          "Stan Wawrinka": 4.9
+        },
+        "unibet_nl": {
+          "Jiri Lehecka": 1.18,
+          "Stan Wawrinka": 4.9
+        },
+        "betus": {
+          "Jiri Lehecka": 1.15,
+          "Stan Wawrinka": 5.25
+        },
+        "sport888": {
+          "Jiri Lehecka": 1.2,
+          "Stan Wawrinka": 4.5
+        },
+        "betmgm": {
+          "Jiri Lehecka": 1.18,
+          "Stan Wawrinka": 4.75
+        },
+        "winamax_fr": {
+          "Jiri Lehecka": 1.17,
+          "Stan Wawrinka": 4.6
+        },
+        "winamax_de": {
+          "Jiri Lehecka": 1.19,
+          "Stan Wawrinka": 5.1
+        },
+        "betrivers": {
+          "Jiri Lehecka": 1.18,
+          "Stan Wawrinka": 4.9
+        },
+        "draftkings": {
+          "Jiri Lehecka": 1.18,
+          "Stan Wawrinka": 4.94
+        },
+        "unibet_fr": {
+          "Jiri Lehecka": 1.15,
+          "Stan Wawrinka": 4.15
+        },
+        "williamhill": {
+          "Jiri Lehecka": 1.2,
+          "Stan Wawrinka": 4.5
+        },
+        "coolbet": {
+          "Jiri Lehecka": 1.19,
+          "Stan Wawrinka": 4.8
+        },
+        "betsson": {
+          "Jiri Lehecka": 1.18,
+          "Stan Wawrinka": 4.7
+        },
+        "nordicbet": {
+          "Jiri Lehecka": 1.18,
+          "Stan Wawrinka": 4.7
+        },
+        "tipico_de": {
+          "Jiri Lehecka": 1.13,
+          "Stan Wawrinka": 5.0
+        },
+        "onexbet": {
+          "Jiri Lehecka": 1.2,
+          "Stan Wawrinka": 4.81
+        },
+        "betclic_fr": {
+          "Jiri Lehecka": 1.17,
+          "Stan Wawrinka": 4.6
+        },
+        "marathonbet": {
+          "Jiri Lehecka": 1.19,
+          "Stan Wawrinka": 4.7
+        }
+      },
+      "prediction": {
+        "p1_name": "Stan Wawrinka",
+        "p2_name": "Jiri Lehecka",
+        "p1_prob": 0.2723,
+        "p2_prob": 0.7277,
+        "predicted_winner": "Jiri Lehecka",
+        "confidence": "high",
+        "p1_edge": 0.0905,
+        "p2_edge": -0.1056
+      },
+      "collected_at": "2026-10-26T14:48:03.217893+00:00",
+      "result": null
+    },
+    "8f999f650b2a7e10b180a15fc7f863c1": {
+      "match_id": "8f999f650b2a7e10b180a15fc7f863c1",
+      "commence_time": "2026-10-28T11:00:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Yannick Hanfmann",
+      "player2": "Jan-Lennard Struff",
+      "bookmakers": {
+        "bovada": {
+          "Jan-Lennard Struff": 1.8,
+          "Yannick Hanfmann": 2.05
+        },
+        "matchbook": {
+          "Jan-Lennard Struff": 1.82,
+          "Yannick Hanfmann": 2.18
+        },
+        "betfair_ex_eu": {
+          "Jan-Lennard Struff": 1.82,
+          "Yannick Hanfmann": 2.18
+        },
+        "fanduel": {
+          "Jan-Lennard Struff": 1.78,
+          "Yannick Hanfmann": 2.06
+        },
+        "sport888": {
+          "Jan-Lennard Struff": 1.8,
+          "Yannick Hanfmann": 2.0
+        },
+        "winamax_fr": {
+          "Jan-Lennard Struff": 1.74,
+          "Yannick Hanfmann": 1.98
+        },
+        "winamax_de": {
+          "Jan-Lennard Struff": 1.82,
+          "Yannick Hanfmann": 2.05
+        },
+        "betmgm": {
+          "Jan-Lennard Struff": 1.8,
+          "Yannick Hanfmann": 1.98
+        },
+        "draftkings": {
+          "Jan-Lennard Struff": 1.79,
+          "Yannick Hanfmann": 2.04
+        },
+        "unibet_fr": {
+          "Jan-Lennard Struff": 1.7,
+          "Yannick Hanfmann": 1.92
+        },
+        "williamhill": {
+          "Jan-Lennard Struff": 1.8,
+          "Yannick Hanfmann": 2.0
+        },
+        "unibet_se": {
+          "Jan-Lennard Struff": 1.78,
+          "Yannick Hanfmann": 2.04
+        },
+        "leovegas_se": {
+          "Jan-Lennard Struff": 1.78,
+          "Yannick Hanfmann": 2.04
+        },
+        "unibet_nl": {
+          "Jan-Lennard Struff": 1.78,
+          "Yannick Hanfmann": 2.04
+        },
+        "pmu_fr": {
+          "Jan-Lennard Struff": 1.7,
+          "Yannick Hanfmann": 1.93
+        },
+        "betrivers": {
+          "Jan-Lennard Struff": 1.78,
+          "Yannick Hanfmann": 2.04
+        },
+        "coolbet": {
+          "Jan-Lennard Struff": 1.8,
+          "Yannick Hanfmann": 2.02
+        },
+        "betsson": {
+          "Jan-Lennard Struff": 1.77,
+          "Yannick Hanfmann": 2.01
+        },
+        "nordicbet": {
+          "Jan-Lennard Struff": 1.77,
+          "Yannick Hanfmann": 2.01
+        },
+        "tipico_de": {
+          "Jan-Lennard Struff": 1.72,
+          "Yannick Hanfmann": 2.0
+        },
+        "onexbet": {
+          "Jan-Lennard Struff": 1.81,
+          "Yannick Hanfmann": 2.05
+        },
+        "betclic_fr": {
+          "Jan-Lennard Struff": 1.76,
+          "Yannick Hanfmann": 1.99
+        },
+        "marathonbet": {
+          "Jan-Lennard Struff": 1.78,
+          "Yannick Hanfmann": 2.02
+        },
+        "pinnacle": {
+          "Jan-Lennard Struff": 1.81,
+          "Yannick Hanfmann": 2.07
+        },
+        "betonlineag": {
+          "Jan-Lennard Struff": 1.81,
+          "Yannick Hanfmann": 2.04
+        },
+        "lowvig": {
+          "Jan-Lennard Struff": 1.81,
+          "Yannick Hanfmann": 2.04
+        }
+      },
+      "prediction": {
+        "p1_name": "Yannick Hanfmann",
+        "p2_name": "Jan-Lennard Struff",
+        "p1_prob": 0.5412,
+        "p2_prob": 0.4588,
+        "predicted_winner": "Yannick Hanfmann",
+        "confidence": "medium",
+        "p1_edge": 0.0825,
+        "p2_edge": -0.0907
+      },
+      "collected_at": "2026-10-26T14:48:03.330494+00:00",
+      "result": null
+    },
+    "af913a4b884253b828e9314e74cfb6b3": {
+      "match_id": "af913a4b884253b828e9314e74cfb6b3",
+      "commence_time": "2026-10-28T11:00:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Novak Djokovic",
+      "player2": "Ugo Humbert",
+      "bookmakers": {
+        "lowvig": {
+          "Novak Djokovic": 1.4,
+          "Ugo Humbert": 3.03
+        },
+        "pinnacle": {
+          "Novak Djokovic": 1.41,
+          "Ugo Humbert": 3.15
+        },
+        "betanysports": {
+          "Novak Djokovic": 1.4,
+          "Ugo Humbert": 3.0
+        },
+        "bovada": {
+          "Novak Djokovic": 1.38,
+          "Ugo Humbert": 3.1
+        },
+        "matchbook": {
+          "Novak Djokovic": 1.41,
+          "Ugo Humbert": 3.35
+        },
+        "leovegas_se": {
+          "Novak Djokovic": 1.34,
+          "Ugo Humbert": 3.25
+        },
+        "pmu_fr": {
+          "Novak Djokovic": 1.29,
+          "Ugo Humbert": 3.05
+        },
+        "betfair_ex_eu": {
+          "Novak Djokovic": 1.41,
+          "Ugo Humbert": 3.35
+        },
+        "fanduel": {
+          "Novak Djokovic": 1.34,
+          "Ugo Humbert": 3.25
+        },
+        "betonlineag": {
+          "Novak Djokovic": 1.4,
+          "Ugo Humbert": 3.03
+        },
+        "unibet_se": {
+          "Novak Djokovic": 1.34,
+          "Ugo Humbert": 3.25
+        },
+        "unibet_nl": {
+          "Novak Djokovic": 1.34,
+          "Ugo Humbert": 3.25
+        },
+        "betus": {
+          "Novak Djokovic": 1.39,
+          "Ugo Humbert": 3.06
+        },
+        "sport888": {
+          "Novak Djokovic": 1.4,
+          "Ugo Humbert": 2.9
+        },
+        "betmgm": {
+          "Novak Djokovic": 1.4,
+          "Ugo Humbert": 2.9
+        },
+        "winamax_fr": {
+          "Novak Djokovic": 1.37,
+          "Ugo Humbert": 2.9
+        },
+        "winamax_de": {
+          "Novak Djokovic": 1.4,
+          "Ugo Humbert": 3.1
+        },
+        "betrivers": {
+          "Novak Djokovic": 1.34,
+          "Ugo Humbert": 3.25
+        },
+        "draftkings": {
+          "Novak Djokovic": 1.37,
+          "Ugo Humbert": 3.14
+        },
+        "unibet_fr": {
+          "Novak Djokovic": 1.34,
+          "Ugo Humbert": 2.75
+        },
+        "williamhill": {
+          "Novak Djokovic": 1.4,
+          "Ugo Humbert": 2.9
+        },
+        "coolbet": {
+          "Novak Djokovic": 1.38,
+          "Ugo Humbert": 3.07
+        },
+        "betsson": {
+          "Novak Djokovic": 1.38,
+          "Ugo Humbert": 3.0
+        },
+        "nordicbet": {
+          "Novak Djokovic": 1.38,
+          "Ugo Humbert": 3.0
+        },
+        "tipico_de": {
+          "Novak Djokovic": 1.35,
+          "Ugo Humbert": 2.95
+        },
+        "onexbet": {
+          "Novak Djokovic": 1.4,
+          "Ugo Humbert": 3.06
+        },
+        "betclic_fr": {
+          "Novak Djokovic": 1.37,
+          "Ugo Humbert": 2.95
+        },
+        "marathonbet": {
+          "Novak Djokovic": 1.38,
+          "Ugo Humbert": 3.02
+        }
+      },
+      "prediction": {
+        "p1_name": "Novak Djokovic",
+        "p2_name": "Ugo Humbert",
+        "p1_prob": 0.8131,
+        "p2_prob": 0.1869,
+        "predicted_winner": "Novak Djokovic",
+        "confidence": "high",
+        "p1_edge": 0.1039,
+        "p2_edge": -0.1116
+      },
+      "collected_at": "2026-10-26T14:48:03.442106+00:00",
+      "result": null
+    },
+    "4131305472a4538a7dd867552b8a5154": {
+      "match_id": "4131305472a4538a7dd867552b8a5154",
+      "commence_time": "2026-10-28T11:00:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Taylor Fritz",
+      "player2": "Rinky Hijikata",
+      "bookmakers": {
+        "leovegas_se": {
+          "Rinky Hijikata": 7.5,
+          "Taylor Fritz": 1.08
+        },
+        "pmu_fr": {
+          "Rinky Hijikata": 6.75,
+          "Taylor Fritz": 1.04
+        },
+        "betfair_ex_eu": {
+          "Rinky Hijikata": 7.6,
+          "Taylor Fritz": 1.11
+        },
+        "fanduel": {
+          "Rinky Hijikata": 7.7,
+          "Taylor Fritz": 1.08
+        },
+        "unibet_se": {
+          "Rinky Hijikata": 7.5,
+          "Taylor Fritz": 1.08
+        },
+        "unibet_nl": {
+          "Rinky Hijikata": 7.5,
+          "Taylor Fritz": 1.08
+        },
+        "sport888": {
+          "Rinky Hijikata": 6.5,
+          "Taylor Fritz": 1.11
+        },
+        "winamax_fr": {
+          "Rinky Hijikata": 5.5,
+          "Taylor Fritz": 1.07
+        },
+        "winamax_de": {
+          "Rinky Hijikata": 6.75,
+          "Taylor Fritz": 1.1
+        },
+        "betrivers": {
+          "Rinky Hijikata": 7.5,
+          "Taylor Fritz": 1.08
+        },
+        "draftkings": {
+          "Rinky Hijikata": 7.5,
+          "Taylor Fritz": 1.09
+        },
+        "unibet_fr": {
+          "Rinky Hijikata": 5.5,
+          "Taylor Fritz": 1.08
+        },
+        "williamhill": {
+          "Rinky Hijikata": 6.5,
+          "Taylor Fritz": 1.11
+        },
+        "betsson": {
+          "Rinky Hijikata": 6.8,
+          "Taylor Fritz": 1.1
+        },
+        "nordicbet": {
+          "Rinky Hijikata": 6.8,
+          "Taylor Fritz": 1.1
+        },
+        "tipico_de": {
+          "Rinky Hijikata": 6.5,
+          "Taylor Fritz": 1.08
+        },
+        "onexbet": {
+          "Rinky Hijikata": 7.48,
+          "Taylor Fritz": 1.1
+        },
+        "betclic_fr": {
+          "Rinky Hijikata": 5.8,
+          "Taylor Fritz": 1.08
+        },
+        "marathonbet": {
+          "Rinky Hijikata": 7.1,
+          "Taylor Fritz": 1.09
+        },
+        "coolbet": {
+          "Rinky Hijikata": 7.1,
+          "Taylor Fritz": 1.1
+        }
+      },
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Rinky Hijikata",
+        "p1_prob": 0.8007,
+        "p2_prob": 0.1993,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "high",
+        "p1_edge": -0.1002,
+        "p2_edge": 0.0694
+      },
+      "collected_at": "2026-10-26T14:48:03.600992+00:00",
+      "result": null
+    },
+    "4e8affe5c736072143aed4c30a548c66": {
+      "match_id": "4e8affe5c736072143aed4c30a548c66",
+      "commence_time": "2026-10-26T14:23:38Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Tomas Machac",
+      "player2": "Alex de Minaur",
+      "bookmakers": {
+        "bovada": {
+          "Alex de Minaur": 2.2,
+          "Tomas Machac": 1.69
+        },
+        "leovegas_se": {
+          "Alex de Minaur": 2.0,
+          "Tomas Machac": 1.68
+        },
+        "pmu_fr": {
+          "Alex de Minaur": 1.94,
+          "Tomas Machac": 1.65
+        },
+        "matchbook": {
+          "Alex de Minaur": 2.26,
+          "Tomas Machac": 1.76
+        },
+        "pinnacle": {
+          "Alex de Minaur": 1.26,
+          "Tomas Machac": 4.24
+        },
+        "betfair_ex_eu": {
+          "Alex de Minaur": 2.18,
+          "Tomas Machac": 1.81
+        },
+        "fanduel": {
+          "Alex de Minaur": 2.0,
+          "Tomas Machac": 1.77
+        },
+        "unibet_nl": {
+          "Alex de Minaur": 2.06,
+          "Tomas Machac": 1.74
+        },
+        "unibet_se": {
+          "Alex de Minaur": 2.06,
+          "Tomas Machac": 1.74
+        },
+        "sport888": {
+          "Alex de Minaur": 2.1,
+          "Tomas Machac": 1.67
+        },
+        "betmgm": {
+          "Alex de Minaur": 2.25,
+          "Tomas Machac": 1.61
+        },
+        "winamax_fr": {
+          "Alex de Minaur": 2.0,
+          "Tomas Machac": 1.58
+        },
+        "winamax_de": {
+          "Alex de Minaur": 2.1,
+          "Tomas Machac": 1.62
+        },
+        "betrivers": {
+          "Alex de Minaur": 2.06,
+          "Tomas Machac": 1.74
+        },
+        "draftkings": {
+          "Alex de Minaur": 2.33,
+          "Tomas Machac": 1.59
+        },
+        "unibet_fr": {
+          "Alex de Minaur": 1.95,
+          "Tomas Machac": 1.52
+        },
+        "williamhill": {
+          "Alex de Minaur": 2.1,
+          "Tomas Machac": 1.67
+        },
+        "coolbet": {
+          "Alex de Minaur": 2.2,
+          "Tomas Machac": 1.65
+        },
+        "betsson": {
+          "Alex de Minaur": 2.0,
+          "Tomas Machac": 1.75
+        },
+        "nordicbet": {
+          "Alex de Minaur": 2.15,
+          "Tomas Machac": 1.65
+        },
+        "tipico_de": {
+          "Alex de Minaur": 2.1,
+          "Tomas Machac": 1.65
+        },
+        "betclic_fr": {
+          "Alex de Minaur": 2.08,
+          "Tomas Machac": 1.54
+        },
+        "marathonbet": {
+          "Alex de Minaur": 2.19,
+          "Tomas Machac": 1.65
+        }
+      },
+      "prediction": {
+        "p1_name": "Tomas Machac",
+        "p2_name": "Alex De Minaur",
+        "p1_prob": 0.299,
+        "p2_prob": 0.701,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": 0.0632,
+        "p2_edge": 0.2718
+      },
+      "collected_at": "2026-10-26T14:48:03.715386+00:00",
+      "result": null
+    },
+    "19df044cd9025a373c245656976c1d6d": {
+      "match_id": "19df044cd9025a373c245656976c1d6d",
+      "commence_time": "2026-10-26T16:30:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Arthur Fery",
+      "player2": "Jacob Fearnley",
+      "bookmakers": {
+        "bovada": {
+          "Arthur Fery": 2.1,
+          "Jacob Fearnley": 1.77
+        },
+        "leovegas_se": {
+          "Arthur Fery": 1.97,
+          "Jacob Fearnley": 1.82
+        },
+        "pmu_fr": {
+          "Arthur Fery": 1.89,
+          "Jacob Fearnley": 1.74
+        },
+        "matchbook": {
+          "Arthur Fery": 2.1,
+          "Jacob Fearnley": 1.88
+        },
+        "betfair_ex_eu": {
+          "Arthur Fery": 2.1,
+          "Jacob Fearnley": 1.88
+        },
+        "fanduel": {
+          "Arthur Fery": 2.0,
+          "Jacob Fearnley": 1.82
+        },
+        "unibet_nl": {
+          "Arthur Fery": 1.97,
+          "Jacob Fearnley": 1.82
+        },
+        "unibet_se": {
+          "Arthur Fery": 1.97,
+          "Jacob Fearnley": 1.82
+        },
+        "sport888": {
+          "Arthur Fery": 2.0,
+          "Jacob Fearnley": 1.8
+        },
+        "betmgm": {
+          "Arthur Fery": 2.05,
+          "Jacob Fearnley": 1.74
+        },
+        "winamax_fr": {
+          "Arthur Fery": 2.05,
+          "Jacob Fearnley": 1.7
+        },
+        "winamax_de": {
+          "Arthur Fery": 2.1,
+          "Jacob Fearnley": 1.76
+        },
+        "betrivers": {
+          "Arthur Fery": 1.97,
+          "Jacob Fearnley": 1.82
+        },
+        "draftkings": {
+          "Arthur Fery": 2.08,
+          "Jacob Fearnley": 1.76
+        },
+        "unibet_fr": {
+          "Arthur Fery": 1.98,
+          "Jacob Fearnley": 1.71
+        },
+        "williamhill": {
+          "Arthur Fery": 2.0,
+          "Jacob Fearnley": 1.8
+        },
+        "coolbet": {
+          "Arthur Fery": 2.05,
+          "Jacob Fearnley": 1.78
+        },
+        "betsson": {
+          "Arthur Fery": 2.04,
+          "Jacob Fearnley": 1.76
+        },
+        "nordicbet": {
+          "Arthur Fery": 2.04,
+          "Jacob Fearnley": 1.76
+        },
+        "tipico_de": {
+          "Arthur Fery": 1.95,
+          "Jacob Fearnley": 1.75
+        },
+        "onexbet": {
+          "Arthur Fery": 2.04,
+          "Jacob Fearnley": 1.81
+        },
+        "pinnacle": {
+          "Arthur Fery": 2.05,
+          "Jacob Fearnley": 1.83
+        },
+        "betclic_fr": {
+          "Arthur Fery": 2.0,
+          "Jacob Fearnley": 1.76
+        },
+        "marathonbet": {
+          "Arthur Fery": 2.01,
+          "Jacob Fearnley": 1.79
+        },
+        "lowvig": {
+          "Arthur Fery": 2.1,
+          "Jacob Fearnley": 1.77
+        },
+        "betonlineag": {
+          "Arthur Fery": 2.1,
+          "Jacob Fearnley": 1.77
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Fery",
+        "p2_name": "Jacob Fearnley",
+        "p1_prob": 0.6367,
+        "p2_prob": 0.3633,
+        "predicted_winner": "Arthur Fery",
+        "confidence": "high",
+        "p1_edge": 0.1605,
+        "p2_edge": -0.1686
+      },
+      "collected_at": "2026-10-26T14:48:03.828598+00:00",
+      "result": null
+    },
+    "c5969cc3628058ea9d8326cb467f8344": {
+      "match_id": "c5969cc3628058ea9d8326cb467f8344",
+      "commence_time": "2026-10-26T16:30:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Jakub Mensik",
+      "player2": "Lukas Neumayer",
+      "bookmakers": {
+        "bovada": {
+          "Jakub Mensik": 1.15,
+          "Lukas Neumayer": 5.5
+        },
+        "leovegas_se": {
+          "Jakub Mensik": 1.17,
+          "Lukas Neumayer": 5.1
+        },
+        "pmu_fr": {
+          "Jakub Mensik": 1.13,
+          "Lukas Neumayer": 4.75
+        },
+        "matchbook": {
+          "Jakub Mensik": 1.17,
+          "Lukas Neumayer": 6.4
+        },
+        "betfair_ex_eu": {
+          "Jakub Mensik": 1.17,
+          "Lukas Neumayer": 6.4
+        },
+        "fanduel": {
+          "Jakub Mensik": 1.13,
+          "Lukas Neumayer": 6.0
+        },
+        "unibet_nl": {
+          "Jakub Mensik": 1.17,
+          "Lukas Neumayer": 5.1
+        },
+        "unibet_se": {
+          "Jakub Mensik": 1.17,
+          "Lukas Neumayer": 5.1
+        },
+        "sport888": {
+          "Jakub Mensik": 1.17,
+          "Lukas Neumayer": 5.0
+        },
+        "betmgm": {
+          "Jakub Mensik": 1.16,
+          "Lukas Neumayer": 5.0
+        },
+        "winamax_fr": {
+          "Jakub Mensik": 1.13,
+          "Lukas Neumayer": 5.1
+        },
+        "winamax_de": {
+          "Jakub Mensik": 1.16,
+          "Lukas Neumayer": 5.8
+        },
+        "betrivers": {
+          "Jakub Mensik": 1.17,
+          "Lukas Neumayer": 5.1
+        },
+        "draftkings": {
+          "Jakub Mensik": 1.15,
+          "Lukas Neumayer": 5.6
+        },
+        "unibet_fr": {
+          "Jakub Mensik": 1.12,
+          "Lukas Neumayer": 4.75
+        },
+        "williamhill": {
+          "Jakub Mensik": 1.17,
+          "Lukas Neumayer": 5.0
+        },
+        "betsson": {
+          "Jakub Mensik": 1.14,
+          "Lukas Neumayer": 5.4
+        },
+        "nordicbet": {
+          "Jakub Mensik": 1.14,
+          "Lukas Neumayer": 5.4
+        },
+        "onexbet": {
+          "Jakub Mensik": 1.17,
+          "Lukas Neumayer": 5.43
+        },
+        "tipico_de": {
+          "Jakub Mensik": 1.11,
+          "Lukas Neumayer": 5.5
+        },
+        "pinnacle": {
+          "Jakub Mensik": 1.17,
+          "Lukas Neumayer": 5.54
+        },
+        "coolbet": {
+          "Jakub Mensik": 1.16,
+          "Lukas Neumayer": 5.3
+        },
+        "betclic_fr": {
+          "Jakub Mensik": 1.14,
+          "Lukas Neumayer": 5.2
+        },
+        "marathonbet": {
+          "Jakub Mensik": 1.15,
+          "Lukas Neumayer": 5.35
+        },
+        "betonlineag": {
+          "Jakub Mensik": 1.16,
+          "Lukas Neumayer": 5.61
+        },
+        "lowvig": {
+          "Jakub Mensik": 1.16,
+          "Lukas Neumayer": 5.61
+        }
+      },
+      "prediction": {
+        "p1_name": "Jakub Mensik",
+        "p2_name": "Lukas Neumayer",
+        "p1_prob": 0.8168,
+        "p2_prob": 0.1832,
+        "predicted_winner": "Jakub Mensik",
+        "confidence": "high",
+        "p1_edge": -0.0379,
+        "p2_edge": 0.027
+      },
+      "collected_at": "2026-10-26T14:48:03.942900+00:00",
+      "result": null
+    },
+    "99827d08921946ed376bd9378a91ce9b": {
+      "match_id": "99827d08921946ed376bd9378a91ce9b",
+      "commence_time": "2026-10-26T17:40:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Luciano Darderi",
+      "player2": "Matteo Arnaldi",
+      "bookmakers": {
+        "bovada": {
+          "Luciano Darderi": 2.1,
+          "Matteo Arnaldi": 1.77
+        },
+        "betonlineag": {
+          "Luciano Darderi": 2.13,
+          "Matteo Arnaldi": 1.75
+        },
+        "leovegas_se": {
+          "Luciano Darderi": 2.06,
+          "Matteo Arnaldi": 1.76
+        },
+        "pmu_fr": {
+          "Luciano Darderi": 1.96,
+          "Matteo Arnaldi": 1.7
+        },
+        "betanysports": {
+          "Luciano Darderi": 2.0,
+          "Matteo Arnaldi": 1.77
+        },
+        "matchbook": {
+          "Luciano Darderi": 2.16,
+          "Matteo Arnaldi": 1.84
+        },
+        "pinnacle": {
+          "Luciano Darderi": 2.12,
+          "Matteo Arnaldi": 1.79
+        },
+        "betfair_ex_eu": {
+          "Luciano Darderi": 2.16,
+          "Matteo Arnaldi": 1.84
+        },
+        "fanduel": {
+          "Luciano Darderi": 2.0,
+          "Matteo Arnaldi": 1.82
+        },
+        "unibet_nl": {
+          "Luciano Darderi": 2.06,
+          "Matteo Arnaldi": 1.76
+        },
+        "lowvig": {
+          "Luciano Darderi": 2.13,
+          "Matteo Arnaldi": 1.75
+        },
+        "unibet_se": {
+          "Luciano Darderi": 2.06,
+          "Matteo Arnaldi": 1.76
+        },
+        "sport888": {
+          "Luciano Darderi": 2.1,
+          "Matteo Arnaldi": 1.73
+        },
+        "betmgm": {
+          "Luciano Darderi": 2.05,
+          "Matteo Arnaldi": 1.74
+        },
+        "winamax_fr": {
+          "Luciano Darderi": 2.0,
+          "Matteo Arnaldi": 1.72
+        },
+        "winamax_de": {
+          "Luciano Darderi": 2.1,
+          "Matteo Arnaldi": 1.78
+        },
+        "betrivers": {
+          "Luciano Darderi": 2.06,
+          "Matteo Arnaldi": 1.76
+        },
+        "draftkings": {
+          "Luciano Darderi": 2.05,
+          "Matteo Arnaldi": 1.78
+        },
+        "unibet_fr": {
+          "Luciano Darderi": 2.0,
+          "Matteo Arnaldi": 1.69
+        },
+        "williamhill": {
+          "Luciano Darderi": 2.1,
+          "Matteo Arnaldi": 1.73
+        },
+        "coolbet": {
+          "Luciano Darderi": 2.08,
+          "Matteo Arnaldi": 1.76
+        },
+        "betsson": {
+          "Luciano Darderi": 2.07,
+          "Matteo Arnaldi": 1.74
+        },
+        "nordicbet": {
+          "Luciano Darderi": 2.07,
+          "Matteo Arnaldi": 1.74
+        },
+        "tipico_de": {
+          "Luciano Darderi": 1.95,
+          "Matteo Arnaldi": 1.75
+        },
+        "onexbet": {
+          "Luciano Darderi": 2.08,
+          "Matteo Arnaldi": 1.78
+        },
+        "betclic_fr": {
+          "Luciano Darderi": 2.04,
+          "Matteo Arnaldi": 1.72
+        },
+        "marathonbet": {
+          "Luciano Darderi": 2.05,
+          "Matteo Arnaldi": 1.76
+        }
+      },
+      "prediction": {
+        "p1_name": "Luciano Darderi",
+        "p2_name": "Matteo Arnaldi",
+        "p1_prob": 0.5264,
+        "p2_prob": 0.4736,
+        "predicted_winner": "Luciano Darderi",
+        "confidence": "low",
+        "p1_edge": 0.0634,
+        "p2_edge": -0.0699
+      },
+      "collected_at": "2026-10-26T14:48:04.056432+00:00",
+      "result": null
+    },
+    "d4f7bc6b1f48bf445af411adfb5ba9d6": {
+      "match_id": "d4f7bc6b1f48bf445af411adfb5ba9d6",
+      "commence_time": "2026-10-26T19:00:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Luca Van Assche",
+      "player2": "Learner Tien",
+      "bookmakers": {
+        "bovada": {
+          "Learner Tien": 1.4,
+          "Luca Van Assche": 3.0
+        },
+        "betonlineag": {
+          "Learner Tien": 1.42,
+          "Luca Van Assche": 2.93
+        },
+        "leovegas_se": {
+          "Learner Tien": 1.4,
+          "Luca Van Assche": 3.0
+        },
+        "pmu_fr": {
+          "Learner Tien": 1.34,
+          "Luca Van Assche": 2.85
+        },
+        "betanysports": {
+          "Learner Tien": 1.4,
+          "Luca Van Assche": 3.0
+        },
+        "matchbook": {
+          "Learner Tien": 1.45,
+          "Luca Van Assche": 3.15
+        },
+        "pinnacle": {
+          "Learner Tien": 1.43,
+          "Luca Van Assche": 3.05
+        },
+        "betfair_ex_eu": {
+          "Learner Tien": 1.45,
+          "Luca Van Assche": 3.15
+        },
+        "fanduel": {
+          "Learner Tien": 1.38,
+          "Luca Van Assche": 3.0
+        },
+        "unibet_nl": {
+          "Learner Tien": 1.4,
+          "Luca Van Assche": 3.0
+        },
+        "lowvig": {
+          "Learner Tien": 1.42,
+          "Luca Van Assche": 2.93
+        },
+        "unibet_se": {
+          "Learner Tien": 1.4,
+          "Luca Van Assche": 3.0
+        },
+        "sport888": {
+          "Learner Tien": 1.4,
+          "Luca Van Assche": 2.9
+        },
+        "betmgm": {
+          "Learner Tien": 1.4,
+          "Luca Van Assche": 2.9
+        },
+        "winamax_fr": {
+          "Learner Tien": 1.38,
+          "Luca Van Assche": 2.85
+        },
+        "winamax_de": {
+          "Learner Tien": 1.41,
+          "Luca Van Assche": 3.05
+        },
+        "betrivers": {
+          "Learner Tien": 1.4,
+          "Luca Van Assche": 3.0
+        },
+        "draftkings": {
+          "Learner Tien": 1.41,
+          "Luca Van Assche": 2.96
+        },
+        "unibet_fr": {
+          "Learner Tien": 1.39,
+          "Luca Van Assche": 2.85
+        },
+        "williamhill": {
+          "Learner Tien": 1.4,
+          "Luca Van Assche": 2.9
+        },
+        "coolbet": {
+          "Learner Tien": 1.4,
+          "Luca Van Assche": 3.0
+        },
+        "betsson": {
+          "Learner Tien": 1.39,
+          "Luca Van Assche": 2.95
+        },
+        "nordicbet": {
+          "Learner Tien": 1.39,
+          "Luca Van Assche": 2.95
+        },
+        "tipico_de": {
+          "Learner Tien": 1.35,
+          "Luca Van Assche": 2.95
+        },
+        "onexbet": {
+          "Learner Tien": 1.41,
+          "Luca Van Assche": 3.01
+        },
+        "betclic_fr": {
+          "Learner Tien": 1.38,
+          "Luca Van Assche": 2.9
+        },
+        "marathonbet": {
+          "Learner Tien": 1.39,
+          "Luca Van Assche": 2.97
+        }
+      },
+      "prediction": {
+        "p1_name": "Luca Van Assche",
+        "p2_name": "Learner Tien",
+        "p1_prob": 0.2399,
+        "p2_prob": 0.7601,
+        "predicted_winner": "Learner Tien",
+        "confidence": "high",
+        "p1_edge": -0.0776,
+        "p2_edge": 0.0704
+      },
+      "collected_at": "2026-10-26T14:48:04.171198+00:00",
+      "result": null
+    },
+    "2121f3ad0a65fd648051aae488ff71ce": {
+      "match_id": "2121f3ad0a65fd648051aae488ff71ce",
+      "commence_time": "2026-10-27T12:30:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Adrian Mannarino",
+      "player2": "Ignacio Buse",
+      "bookmakers": {
+        "bovada": {
+          "Adrian Mannarino": 1.59,
+          "Ignacio Buse": 2.4
+        },
+        "leovegas_se": {
+          "Adrian Mannarino": 1.65,
+          "Ignacio Buse": 2.23
+        },
+        "pmu_fr": {
+          "Adrian Mannarino": 1.57,
+          "Ignacio Buse": 2.14
+        },
+        "betfair_ex_eu": {
+          "Adrian Mannarino": 1.62,
+          "Ignacio Buse": 2.48
+        },
+        "fanduel": {
+          "Adrian Mannarino": 1.62,
+          "Ignacio Buse": 2.32
+        },
+        "unibet_nl": {
+          "Adrian Mannarino": 1.65,
+          "Ignacio Buse": 2.23
+        },
+        "matchbook": {
+          "Adrian Mannarino": 1.62,
+          "Ignacio Buse": 2.48
+        },
+        "unibet_se": {
+          "Adrian Mannarino": 1.65,
+          "Ignacio Buse": 2.23
+        },
+        "sport888": {
+          "Adrian Mannarino": 1.57,
+          "Ignacio Buse": 2.38
+        },
+        "betmgm": {
+          "Adrian Mannarino": 1.57,
+          "Ignacio Buse": 2.35
+        },
+        "winamax_fr": {
+          "Adrian Mannarino": 1.5,
+          "Ignacio Buse": 2.3
+        },
+        "winamax_de": {
+          "Adrian Mannarino": 1.54,
+          "Ignacio Buse": 2.4
+        },
+        "betrivers": {
+          "Adrian Mannarino": 1.65,
+          "Ignacio Buse": 2.23
+        },
+        "draftkings": {
+          "Adrian Mannarino": 1.63,
+          "Ignacio Buse": 2.3
+        },
+        "unibet_fr": {
+          "Adrian Mannarino": 1.49,
+          "Ignacio Buse": 2.25
+        },
+        "williamhill": {
+          "Adrian Mannarino": 1.57,
+          "Ignacio Buse": 2.38
+        },
+        "coolbet": {
+          "Adrian Mannarino": 1.58,
+          "Ignacio Buse": 2.4
+        },
+        "betsson": {
+          "Adrian Mannarino": 1.55,
+          "Ignacio Buse": 2.42
+        },
+        "nordicbet": {
+          "Adrian Mannarino": 1.55,
+          "Ignacio Buse": 2.42
+        },
+        "tipico_de": {
+          "Adrian Mannarino": 1.52,
+          "Ignacio Buse": 2.35
+        },
+        "onexbet": {
+          "Adrian Mannarino": 1.61,
+          "Ignacio Buse": 2.37
+        },
+        "betclic_fr": {
+          "Adrian Mannarino": 1.5,
+          "Ignacio Buse": 2.3
+        },
+        "marathonbet": {
+          "Adrian Mannarino": 1.59,
+          "Ignacio Buse": 2.34
+        },
+        "lowvig": {
+          "Adrian Mannarino": 1.59,
+          "Ignacio Buse": 2.47
+        },
+        "betonlineag": {
+          "Adrian Mannarino": 1.59,
+          "Ignacio Buse": 2.47
+        },
+        "pinnacle": {
+          "Adrian Mannarino": 1.59,
+          "Ignacio Buse": 2.47
+        }
+      },
+      "prediction": {
+        "p1_name": "Adrian Mannarino",
+        "p2_name": "Ignacio Buse",
+        "p1_prob": 0.3106,
+        "p2_prob": 0.6894,
+        "predicted_winner": "Ignacio Buse",
+        "confidence": "high",
+        "p1_edge": -0.2955,
+        "p2_edge": 0.2862
+      },
+      "collected_at": "2026-10-26T14:48:04.286025+00:00",
+      "result": null
+    },
+    "0bf567898c610e332a53d119bf4d2c77": {
+      "match_id": "0bf567898c610e332a53d119bf4d2c77",
+      "commence_time": "2026-10-27T12:30:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Martin Landaluce",
+      "bookmakers": {
+        "bovada": {
+          "Alexander Zverev": 1.09,
+          "Martin Landaluce": 7.75
+        },
+        "betonlineag": {
+          "Alexander Zverev": 1.1,
+          "Martin Landaluce": 7.32
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.08,
+          "Martin Landaluce": 8.0
+        },
+        "pmu_fr": {
+          "Alexander Zverev": 1.04,
+          "Martin Landaluce": 7.5
+        },
+        "betanysports": {
+          "Alexander Zverev": 1.09,
+          "Martin Landaluce": 7.45
+        },
+        "matchbook": {
+          "Alexander Zverev": 1.11,
+          "Martin Landaluce": 8.8
+        },
+        "pinnacle": {
+          "Alexander Zverev": 1.1,
+          "Martin Landaluce": 7.87
+        },
+        "betfair_ex_eu": {
+          "Alexander Zverev": 1.11,
+          "Martin Landaluce": 8.8
+        },
+        "fanduel": {
+          "Alexander Zverev": 1.09,
+          "Martin Landaluce": 7.4
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.08,
+          "Martin Landaluce": 8.0
+        },
+        "lowvig": {
+          "Alexander Zverev": 1.1,
+          "Martin Landaluce": 7.32
+        },
+        "unibet_se": {
+          "Alexander Zverev": 1.08,
+          "Martin Landaluce": 8.0
+        },
+        "sport888": {
+          "Alexander Zverev": 1.1,
+          "Martin Landaluce": 7.0
+        },
+        "betmgm": {
+          "Alexander Zverev": 1.08,
+          "Martin Landaluce": 7.25
+        },
+        "winamax_fr": {
+          "Alexander Zverev": 1.07,
+          "Martin Landaluce": 7.0
+        },
+        "winamax_de": {
+          "Alexander Zverev": 1.09,
+          "Martin Landaluce": 8.5
+        },
+        "betrivers": {
+          "Alexander Zverev": 1.08,
+          "Martin Landaluce": 8.0
+        },
+        "draftkings": {
+          "Alexander Zverev": 1.1,
+          "Martin Landaluce": 7.4
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.06,
+          "Martin Landaluce": 6.0
+        },
+        "williamhill": {
+          "Alexander Zverev": 1.1,
+          "Martin Landaluce": 7.0
+        },
+        "coolbet": {
+          "Alexander Zverev": 1.09,
+          "Martin Landaluce": 7.5
+        },
+        "betsson": {
+          "Alexander Zverev": 1.08,
+          "Martin Landaluce": 7.4
+        },
+        "nordicbet": {
+          "Alexander Zverev": 1.08,
+          "Martin Landaluce": 7.4
+        },
+        "tipico_de": {
+          "Alexander Zverev": 1.05,
+          "Martin Landaluce": 7.8
+        },
+        "onexbet": {
+          "Alexander Zverev": 1.09,
+          "Martin Landaluce": 7.95
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 1.08,
+          "Martin Landaluce": 7.2
+        },
+        "marathonbet": {
+          "Alexander Zverev": 1.08,
+          "Martin Landaluce": 7.5
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Martin Landaluce",
+        "p1_prob": 0.8329,
+        "p2_prob": 0.1671,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": -0.068,
+        "p2_edge": 0.0535
+      },
+      "collected_at": "2026-10-26T14:48:04.400610+00:00",
+      "result": null
+    },
+    "3a73a96665b992e825c1256066d9abf1": {
+      "match_id": "3a73a96665b992e825c1256066d9abf1",
+      "commence_time": "2026-10-27T12:30:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Tommy Paul",
+      "player2": "Andrey Rublev",
+      "bookmakers": {
+        "bovada": {
+          "Andrey Rublev": 2.3,
+          "Tommy Paul": 1.65
+        },
+        "betonlineag": {
+          "Andrey Rublev": 2.3,
+          "Tommy Paul": 1.67
+        },
+        "leovegas_se": {
+          "Andrey Rublev": 2.35,
+          "Tommy Paul": 1.57
+        },
+        "pmu_fr": {
+          "Andrey Rublev": 2.25,
+          "Tommy Paul": 1.53
+        },
+        "betanysports": {
+          "Andrey Rublev": 2.25,
+          "Tommy Paul": 1.65
+        },
+        "matchbook": {
+          "Andrey Rublev": 2.36,
+          "Tommy Paul": 1.69
+        },
+        "pinnacle": {
+          "Andrey Rublev": 2.32,
+          "Tommy Paul": 1.67
+        },
+        "betfair_ex_eu": {
+          "Andrey Rublev": 2.36,
+          "Tommy Paul": 1.69
+        },
+        "fanduel": {
+          "Andrey Rublev": 2.3,
+          "Tommy Paul": 1.62
+        },
+        "unibet_nl": {
+          "Andrey Rublev": 2.35,
+          "Tommy Paul": 1.57
+        },
+        "lowvig": {
+          "Andrey Rublev": 2.3,
+          "Tommy Paul": 1.67
+        },
+        "unibet_se": {
+          "Andrey Rublev": 2.35,
+          "Tommy Paul": 1.57
+        },
+        "sport888": {
+          "Andrey Rublev": 2.3,
+          "Tommy Paul": 1.61
+        },
+        "betmgm": {
+          "Andrey Rublev": 2.2,
+          "Tommy Paul": 1.65
+        },
+        "winamax_fr": {
+          "Andrey Rublev": 2.2,
+          "Tommy Paul": 1.6
+        },
+        "winamax_de": {
+          "Andrey Rublev": 2.3,
+          "Tommy Paul": 1.66
+        },
+        "betrivers": {
+          "Andrey Rublev": 2.35,
+          "Tommy Paul": 1.57
+        },
+        "draftkings": {
+          "Andrey Rublev": 2.34,
+          "Tommy Paul": 1.61
+        },
+        "unibet_fr": {
+          "Andrey Rublev": 2.1,
+          "Tommy Paul": 1.56
+        },
+        "williamhill": {
+          "Andrey Rublev": 2.3,
+          "Tommy Paul": 1.62
+        },
+        "coolbet": {
+          "Andrey Rublev": 2.27,
+          "Tommy Paul": 1.64
+        },
+        "betsson": {
+          "Andrey Rublev": 2.25,
+          "Tommy Paul": 1.63
+        },
+        "nordicbet": {
+          "Andrey Rublev": 2.25,
+          "Tommy Paul": 1.63
+        },
+        "tipico_de": {
+          "Andrey Rublev": 2.25,
+          "Tommy Paul": 1.57
+        },
+        "onexbet": {
+          "Andrey Rublev": 2.32,
+          "Tommy Paul": 1.64
+        },
+        "betclic_fr": {
+          "Andrey Rublev": 2.22,
+          "Tommy Paul": 1.61
+        },
+        "marathonbet": {
+          "Andrey Rublev": 2.29,
+          "Tommy Paul": 1.62
+        }
+      },
+      "prediction": {
+        "p1_name": "Tommy Paul",
+        "p2_name": "Andrey Rublev",
+        "p1_prob": 0.4576,
+        "p2_prob": 0.5424,
+        "predicted_winner": "Andrey Rublev",
+        "confidence": "medium",
+        "p1_edge": -0.1341,
+        "p2_edge": 0.1187
+      },
+      "collected_at": "2026-10-26T14:48:04.515507+00:00",
+      "result": null
+    },
+    "01c5f7c5dda8e39a8d33c84b8d9e323d": {
+      "match_id": "01c5f7c5dda8e39a8d33c84b8d9e323d",
+      "commence_time": "2026-10-27T12:30:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Tallon Griekspoor",
+      "player2": "Brandon Nakashima",
+      "bookmakers": {
+        "bovada": {
+          "Brandon Nakashima": 1.44,
+          "Tallon Griekspoor": 2.85
+        },
+        "betonlineag": {
+          "Brandon Nakashima": 1.45,
+          "Tallon Griekspoor": 2.84
+        },
+        "leovegas_se": {
+          "Brandon Nakashima": 1.38,
+          "Tallon Griekspoor": 3.05
+        },
+        "pmu_fr": {
+          "Brandon Nakashima": 1.33,
+          "Tallon Griekspoor": 2.9
+        },
+        "betanysports": {
+          "Brandon Nakashima": 1.44,
+          "Tallon Griekspoor": 2.85
+        },
+        "matchbook": {
+          "Brandon Nakashima": 1.48,
+          "Tallon Griekspoor": 3.0
+        },
+        "pinnacle": {
+          "Brandon Nakashima": 1.47,
+          "Tallon Griekspoor": 2.88
+        },
+        "betfair_ex_eu": {
+          "Brandon Nakashima": 1.48,
+          "Tallon Griekspoor": 2.98
+        },
+        "fanduel": {
+          "Brandon Nakashima": 1.42,
+          "Tallon Griekspoor": 2.92
+        },
+        "unibet_nl": {
+          "Brandon Nakashima": 1.38,
+          "Tallon Griekspoor": 3.05
+        },
+        "lowvig": {
+          "Brandon Nakashima": 1.45,
+          "Tallon Griekspoor": 2.84
+        },
+        "unibet_se": {
+          "Brandon Nakashima": 1.38,
+          "Tallon Griekspoor": 3.05
+        },
+        "sport888": {
+          "Brandon Nakashima": 1.4,
+          "Tallon Griekspoor": 2.9
+        },
+        "betmgm": {
+          "Brandon Nakashima": 1.44,
+          "Tallon Griekspoor": 2.75
+        },
+        "winamax_fr": {
+          "Brandon Nakashima": 1.41,
+          "Tallon Griekspoor": 2.75
+        },
+        "winamax_de": {
+          "Brandon Nakashima": 1.45,
+          "Tallon Griekspoor": 2.9
+        },
+        "betrivers": {
+          "Brandon Nakashima": 1.38,
+          "Tallon Griekspoor": 3.05
+        },
+        "draftkings": {
+          "Brandon Nakashima": 1.41,
+          "Tallon Griekspoor": 2.93
+        },
+        "unibet_fr": {
+          "Brandon Nakashima": 1.38,
+          "Tallon Griekspoor": 2.6
+        },
+        "williamhill": {
+          "Brandon Nakashima": 1.4,
+          "Tallon Griekspoor": 2.9
+        },
+        "coolbet": {
+          "Brandon Nakashima": 1.44,
+          "Tallon Griekspoor": 2.8
+        },
+        "betsson": {
+          "Brandon Nakashima": 1.42,
+          "Tallon Griekspoor": 2.8
+        },
+        "nordicbet": {
+          "Brandon Nakashima": 1.42,
+          "Tallon Griekspoor": 2.8
+        },
+        "tipico_de": {
+          "Brandon Nakashima": 1.37,
+          "Tallon Griekspoor": 2.85
+        },
+        "onexbet": {
+          "Brandon Nakashima": 1.44,
+          "Tallon Griekspoor": 2.88
+        },
+        "betclic_fr": {
+          "Brandon Nakashima": 1.41,
+          "Tallon Griekspoor": 2.75
+        },
+        "marathonbet": {
+          "Brandon Nakashima": 1.42,
+          "Tallon Griekspoor": 2.84
+        }
+      },
+      "prediction": {
+        "p1_name": "Tallon Griekspoor",
+        "p2_name": "Brandon Nakashima",
+        "p1_prob": 0.3239,
+        "p2_prob": 0.6761,
+        "predicted_winner": "Brandon Nakashima",
+        "confidence": "high",
+        "p1_edge": -0.004,
+        "p2_edge": 0.0004
+      },
+      "collected_at": "2026-10-26T14:48:04.630599+00:00",
+      "result": null
+    },
+    "e9aca20f62c49ea43ad8b9d91f00330b": {
+      "match_id": "e9aca20f62c49ea43ad8b9d91f00330b",
+      "commence_time": "2026-10-27T12:30:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Cameron Norrie",
+      "player2": "Francisco Cerundolo",
+      "bookmakers": {
+        "bovada": {
+          "Cameron Norrie": 2.75,
+          "Francisco Cerundolo": 1.47
+        },
+        "betonlineag": {
+          "Cameron Norrie": 2.8,
+          "Francisco Cerundolo": 1.48
+        },
+        "leovegas_se": {
+          "Cameron Norrie": 2.75,
+          "Francisco Cerundolo": 1.43
+        },
+        "pmu_fr": {
+          "Cameron Norrie": 2.63,
+          "Francisco Cerundolo": 1.38
+        },
+        "betanysports": {
+          "Cameron Norrie": 2.75,
+          "Francisco Cerundolo": 1.47
+        },
+        "matchbook": {
+          "Cameron Norrie": 2.86,
+          "Francisco Cerundolo": 1.52
+        },
+        "pinnacle": {
+          "Cameron Norrie": 2.8,
+          "Francisco Cerundolo": 1.49
+        },
+        "betfair_ex_eu": {
+          "Cameron Norrie": 2.86,
+          "Francisco Cerundolo": 1.52
+        },
+        "fanduel": {
+          "Cameron Norrie": 2.76,
+          "Francisco Cerundolo": 1.45
+        },
+        "unibet_nl": {
+          "Cameron Norrie": 2.75,
+          "Francisco Cerundolo": 1.43
+        },
+        "lowvig": {
+          "Cameron Norrie": 2.8,
+          "Francisco Cerundolo": 1.48
+        },
+        "unibet_se": {
+          "Cameron Norrie": 2.75,
+          "Francisco Cerundolo": 1.43
+        },
+        "sport888": {
+          "Cameron Norrie": 2.6,
+          "Francisco Cerundolo": 1.5
+        },
+        "betmgm": {
+          "Cameron Norrie": 2.75,
+          "Francisco Cerundolo": 1.44
+        },
+        "winamax_fr": {
+          "Cameron Norrie": 2.65,
+          "Francisco Cerundolo": 1.42
+        },
+        "winamax_de": {
+          "Cameron Norrie": 2.85,
+          "Francisco Cerundolo": 1.47
+        },
+        "betrivers": {
+          "Cameron Norrie": 2.75,
+          "Francisco Cerundolo": 1.43
+        },
+        "draftkings": {
+          "Cameron Norrie": 2.68,
+          "Francisco Cerundolo": 1.48
+        },
+        "unibet_fr": {
+          "Cameron Norrie": 2.55,
+          "Francisco Cerundolo": 1.39
+        },
+        "williamhill": {
+          "Cameron Norrie": 2.6,
+          "Francisco Cerundolo": 1.5
+        },
+        "coolbet": {
+          "Cameron Norrie": 2.7,
+          "Francisco Cerundolo": 1.47
+        },
+        "betsson": {
+          "Cameron Norrie": 2.75,
+          "Francisco Cerundolo": 1.44
+        },
+        "nordicbet": {
+          "Cameron Norrie": 2.75,
+          "Francisco Cerundolo": 1.44
+        },
+        "tipico_de": {
+          "Cameron Norrie": 2.7,
+          "Francisco Cerundolo": 1.4
+        },
+        "onexbet": {
+          "Cameron Norrie": 2.79,
+          "Francisco Cerundolo": 1.46
+        },
+        "betclic_fr": {
+          "Cameron Norrie": 2.7,
+          "Francisco Cerundolo": 1.43
+        },
+        "marathonbet": {
+          "Cameron Norrie": 2.75,
+          "Francisco Cerundolo": 1.44
+        }
+      },
+      "prediction": {
+        "p1_name": "Cameron Norrie",
+        "p2_name": "Francisco Cerundolo",
+        "p1_prob": 0.4392,
+        "p2_prob": 0.5608,
+        "predicted_winner": "Francisco Cerundolo",
+        "confidence": "medium",
+        "p1_edge": 0.0895,
+        "p2_edge": -0.0971
+      },
+      "collected_at": "2026-10-26T14:48:04.745562+00:00",
+      "result": null
+    },
+    "c79e026be2881d605ce1f181243a44cf": {
+      "match_id": "c79e026be2881d605ce1f181243a44cf",
+      "commence_time": "2026-10-27T12:30:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Karen Khachanov",
+      "player2": "Carlos Alcaraz",
+      "bookmakers": {
+        "bovada": {
+          "Carlos Alcaraz": 1.22,
+          "Karen Khachanov": 4.5
+        },
+        "betonlineag": {
+          "Carlos Alcaraz": 1.21,
+          "Karen Khachanov": 4.51
+        },
+        "leovegas_se": {
+          "Carlos Alcaraz": 1.2,
+          "Karen Khachanov": 4.6
+        },
+        "pmu_fr": {
+          "Carlos Alcaraz": 1.16,
+          "Karen Khachanov": 4.25
+        },
+        "betanysports": {
+          "Carlos Alcaraz": 1.22,
+          "Karen Khachanov": 4.3
+        },
+        "matchbook": {
+          "Carlos Alcaraz": 1.23,
+          "Karen Khachanov": 4.9
+        },
+        "pinnacle": {
+          "Carlos Alcaraz": 1.22,
+          "Karen Khachanov": 4.76
+        },
+        "betfair_ex_eu": {
+          "Carlos Alcaraz": 1.23,
+          "Karen Khachanov": 4.8
+        },
+        "fanduel": {
+          "Carlos Alcaraz": 1.18,
+          "Karen Khachanov": 4.8
+        },
+        "unibet_nl": {
+          "Carlos Alcaraz": 1.2,
+          "Karen Khachanov": 4.6
+        },
+        "lowvig": {
+          "Carlos Alcaraz": 1.21,
+          "Karen Khachanov": 4.51
+        },
+        "unibet_se": {
+          "Carlos Alcaraz": 1.2,
+          "Karen Khachanov": 4.6
+        },
+        "sport888": {
+          "Carlos Alcaraz": 1.22,
+          "Karen Khachanov": 4.2
+        },
+        "betmgm": {
+          "Carlos Alcaraz": 1.2,
+          "Karen Khachanov": 4.4
+        },
+        "winamax_fr": {
+          "Carlos Alcaraz": 1.19,
+          "Karen Khachanov": 4.3
+        },
+        "winamax_de": {
+          "Carlos Alcaraz": 1.21,
+          "Karen Khachanov": 4.7
+        },
+        "betrivers": {
+          "Carlos Alcaraz": 1.2,
+          "Karen Khachanov": 4.6
+        },
+        "draftkings": {
+          "Carlos Alcaraz": 1.21,
+          "Karen Khachanov": 4.45
+        },
+        "unibet_fr": {
+          "Carlos Alcaraz": 1.17,
+          "Karen Khachanov": 3.95
+        },
+        "williamhill": {
+          "Carlos Alcaraz": 1.22,
+          "Karen Khachanov": 4.2
+        },
+        "coolbet": {
+          "Carlos Alcaraz": 1.21,
+          "Karen Khachanov": 4.5
+        },
+        "betsson": {
+          "Carlos Alcaraz": 1.2,
+          "Karen Khachanov": 4.4
+        },
+        "nordicbet": {
+          "Carlos Alcaraz": 1.2,
+          "Karen Khachanov": 4.4
+        },
+        "tipico_de": {
+          "Carlos Alcaraz": 1.16,
+          "Karen Khachanov": 4.5
+        },
+        "onexbet": {
+          "Carlos Alcaraz": 1.23,
+          "Karen Khachanov": 4.41
+        },
+        "betclic_fr": {
+          "Carlos Alcaraz": 1.19,
+          "Karen Khachanov": 4.3
+        },
+        "marathonbet": {
+          "Carlos Alcaraz": 1.21,
+          "Karen Khachanov": 4.35
+        }
+      },
+      "prediction": {
+        "p1_name": "Karen Khachanov",
+        "p2_name": "Carlos Alcaraz",
+        "p1_prob": 0.0986,
+        "p2_prob": 0.9014,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": -0.1055,
+        "p2_edge": 0.0884
+      },
+      "collected_at": "2026-10-26T14:48:04.860543+00:00",
+      "result": null
+    },
+    "ad2ec395411c7dd956e92178f00c0c8d": {
+      "match_id": "ad2ec395411c7dd956e92178f00c0c8d",
+      "commence_time": "2026-10-27T12:30:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Daniel Merida Aguilar",
+      "player2": "Daniil Medvedev",
+      "bookmakers": {
+        "bovada": {
+          "Daniel Merida Aguilar": 4.0,
+          "Daniil Medvedev": 1.25
+        },
+        "betonlineag": {
+          "Daniel Merida Aguilar": 4.04,
+          "Daniil Medvedev": 1.26
+        },
+        "leovegas_se": {
+          "Daniel Merida Aguilar": 4.2,
+          "Daniil Medvedev": 1.23
+        },
+        "pmu_fr": {
+          "Daniel Merida Aguilar": 3.95,
+          "Daniil Medvedev": 1.18
+        },
+        "betanysports": {
+          "Daniel Merida Aguilar": 4.1,
+          "Daniil Medvedev": 1.25
+        },
+        "matchbook": {
+          "Daniel Merida Aguilar": 4.4,
+          "Daniil Medvedev": 1.27
+        },
+        "pinnacle": {
+          "Daniel Merida Aguilar": 4.24,
+          "Daniil Medvedev": 1.26
+        },
+        "betfair_ex_eu": {
+          "Daniel Merida Aguilar": 4.4,
+          "Daniil Medvedev": 1.27
+        },
+        "fanduel": {
+          "Daniel Merida Aguilar": 4.3,
+          "Daniil Medvedev": 1.22
+        },
+        "unibet_nl": {
+          "Daniel Merida Aguilar": 4.2,
+          "Daniil Medvedev": 1.23
+        },
+        "lowvig": {
+          "Daniel Merida Aguilar": 4.04,
+          "Daniil Medvedev": 1.26
+        },
+        "unibet_se": {
+          "Daniel Merida Aguilar": 4.2,
+          "Daniil Medvedev": 1.23
+        },
+        "sport888": {
+          "Daniel Merida Aguilar": 3.6,
+          "Daniil Medvedev": 1.29
+        },
+        "betmgm": {
+          "Daniel Merida Aguilar": 4.1,
+          "Daniil Medvedev": 1.22
+        },
+        "winamax_fr": {
+          "Daniel Merida Aguilar": 3.9,
+          "Daniil Medvedev": 1.22
+        },
+        "winamax_de": {
+          "Daniel Merida Aguilar": 4.2,
+          "Daniil Medvedev": 1.25
+        },
+        "betrivers": {
+          "Daniel Merida Aguilar": 4.2,
+          "Daniil Medvedev": 1.23
+        },
+        "draftkings": {
+          "Daniel Merida Aguilar": 3.88,
+          "Daniil Medvedev": 1.27
+        },
+        "unibet_fr": {
+          "Daniel Merida Aguilar": 3.6,
+          "Daniil Medvedev": 1.2
+        },
+        "williamhill": {
+          "Daniel Merida Aguilar": 3.6,
+          "Daniil Medvedev": 1.29
+        },
+        "coolbet": {
+          "Daniel Merida Aguilar": 4.3,
+          "Daniil Medvedev": 1.22
+        },
+        "betsson": {
+          "Daniel Merida Aguilar": 4.0,
+          "Daniil Medvedev": 1.23
+        },
+        "nordicbet": {
+          "Daniel Merida Aguilar": 4.0,
+          "Daniil Medvedev": 1.23
+        },
+        "tipico_de": {
+          "Daniel Merida Aguilar": 4.0,
+          "Daniil Medvedev": 1.2
+        },
+        "onexbet": {
+          "Daniel Merida Aguilar": 4.05,
+          "Daniil Medvedev": 1.26
+        },
+        "betclic_fr": {
+          "Daniel Merida Aguilar": 3.9,
+          "Daniil Medvedev": 1.23
+        },
+        "marathonbet": {
+          "Daniel Merida Aguilar": 4.0,
+          "Daniil Medvedev": 1.24
+        }
+      },
+      "prediction": {
+        "p1_name": "Jorge Aguilar",
+        "p2_name": "Daniil Medvedev",
+        "p1_prob": 0.0619,
+        "p2_prob": 0.9381,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": -0.1654,
+        "p2_edge": 0.1629
+      },
+      "collected_at": "2026-10-26T14:48:04.976538+00:00",
+      "result": null
+    },
+    "705dce2eaaf74f7b3cb3f919d2f1ea8d": {
+      "match_id": "705dce2eaaf74f7b3cb3f919d2f1ea8d",
+      "commence_time": "2026-10-27T12:30:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Flavio Cobolli",
+      "player2": "Grigor Dimitrov",
+      "bookmakers": {
+        "bovada": {
+          "Flavio Cobolli": 1.51,
+          "Grigor Dimitrov": 2.6
+        },
+        "betonlineag": {
+          "Flavio Cobolli": 1.52,
+          "Grigor Dimitrov": 2.67
+        },
+        "leovegas_se": {
+          "Flavio Cobolli": 1.53,
+          "Grigor Dimitrov": 2.5
+        },
+        "pmu_fr": {
+          "Flavio Cobolli": 1.47,
+          "Grigor Dimitrov": 2.38
+        },
+        "betanysports": {
+          "Flavio Cobolli": 1.51,
+          "Grigor Dimitrov": 2.65
+        },
+        "matchbook": {
+          "Flavio Cobolli": 1.55,
+          "Grigor Dimitrov": 2.76
+        },
+        "pinnacle": {
+          "Flavio Cobolli": 1.53,
+          "Grigor Dimitrov": 2.67
+        },
+        "betfair_ex_eu": {
+          "Flavio Cobolli": 1.54,
+          "Grigor Dimitrov": 2.76
+        },
+        "fanduel": {
+          "Flavio Cobolli": 1.49,
+          "Grigor Dimitrov": 2.62
+        },
+        "unibet_nl": {
+          "Flavio Cobolli": 1.53,
+          "Grigor Dimitrov": 2.5
+        },
+        "lowvig": {
+          "Flavio Cobolli": 1.52,
+          "Grigor Dimitrov": 2.67
+        },
+        "unibet_se": {
+          "Flavio Cobolli": 1.53,
+          "Grigor Dimitrov": 2.5
+        },
+        "sport888": {
+          "Flavio Cobolli": 1.53,
+          "Grigor Dimitrov": 2.5
+        },
+        "betmgm": {
+          "Flavio Cobolli": 1.5,
+          "Grigor Dimitrov": 2.54
+        },
+        "winamax_fr": {
+          "Flavio Cobolli": 1.48,
+          "Grigor Dimitrov": 2.5
+        },
+        "winamax_de": {
+          "Flavio Cobolli": 1.52,
+          "Grigor Dimitrov": 2.65
+        },
+        "betrivers": {
+          "Flavio Cobolli": 1.53,
+          "Grigor Dimitrov": 2.5
+        },
+        "draftkings": {
+          "Flavio Cobolli": 1.49,
+          "Grigor Dimitrov": 2.64
+        },
+        "unibet_fr": {
+          "Flavio Cobolli": 1.44,
+          "Grigor Dimitrov": 2.4
+        },
+        "williamhill": {
+          "Flavio Cobolli": 1.53,
+          "Grigor Dimitrov": 2.5
+        },
+        "coolbet": {
+          "Flavio Cobolli": 1.5,
+          "Grigor Dimitrov": 2.6
+        },
+        "betsson": {
+          "Flavio Cobolli": 1.5,
+          "Grigor Dimitrov": 2.55
+        },
+        "nordicbet": {
+          "Flavio Cobolli": 1.5,
+          "Grigor Dimitrov": 2.55
+        },
+        "tipico_de": {
+          "Flavio Cobolli": 1.45,
+          "Grigor Dimitrov": 2.55
+        },
+        "onexbet": {
+          "Flavio Cobolli": 1.54,
+          "Grigor Dimitrov": 2.54
+        },
+        "betclic_fr": {
+          "Flavio Cobolli": 1.49,
+          "Grigor Dimitrov": 2.5
+        },
+        "marathonbet": {
+          "Flavio Cobolli": 1.52,
+          "Grigor Dimitrov": 2.51
+        }
+      },
+      "prediction": {
+        "p1_name": "Flavio Cobolli",
+        "p2_name": "Grigor Dimitrov",
+        "p1_prob": 0.6924,
+        "p2_prob": 0.3076,
+        "predicted_winner": "Flavio Cobolli",
+        "confidence": "high",
+        "p1_edge": 0.0472,
+        "p2_edge": -0.0547
+      },
+      "collected_at": "2026-10-26T14:48:05.091993+00:00",
+      "result": null
+    },
+    "84b3d47944a12f77e8f84c6442665671": {
+      "match_id": "84b3d47944a12f77e8f84c6442665671",
+      "commence_time": "2026-10-27T12:30:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Lorenzo Musetti",
+      "player2": "Frances Tiafoe",
+      "bookmakers": {
+        "bovada": {
+          "Frances Tiafoe": 1.87,
+          "Lorenzo Musetti": 1.95
+        },
+        "betonlineag": {
+          "Frances Tiafoe": 1.86,
+          "Lorenzo Musetti": 1.96
+        },
+        "leovegas_se": {
+          "Frances Tiafoe": 1.83,
+          "Lorenzo Musetti": 1.95
+        },
+        "pmu_fr": {
+          "Frances Tiafoe": 1.77,
+          "Lorenzo Musetti": 1.88
+        },
+        "betanysports": {
+          "Frances Tiafoe": 1.91,
+          "Lorenzo Musetti": 1.91
+        },
+        "matchbook": {
+          "Frances Tiafoe": 1.92,
+          "Lorenzo Musetti": 2.04
+        },
+        "pinnacle": {
+          "Frances Tiafoe": 1.89,
+          "Lorenzo Musetti": 1.99
+        },
+        "betfair_ex_eu": {
+          "Frances Tiafoe": 1.92,
+          "Lorenzo Musetti": 2.04
+        },
+        "unibet_nl": {
+          "Frances Tiafoe": 1.83,
+          "Lorenzo Musetti": 1.95
+        },
+        "lowvig": {
+          "Frances Tiafoe": 1.86,
+          "Lorenzo Musetti": 1.96
+        },
+        "unibet_se": {
+          "Frances Tiafoe": 1.83,
+          "Lorenzo Musetti": 1.95
+        },
+        "sport888": {
+          "Frances Tiafoe": 1.85,
+          "Lorenzo Musetti": 1.95
+        },
+        "betmgm": {
+          "Frances Tiafoe": 1.85,
+          "Lorenzo Musetti": 1.91
+        },
+        "winamax_fr": {
+          "Frances Tiafoe": 1.8,
+          "Lorenzo Musetti": 1.92
+        },
+        "winamax_de": {
+          "Frances Tiafoe": 1.86,
+          "Lorenzo Musetti": 2.0
+        },
+        "betrivers": {
+          "Frances Tiafoe": 1.83,
+          "Lorenzo Musetti": 1.95
+        },
+        "draftkings": {
+          "Frances Tiafoe": 1.89,
+          "Lorenzo Musetti": 1.92
+        },
+        "unibet_fr": {
+          "Frances Tiafoe": 1.74,
+          "Lorenzo Musetti": 1.86
+        },
+        "williamhill": {
+          "Frances Tiafoe": 1.85,
+          "Lorenzo Musetti": 1.95
+        },
+        "coolbet": {
+          "Frances Tiafoe": 1.92,
+          "Lorenzo Musetti": 1.89
+        },
+        "betsson": {
+          "Frances Tiafoe": 1.82,
+          "Lorenzo Musetti": 1.96
+        },
+        "nordicbet": {
+          "Frances Tiafoe": 1.82,
+          "Lorenzo Musetti": 1.96
+        },
+        "tipico_de": {
+          "Frances Tiafoe": 1.75,
+          "Lorenzo Musetti": 1.95
+        },
+        "onexbet": {
+          "Frances Tiafoe": 1.88,
+          "Lorenzo Musetti": 1.97
+        },
+        "betclic_fr": {
+          "Frances Tiafoe": 1.81,
+          "Lorenzo Musetti": 1.94
+        },
+        "marathonbet": {
+          "Frances Tiafoe": 1.85,
+          "Lorenzo Musetti": 1.94
+        }
+      },
+      "prediction": {
+        "p1_name": "Lorenzo Musetti",
+        "p2_name": "Frances Tiafoe",
+        "p1_prob": 0.5288,
+        "p2_prob": 0.4712,
+        "predicted_winner": "Lorenzo Musetti",
+        "confidence": "low",
+        "p1_edge": 0.0386,
+        "p2_edge": -0.0496
+      },
+      "collected_at": "2026-10-26T14:48:05.207541+00:00",
+      "result": null
+    },
+    "484a0fff5b3739c2bbc79cafff73007c": {
+      "match_id": "484a0fff5b3739c2bbc79cafff73007c",
+      "commence_time": "2026-10-27T12:30:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Jurij Rodionov",
+      "player2": "Nikoloz Basilashvili",
+      "bookmakers": {
+        "bovada": {
+          "Jurij Rodionov": 2.15,
+          "Nikoloz Basilashvili": 1.71
+        },
+        "betonlineag": {
+          "Jurij Rodionov": 2.16,
+          "Nikoloz Basilashvili": 1.74
+        },
+        "leovegas_se": {
+          "Jurij Rodionov": 2.2,
+          "Nikoloz Basilashvili": 1.67
+        },
+        "pmu_fr": {
+          "Jurij Rodionov": 2.1,
+          "Nikoloz Basilashvili": 1.6
+        },
+        "betanysports": {
+          "Jurij Rodionov": 2.1,
+          "Nikoloz Basilashvili": 1.71
+        },
+        "matchbook": {
+          "Jurij Rodionov": 2.22,
+          "Nikoloz Basilashvili": 1.8
+        },
+        "pinnacle": {
+          "Jurij Rodionov": 2.18,
+          "Nikoloz Basilashvili": 1.76
+        },
+        "betfair_ex_eu": {
+          "Jurij Rodionov": 2.22,
+          "Nikoloz Basilashvili": 1.8
+        },
+        "fanduel": {
+          "Jurij Rodionov": 2.12,
+          "Nikoloz Basilashvili": 1.74
+        },
+        "unibet_nl": {
+          "Jurij Rodionov": 2.2,
+          "Nikoloz Basilashvili": 1.67
+        },
+        "lowvig": {
+          "Jurij Rodionov": 2.16,
+          "Nikoloz Basilashvili": 1.74
+        },
+        "unibet_se": {
+          "Jurij Rodionov": 2.2,
+          "Nikoloz Basilashvili": 1.67
+        },
+        "sport888": {
+          "Jurij Rodionov": 2.1,
+          "Nikoloz Basilashvili": 1.73
+        },
+        "betmgm": {
+          "Jurij Rodionov": 2.1,
+          "Nikoloz Basilashvili": 1.69
+        },
+        "winamax_fr": {
+          "Jurij Rodionov": 2.05,
+          "Nikoloz Basilashvili": 1.68
+        },
+        "winamax_de": {
+          "Jurij Rodionov": 2.15,
+          "Nikoloz Basilashvili": 1.74
+        },
+        "betrivers": {
+          "Jurij Rodionov": 2.2,
+          "Nikoloz Basilashvili": 1.67
+        },
+        "draftkings": {
+          "Jurij Rodionov": 2.2,
+          "Nikoloz Basilashvili": 1.68
+        },
+        "unibet_fr": {
+          "Jurij Rodionov": 2.1,
+          "Nikoloz Basilashvili": 1.58
+        },
+        "williamhill": {
+          "Jurij Rodionov": 2.1,
+          "Nikoloz Basilashvili": 1.73
+        },
+        "coolbet": {
+          "Jurij Rodionov": 2.17,
+          "Nikoloz Basilashvili": 1.7
+        },
+        "betsson": {
+          "Jurij Rodionov": 2.1,
+          "Nikoloz Basilashvili": 1.71
+        },
+        "nordicbet": {
+          "Jurij Rodionov": 2.1,
+          "Nikoloz Basilashvili": 1.71
+        },
+        "tipico_de": {
+          "Jurij Rodionov": 2.15,
+          "Nikoloz Basilashvili": 1.62
+        },
+        "onexbet": {
+          "Jurij Rodionov": 2.18,
+          "Nikoloz Basilashvili": 1.72
+        },
+        "betclic_fr": {
+          "Jurij Rodionov": 2.08,
+          "Nikoloz Basilashvili": 1.7
+        },
+        "marathonbet": {
+          "Jurij Rodionov": 2.15,
+          "Nikoloz Basilashvili": 1.69
+        }
+      },
+      "prediction": {
+        "p1_name": "Jurij Rodionov",
+        "p2_name": "Nikoloz Basilashvili",
+        "p1_prob": 0.5429,
+        "p2_prob": 0.4571,
+        "predicted_winner": "Jurij Rodionov",
+        "confidence": "medium",
+        "p1_edge": 0.0924,
+        "p2_edge": -0.0985
+      },
+      "collected_at": "2026-10-26T14:48:05.322745+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-25T18:41:50.161336+00:00"
+  "last_updated": "2026-10-26T14:48:05.339802+00:00"
 }
