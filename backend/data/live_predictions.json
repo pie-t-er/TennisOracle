@@ -76391,7 +76391,11 @@
         "p2_edge": 0.2949
       },
       "collected_at": "2026-10-26T14:48:02.100149+00:00",
-      "result": null
+      "result": {
+        "winner": "Valentin Vacherot",
+        "correct": true,
+        "settled_at": "2026-10-26T20:51:49.003793+00:00"
+      }
     },
     "fc557e2864fbe07964a9d288a81d5009": {
       "match_id": "fc557e2864fbe07964a9d288a81d5009",
@@ -76505,7 +76509,11 @@
         "p2_edge": -0.0215
       },
       "collected_at": "2026-10-26T14:48:02.213007+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniel Altmaier",
+        "correct": false,
+        "settled_at": "2026-10-26T20:51:49.111956+00:00"
+      }
     },
     "7484e86bb920b4e17ec18fde7f1487a5": {
       "match_id": "7484e86bb920b4e17ec18fde7f1487a5",
@@ -76639,7 +76647,11 @@
         "p2_edge": -0.2818
       },
       "collected_at": "2026-10-26T14:48:02.325415+00:00",
-      "result": null
+      "result": {
+        "winner": "Holger Rune",
+        "correct": true,
+        "settled_at": "2026-10-26T20:51:49.218767+00:00"
+      }
     },
     "4e0a2e9c11be94414228a1a7579f4f8b": {
       "match_id": "4e0a2e9c11be94414228a1a7579f4f8b",
@@ -78139,7 +78151,11 @@
         "p2_edge": 0.2718
       },
       "collected_at": "2026-10-26T14:48:03.715386+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex de Minaur",
+        "correct": true,
+        "settled_at": "2026-10-26T20:51:49.324449+00:00"
+      }
     },
     "19df044cd9025a373c245656976c1d6d": {
       "match_id": "19df044cd9025a373c245656976c1d6d",
@@ -78265,7 +78281,11 @@
         "p2_edge": -0.1686
       },
       "collected_at": "2026-10-26T14:48:03.828598+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fery",
+        "correct": true,
+        "settled_at": "2026-10-26T20:51:49.433187+00:00"
+      }
     },
     "c5969cc3628058ea9d8326cb467f8344": {
       "match_id": "c5969cc3628058ea9d8326cb467f8344",
@@ -78391,7 +78411,11 @@
         "p2_edge": 0.027
       },
       "collected_at": "2026-10-26T14:48:03.942900+00:00",
-      "result": null
+      "result": {
+        "winner": "Jakub Mensik",
+        "correct": true,
+        "settled_at": "2026-10-26T20:51:49.538550+00:00"
+      }
     },
     "99827d08921946ed376bd9378a91ce9b": {
       "match_id": "99827d08921946ed376bd9378a91ce9b",
@@ -78521,7 +78545,11 @@
         "p2_edge": -0.0699
       },
       "collected_at": "2026-10-26T14:48:04.056432+00:00",
-      "result": null
+      "result": {
+        "winner": "Luciano Darderi",
+        "correct": true,
+        "settled_at": "2026-10-26T20:51:49.643885+00:00"
+      }
     },
     "d4f7bc6b1f48bf445af411adfb5ba9d6": {
       "match_id": "d4f7bc6b1f48bf445af411adfb5ba9d6",
@@ -78651,7 +78679,11 @@
         "p2_edge": 0.0704
       },
       "collected_at": "2026-10-26T14:48:04.171198+00:00",
-      "result": null
+      "result": {
+        "winner": "Learner Tien",
+        "correct": true,
+        "settled_at": "2026-10-26T20:51:49.748657+00:00"
+      }
     },
     "2121f3ad0a65fd648051aae488ff71ce": {
       "match_id": "2121f3ad0a65fd648051aae488ff71ce",
@@ -79944,7 +79976,32 @@
       },
       "collected_at": "2026-10-26T14:48:05.322745+00:00",
       "result": null
+    },
+    "tml-2026-337-1": {
+      "match_id": "tml-2026-337-1",
+      "commence_time": "2026-10-26T00:00:00+00:00",
+      "tournament": "Vienna",
+      "surface": "Hard",
+      "player1": "Matteo Berrettini",
+      "player2": "Tomas Martin Etcheverry",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Matteo Berrettini",
+        "p2_name": "Tomas Martin Etcheverry",
+        "p1_prob": 0.5346,
+        "p2_prob": 0.4654,
+        "predicted_winner": "Matteo Berrettini",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-26T20:52:06.564389+00:00",
+      "result": {
+        "winner": "Matteo Berrettini",
+        "correct": true,
+        "settled_at": "2026-10-26T20:52:06.564389+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-26T14:48:05.339802+00:00"
+  "last_updated": "2026-10-26T20:52:06.583079+00:00"
 }
