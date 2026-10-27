@@ -76785,7 +76785,11 @@
         "p2_edge": 0.0914
       },
       "collected_at": "2026-10-26T14:48:02.437836+00:00",
-      "result": null
+      "result": {
+        "winner": "Casper Ruud",
+        "correct": true,
+        "settled_at": "2026-10-27T03:27:33.713321+00:00"
+      }
     },
     "36ef4cd7da7144b2b8560ee591755aea": {
       "match_id": "36ef4cd7da7144b2b8560ee591755aea",
@@ -80001,7 +80005,216 @@
         "correct": true,
         "settled_at": "2026-10-26T20:52:06.564389+00:00"
       }
+    },
+    "de8fa64cdc8ed6fe9bd1fc42c6f115c6": {
+      "match_id": "de8fa64cdc8ed6fe9bd1fc42c6f115c6",
+      "commence_time": "2026-10-28T11:00:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Nuno Borges",
+      "player2": "Casper Ruud",
+      "bookmakers": {
+        "winamax_fr": {
+          "Casper Ruud": 1.39,
+          "Nuno Borges": 2.5
+        },
+        "betclic_fr": {
+          "Casper Ruud": 1.4,
+          "Nuno Borges": 2.6
+        },
+        "betfair_ex_eu": {
+          "Casper Ruud": 1.5,
+          "Nuno Borges": 2.24
+        },
+        "winamax_de": {
+          "Casper Ruud": 1.45,
+          "Nuno Borges": 2.75
+        },
+        "betsson": {
+          "Casper Ruud": 1.44,
+          "Nuno Borges": 2.75
+        },
+        "marathonbet": {
+          "Casper Ruud": 1.42,
+          "Nuno Borges": 2.84
+        },
+        "williamhill": {
+          "Casper Ruud": 1.44,
+          "Nuno Borges": 2.75
+        },
+        "coolbet": {
+          "Casper Ruud": 1.43,
+          "Nuno Borges": 2.85
+        },
+        "sport888": {
+          "Casper Ruud": 1.44,
+          "Nuno Borges": 2.75
+        },
+        "onexbet": {
+          "Casper Ruud": 1.44,
+          "Nuno Borges": 2.88
+        },
+        "fanduel": {
+          "Casper Ruud": 1.43,
+          "Nuno Borges": 2.82
+        },
+        "nordicbet": {
+          "Casper Ruud": 1.44,
+          "Nuno Borges": 2.75
+        },
+        "draftkings": {
+          "Casper Ruud": 1.41,
+          "Nuno Borges": 2.94
+        },
+        "unibet_fr": {
+          "Casper Ruud": 1.4,
+          "Nuno Borges": 2.55
+        },
+        "matchbook": {
+          "Casper Ruud": 1.43,
+          "Nuno Borges": 2.02
+        },
+        "bovada": {
+          "Casper Ruud": 1.44,
+          "Nuno Borges": 2.85
+        },
+        "tipico_de": {
+          "Casper Ruud": 1.4,
+          "Nuno Borges": 2.7
+        }
+      },
+      "prediction": {
+        "p1_name": "Nuno Borges",
+        "p2_name": "Casper Ruud",
+        "p1_prob": 0.342,
+        "p2_prob": 0.658,
+        "predicted_winner": "Casper Ruud",
+        "confidence": "high",
+        "p1_edge": 0.0019,
+        "p2_edge": -0.0087
+      },
+      "collected_at": "2026-10-27T03:27:43.127564+00:00",
+      "result": null
+    },
+    "9249512284975eaacf64fcaced7e57b0": {
+      "match_id": "9249512284975eaacf64fcaced7e57b0",
+      "commence_time": "2026-10-28T10:30:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Learner Tien",
+      "player2": "Alex de Minaur",
+      "bookmakers": {
+        "marathonbet": {
+          "Alex de Minaur": 1.76,
+          "Learner Tien": 2.05
+        },
+        "betclic_fr": {
+          "Alex de Minaur": 1.7,
+          "Learner Tien": 1.95
+        },
+        "betfair_ex_eu": {
+          "Alex de Minaur": 1.9,
+          "Learner Tien": 1.69
+        },
+        "unibet_fr": {
+          "Alex de Minaur": 1.69,
+          "Learner Tien": 1.93
+        },
+        "betsson": {
+          "Alex de Minaur": 1.76,
+          "Learner Tien": 2.03
+        },
+        "williamhill": {
+          "Alex de Minaur": 1.8,
+          "Learner Tien": 2.0
+        },
+        "coolbet": {
+          "Alex de Minaur": 1.78,
+          "Learner Tien": 2.05
+        },
+        "onexbet": {
+          "Alex de Minaur": 1.78,
+          "Learner Tien": 2.08
+        },
+        "fanduel": {
+          "Alex de Minaur": 1.78,
+          "Learner Tien": 2.06
+        },
+        "sport888": {
+          "Alex de Minaur": 1.8,
+          "Learner Tien": 2.0
+        },
+        "nordicbet": {
+          "Alex de Minaur": 1.76,
+          "Learner Tien": 2.03
+        },
+        "winamax_fr": {
+          "Alex de Minaur": 1.76,
+          "Learner Tien": 1.82
+        },
+        "winamax_de": {
+          "Alex de Minaur": 1.86,
+          "Learner Tien": 1.92
+        },
+        "betmgm": {
+          "Alex de Minaur": 1.77,
+          "Learner Tien": 2.0
+        },
+        "matchbook": {
+          "Alex de Minaur": 1.85,
+          "Learner Tien": 1.58
+        },
+        "draftkings": {
+          "Alex de Minaur": 1.8,
+          "Learner Tien": 2.03
+        },
+        "bovada": {
+          "Alex de Minaur": 1.8,
+          "Learner Tien": 2.05
+        },
+        "tipico_de": {
+          "Alex de Minaur": 1.7,
+          "Learner Tien": 2.05
+        }
+      },
+      "prediction": {
+        "p1_name": "Learner Tien",
+        "p2_name": "Alex De Minaur",
+        "p1_prob": 0.5113,
+        "p2_prob": 0.4887,
+        "predicted_winner": "Learner Tien",
+        "confidence": "low",
+        "p1_edge": 0.0305,
+        "p2_edge": -0.0376
+      },
+      "collected_at": "2026-10-27T03:27:43.536652+00:00",
+      "result": null
+    },
+    "tml-2026-328-5": {
+      "match_id": "tml-2026-328-5",
+      "commence_time": "2026-10-26T00:00:00+00:00",
+      "tournament": "Basel",
+      "surface": "Hard",
+      "player1": "Casper Ruud",
+      "player2": "Dominic Stricker",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Casper Ruud",
+        "p2_name": "Dominic Stricker",
+        "p1_prob": 0.7964,
+        "p2_prob": 0.2036,
+        "predicted_winner": "Casper Ruud",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-10-27T03:27:51.440163+00:00",
+      "result": {
+        "winner": "Casper Ruud",
+        "correct": true,
+        "settled_at": "2026-10-27T03:27:51.440163+00:00"
+      }
     }
   },
-  "last_updated": "2026-10-26T20:52:06.583079+00:00"
+  "last_updated": "2026-10-27T03:27:51.458913+00:00"
 }
