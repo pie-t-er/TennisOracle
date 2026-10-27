@@ -76907,7 +76907,11 @@
         "p2_edge": 0.0537
       },
       "collected_at": "2026-10-26T14:48:02.549148+00:00",
-      "result": null
+      "result": {
+        "winner": "Hubert Hurkacz",
+        "correct": true,
+        "settled_at": "2026-10-27T13:53:25.660284+00:00"
+      }
     },
     "7803d8ad15e62ae9b557be677f69e021": {
       "match_id": "7803d8ad15e62ae9b557be677f69e021",
@@ -77309,7 +77313,11 @@
         "p2_edge": 0.0275
       },
       "collected_at": "2026-10-26T14:48:02.882678+00:00",
-      "result": null
+      "result": {
+        "winner": "Botic van de Zandschulp",
+        "correct": false,
+        "settled_at": "2026-10-27T13:53:28.036995+00:00"
+      }
     },
     "0fb51999c3020ac1f14f5cebbed40671": {
       "match_id": "0fb51999c3020ac1f14f5cebbed40671",
@@ -80216,5 +80224,5 @@
       }
     }
   },
-  "last_updated": "2026-10-27T03:27:51.458913+00:00"
+  "last_updated": "2026-10-27T13:53:28.037014+00:00"
 }
