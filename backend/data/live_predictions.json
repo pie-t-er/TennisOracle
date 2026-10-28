@@ -77833,7 +77833,11 @@
         "p2_edge": -0.0907
       },
       "collected_at": "2026-10-26T14:48:03.330494+00:00",
-      "result": null
+      "result": {
+        "winner": "Jan-Lennard Struff",
+        "correct": false,
+        "settled_at": "2026-10-28T14:47:57.489562+00:00"
+      }
     },
     "af913a4b884253b828e9314e74cfb6b3": {
       "match_id": "af913a4b884253b828e9314e74cfb6b3",
@@ -79243,7 +79247,11 @@
         "p2_edge": 0.0004
       },
       "collected_at": "2026-10-26T14:48:04.630599+00:00",
-      "result": null
+      "result": {
+        "winner": "Tallon Griekspoor",
+        "correct": false,
+        "settled_at": "2026-10-28T14:47:57.657492+00:00"
+      }
     },
     "e9aca20f62c49ea43ad8b9d91f00330b": {
       "match_id": "e9aca20f62c49ea43ad8b9d91f00330b",
@@ -79641,7 +79649,11 @@
         "p2_edge": 0.1629
       },
       "collected_at": "2026-10-26T14:48:04.976538+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-10-28T14:47:57.574113+00:00"
+      }
     },
     "705dce2eaaf74f7b3cb3f919d2f1ea8d": {
       "match_id": "705dce2eaaf74f7b3cb3f919d2f1ea8d",
@@ -81136,5 +81148,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-10-28T03:43:48.627923+00:00"
+  "last_updated": "2026-10-28T14:47:57.657506+00:00"
 }
