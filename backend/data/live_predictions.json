@@ -77703,7 +77703,11 @@
         "p2_edge": -0.1056
       },
       "collected_at": "2026-10-26T14:48:03.217893+00:00",
-      "result": null
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": true,
+        "settled_at": "2026-10-28T03:43:41.834389+00:00"
+      }
     },
     "8f999f650b2a7e10b180a15fc7f863c1": {
       "match_id": "8f999f650b2a7e10b180a15fc7f863c1",
@@ -79767,7 +79771,11 @@
         "p2_edge": -0.0547
       },
       "collected_at": "2026-10-26T14:48:05.091993+00:00",
-      "result": null
+      "result": {
+        "winner": "Flavio Cobolli",
+        "correct": true,
+        "settled_at": "2026-10-28T03:43:41.914245+00:00"
+      }
     },
     "84b3d47944a12f77e8f84c6442665671": {
       "match_id": "84b3d47944a12f77e8f84c6442665671",
@@ -80836,7 +80844,297 @@
       },
       "collected_at": "2026-10-27T20:23:13.322745+00:00",
       "result": null
+    },
+    "53d4ccf860436088aa717efdf2c38d25": {
+      "match_id": "53d4ccf860436088aa717efdf2c38d25",
+      "commence_time": "2026-10-29T10:00:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Ben Shelton",
+      "player2": "Jerome Kym",
+      "bookmakers": {
+        "sport888": {
+          "Ben Shelton": 1.29,
+          "Jerome Kym": 3.6
+        },
+        "onexbet": {
+          "Ben Shelton": 1.25,
+          "Jerome Kym": 4.16
+        },
+        "betsson": {
+          "Ben Shelton": 1.25,
+          "Jerome Kym": 3.9
+        },
+        "betclic_fr": {
+          "Ben Shelton": 1.22,
+          "Jerome Kym": 3.6
+        },
+        "betfair_ex_eu": {
+          "Ben Shelton": 1.25,
+          "Jerome Kym": 3.6
+        },
+        "williamhill": {
+          "Ben Shelton": 1.29,
+          "Jerome Kym": 3.6
+        },
+        "unibet_fr": {
+          "Ben Shelton": 1.21,
+          "Jerome Kym": 3.5
+        },
+        "marathonbet": {
+          "Ben Shelton": 1.23,
+          "Jerome Kym": 4.1
+        },
+        "draftkings": {
+          "Ben Shelton": 1.28,
+          "Jerome Kym": 3.7
+        },
+        "nordicbet": {
+          "Ben Shelton": 1.25,
+          "Jerome Kym": 3.9
+        },
+        "coolbet": {
+          "Ben Shelton": 1.26,
+          "Jerome Kym": 3.9
+        },
+        "fanduel": {
+          "Ben Shelton": 1.21,
+          "Jerome Kym": 4.4
+        },
+        "tipico_de": {
+          "Ben Shelton": 1.2,
+          "Jerome Kym": 4.0
+        },
+        "winamax_de": {
+          "Ben Shelton": 1.26,
+          "Jerome Kym": 4.1
+        },
+        "winamax_fr": {
+          "Ben Shelton": 1.23,
+          "Jerome Kym": 3.8
+        },
+        "matchbook": {
+          "Ben Shelton": 1.21,
+          "Jerome Kym": 3.4
+        },
+        "betrivers": {
+          "Ben Shelton": 1.22,
+          "Jerome Kym": 4.25
+        },
+        "unibet_se": {
+          "Ben Shelton": 1.22,
+          "Jerome Kym": 4.25
+        },
+        "unibet_nl": {
+          "Ben Shelton": 1.22,
+          "Jerome Kym": 4.25
+        },
+        "pmu_fr": {
+          "Ben Shelton": 1.17,
+          "Jerome Kym": 3.95
+        },
+        "leovegas_se": {
+          "Ben Shelton": 1.22,
+          "Jerome Kym": 4.25
+        },
+        "bovada": {
+          "Ben Shelton": 1.27,
+          "Jerome Kym": 3.9
+        },
+        "betmgm": {
+          "Ben Shelton": 1.24,
+          "Jerome Kym": 4.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Ben Shelton",
+        "p2_name": "Jerome Kym",
+        "p1_prob": 0.7147,
+        "p2_prob": 0.2853,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "high",
+        "p1_edge": -0.0605,
+        "p2_edge": 0.058
+      },
+      "collected_at": "2026-10-28T03:43:48.284183+00:00",
+      "result": null
+    },
+    "381536c46bd1e16a9236502df3f748e5": {
+      "match_id": "381536c46bd1e16a9236502df3f748e5",
+      "commence_time": "2026-10-29T10:00:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Daniel Altmaier",
+      "player2": "Jiri Lehecka",
+      "bookmakers": {
+        "draftkings": {
+          "Daniel Altmaier": 5.45,
+          "Jiri Lehecka": 1.16
+        },
+        "fanduel": {
+          "Daniel Altmaier": 6.1,
+          "Jiri Lehecka": 1.13
+        },
+        "matchbook": {
+          "Daniel Altmaier": 4.2,
+          "Jiri Lehecka": 1.12
+        },
+        "betfair_ex_eu": {
+          "Daniel Altmaier": 4.8,
+          "Jiri Lehecka": 1.13
+        },
+        "nordicbet": {
+          "Daniel Altmaier": 5.4,
+          "Jiri Lehecka": 1.14
+        },
+        "unibet_fr": {
+          "Daniel Altmaier": 4.7,
+          "Jiri Lehecka": 1.12
+        },
+        "betsson": {
+          "Daniel Altmaier": 5.4,
+          "Jiri Lehecka": 1.14
+        },
+        "marathonbet": {
+          "Daniel Altmaier": 5.7,
+          "Jiri Lehecka": 1.14
+        },
+        "onexbet": {
+          "Daniel Altmaier": 5.82,
+          "Jiri Lehecka": 1.15
+        },
+        "coolbet": {
+          "Daniel Altmaier": 5.8,
+          "Jiri Lehecka": 1.14
+        },
+        "betclic_fr": {
+          "Daniel Altmaier": 4.8,
+          "Jiri Lehecka": 1.12
+        },
+        "tipico_de": {
+          "Daniel Altmaier": 5.5,
+          "Jiri Lehecka": 1.11
+        },
+        "winamax_fr": {
+          "Daniel Altmaier": 5.3,
+          "Jiri Lehecka": 1.13
+        },
+        "winamax_de": {
+          "Daniel Altmaier": 6.0,
+          "Jiri Lehecka": 1.15
+        },
+        "bovada": {
+          "Daniel Altmaier": 5.75,
+          "Jiri Lehecka": 1.14
+        },
+        "betmgm": {
+          "Daniel Altmaier": 6.0,
+          "Jiri Lehecka": 1.12
+        }
+      },
+      "prediction": {
+        "p1_name": "Daniel Altmaier",
+        "p2_name": "Jiri Lehecka",
+        "p1_prob": 0.283,
+        "p2_prob": 0.717,
+        "predicted_winner": "Jiri Lehecka",
+        "confidence": "high",
+        "p1_edge": 0.1191,
+        "p2_edge": -0.1451
+      },
+      "collected_at": "2026-10-28T03:43:48.366894+00:00",
+      "result": null
+    },
+    "3b65bc657a2d7391944d9e343c189c52": {
+      "match_id": "3b65bc657a2d7391944d9e343c189c52",
+      "commence_time": "2026-10-29T12:00:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Flavio Cobolli",
+      "player2": "Matteo Berrettini",
+      "bookmakers": {
+        "coolbet": {
+          "Flavio Cobolli": 2.02,
+          "Matteo Berrettini": 1.8
+        },
+        "sport888": {
+          "Flavio Cobolli": 2.0,
+          "Matteo Berrettini": 1.8
+        },
+        "nordicbet": {
+          "Flavio Cobolli": 1.99,
+          "Matteo Berrettini": 1.8
+        },
+        "unibet_fr": {
+          "Flavio Cobolli": 1.89,
+          "Matteo Berrettini": 1.72
+        },
+        "betsson": {
+          "Flavio Cobolli": 1.99,
+          "Matteo Berrettini": 1.8
+        },
+        "betfair_ex_eu": {
+          "Flavio Cobolli": 1.96,
+          "Matteo Berrettini": 1.96
+        },
+        "williamhill": {
+          "Flavio Cobolli": 2.0,
+          "Matteo Berrettini": 1.8
+        },
+        "marathonbet": {
+          "Flavio Cobolli": 2.0,
+          "Matteo Berrettini": 1.8
+        },
+        "betclic_fr": {
+          "Flavio Cobolli": 1.91,
+          "Matteo Berrettini": 1.74
+        },
+        "fanduel": {
+          "Flavio Cobolli": 2.02,
+          "Matteo Berrettini": 1.81
+        },
+        "onexbet": {
+          "Flavio Cobolli": 2.03,
+          "Matteo Berrettini": 1.82
+        },
+        "bovada": {
+          "Flavio Cobolli": 2.0,
+          "Matteo Berrettini": 1.83
+        },
+        "draftkings": {
+          "Flavio Cobolli": 1.97,
+          "Matteo Berrettini": 1.85
+        },
+        "winamax_de": {
+          "Flavio Cobolli": 2.0,
+          "Matteo Berrettini": 1.84
+        },
+        "winamax_fr": {
+          "Flavio Cobolli": 1.96,
+          "Matteo Berrettini": 1.78
+        },
+        "tipico_de": {
+          "Flavio Cobolli": 1.97,
+          "Matteo Berrettini": 1.75
+        },
+        "betmgm": {
+          "Flavio Cobolli": 1.95,
+          "Matteo Berrettini": 1.83
+        }
+      },
+      "prediction": {
+        "p1_name": "Flavio Cobolli",
+        "p2_name": "Matteo Berrettini",
+        "p1_prob": 0.6323,
+        "p2_prob": 0.3677,
+        "predicted_winner": "Flavio Cobolli",
+        "confidence": "high",
+        "p1_edge": 0.1397,
+        "p2_edge": -0.1425
+      },
+      "collected_at": "2026-10-28T03:43:48.615661+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-27T20:23:13.333651+00:00"
+  "last_updated": "2026-10-28T03:43:48.627923+00:00"
 }
