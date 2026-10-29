@@ -81099,7 +81099,11 @@
         "p2_edge": -0.1451
       },
       "collected_at": "2026-10-28T03:43:48.366894+00:00",
-      "result": null
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": true,
+        "settled_at": "2026-10-29T20:49:38.459254+00:00"
+      }
     },
     "3b65bc657a2d7391944d9e343c189c52": {
       "match_id": "3b65bc657a2d7391944d9e343c189c52",
@@ -81189,7 +81193,11 @@
         "p2_edge": -0.1425
       },
       "collected_at": "2026-10-28T03:43:48.615661+00:00",
-      "result": null
+      "result": {
+        "winner": "Flavio Cobolli",
+        "correct": true,
+        "settled_at": "2026-10-29T20:49:39.126309+00:00"
+      }
     },
     "9da35734a02ec2627cd4034086584157": {
       "match_id": "9da35734a02ec2627cd4034086584157",
@@ -81243,7 +81251,11 @@
         "p2_edge": 0.0417
       },
       "collected_at": "2026-10-28T20:44:27.422554+00:00",
-      "result": null
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-10-29T20:49:38.570708+00:00"
+      }
     },
     "e17ec974bac4e8094cbe45dfeb471b1e": {
       "match_id": "e17ec974bac4e8094cbe45dfeb471b1e",
@@ -81439,7 +81451,11 @@
         "p2_edge": -0.0449
       },
       "collected_at": "2026-10-28T20:44:27.744153+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-10-29T20:49:38.680678+00:00"
+      }
     },
     "dd5bca16b0bbd8de2684f82a2797f042": {
       "match_id": "dd5bca16b0bbd8de2684f82a2797f042",
@@ -81529,7 +81545,11 @@
         "p2_edge": 0.0726
       },
       "collected_at": "2026-10-28T20:44:27.891655+00:00",
-      "result": null
+      "result": {
+        "winner": "Carlos Alcaraz",
+        "correct": true,
+        "settled_at": "2026-10-29T20:49:38.791927+00:00"
+      }
     },
     "704555fd36bea990169b89857cf51075": {
       "match_id": "704555fd36bea990169b89857cf51075",
@@ -81635,7 +81655,11 @@
         "p2_edge": -0.0863
       },
       "collected_at": "2026-10-28T20:44:28.011152+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fery",
+        "correct": false,
+        "settled_at": "2026-10-29T20:49:38.903254+00:00"
+      }
     },
     "6822571863f93fa4654e76e114874060": {
       "match_id": "6822571863f93fa4654e76e114874060",
@@ -81741,8 +81765,490 @@
         "p2_edge": -0.1119
       },
       "collected_at": "2026-10-28T20:44:28.130611+00:00",
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-10-29T20:49:39.015739+00:00"
+      }
+    },
+    "4eebb3b42f713eff0e760f9abef41572": {
+      "match_id": "4eebb3b42f713eff0e760f9abef41572",
+      "commence_time": "2026-10-30T13:00:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Holger Rune",
+      "player2": "Valentin Vacherot",
+      "bookmakers": {
+        "marathonbet": {
+          "Holger Rune": 1.75,
+          "Valentin Vacherot": 2.06
+        },
+        "draftkings": {
+          "Holger Rune": 1.74,
+          "Valentin Vacherot": 2.11
+        },
+        "betfair_ex_eu": {
+          "Holger Rune": 1.73,
+          "Valentin Vacherot": 2.32
+        },
+        "matchbook": {
+          "Holger Rune": 1.73,
+          "Valentin Vacherot": 2.32
+        },
+        "unibet_fr": {
+          "Holger Rune": 1.66,
+          "Valentin Vacherot": 1.97
+        },
+        "coolbet": {
+          "Holger Rune": 1.71,
+          "Valentin Vacherot": 2.15
+        },
+        "onexbet": {
+          "Holger Rune": 1.77,
+          "Valentin Vacherot": 2.09
+        },
+        "nordicbet": {
+          "Holger Rune": 1.73,
+          "Valentin Vacherot": 2.08
+        },
+        "betsson": {
+          "Holger Rune": 1.73,
+          "Valentin Vacherot": 2.08
+        },
+        "tipico_de": {
+          "Holger Rune": 1.65,
+          "Valentin Vacherot": 2.1
+        },
+        "fanduel": {
+          "Holger Rune": 1.72,
+          "Valentin Vacherot": 2.12
+        },
+        "betclic_fr": {
+          "Holger Rune": 1.67,
+          "Valentin Vacherot": 1.99
+        },
+        "betrivers": {
+          "Holger Rune": 1.75,
+          "Valentin Vacherot": 2.07
+        },
+        "unibet_se": {
+          "Holger Rune": 1.75,
+          "Valentin Vacherot": 2.07
+        },
+        "pmu_fr": {
+          "Holger Rune": 1.67,
+          "Valentin Vacherot": 1.96
+        },
+        "leovegas_se": {
+          "Holger Rune": 1.75,
+          "Valentin Vacherot": 2.07
+        },
+        "unibet_nl": {
+          "Holger Rune": 1.75,
+          "Valentin Vacherot": 2.07
+        },
+        "sport888": {
+          "Holger Rune": 1.67,
+          "Valentin Vacherot": 2.2
+        },
+        "winamax_de": {
+          "Holger Rune": 1.74,
+          "Valentin Vacherot": 2.05
+        },
+        "winamax_fr": {
+          "Holger Rune": 1.66,
+          "Valentin Vacherot": 1.98
+        },
+        "williamhill": {
+          "Holger Rune": 1.67,
+          "Valentin Vacherot": 2.2
+        },
+        "bovada": {
+          "Holger Rune": 1.71,
+          "Valentin Vacherot": 2.15
+        },
+        "pinnacle": {
+          "Holger Rune": 1.7,
+          "Valentin Vacherot": 2.27
+        },
+        "betmgm": {
+          "Holger Rune": 1.67,
+          "Valentin Vacherot": 2.15
+        }
+      },
+      "prediction": {
+        "p1_name": "Holger Rune",
+        "p2_name": "Valentin Vacherot",
+        "p1_prob": 0.5744,
+        "p2_prob": 0.4256,
+        "predicted_winner": "Holger Rune",
+        "confidence": "medium",
+        "p1_edge": 0.0094,
+        "p2_edge": -0.0054
+      },
+      "collected_at": "2026-10-29T20:49:48.497772+00:00",
+      "result": null
+    },
+    "f8b84ec001244b604176bf0bc6f21f16": {
+      "match_id": "f8b84ec001244b604176bf0bc6f21f16",
+      "commence_time": "2026-10-30T14:10:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Taylor Fritz",
+      "player2": "Arthur Fils",
+      "bookmakers": {
+        "marathonbet": {
+          "Arthur Fils": 1.89,
+          "Taylor Fritz": 1.9
+        },
+        "nordicbet": {
+          "Arthur Fils": 1.89,
+          "Taylor Fritz": 1.89
+        },
+        "draftkings": {
+          "Arthur Fils": 1.89,
+          "Taylor Fritz": 1.93
+        },
+        "sport888": {
+          "Arthur Fils": 1.91,
+          "Taylor Fritz": 1.91
+        },
+        "onexbet": {
+          "Arthur Fils": 1.92,
+          "Taylor Fritz": 1.93
+        },
+        "matchbook": {
+          "Arthur Fils": 1.71,
+          "Taylor Fritz": 1.73
+        },
+        "betsson": {
+          "Arthur Fils": 1.89,
+          "Taylor Fritz": 1.89
+        },
+        "williamhill": {
+          "Arthur Fils": 1.91,
+          "Taylor Fritz": 1.91
+        },
+        "unibet_fr": {
+          "Arthur Fils": 1.8,
+          "Taylor Fritz": 1.8
+        },
+        "coolbet": {
+          "Arthur Fils": 1.91,
+          "Taylor Fritz": 1.91
+        },
+        "betclic_fr": {
+          "Arthur Fils": 1.82,
+          "Taylor Fritz": 1.82
+        },
+        "tipico_de": {
+          "Arthur Fils": 1.8,
+          "Taylor Fritz": 1.9
+        },
+        "bovada": {
+          "Arthur Fils": 1.91,
+          "Taylor Fritz": 1.91
+        }
+      },
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Arthur Fils",
+        "p1_prob": 0.423,
+        "p2_prob": 0.577,
+        "predicted_winner": "Arthur Fils",
+        "confidence": "medium",
+        "p1_edge": -0.0951,
+        "p2_edge": 0.0562
+      },
+      "collected_at": "2026-10-29T20:49:48.619812+00:00",
+      "result": null
+    },
+    "7e16ce6f4bf3a1b6f3ecf28768bb8653": {
+      "match_id": "7e16ce6f4bf3a1b6f3ecf28768bb8653",
+      "commence_time": "2026-10-30T12:30:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Adrian Mannarino",
+      "player2": "Daniil Medvedev",
+      "bookmakers": {
+        "marathonbet": {
+          "Adrian Mannarino": 4.65,
+          "Daniil Medvedev": 1.19
+        },
+        "draftkings": {
+          "Adrian Mannarino": 4.77,
+          "Daniil Medvedev": 1.19
+        },
+        "matchbook": {
+          "Adrian Mannarino": 5.3,
+          "Daniil Medvedev": 1.22
+        },
+        "onexbet": {
+          "Adrian Mannarino": 4.71,
+          "Daniil Medvedev": 1.21
+        },
+        "betsson": {
+          "Adrian Mannarino": 4.5,
+          "Daniil Medvedev": 1.19
+        },
+        "betfair_ex_eu": {
+          "Adrian Mannarino": 5.3,
+          "Daniil Medvedev": 1.22
+        },
+        "nordicbet": {
+          "Adrian Mannarino": 4.5,
+          "Daniil Medvedev": 1.19
+        },
+        "unibet_fr": {
+          "Adrian Mannarino": 4.0,
+          "Daniil Medvedev": 1.16
+        },
+        "fanduel": {
+          "Adrian Mannarino": 5.1,
+          "Daniil Medvedev": 1.17
+        },
+        "betclic_fr": {
+          "Adrian Mannarino": 4.1,
+          "Daniil Medvedev": 1.17
+        },
+        "coolbet": {
+          "Adrian Mannarino": 4.6,
+          "Daniil Medvedev": 1.2
+        },
+        "tipico_de": {
+          "Adrian Mannarino": 4.5,
+          "Daniil Medvedev": 1.16
+        },
+        "sport888": {
+          "Adrian Mannarino": 4.5,
+          "Daniil Medvedev": 1.2
+        },
+        "winamax_fr": {
+          "Adrian Mannarino": 4.1,
+          "Daniil Medvedev": 1.16
+        },
+        "winamax_de": {
+          "Adrian Mannarino": 4.6,
+          "Daniil Medvedev": 1.19
+        },
+        "williamhill": {
+          "Adrian Mannarino": 4.5,
+          "Daniil Medvedev": 1.2
+        },
+        "betrivers": {
+          "Adrian Mannarino": 4.8,
+          "Daniil Medvedev": 1.18
+        },
+        "unibet_se": {
+          "Adrian Mannarino": 4.8,
+          "Daniil Medvedev": 1.18
+        },
+        "pmu_fr": {
+          "Adrian Mannarino": 4.4,
+          "Daniil Medvedev": 1.14
+        },
+        "leovegas_se": {
+          "Adrian Mannarino": 4.8,
+          "Daniil Medvedev": 1.18
+        },
+        "unibet_nl": {
+          "Adrian Mannarino": 4.8,
+          "Daniil Medvedev": 1.18
+        },
+        "pinnacle": {
+          "Adrian Mannarino": 4.91,
+          "Daniil Medvedev": 1.21
+        },
+        "betmgm": {
+          "Adrian Mannarino": 4.75,
+          "Daniil Medvedev": 1.18
+        },
+        "bovada": {
+          "Adrian Mannarino": 4.75,
+          "Daniil Medvedev": 1.2
+        }
+      },
+      "prediction": {
+        "p1_name": "Adrian Mannarino",
+        "p2_name": "Daniil Medvedev",
+        "p1_prob": 0.1401,
+        "p2_prob": 0.8599,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": -0.0486,
+        "p2_edge": 0.0402
+      },
+      "collected_at": "2026-10-29T20:49:48.741850+00:00",
+      "result": null
+    },
+    "cc4564f7b80beae29935d650d1ccb4cb": {
+      "match_id": "cc4564f7b80beae29935d650d1ccb4cb",
+      "commence_time": "2026-10-30T14:00:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Tommy Paul",
+      "player2": "Carlos Alcaraz",
+      "bookmakers": {
+        "unibet_fr": {
+          "Carlos Alcaraz": 1.21,
+          "Tommy Paul": 3.55
+        },
+        "betsson": {
+          "Carlos Alcaraz": 1.24,
+          "Tommy Paul": 3.95
+        },
+        "marathonbet": {
+          "Carlos Alcaraz": 1.24,
+          "Tommy Paul": 4.0
+        },
+        "onexbet": {
+          "Carlos Alcaraz": 1.26,
+          "Tommy Paul": 4.05
+        },
+        "fanduel": {
+          "Carlos Alcaraz": 1.21,
+          "Tommy Paul": 4.5
+        },
+        "draftkings": {
+          "Carlos Alcaraz": 1.24,
+          "Tommy Paul": 4.09
+        },
+        "matchbook": {
+          "Carlos Alcaraz": 1.27,
+          "Tommy Paul": 4.5
+        },
+        "nordicbet": {
+          "Carlos Alcaraz": 1.24,
+          "Tommy Paul": 3.95
+        },
+        "betfair_ex_eu": {
+          "Carlos Alcaraz": 1.27,
+          "Tommy Paul": 4.5
+        },
+        "betclic_fr": {
+          "Carlos Alcaraz": 1.21,
+          "Tommy Paul": 3.65
+        },
+        "coolbet": {
+          "Carlos Alcaraz": 1.24,
+          "Tommy Paul": 4.1
+        },
+        "winamax_fr": {
+          "Carlos Alcaraz": 1.21,
+          "Tommy Paul": 3.6
+        },
+        "winamax_de": {
+          "Carlos Alcaraz": 1.24,
+          "Tommy Paul": 4.0
+        },
+        "bovada": {
+          "Carlos Alcaraz": 1.24,
+          "Tommy Paul": 4.25
+        },
+        "sport888": {
+          "Carlos Alcaraz": 1.25,
+          "Tommy Paul": 4.0
+        },
+        "williamhill": {
+          "Carlos Alcaraz": 1.25,
+          "Tommy Paul": 4.0
+        },
+        "tipico_de": {
+          "Carlos Alcaraz": 1.2,
+          "Tommy Paul": 4.0
+        },
+        "pinnacle": {
+          "Carlos Alcaraz": 1.25,
+          "Tommy Paul": 4.35
+        },
+        "betmgm": {
+          "Carlos Alcaraz": 1.22,
+          "Tommy Paul": 4.1
+        }
+      },
+      "prediction": {
+        "p1_name": "Tommy Paul",
+        "p2_name": "Carlos Alcaraz",
+        "p1_prob": 0.1844,
+        "p2_prob": 0.8156,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": -0.0378,
+        "p2_edge": 0.0282
+      },
+      "collected_at": "2026-10-29T20:49:48.862492+00:00",
+      "result": null
+    },
+    "69ae427eb9d45bc2bc6b0ad750e25934": {
+      "match_id": "69ae427eb9d45bc2bc6b0ad750e25934",
+      "commence_time": "2026-10-30T16:30:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Arthur Fery",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Alexander Zverev": 1.1,
+          "Arthur Fery": 7.2
+        },
+        "sport888": {
+          "Alexander Zverev": 1.1,
+          "Arthur Fery": 7.0
+        },
+        "nordicbet": {
+          "Alexander Zverev": 1.11,
+          "Arthur Fery": 6.2
+        },
+        "betsson": {
+          "Alexander Zverev": 1.11,
+          "Arthur Fery": 6.2
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.09,
+          "Arthur Fery": 5.2
+        },
+        "williamhill": {
+          "Alexander Zverev": 1.1,
+          "Arthur Fery": 7.0
+        },
+        "coolbet": {
+          "Alexander Zverev": 1.12,
+          "Arthur Fery": 6.4
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 1.09,
+          "Arthur Fery": 5.4
+        },
+        "fanduel": {
+          "Alexander Zverev": 1.13,
+          "Arthur Fery": 5.9
+        },
+        "matchbook": {
+          "Alexander Zverev": 1.06,
+          "Arthur Fery": 6.4
+        },
+        "tipico_de": {
+          "Alexander Zverev": 1.1,
+          "Arthur Fery": 5.8
+        },
+        "onexbet": {
+          "Alexander Zverev": 1.15,
+          "Arthur Fery": 5.76
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Arthur Fery",
+        "p1_prob": 0.8549,
+        "p2_prob": 0.1451,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": -0.0147,
+        "p2_edge": 0.0062
+      },
+      "collected_at": "2026-10-29T20:49:48.983547+00:00",
       "result": null
     }
   },
-  "last_updated": "2026-10-29T14:54:10.415122+00:00"
+  "last_updated": "2026-10-29T20:49:49.001784+00:00"
 }
