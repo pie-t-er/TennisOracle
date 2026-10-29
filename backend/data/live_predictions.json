@@ -80431,7 +80431,11 @@
         "p2_edge": 0.2939
       },
       "collected_at": "2026-10-27T20:23:12.923694+00:00",
-      "result": null
+      "result": {
+        "winner": "Holger Rune",
+        "correct": true,
+        "settled_at": "2026-10-29T04:03:50.487860+00:00"
+      }
     },
     "17b7cfaa2dc6c21f39412e6017f54e9b": {
       "match_id": "17b7cfaa2dc6c21f39412e6017f54e9b",
@@ -81728,5 +81732,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-10-28T20:44:28.147939+00:00"
+  "last_updated": "2026-10-29T04:03:50.487879+00:00"
 }
