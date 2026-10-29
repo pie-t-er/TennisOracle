@@ -80525,7 +80525,11 @@
         "p2_edge": -0.0765
       },
       "collected_at": "2026-10-27T20:23:12.989094+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fils",
+        "correct": true,
+        "settled_at": "2026-10-29T14:54:10.415107+00:00"
+      }
     },
     "f7fa6060659fec573d7a7df3881aff82": {
       "match_id": "f7fa6060659fec573d7a7df3881aff82",
@@ -80643,7 +80647,11 @@
         "p2_edge": -0.1691
       },
       "collected_at": "2026-10-27T20:23:13.055081+00:00",
-      "result": null
+      "result": {
+        "winner": "Valentin Vacherot",
+        "correct": false,
+        "settled_at": "2026-10-29T14:54:07.997164+00:00"
+      }
     },
     "fa400409de3b36b41d7f8316d636197e": {
       "match_id": "fa400409de3b36b41d7f8316d636197e",
@@ -80887,7 +80895,11 @@
         "p2_edge": 0.156
       },
       "collected_at": "2026-10-27T20:23:13.322745+00:00",
-      "result": null
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": true,
+        "settled_at": "2026-10-29T14:54:08.084700+00:00"
+      }
     },
     "53d4ccf860436088aa717efdf2c38d25": {
       "match_id": "53d4ccf860436088aa717efdf2c38d25",
@@ -81732,5 +81744,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-10-29T04:03:50.487879+00:00"
+  "last_updated": "2026-10-29T14:54:10.415122+00:00"
 }
