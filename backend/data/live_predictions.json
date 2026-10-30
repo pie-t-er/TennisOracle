@@ -81013,7 +81013,11 @@
         "p2_edge": 0.058
       },
       "collected_at": "2026-10-28T03:43:48.284183+00:00",
-      "result": null
+      "result": {
+        "winner": "Jerome Kym",
+        "correct": false,
+        "settled_at": "2026-10-30T04:05:36.322905+00:00"
+      }
     },
     "381536c46bd1e16a9236502df3f748e5": {
       "match_id": "381536c46bd1e16a9236502df3f748e5",
@@ -81353,7 +81357,11 @@
         "p2_edge": -0.1277
       },
       "collected_at": "2026-10-28T20:44:27.569348+00:00",
-      "result": null
+      "result": {
+        "winner": "Jan-Lennard Struff",
+        "correct": false,
+        "settled_at": "2026-10-30T04:05:36.209268+00:00"
+      }
     },
     "9744d2cb822ca005f4607e336b1b2b81": {
       "match_id": "9744d2cb822ca005f4607e336b1b2b81",
@@ -82248,7 +82256,373 @@
       },
       "collected_at": "2026-10-29T20:49:48.983547+00:00",
       "result": null
+    },
+    "e01a16acf3ce50a010714d85d5ff6374": {
+      "match_id": "e01a16acf3ce50a010714d85d5ff6374",
+      "commence_time": "2026-10-30T17:00:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Jerome Kym",
+      "player2": "Jiri Lehecka",
+      "bookmakers": {
+        "marathonbet": {
+          "Jerome Kym": 3.18,
+          "Jiri Lehecka": 1.35
+        },
+        "betfair_ex_eu": {
+          "Jerome Kym": 3.3,
+          "Jiri Lehecka": 1.4
+        },
+        "fanduel": {
+          "Jerome Kym": 3.3,
+          "Jiri Lehecka": 1.33
+        },
+        "betsson": {
+          "Jerome Kym": 3.15,
+          "Jiri Lehecka": 1.35
+        },
+        "coolbet": {
+          "Jerome Kym": 3.18,
+          "Jiri Lehecka": 1.36
+        },
+        "williamhill": {
+          "Jerome Kym": 3.1,
+          "Jiri Lehecka": 1.36
+        },
+        "unibet_fr": {
+          "Jerome Kym": 2.9,
+          "Jiri Lehecka": 1.31
+        },
+        "pinnacle": {
+          "Jerome Kym": 3.31,
+          "Jiri Lehecka": 1.38
+        },
+        "sport888": {
+          "Jerome Kym": 3.1,
+          "Jiri Lehecka": 1.36
+        },
+        "betmgm": {
+          "Jerome Kym": 3.1,
+          "Jiri Lehecka": 1.36
+        },
+        "nordicbet": {
+          "Jerome Kym": 3.15,
+          "Jiri Lehecka": 1.35
+        },
+        "betclic_fr": {
+          "Jerome Kym": 2.95,
+          "Jiri Lehecka": 1.31
+        },
+        "onexbet": {
+          "Jerome Kym": 3.22,
+          "Jiri Lehecka": 1.37
+        },
+        "bovada": {
+          "Jerome Kym": 3.2,
+          "Jiri Lehecka": 1.36
+        },
+        "matchbook": {
+          "Jerome Kym": 3.3,
+          "Jiri Lehecka": 1.4
+        },
+        "draftkings": {
+          "Jerome Kym": 3.2,
+          "Jiri Lehecka": 1.36
+        },
+        "betus": {
+          "Jerome Kym": 3.26,
+          "Jiri Lehecka": 1.35
+        },
+        "winamax_de": {
+          "Jerome Kym": 3.15,
+          "Jiri Lehecka": 1.35
+        },
+        "winamax_fr": {
+          "Jerome Kym": 2.9,
+          "Jiri Lehecka": 1.31
+        },
+        "lowvig": {
+          "Jerome Kym": 3.34,
+          "Jiri Lehecka": 1.35
+        },
+        "betonlineag": {
+          "Jerome Kym": 3.34,
+          "Jiri Lehecka": 1.35
+        },
+        "tipico_de": {
+          "Jerome Kym": 3.1,
+          "Jiri Lehecka": 1.32
+        }
+      },
+      "prediction": {
+        "p1_name": "Jerome Kym",
+        "p2_name": "Jiri Lehecka",
+        "p1_prob": 0.3333,
+        "p2_prob": 0.6667,
+        "predicted_winner": "Jiri Lehecka",
+        "confidence": "high",
+        "p1_edge": 0.0339,
+        "p2_edge": -0.0476
+      },
+      "collected_at": "2026-10-30T04:05:44.741920+00:00",
+      "result": null
+    },
+    "e66be09cbf07f4ca7b22ef19c32bcb30": {
+      "match_id": "e66be09cbf07f4ca7b22ef19c32bcb30",
+      "commence_time": "2026-10-30T18:10:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Jan-Lennard Struff",
+      "player2": "Nuno Borges",
+      "bookmakers": {
+        "marathonbet": {
+          "Jan-Lennard Struff": 1.71,
+          "Nuno Borges": 2.12
+        },
+        "betclic_fr": {
+          "Jan-Lennard Struff": 1.6,
+          "Nuno Borges": 2.1
+        },
+        "nordicbet": {
+          "Jan-Lennard Struff": 1.66,
+          "Nuno Borges": 2.19
+        },
+        "fanduel": {
+          "Jan-Lennard Struff": 1.69,
+          "Nuno Borges": 2.18
+        },
+        "betsson": {
+          "Jan-Lennard Struff": 1.66,
+          "Nuno Borges": 2.19
+        },
+        "betfair_ex_eu": {
+          "Jan-Lennard Struff": 1.86,
+          "Nuno Borges": 2.14
+        },
+        "coolbet": {
+          "Jan-Lennard Struff": 1.7,
+          "Nuno Borges": 2.17
+        },
+        "winamax_de": {
+          "Jan-Lennard Struff": 1.66,
+          "Nuno Borges": 2.2
+        },
+        "draftkings": {
+          "Jan-Lennard Struff": 1.72,
+          "Nuno Borges": 2.14
+        },
+        "unibet_fr": {
+          "Jan-Lennard Struff": 1.59,
+          "Nuno Borges": 2.1
+        },
+        "onexbet": {
+          "Jan-Lennard Struff": 1.73,
+          "Nuno Borges": 2.15
+        },
+        "winamax_fr": {
+          "Jan-Lennard Struff": 1.6,
+          "Nuno Borges": 2.05
+        },
+        "matchbook": {
+          "Jan-Lennard Struff": 1.86,
+          "Nuno Borges": 2.14
+        },
+        "tipico_de": {
+          "Jan-Lennard Struff": 1.62,
+          "Nuno Borges": 2.15
+        },
+        "sport888": {
+          "Jan-Lennard Struff": 1.73,
+          "Nuno Borges": 2.1
+        },
+        "williamhill": {
+          "Jan-Lennard Struff": 1.73,
+          "Nuno Borges": 2.1
+        },
+        "betrivers": {
+          "Jan-Lennard Struff": 1.75,
+          "Nuno Borges": 2.07
+        },
+        "pmu_fr": {
+          "Jan-Lennard Struff": 1.68,
+          "Nuno Borges": 1.96
+        },
+        "unibet_nl": {
+          "Jan-Lennard Struff": 1.75,
+          "Nuno Borges": 2.07
+        },
+        "leovegas_se": {
+          "Jan-Lennard Struff": 1.75,
+          "Nuno Borges": 2.07
+        },
+        "unibet_se": {
+          "Jan-Lennard Struff": 1.75,
+          "Nuno Borges": 2.07
+        },
+        "bovada": {
+          "Jan-Lennard Struff": 1.71,
+          "Nuno Borges": 2.15
+        },
+        "betmgm": {
+          "Jan-Lennard Struff": 1.71,
+          "Nuno Borges": 2.1
+        },
+        "pinnacle": {
+          "Jan-Lennard Struff": 1.78,
+          "Nuno Borges": 2.14
+        },
+        "betonlineag": {
+          "Jan-Lennard Struff": 1.78,
+          "Nuno Borges": 2.09
+        },
+        "lowvig": {
+          "Jan-Lennard Struff": 1.78,
+          "Nuno Borges": 2.09
+        },
+        "betus": {
+          "Jan-Lennard Struff": 1.7,
+          "Nuno Borges": 2.13
+        }
+      },
+      "prediction": {
+        "p1_name": "Jan-Lennard Struff",
+        "p2_name": "Nuno Borges",
+        "p1_prob": 0.4066,
+        "p2_prob": 0.5934,
+        "predicted_winner": "Nuno Borges",
+        "confidence": "medium",
+        "p1_edge": -0.131,
+        "p2_edge": 0.1389
+      },
+      "collected_at": "2026-10-30T04:05:44.865033+00:00",
+      "result": null
+    },
+    "94ca068a80e8dbb6686fd96d402bde0e": {
+      "match_id": "94ca068a80e8dbb6686fd96d402bde0e",
+      "commence_time": "2026-10-30T19:00:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Matteo Berrettini",
+      "player2": "Alex de Minaur",
+      "bookmakers": {
+        "betsson": {
+          "Alex de Minaur": 1.44,
+          "Matteo Berrettini": 2.75
+        },
+        "sport888": {
+          "Alex de Minaur": 1.44,
+          "Matteo Berrettini": 2.75
+        },
+        "nordicbet": {
+          "Alex de Minaur": 1.44,
+          "Matteo Berrettini": 2.75
+        },
+        "williamhill": {
+          "Alex de Minaur": 1.44,
+          "Matteo Berrettini": 2.75
+        },
+        "betfair_ex_eu": {
+          "Alex de Minaur": 1.47,
+          "Matteo Berrettini": 3.0
+        },
+        "matchbook": {
+          "Alex de Minaur": 1.46,
+          "Matteo Berrettini": 3.0
+        },
+        "unibet_fr": {
+          "Alex de Minaur": 1.39,
+          "Matteo Berrettini": 2.55
+        },
+        "marathonbet": {
+          "Alex de Minaur": 1.44,
+          "Matteo Berrettini": 2.76
+        },
+        "fanduel": {
+          "Alex de Minaur": 1.43,
+          "Matteo Berrettini": 2.82
+        },
+        "coolbet": {
+          "Alex de Minaur": 1.44,
+          "Matteo Berrettini": 2.8
+        },
+        "onexbet": {
+          "Alex de Minaur": 1.46,
+          "Matteo Berrettini": 2.8
+        },
+        "draftkings": {
+          "Alex de Minaur": 1.44,
+          "Matteo Berrettini": 2.82
+        },
+        "betclic_fr": {
+          "Alex de Minaur": 1.4,
+          "Matteo Berrettini": 2.6
+        },
+        "leovegas_se": {
+          "Alex de Minaur": 1.48,
+          "Matteo Berrettini": 2.65
+        },
+        "unibet_nl": {
+          "Alex de Minaur": 1.48,
+          "Matteo Berrettini": 2.65
+        },
+        "betrivers": {
+          "Alex de Minaur": 1.48,
+          "Matteo Berrettini": 2.65
+        },
+        "pmu_fr": {
+          "Alex de Minaur": 1.42,
+          "Matteo Berrettini": 2.5
+        },
+        "unibet_se": {
+          "Alex de Minaur": 1.48,
+          "Matteo Berrettini": 2.65
+        },
+        "winamax_fr": {
+          "Alex de Minaur": 1.4,
+          "Matteo Berrettini": 2.55
+        },
+        "winamax_de": {
+          "Alex de Minaur": 1.45,
+          "Matteo Berrettini": 2.75
+        },
+        "tipico_de": {
+          "Alex de Minaur": 1.4,
+          "Matteo Berrettini": 2.7
+        },
+        "bovada": {
+          "Alex de Minaur": 1.44,
+          "Matteo Berrettini": 2.85
+        },
+        "betmgm": {
+          "Alex de Minaur": 1.44,
+          "Matteo Berrettini": 2.75
+        },
+        "pinnacle": {
+          "Alex de Minaur": 1.45,
+          "Matteo Berrettini": 2.94
+        },
+        "lowvig": {
+          "Alex de Minaur": 1.45,
+          "Matteo Berrettini": 2.84
+        },
+        "betonlineag": {
+          "Alex de Minaur": 1.45,
+          "Matteo Berrettini": 2.84
+        }
+      },
+      "prediction": {
+        "p1_name": "Matteo Berrettini",
+        "p2_name": "Alex De Minaur",
+        "p1_prob": 0.3372,
+        "p2_prob": 0.6628,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": 0.0039,
+        "p2_edge": -0.0129
+      },
+      "collected_at": "2026-10-30T04:05:45.074099+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-29T20:49:49.001784+00:00"
+  "last_updated": "2026-10-30T04:05:45.092724+00:00"
 }
