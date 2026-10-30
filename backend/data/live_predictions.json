@@ -81895,7 +81895,11 @@
         "p2_edge": -0.0054
       },
       "collected_at": "2026-10-29T20:49:48.497772+00:00",
-      "result": null
+      "result": {
+        "winner": "Valentin Vacherot",
+        "correct": false,
+        "settled_at": "2026-10-30T20:20:09.322656+00:00"
+      }
     },
     "f8b84ec001244b604176bf0bc6f21f16": {
       "match_id": "f8b84ec001244b604176bf0bc6f21f16",
@@ -81969,7 +81973,11 @@
         "p2_edge": 0.0562
       },
       "collected_at": "2026-10-29T20:49:48.619812+00:00",
-      "result": null
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": false,
+        "settled_at": "2026-10-30T20:20:09.436313+00:00"
+      }
     },
     "7e16ce6f4bf3a1b6f3ecf28768bb8653": {
       "match_id": "7e16ce6f4bf3a1b6f3ecf28768bb8653",
@@ -82189,7 +82197,11 @@
         "p2_edge": 0.0282
       },
       "collected_at": "2026-10-29T20:49:48.862492+00:00",
-      "result": null
+      "result": {
+        "winner": "Carlos Alcaraz",
+        "correct": true,
+        "settled_at": "2026-10-30T20:20:09.780073+00:00"
+      }
     },
     "69ae427eb9d45bc2bc6b0ad750e25934": {
       "match_id": "69ae427eb9d45bc2bc6b0ad750e25934",
@@ -82259,7 +82271,11 @@
         "p2_edge": 0.0062
       },
       "collected_at": "2026-10-29T20:49:48.983547+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-10-30T20:20:09.894371+00:00"
+      }
     },
     "e01a16acf3ce50a010714d85d5ff6374": {
       "match_id": "e01a16acf3ce50a010714d85d5ff6374",
@@ -82369,7 +82385,11 @@
         "p2_edge": -0.0476
       },
       "collected_at": "2026-10-30T04:05:44.741920+00:00",
-      "result": null
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": true,
+        "settled_at": "2026-10-30T20:20:09.550863+00:00"
+      }
     },
     "e66be09cbf07f4ca7b22ef19c32bcb30": {
       "match_id": "e66be09cbf07f4ca7b22ef19c32bcb30",
@@ -82499,7 +82519,11 @@
         "p2_edge": 0.1389
       },
       "collected_at": "2026-10-30T04:05:44.865033+00:00",
-      "result": null
+      "result": {
+        "winner": "Jan-Lennard Struff",
+        "correct": false,
+        "settled_at": "2026-10-30T20:20:09.664799+00:00"
+      }
     },
     "94ca068a80e8dbb6686fd96d402bde0e": {
       "match_id": "94ca068a80e8dbb6686fd96d402bde0e",
@@ -82626,7 +82650,231 @@
       },
       "collected_at": "2026-10-30T04:05:45.074099+00:00",
       "result": null
+    },
+    "5a856de2f4f6df9ea205100c2c304254": {
+      "match_id": "5a856de2f4f6df9ea205100c2c304254",
+      "commence_time": "2026-10-31T14:00:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Valentin Vacherot",
+      "player2": "Taylor Fritz",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Taylor Fritz": 1.34,
+          "Valentin Vacherot": 3.7
+        },
+        "marathonbet": {
+          "Taylor Fritz": 1.31,
+          "Valentin Vacherot": 3.42
+        },
+        "williamhill": {
+          "Taylor Fritz": 1.3,
+          "Valentin Vacherot": 3.5
+        },
+        "draftkings": {
+          "Taylor Fritz": 1.3,
+          "Valentin Vacherot": 3.55
+        },
+        "onexbet": {
+          "Taylor Fritz": 1.33,
+          "Valentin Vacherot": 3.46
+        },
+        "sport888": {
+          "Taylor Fritz": 1.3,
+          "Valentin Vacherot": 3.5
+        },
+        "unibet_fr": {
+          "Taylor Fritz": 1.26,
+          "Valentin Vacherot": 3.15
+        },
+        "betclic_fr": {
+          "Taylor Fritz": 1.27,
+          "Valentin Vacherot": 3.2
+        },
+        "coolbet": {
+          "Taylor Fritz": 1.3,
+          "Valentin Vacherot": 3.55
+        },
+        "nordicbet": {
+          "Taylor Fritz": 1.3,
+          "Valentin Vacherot": 3.45
+        },
+        "betsson": {
+          "Taylor Fritz": 1.3,
+          "Valentin Vacherot": 3.45
+        },
+        "fanduel": {
+          "Taylor Fritz": 1.29,
+          "Valentin Vacherot": 3.6
+        },
+        "betmgm": {
+          "Taylor Fritz": 1.31,
+          "Valentin Vacherot": 3.4
+        },
+        "winamax_de": {
+          "Taylor Fritz": 1.32,
+          "Valentin Vacherot": 3.6
+        },
+        "winamax_fr": {
+          "Taylor Fritz": 1.29,
+          "Valentin Vacherot": 3.35
+        },
+        "tipico_de": {
+          "Taylor Fritz": 1.28,
+          "Valentin Vacherot": 3.3
+        },
+        "matchbook": {
+          "Taylor Fritz": 1.34,
+          "Valentin Vacherot": 3.75
+        },
+        "bovada": {
+          "Taylor Fritz": 1.31,
+          "Valentin Vacherot": 3.6
+        },
+        "betrivers": {
+          "Taylor Fritz": 1.3,
+          "Valentin Vacherot": 3.45
+        },
+        "leovegas_se": {
+          "Taylor Fritz": 1.3,
+          "Valentin Vacherot": 3.45
+        },
+        "unibet_se": {
+          "Taylor Fritz": 1.3,
+          "Valentin Vacherot": 3.45
+        },
+        "unibet_nl": {
+          "Taylor Fritz": 1.3,
+          "Valentin Vacherot": 3.45
+        },
+        "pmu_fr": {
+          "Taylor Fritz": 1.26,
+          "Valentin Vacherot": 3.25
+        },
+        "pinnacle": {
+          "Taylor Fritz": 1.32,
+          "Valentin Vacherot": 3.69
+        }
+      },
+      "prediction": {
+        "p1_name": "Valentin Vacherot",
+        "p2_name": "Taylor Fritz",
+        "p1_prob": 0.407,
+        "p2_prob": 0.593,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "medium",
+        "p1_edge": 0.1403,
+        "p2_edge": -0.1533
+      },
+      "collected_at": "2026-10-30T20:20:17.708965+00:00",
+      "result": null
+    },
+    "3f0addea74d69db2f1b7595d4fb2b1af": {
+      "match_id": "3f0addea74d69db2f1b7595d4fb2b1af",
+      "commence_time": "2026-10-31T14:00:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Daniil Medvedev",
+      "player2": "Carlos Alcaraz",
+      "bookmakers": {
+        "sport888": {
+          "Carlos Alcaraz": 1.4,
+          "Daniil Medvedev": 2.9
+        },
+        "onexbet": {
+          "Carlos Alcaraz": 1.38,
+          "Daniil Medvedev": 3.17
+        },
+        "unibet_fr": {
+          "Carlos Alcaraz": 1.32,
+          "Daniil Medvedev": 2.85
+        },
+        "nordicbet": {
+          "Carlos Alcaraz": 1.36,
+          "Daniil Medvedev": 3.05
+        },
+        "betsson": {
+          "Carlos Alcaraz": 1.36,
+          "Daniil Medvedev": 3.05
+        },
+        "betfair_ex_eu": {
+          "Carlos Alcaraz": 1.43,
+          "Daniil Medvedev": 3.1
+        },
+        "marathonbet": {
+          "Carlos Alcaraz": 1.36,
+          "Daniil Medvedev": 3.12
+        },
+        "williamhill": {
+          "Carlos Alcaraz": 1.4,
+          "Daniil Medvedev": 2.9
+        },
+        "betclic_fr": {
+          "Carlos Alcaraz": 1.33,
+          "Daniil Medvedev": 2.85
+        },
+        "draftkings": {
+          "Carlos Alcaraz": 1.38,
+          "Daniil Medvedev": 3.06
+        },
+        "fanduel": {
+          "Carlos Alcaraz": 1.36,
+          "Daniil Medvedev": 3.15
+        },
+        "betmgm": {
+          "Carlos Alcaraz": 1.35,
+          "Daniil Medvedev": 3.1
+        },
+        "winamax_de": {
+          "Carlos Alcaraz": 1.39,
+          "Daniil Medvedev": 3.2
+        },
+        "winamax_fr": {
+          "Carlos Alcaraz": 1.35,
+          "Daniil Medvedev": 3.0
+        },
+        "tipico_de": {
+          "Carlos Alcaraz": 1.35,
+          "Daniil Medvedev": 2.95
+        },
+        "bovada": {
+          "Carlos Alcaraz": 1.38,
+          "Daniil Medvedev": 3.1
+        },
+        "betrivers": {
+          "Carlos Alcaraz": 1.38,
+          "Daniil Medvedev": 3.05
+        },
+        "pmu_fr": {
+          "Carlos Alcaraz": 1.33,
+          "Daniil Medvedev": 2.9
+        },
+        "unibet_nl": {
+          "Carlos Alcaraz": 1.38,
+          "Daniil Medvedev": 3.05
+        },
+        "leovegas_se": {
+          "Carlos Alcaraz": 1.38,
+          "Daniil Medvedev": 3.05
+        },
+        "unibet_se": {
+          "Carlos Alcaraz": 1.38,
+          "Daniil Medvedev": 3.05
+        }
+      },
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Carlos Alcaraz",
+        "p1_prob": 0.2528,
+        "p2_prob": 0.7472,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": -0.0597,
+        "p2_edge": 0.0479
+      },
+      "collected_at": "2026-10-30T20:20:17.861990+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-30T14:46:28.258792+00:00"
+  "last_updated": "2026-10-30T20:20:17.881222+00:00"
 }
