@@ -82087,7 +82087,11 @@
         "p2_edge": 0.0402
       },
       "collected_at": "2026-10-29T20:49:48.741850+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-10-30T14:46:28.258771+00:00"
+      }
     },
     "cc4564f7b80beae29935d650d1ccb4cb": {
       "match_id": "cc4564f7b80beae29935d650d1ccb4cb",
@@ -82624,5 +82628,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-10-30T04:05:45.092724+00:00"
+  "last_updated": "2026-10-30T14:46:28.258792+00:00"
 }
