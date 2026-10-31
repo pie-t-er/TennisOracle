@@ -82771,7 +82771,11 @@
         "p2_edge": -0.1533
       },
       "collected_at": "2026-10-30T20:20:17.708965+00:00",
-      "result": null
+      "result": {
+        "winner": "Valentin Vacherot",
+        "correct": false,
+        "settled_at": "2026-10-31T19:40:43.433656+00:00"
+      }
     },
     "3f0addea74d69db2f1b7595d4fb2b1af": {
       "match_id": "3f0addea74d69db2f1b7595d4fb2b1af",
@@ -82877,7 +82881,11 @@
         "p2_edge": 0.0479
       },
       "collected_at": "2026-10-30T20:20:17.861990+00:00",
-      "result": null
+      "result": {
+        "winner": "Carlos Alcaraz",
+        "correct": true,
+        "settled_at": "2026-10-31T19:40:45.473435+00:00"
+      }
     },
     "552fda4930d6ed5d9fef41d162da947d": {
       "match_id": "552fda4930d6ed5d9fef41d162da947d",
@@ -83007,7 +83015,11 @@
         "p2_edge": -0.0711
       },
       "collected_at": "2026-10-31T03:49:36.240316+00:00",
-      "result": null
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": true,
+        "settled_at": "2026-10-31T19:40:43.496426+00:00"
+      }
     },
     "e29817fd8c010bb31e6c920398185da1": {
       "match_id": "e29817fd8c010bb31e6c920398185da1",
@@ -83133,7 +83145,11 @@
         "p2_edge": 0.0418
       },
       "collected_at": "2026-10-31T03:49:36.323248+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex de Minaur",
+        "correct": false,
+        "settled_at": "2026-10-31T19:40:45.558776+00:00"
+      }
     },
     "61c8928c277531cc3a82944398f6ee04": {
       "match_id": "61c8928c277531cc3a82944398f6ee04",
@@ -84242,7 +84258,401 @@
       },
       "collected_at": "2026-10-31T14:15:51.599311+00:00",
       "result": null
+    },
+    "0da93f689af7e7e2bf2e561f3e7f7e59": {
+      "match_id": "0da93f689af7e7e2bf2e561f3e7f7e59",
+      "commence_time": "2026-11-01T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Benjamin Bonzi",
+      "player2": "Yannick Hanfmann",
+      "bookmakers": {
+        "pinnacle": {
+          "Benjamin Bonzi": 1.8,
+          "Yannick Hanfmann": 2.06
+        },
+        "nordicbet": {
+          "Benjamin Bonzi": 1.82,
+          "Yannick Hanfmann": 1.88
+        },
+        "unibet_fr": {
+          "Benjamin Bonzi": 1.76,
+          "Yannick Hanfmann": 1.81
+        },
+        "betsson": {
+          "Benjamin Bonzi": 1.82,
+          "Yannick Hanfmann": 1.88
+        },
+        "gtbets": {
+          "Benjamin Bonzi": 1.88,
+          "Yannick Hanfmann": 1.93
+        }
+      },
+      "prediction": {
+        "p1_name": "Benjamin Bonzi",
+        "p2_name": "Yannick Hanfmann",
+        "p1_prob": 0.3662,
+        "p2_prob": 0.6338,
+        "predicted_winner": "Yannick Hanfmann",
+        "confidence": "high",
+        "p1_edge": -0.1657,
+        "p2_edge": 0.1484
+      },
+      "collected_at": "2026-10-31T19:40:49.288100+00:00",
+      "result": null
+    },
+    "87dd1f372becd90b913ceac1b31578d1": {
+      "match_id": "87dd1f372becd90b913ceac1b31578d1",
+      "commence_time": "2026-11-01T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Juan Manuel Cerundolo",
+      "player2": "Miomir Kecmanovic",
+      "bookmakers": {
+        "pinnacle": {
+          "Juan Manuel Cerundolo": 1.74,
+          "Miomir Kecmanovic": 2.14
+        },
+        "gtbets": {
+          "Juan Manuel Cerundolo": 1.81,
+          "Miomir Kecmanovic": 2.02
+        },
+        "betsson": {
+          "Juan Manuel Cerundolo": 1.7,
+          "Miomir Kecmanovic": 2.03
+        },
+        "nordicbet": {
+          "Juan Manuel Cerundolo": 1.7,
+          "Miomir Kecmanovic": 2.03
+        },
+        "unibet_fr": {
+          "Juan Manuel Cerundolo": 1.65,
+          "Miomir Kecmanovic": 1.95
+        }
+      },
+      "prediction": {
+        "p1_name": "Juan Manuel Cerundolo",
+        "p2_name": "Miomir Kecmanovic",
+        "p1_prob": 0.5218,
+        "p2_prob": 0.4782,
+        "predicted_winner": "Juan Manuel Cerundolo",
+        "confidence": "low",
+        "p1_edge": -0.0307,
+        "p2_edge": 0.0109
+      },
+      "collected_at": "2026-10-31T19:40:49.363206+00:00",
+      "result": null
+    },
+    "30424b55ac3fd0441d81336f4c1938a2": {
+      "match_id": "30424b55ac3fd0441d81336f4c1938a2",
+      "commence_time": "2026-11-01T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Thiago Agustin Tirante",
+      "player2": "Mattia Bellucci",
+      "bookmakers": {
+        "pinnacle": {
+          "Mattia Bellucci": 1.52,
+          "Thiago Agustin Tirante": 2.59
+        },
+        "betsson": {
+          "Mattia Bellucci": 1.5,
+          "Thiago Agustin Tirante": 2.42
+        },
+        "gtbets": {
+          "Mattia Bellucci": 1.53,
+          "Thiago Agustin Tirante": 2.52
+        },
+        "nordicbet": {
+          "Mattia Bellucci": 1.5,
+          "Thiago Agustin Tirante": 2.42
+        },
+        "unibet_fr": {
+          "Mattia Bellucci": 1.46,
+          "Thiago Agustin Tirante": 2.3
+        }
+      },
+      "prediction": {
+        "p1_name": "Thiago Agustin Tirante",
+        "p2_name": "Mattia Bellucci",
+        "p1_prob": 0.6272,
+        "p2_prob": 0.3728,
+        "predicted_winner": "Thiago Agustin Tirante",
+        "confidence": "high",
+        "p1_edge": 0.2411,
+        "p2_edge": -0.2808
+      },
+      "collected_at": "2026-10-31T19:40:49.436207+00:00",
+      "result": null
+    },
+    "aaf202777ebbdd0ceb31c39ca3ed6645": {
+      "match_id": "aaf202777ebbdd0ceb31c39ca3ed6645",
+      "commence_time": "2026-11-01T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Rinky Hijikata",
+      "player2": "Vit Kopriva",
+      "bookmakers": {
+        "pinnacle": {
+          "Rinky Hijikata": 1.42,
+          "Vit Kopriva": 2.96
+        },
+        "gtbets": {
+          "Rinky Hijikata": 1.4,
+          "Vit Kopriva": 2.96
+        },
+        "betsson": {
+          "Rinky Hijikata": 1.36,
+          "Vit Kopriva": 2.9
+        },
+        "nordicbet": {
+          "Rinky Hijikata": 1.36,
+          "Vit Kopriva": 2.9
+        },
+        "unibet_fr": {
+          "Rinky Hijikata": 1.33,
+          "Vit Kopriva": 2.7
+        }
+      },
+      "prediction": {
+        "p1_name": "Rinky Hijikata",
+        "p2_name": "Vit Kopriva",
+        "p1_prob": 0.3656,
+        "p2_prob": 0.6344,
+        "predicted_winner": "Vit Kopriva",
+        "confidence": "high",
+        "p1_edge": -0.3386,
+        "p2_edge": 0.2966
+      },
+      "collected_at": "2026-10-31T19:40:49.508533+00:00",
+      "result": null
+    },
+    "d54412ae826f63d7234c2ea00d4809ac": {
+      "match_id": "d54412ae826f63d7234c2ea00d4809ac",
+      "commence_time": "2026-11-02T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Daniel Merida Aguilar",
+      "player2": "Alexander Blockx",
+      "bookmakers": {
+        "pinnacle": {
+          "Alexander Blockx": 1.66,
+          "Daniel Merida Aguilar": 2.32
+        },
+        "draftkings": {
+          "Alexander Blockx": 1.62,
+          "Daniel Merida Aguilar": 2.31
+        },
+        "sport888": {
+          "Alexander Blockx": 1.61,
+          "Daniel Merida Aguilar": 2.3
+        },
+        "nordicbet": {
+          "Alexander Blockx": 1.64,
+          "Daniel Merida Aguilar": 2.26
+        },
+        "gtbets": {
+          "Alexander Blockx": 1.65,
+          "Daniel Merida Aguilar": 2.25
+        },
+        "coolbet": {
+          "Alexander Blockx": 1.67,
+          "Daniel Merida Aguilar": 2.32
+        },
+        "unibet_fr": {
+          "Alexander Blockx": 1.56,
+          "Daniel Merida Aguilar": 2.1
+        },
+        "betsson": {
+          "Alexander Blockx": 1.64,
+          "Daniel Merida Aguilar": 2.26
+        },
+        "betclic_fr": {
+          "Alexander Blockx": 1.58,
+          "Daniel Merida Aguilar": 2.14
+        },
+        "onexbet": {
+          "Alexander Blockx": 1.65,
+          "Daniel Merida Aguilar": 2.29
+        }
+      },
+      "prediction": {
+        "p1_name": "Jorge Aguilar",
+        "p2_name": "Alexander Blockx",
+        "p1_prob": 0.073,
+        "p2_prob": 0.927,
+        "predicted_winner": "Alexander Blockx",
+        "confidence": "high",
+        "p1_edge": -0.358,
+        "p2_edge": 0.3282
+      },
+      "collected_at": "2026-10-31T19:40:49.599165+00:00",
+      "result": null
+    },
+    "9e065ecef1e149fdf4c5e361ba6d2f2b": {
+      "match_id": "9e065ecef1e149fdf4c5e361ba6d2f2b",
+      "commence_time": "2026-11-02T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Lorenzo Musetti",
+      "player2": "Hubert Hurkacz",
+      "bookmakers": {
+        "pinnacle": {
+          "Hubert Hurkacz": 1.86,
+          "Lorenzo Musetti": 2.01
+        },
+        "sport888": {
+          "Hubert Hurkacz": 1.8,
+          "Lorenzo Musetti": 2.0
+        },
+        "coolbet": {
+          "Hubert Hurkacz": 1.88,
+          "Lorenzo Musetti": 2.0
+        },
+        "betclic_fr": {
+          "Hubert Hurkacz": 1.76,
+          "Lorenzo Musetti": 1.88
+        },
+        "gtbets": {
+          "Hubert Hurkacz": 1.91,
+          "Lorenzo Musetti": 1.9
+        },
+        "unibet_fr": {
+          "Hubert Hurkacz": 1.73,
+          "Lorenzo Musetti": 1.84
+        },
+        "onexbet": {
+          "Hubert Hurkacz": 1.86,
+          "Lorenzo Musetti": 1.99
+        },
+        "betsson": {
+          "Hubert Hurkacz": 1.84,
+          "Lorenzo Musetti": 1.97
+        },
+        "nordicbet": {
+          "Hubert Hurkacz": 1.84,
+          "Lorenzo Musetti": 1.97
+        },
+        "draftkings": {
+          "Hubert Hurkacz": 1.79,
+          "Lorenzo Musetti": 2.04
+        }
+      },
+      "prediction": {
+        "p1_name": "Lorenzo Musetti",
+        "p2_name": "Hubert Hurkacz",
+        "p1_prob": 0.6288,
+        "p2_prob": 0.3712,
+        "predicted_winner": "Lorenzo Musetti",
+        "confidence": "high",
+        "p1_edge": 0.1386,
+        "p2_edge": -0.1524
+      },
+      "collected_at": "2026-10-31T19:40:49.890486+00:00",
+      "result": null
+    },
+    "45420e4ccaa96290ca605d63fe10dcc6": {
+      "match_id": "45420e4ccaa96290ca605d63fe10dcc6",
+      "commence_time": "2026-11-01T14:30:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Jiri Lehecka",
+      "player2": "Valentin Vacherot",
+      "bookmakers": {
+        "marathonbet": {
+          "Jiri Lehecka": 1.46,
+          "Valentin Vacherot": 2.69
+        },
+        "matchbook": {
+          "Jiri Lehecka": 1.48,
+          "Valentin Vacherot": 2.32
+        },
+        "unibet_fr": {
+          "Jiri Lehecka": 1.43,
+          "Valentin Vacherot": 2.45
+        },
+        "betfair_ex_eu": {
+          "Jiri Lehecka": 1.48,
+          "Valentin Vacherot": 2.52
+        },
+        "betsson": {
+          "Jiri Lehecka": 1.48,
+          "Valentin Vacherot": 2.6
+        },
+        "draftkings": {
+          "Jiri Lehecka": 1.51,
+          "Valentin Vacherot": 2.59
+        },
+        "sport888": {
+          "Jiri Lehecka": 1.5,
+          "Valentin Vacherot": 2.6
+        },
+        "williamhill": {
+          "Jiri Lehecka": 1.5,
+          "Valentin Vacherot": 2.6
+        },
+        "betmgm": {
+          "Jiri Lehecka": 1.48,
+          "Valentin Vacherot": 2.6
+        },
+        "onexbet": {
+          "Jiri Lehecka": 1.48,
+          "Valentin Vacherot": 2.73
+        },
+        "nordicbet": {
+          "Jiri Lehecka": 1.48,
+          "Valentin Vacherot": 2.6
+        },
+        "betclic_fr": {
+          "Jiri Lehecka": 1.44,
+          "Valentin Vacherot": 2.47
+        },
+        "fanduel": {
+          "Jiri Lehecka": 1.49,
+          "Valentin Vacherot": 2.68
+        },
+        "unibet_nl": {
+          "Jiri Lehecka": 1.43,
+          "Valentin Vacherot": 2.85
+        },
+        "leovegas_se": {
+          "Jiri Lehecka": 1.43,
+          "Valentin Vacherot": 2.85
+        },
+        "pmu_fr": {
+          "Jiri Lehecka": 1.36,
+          "Valentin Vacherot": 2.7
+        },
+        "betrivers": {
+          "Jiri Lehecka": 1.43,
+          "Valentin Vacherot": 2.85
+        },
+        "unibet_se": {
+          "Jiri Lehecka": 1.43,
+          "Valentin Vacherot": 2.85
+        },
+        "tipico_de": {
+          "Jiri Lehecka": 1.45,
+          "Valentin Vacherot": 2.55
+        },
+        "bovada": {
+          "Jiri Lehecka": 1.51,
+          "Valentin Vacherot": 2.6
+        }
+      },
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Valentin Vacherot",
+        "p1_prob": 0.527,
+        "p2_prob": 0.473,
+        "predicted_winner": "Jiri Lehecka",
+        "confidence": "low",
+        "p1_edge": -0.1353,
+        "p2_edge": 0.1221
+      },
+      "collected_at": "2026-10-31T19:40:50.021886+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-31T14:15:51.618522+00:00"
+  "last_updated": "2026-10-31T19:40:50.034251+00:00"
 }
