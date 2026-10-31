@@ -83134,7 +83134,1115 @@
       },
       "collected_at": "2026-10-31T03:49:36.323248+00:00",
       "result": null
+    },
+    "61c8928c277531cc3a82944398f6ee04": {
+      "match_id": "61c8928c277531cc3a82944398f6ee04",
+      "commence_time": "2026-10-31T14:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Sebastian Baez",
+      "player2": "Damir Dzumhur",
+      "bookmakers": {
+        "pinnacle": {
+          "Damir Dzumhur": 1.93,
+          "Sebastian Baez": 1.91
+        },
+        "nordicbet": {
+          "Damir Dzumhur": 1.85,
+          "Sebastian Baez": 1.85
+        },
+        "betsson": {
+          "Damir Dzumhur": 1.85,
+          "Sebastian Baez": 1.85
+        }
+      },
+      "prediction": {
+        "p1_name": "Sebastian Baez",
+        "p2_name": "Damir Dzumhur",
+        "p1_prob": 0.6894,
+        "p2_prob": 0.3106,
+        "predicted_winner": "Sebastian Baez",
+        "confidence": "high",
+        "p1_edge": 0.1658,
+        "p2_edge": -0.2075
+      },
+      "collected_at": "2026-10-31T14:15:49.652025+00:00",
+      "result": null
+    },
+    "583f0f0734af9bf0c840812a6d21d6cb": {
+      "match_id": "583f0f0734af9bf0c840812a6d21d6cb",
+      "commence_time": "2026-10-31T16:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Adolfo Daniel Vallejo",
+      "player2": "Grigor Dimitrov",
+      "bookmakers": {
+        "pinnacle": {
+          "Adolfo Daniel Vallejo": 2.01,
+          "Grigor Dimitrov": 1.83
+        },
+        "nordicbet": {
+          "Adolfo Daniel Vallejo": 1.91,
+          "Grigor Dimitrov": 1.8
+        },
+        "gtbets": {
+          "Adolfo Daniel Vallejo": 1.89,
+          "Grigor Dimitrov": 1.92
+        },
+        "betsson": {
+          "Adolfo Daniel Vallejo": 1.91,
+          "Grigor Dimitrov": 1.8
+        },
+        "lowvig": {
+          "Adolfo Daniel Vallejo": 2.04,
+          "Grigor Dimitrov": 1.81
+        },
+        "betonlineag": {
+          "Adolfo Daniel Vallejo": 2.04,
+          "Grigor Dimitrov": 1.81
+        }
+      },
+      "prediction": {
+        "p1_name": "Adolfo Daniel Vallejo",
+        "p2_name": "Grigor Dimitrov",
+        "p1_prob": 0.5774,
+        "p2_prob": 0.4226,
+        "predicted_winner": "Adolfo Daniel Vallejo",
+        "confidence": "medium",
+        "p1_edge": 0.0872,
+        "p2_edge": -0.0982
+      },
+      "collected_at": "2026-10-31T14:15:49.780781+00:00",
+      "result": null
+    },
+    "d2a0771183ca890aa6649b13927d6ee9": {
+      "match_id": "d2a0771183ca890aa6649b13927d6ee9",
+      "commence_time": "2026-10-31T16:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Nuno Borges",
+      "player2": "Adrian Mannarino",
+      "bookmakers": {
+        "pinnacle": {
+          "Adrian Mannarino": 2.26,
+          "Nuno Borges": 1.67
+        },
+        "betsson": {
+          "Adrian Mannarino": 2.27,
+          "Nuno Borges": 1.56
+        },
+        "gtbets": {
+          "Adrian Mannarino": 2.31,
+          "Nuno Borges": 1.56
+        },
+        "nordicbet": {
+          "Adrian Mannarino": 2.27,
+          "Nuno Borges": 1.56
+        },
+        "lowvig": {
+          "Adrian Mannarino": 2.28,
+          "Nuno Borges": 1.68
+        },
+        "betonlineag": {
+          "Adrian Mannarino": 2.28,
+          "Nuno Borges": 1.68
+        }
+      },
+      "prediction": {
+        "p1_name": "Nuno Borges",
+        "p2_name": "Adrian Mannarino",
+        "p1_prob": 0.7438,
+        "p2_prob": 0.2562,
+        "predicted_winner": "Nuno Borges",
+        "confidence": "high",
+        "p1_edge": 0.1486,
+        "p2_edge": -0.1767
+      },
+      "collected_at": "2026-10-31T14:15:49.904077+00:00",
+      "result": null
+    },
+    "fdee6ebd2b4407c3d06c7ebd8ecf12b5": {
+      "match_id": "fdee6ebd2b4407c3d06c7ebd8ecf12b5",
+      "commence_time": "2026-10-31T16:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Alex Molcan",
+      "player2": "Daniel Altmaier",
+      "bookmakers": {
+        "pinnacle": {
+          "Alex Molcan": 1.78,
+          "Daniel Altmaier": 2.08
+        },
+        "nordicbet": {
+          "Alex Molcan": 1.68,
+          "Daniel Altmaier": 2.07
+        },
+        "gtbets": {
+          "Alex Molcan": 1.8,
+          "Daniel Altmaier": 2.06
+        },
+        "betsson": {
+          "Alex Molcan": 1.68,
+          "Daniel Altmaier": 2.07
+        },
+        "lowvig": {
+          "Alex Molcan": 1.8,
+          "Daniel Altmaier": 2.05
+        },
+        "betonlineag": {
+          "Alex Molcan": 1.8,
+          "Daniel Altmaier": 2.05
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex Molcan",
+        "p2_name": "Daniel Altmaier",
+        "p1_prob": 0.5364,
+        "p2_prob": 0.4636,
+        "predicted_winner": "Alex Molcan",
+        "confidence": "low",
+        "p1_edge": -0.0192,
+        "p2_edge": -0.0172
+      },
+      "collected_at": "2026-10-31T14:15:50.030858+00:00",
+      "result": null
+    },
+    "0b15b685479df1479050365848bcfe54": {
+      "match_id": "0b15b685479df1479050365848bcfe54",
+      "commence_time": "2026-11-01T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Alejandro Tabilo",
+      "player2": "Rafael Jodar",
+      "bookmakers": {
+        "betrivers": {
+          "Alejandro Tabilo": 4.9,
+          "Rafael Jodar": 1.18
+        },
+        "sport888": {
+          "Alejandro Tabilo": 4.5,
+          "Rafael Jodar": 1.2
+        },
+        "pmu_fr": {
+          "Alejandro Tabilo": 4.5,
+          "Rafael Jodar": 1.14
+        },
+        "gtbets": {
+          "Alejandro Tabilo": 4.87,
+          "Rafael Jodar": 1.18
+        },
+        "leovegas_se": {
+          "Alejandro Tabilo": 4.9,
+          "Rafael Jodar": 1.18
+        },
+        "unibet_nl": {
+          "Alejandro Tabilo": 4.9,
+          "Rafael Jodar": 1.18
+        },
+        "draftkings": {
+          "Alejandro Tabilo": 4.72,
+          "Rafael Jodar": 1.2
+        },
+        "onexbet": {
+          "Alejandro Tabilo": 4.71,
+          "Rafael Jodar": 1.21
+        },
+        "unibet_se": {
+          "Alejandro Tabilo": 4.9,
+          "Rafael Jodar": 1.18
+        },
+        "unibet_fr": {
+          "Alejandro Tabilo": 4.1,
+          "Rafael Jodar": 1.14
+        },
+        "coolbet": {
+          "Alejandro Tabilo": 5.0,
+          "Rafael Jodar": 1.2
+        },
+        "betclic_fr": {
+          "Alejandro Tabilo": 4.3,
+          "Rafael Jodar": 1.15
+        },
+        "nordicbet": {
+          "Alejandro Tabilo": 4.9,
+          "Rafael Jodar": 1.18
+        },
+        "betsson": {
+          "Alejandro Tabilo": 4.9,
+          "Rafael Jodar": 1.18
+        }
+      },
+      "prediction": {
+        "p1_name": "Alejandro Tabilo",
+        "p2_name": "Rafael Jodar",
+        "p1_prob": 0.3267,
+        "p2_prob": 0.6733,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "high",
+        "p1_edge": 0.1267,
+        "p2_edge": -0.1531
+      },
+      "collected_at": "2026-10-31T14:15:50.154571+00:00",
+      "result": null
+    },
+    "d25fdbba0ee28a3bbfa27a1b7bf0310b": {
+      "match_id": "d25fdbba0ee28a3bbfa27a1b7bf0310b",
+      "commence_time": "2026-11-01T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Andrey Rublev",
+      "player2": "Tomas Martin Etcheverry",
+      "bookmakers": {
+        "betrivers": {
+          "Andrey Rublev": 1.38,
+          "Tomas Martin Etcheverry": 3.0
+        },
+        "sport888": {
+          "Andrey Rublev": 1.33,
+          "Tomas Martin Etcheverry": 3.3
+        },
+        "pmu_fr": {
+          "Andrey Rublev": 1.34,
+          "Tomas Martin Etcheverry": 2.85
+        },
+        "gtbets": {
+          "Andrey Rublev": 1.39,
+          "Tomas Martin Etcheverry": 3.04
+        },
+        "leovegas_se": {
+          "Andrey Rublev": 1.38,
+          "Tomas Martin Etcheverry": 3.0
+        },
+        "unibet_nl": {
+          "Andrey Rublev": 1.38,
+          "Tomas Martin Etcheverry": 3.0
+        },
+        "draftkings": {
+          "Andrey Rublev": 1.33,
+          "Tomas Martin Etcheverry": 3.39
+        },
+        "onexbet": {
+          "Andrey Rublev": 1.41,
+          "Tomas Martin Etcheverry": 3.01
+        },
+        "unibet_se": {
+          "Andrey Rublev": 1.38,
+          "Tomas Martin Etcheverry": 3.0
+        },
+        "unibet_fr": {
+          "Andrey Rublev": 1.33,
+          "Tomas Martin Etcheverry": 2.7
+        },
+        "coolbet": {
+          "Andrey Rublev": 1.4,
+          "Tomas Martin Etcheverry": 3.15
+        },
+        "betclic_fr": {
+          "Andrey Rublev": 1.35,
+          "Tomas Martin Etcheverry": 2.8
+        },
+        "nordicbet": {
+          "Andrey Rublev": 1.39,
+          "Tomas Martin Etcheverry": 3.0
+        },
+        "betsson": {
+          "Andrey Rublev": 1.39,
+          "Tomas Martin Etcheverry": 3.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Andrey Rublev",
+        "p2_name": "Tomas Martin Etcheverry",
+        "p1_prob": 0.6245,
+        "p2_prob": 0.3755,
+        "predicted_winner": "Andrey Rublev",
+        "confidence": "high",
+        "p1_edge": -0.0847,
+        "p2_edge": 0.0805
+      },
+      "collected_at": "2026-10-31T14:15:50.278948+00:00",
+      "result": null
+    },
+    "90da92cf3a7e75dbd2eb358af0340fa8": {
+      "match_id": "90da92cf3a7e75dbd2eb358af0340fa8",
+      "commence_time": "2026-11-01T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Quentin Halys",
+      "player2": "Arthur Fery",
+      "bookmakers": {
+        "betrivers": {
+          "Arthur Fery": 2.55,
+          "Quentin Halys": 1.5
+        },
+        "sport888": {
+          "Arthur Fery": 2.5,
+          "Quentin Halys": 1.53
+        },
+        "pmu_fr": {
+          "Arthur Fery": 2.43,
+          "Quentin Halys": 1.45
+        },
+        "betsson": {
+          "Arthur Fery": 2.5,
+          "Quentin Halys": 1.54
+        },
+        "gtbets": {
+          "Arthur Fery": 2.47,
+          "Quentin Halys": 1.54
+        },
+        "leovegas_se": {
+          "Arthur Fery": 2.55,
+          "Quentin Halys": 1.5
+        },
+        "unibet_nl": {
+          "Arthur Fery": 2.55,
+          "Quentin Halys": 1.5
+        },
+        "draftkings": {
+          "Arthur Fery": 2.53,
+          "Quentin Halys": 1.53
+        },
+        "onexbet": {
+          "Arthur Fery": 2.6,
+          "Quentin Halys": 1.52
+        },
+        "unibet_se": {
+          "Arthur Fery": 2.55,
+          "Quentin Halys": 1.5
+        },
+        "unibet_fr": {
+          "Arthur Fery": 2.3,
+          "Quentin Halys": 1.46
+        },
+        "coolbet": {
+          "Arthur Fery": 2.55,
+          "Quentin Halys": 1.57
+        },
+        "nordicbet": {
+          "Arthur Fery": 2.5,
+          "Quentin Halys": 1.54
+        },
+        "betclic_fr": {
+          "Arthur Fery": 2.36,
+          "Quentin Halys": 1.48
+        }
+      },
+      "prediction": {
+        "p1_name": "Quentin Halys",
+        "p2_name": "Arthur Fery",
+        "p1_prob": 0.4905,
+        "p2_prob": 0.5095,
+        "predicted_winner": "Arthur Fery",
+        "confidence": "low",
+        "p1_edge": -0.1464,
+        "p2_edge": 0.1249
+      },
+      "collected_at": "2026-10-31T14:15:50.403035+00:00",
+      "result": null
+    },
+    "db55f6491d2491e31599e3af63c11471": {
+      "match_id": "db55f6491d2491e31599e3af63c11471",
+      "commence_time": "2026-11-01T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Arthur Rinderknech",
+      "player2": "Francisco Cerundolo",
+      "bookmakers": {
+        "betrivers": {
+          "Arthur Rinderknech": 2.95,
+          "Francisco Cerundolo": 1.4
+        },
+        "sport888": {
+          "Arthur Rinderknech": 2.9,
+          "Francisco Cerundolo": 1.4
+        },
+        "pmu_fr": {
+          "Arthur Rinderknech": 2.8,
+          "Francisco Cerundolo": 1.35
+        },
+        "betsson": {
+          "Arthur Rinderknech": 3.0,
+          "Francisco Cerundolo": 1.39
+        },
+        "gtbets": {
+          "Arthur Rinderknech": 2.94,
+          "Francisco Cerundolo": 1.37
+        },
+        "leovegas_se": {
+          "Arthur Rinderknech": 2.95,
+          "Francisco Cerundolo": 1.4
+        },
+        "unibet_nl": {
+          "Arthur Rinderknech": 2.95,
+          "Francisco Cerundolo": 1.4
+        },
+        "draftkings": {
+          "Arthur Rinderknech": 2.86,
+          "Francisco Cerundolo": 1.43
+        },
+        "onexbet": {
+          "Arthur Rinderknech": 3.01,
+          "Francisco Cerundolo": 1.41
+        },
+        "unibet_se": {
+          "Arthur Rinderknech": 2.95,
+          "Francisco Cerundolo": 1.4
+        },
+        "unibet_fr": {
+          "Arthur Rinderknech": 2.7,
+          "Francisco Cerundolo": 1.33
+        },
+        "coolbet": {
+          "Arthur Rinderknech": 3.05,
+          "Francisco Cerundolo": 1.42
+        },
+        "nordicbet": {
+          "Arthur Rinderknech": 3.0,
+          "Francisco Cerundolo": 1.39
+        },
+        "betclic_fr": {
+          "Arthur Rinderknech": 2.8,
+          "Francisco Cerundolo": 1.35
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Rinderknech",
+        "p2_name": "Francisco Cerundolo",
+        "p1_prob": 0.4137,
+        "p2_prob": 0.5863,
+        "predicted_winner": "Francisco Cerundolo",
+        "confidence": "medium",
+        "p1_edge": 0.0858,
+        "p2_edge": -0.113
+      },
+      "collected_at": "2026-10-31T14:15:50.526821+00:00",
+      "result": null
+    },
+    "85efb20e93a6ca08964f6239e9956dae": {
+      "match_id": "85efb20e93a6ca08964f6239e9956dae",
+      "commence_time": "2026-11-01T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Ugo Humbert",
+      "player2": "Botic van de Zandschulp",
+      "bookmakers": {
+        "betrivers": {
+          "Botic van de Zandschulp": 2.28,
+          "Ugo Humbert": 1.62
+        },
+        "sport888": {
+          "Botic van de Zandschulp": 2.38,
+          "Ugo Humbert": 1.57
+        },
+        "pmu_fr": {
+          "Botic van de Zandschulp": 2.2,
+          "Ugo Humbert": 1.56
+        },
+        "gtbets": {
+          "Botic van de Zandschulp": 2.35,
+          "Ugo Humbert": 1.6
+        },
+        "leovegas_se": {
+          "Botic van de Zandschulp": 2.28,
+          "Ugo Humbert": 1.62
+        },
+        "unibet_nl": {
+          "Botic van de Zandschulp": 2.28,
+          "Ugo Humbert": 1.62
+        },
+        "draftkings": {
+          "Botic van de Zandschulp": 2.44,
+          "Ugo Humbert": 1.56
+        },
+        "onexbet": {
+          "Botic van de Zandschulp": 2.35,
+          "Ugo Humbert": 1.62
+        },
+        "unibet_se": {
+          "Botic van de Zandschulp": 2.28,
+          "Ugo Humbert": 1.62
+        },
+        "unibet_fr": {
+          "Botic van de Zandschulp": 2.15,
+          "Ugo Humbert": 1.52
+        },
+        "coolbet": {
+          "Botic van de Zandschulp": 2.4,
+          "Ugo Humbert": 1.63
+        },
+        "betclic_fr": {
+          "Botic van de Zandschulp": 2.22,
+          "Ugo Humbert": 1.54
+        },
+        "nordicbet": {
+          "Botic van de Zandschulp": 2.35,
+          "Ugo Humbert": 1.6
+        },
+        "betsson": {
+          "Botic van de Zandschulp": 2.35,
+          "Ugo Humbert": 1.6
+        }
+      },
+      "prediction": {
+        "p1_name": "Ugo Humbert",
+        "p2_name": "Botic Van De Zandschulp",
+        "p1_prob": 0.4638,
+        "p2_prob": 0.5362,
+        "predicted_winner": "Botic Van De Zandschulp",
+        "confidence": "low",
+        "p1_edge": -0.1497,
+        "p2_edge": 0.1264
+      },
+      "collected_at": "2026-10-31T14:15:50.651116+00:00",
+      "result": null
+    },
+    "18d9ea3abcfe85f9ae47dc0433ac57c7": {
+      "match_id": "18d9ea3abcfe85f9ae47dc0433ac57c7",
+      "commence_time": "2026-11-01T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Brandon Nakashima",
+      "player2": "Matteo Berrettini",
+      "bookmakers": {
+        "betrivers": {
+          "Brandon Nakashima": 1.56,
+          "Matteo Berrettini": 2.43
+        },
+        "sport888": {
+          "Brandon Nakashima": 1.53,
+          "Matteo Berrettini": 2.5
+        },
+        "pmu_fr": {
+          "Brandon Nakashima": 1.5,
+          "Matteo Berrettini": 2.3
+        },
+        "gtbets": {
+          "Brandon Nakashima": 1.58,
+          "Matteo Berrettini": 2.34
+        },
+        "leovegas_se": {
+          "Brandon Nakashima": 1.56,
+          "Matteo Berrettini": 2.43
+        },
+        "unibet_nl": {
+          "Brandon Nakashima": 1.56,
+          "Matteo Berrettini": 2.43
+        },
+        "draftkings": {
+          "Brandon Nakashima": 1.51,
+          "Matteo Berrettini": 2.58
+        },
+        "onexbet": {
+          "Brandon Nakashima": 1.56,
+          "Matteo Berrettini": 2.49
+        },
+        "unibet_se": {
+          "Brandon Nakashima": 1.56,
+          "Matteo Berrettini": 2.43
+        },
+        "unibet_fr": {
+          "Brandon Nakashima": 1.49,
+          "Matteo Berrettini": 2.25
+        },
+        "coolbet": {
+          "Brandon Nakashima": 1.59,
+          "Matteo Berrettini": 2.5
+        },
+        "betclic_fr": {
+          "Brandon Nakashima": 1.51,
+          "Matteo Berrettini": 2.28
+        },
+        "nordicbet": {
+          "Brandon Nakashima": 1.57,
+          "Matteo Berrettini": 2.42
+        },
+        "betsson": {
+          "Brandon Nakashima": 1.57,
+          "Matteo Berrettini": 2.42
+        }
+      },
+      "prediction": {
+        "p1_name": "Brandon Nakashima",
+        "p2_name": "Matteo Berrettini",
+        "p1_prob": 0.4582,
+        "p2_prob": 0.5418,
+        "predicted_winner": "Matteo Berrettini",
+        "confidence": "medium",
+        "p1_edge": -0.1707,
+        "p2_edge": 0.1542
+      },
+      "collected_at": "2026-10-31T14:15:50.775821+00:00",
+      "result": null
+    },
+    "a397cd2c21e2038f589dfcc1bbf4a5d9": {
+      "match_id": "a397cd2c21e2038f589dfcc1bbf4a5d9",
+      "commence_time": "2026-11-01T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Cameron Norrie",
+      "player2": "Matteo Arnaldi",
+      "bookmakers": {
+        "betrivers": {
+          "Cameron Norrie": 1.5,
+          "Matteo Arnaldi": 2.55
+        },
+        "sport888": {
+          "Cameron Norrie": 1.53,
+          "Matteo Arnaldi": 2.5
+        },
+        "pmu_fr": {
+          "Cameron Norrie": 1.44,
+          "Matteo Arnaldi": 2.45
+        },
+        "betsson": {
+          "Cameron Norrie": 1.51,
+          "Matteo Arnaldi": 2.55
+        },
+        "gtbets": {
+          "Cameron Norrie": 1.53,
+          "Matteo Arnaldi": 2.57
+        },
+        "leovegas_se": {
+          "Cameron Norrie": 1.5,
+          "Matteo Arnaldi": 2.55
+        },
+        "unibet_nl": {
+          "Cameron Norrie": 1.5,
+          "Matteo Arnaldi": 2.55
+        },
+        "draftkings": {
+          "Cameron Norrie": 1.54,
+          "Matteo Arnaldi": 2.5
+        },
+        "onexbet": {
+          "Cameron Norrie": 1.52,
+          "Matteo Arnaldi": 2.6
+        },
+        "unibet_se": {
+          "Cameron Norrie": 1.5,
+          "Matteo Arnaldi": 2.55
+        },
+        "unibet_fr": {
+          "Cameron Norrie": 1.44,
+          "Matteo Arnaldi": 2.35
+        },
+        "coolbet": {
+          "Cameron Norrie": 1.55,
+          "Matteo Arnaldi": 2.6
+        },
+        "nordicbet": {
+          "Cameron Norrie": 1.51,
+          "Matteo Arnaldi": 2.55
+        },
+        "betclic_fr": {
+          "Cameron Norrie": 1.46,
+          "Matteo Arnaldi": 2.4
+        }
+      },
+      "prediction": {
+        "p1_name": "Cameron Norrie",
+        "p2_name": "Matteo Arnaldi",
+        "p1_prob": 0.4975,
+        "p2_prob": 0.5025,
+        "predicted_winner": "Matteo Arnaldi",
+        "confidence": "low",
+        "p1_edge": -0.1477,
+        "p2_edge": 0.1179
+      },
+      "collected_at": "2026-10-31T14:15:50.901799+00:00",
+      "result": null
+    },
+    "1a6898d788e3c5c7ecfb78edf5d4e8ab": {
+      "match_id": "1a6898d788e3c5c7ecfb78edf5d4e8ab",
+      "commence_time": "2026-11-01T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Denis Shapovalov",
+      "player2": "Karen Khachanov",
+      "bookmakers": {
+        "betrivers": {
+          "Denis Shapovalov": 2.5,
+          "Karen Khachanov": 1.53
+        },
+        "sport888": {
+          "Denis Shapovalov": 2.5,
+          "Karen Khachanov": 1.53
+        },
+        "pmu_fr": {
+          "Denis Shapovalov": 2.38,
+          "Karen Khachanov": 1.47
+        },
+        "gtbets": {
+          "Denis Shapovalov": 2.51,
+          "Karen Khachanov": 1.54
+        },
+        "leovegas_se": {
+          "Denis Shapovalov": 2.5,
+          "Karen Khachanov": 1.53
+        },
+        "unibet_nl": {
+          "Denis Shapovalov": 2.5,
+          "Karen Khachanov": 1.53
+        },
+        "draftkings": {
+          "Denis Shapovalov": 2.5,
+          "Karen Khachanov": 1.54
+        },
+        "onexbet": {
+          "Denis Shapovalov": 2.49,
+          "Karen Khachanov": 1.56
+        },
+        "unibet_se": {
+          "Denis Shapovalov": 2.5,
+          "Karen Khachanov": 1.53
+        },
+        "unibet_fr": {
+          "Denis Shapovalov": 2.3,
+          "Karen Khachanov": 1.45
+        },
+        "coolbet": {
+          "Denis Shapovalov": 2.6,
+          "Karen Khachanov": 1.55
+        },
+        "betclic_fr": {
+          "Denis Shapovalov": 2.37,
+          "Karen Khachanov": 1.47
+        },
+        "nordicbet": {
+          "Denis Shapovalov": 2.55,
+          "Karen Khachanov": 1.53
+        },
+        "betsson": {
+          "Denis Shapovalov": 2.55,
+          "Karen Khachanov": 1.53
+        }
+      },
+      "prediction": {
+        "p1_name": "Denis Shapovalov",
+        "p2_name": "Karen Khachanov",
+        "p1_prob": 0.4727,
+        "p2_prob": 0.5273,
+        "predicted_winner": "Karen Khachanov",
+        "confidence": "low",
+        "p1_edge": 0.0881,
+        "p2_edge": -0.1137
+      },
+      "collected_at": "2026-10-31T14:15:51.026379+00:00",
+      "result": null
+    },
+    "2fe52476d7d37d8230ca007cdf25c34c": {
+      "match_id": "2fe52476d7d37d8230ca007cdf25c34c",
+      "commence_time": "2026-11-01T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Tommy Paul",
+      "player2": "Holger Rune",
+      "bookmakers": {
+        "betrivers": {
+          "Holger Rune": 2.95,
+          "Tommy Paul": 1.4
+        },
+        "sport888": {
+          "Holger Rune": 2.9,
+          "Tommy Paul": 1.4
+        },
+        "pmu_fr": {
+          "Holger Rune": 2.85,
+          "Tommy Paul": 1.35
+        },
+        "betsson": {
+          "Holger Rune": 3.0,
+          "Tommy Paul": 1.4
+        },
+        "gtbets": {
+          "Holger Rune": 2.96,
+          "Tommy Paul": 1.4
+        },
+        "leovegas_se": {
+          "Holger Rune": 2.95,
+          "Tommy Paul": 1.4
+        },
+        "unibet_nl": {
+          "Holger Rune": 2.95,
+          "Tommy Paul": 1.4
+        },
+        "draftkings": {
+          "Holger Rune": 2.99,
+          "Tommy Paul": 1.4
+        },
+        "onexbet": {
+          "Holger Rune": 3.01,
+          "Tommy Paul": 1.41
+        },
+        "unibet_se": {
+          "Holger Rune": 2.95,
+          "Tommy Paul": 1.4
+        },
+        "unibet_fr": {
+          "Holger Rune": 2.7,
+          "Tommy Paul": 1.34
+        },
+        "coolbet": {
+          "Holger Rune": 3.05,
+          "Tommy Paul": 1.42
+        },
+        "nordicbet": {
+          "Holger Rune": 3.0,
+          "Tommy Paul": 1.4
+        },
+        "betclic_fr": {
+          "Holger Rune": 2.75,
+          "Tommy Paul": 1.35
+        }
+      },
+      "prediction": {
+        "p1_name": "Tommy Paul",
+        "p2_name": "Holger Rune",
+        "p1_prob": 0.3544,
+        "p2_prob": 0.6456,
+        "predicted_winner": "Holger Rune",
+        "confidence": "high",
+        "p1_edge": -0.3498,
+        "p2_edge": 0.3177
+      },
+      "collected_at": "2026-10-31T14:15:51.151004+00:00",
+      "result": null
+    },
+    "ab2cc6778482917ac72005c2edb26824": {
+      "match_id": "ab2cc6778482917ac72005c2edb26824",
+      "commence_time": "2026-11-01T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Ignacio Buse",
+      "player2": "Zizou Bergs",
+      "bookmakers": {
+        "betrivers": {
+          "Ignacio Buse": 3.05,
+          "Zizou Bergs": 1.38
+        },
+        "sport888": {
+          "Ignacio Buse": 2.9,
+          "Zizou Bergs": 1.4
+        },
+        "pmu_fr": {
+          "Ignacio Buse": 2.88,
+          "Zizou Bergs": 1.33
+        },
+        "betsson": {
+          "Ignacio Buse": 3.0,
+          "Zizou Bergs": 1.4
+        },
+        "gtbets": {
+          "Ignacio Buse": 3.06,
+          "Zizou Bergs": 1.37
+        },
+        "leovegas_se": {
+          "Ignacio Buse": 3.05,
+          "Zizou Bergs": 1.38
+        },
+        "unibet_nl": {
+          "Ignacio Buse": 3.05,
+          "Zizou Bergs": 1.38
+        },
+        "draftkings": {
+          "Ignacio Buse": 3.01,
+          "Zizou Bergs": 1.4
+        },
+        "onexbet": {
+          "Ignacio Buse": 3.06,
+          "Zizou Bergs": 1.4
+        },
+        "unibet_se": {
+          "Ignacio Buse": 3.05,
+          "Zizou Bergs": 1.38
+        },
+        "unibet_fr": {
+          "Ignacio Buse": 2.7,
+          "Zizou Bergs": 1.33
+        },
+        "coolbet": {
+          "Ignacio Buse": 3.05,
+          "Zizou Bergs": 1.42
+        },
+        "nordicbet": {
+          "Ignacio Buse": 3.0,
+          "Zizou Bergs": 1.4
+        },
+        "betclic_fr": {
+          "Ignacio Buse": 2.85,
+          "Zizou Bergs": 1.34
+        }
+      },
+      "prediction": {
+        "p1_name": "Ignacio Buse",
+        "p2_name": "Zizou Bergs",
+        "p1_prob": 0.6214,
+        "p2_prob": 0.3786,
+        "predicted_winner": "Ignacio Buse",
+        "confidence": "high",
+        "p1_edge": 0.2946,
+        "p2_edge": -0.3256
+      },
+      "collected_at": "2026-10-31T14:15:51.275102+00:00",
+      "result": null
+    },
+    "c2e61aa3d1076fb1efc4756a1006e80a": {
+      "match_id": "c2e61aa3d1076fb1efc4756a1006e80a",
+      "commence_time": "2026-11-01T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Stefanos Tsitsipas",
+      "player2": "Learner Tien",
+      "bookmakers": {
+        "betrivers": {
+          "Learner Tien": 1.65,
+          "Stefanos Tsitsipas": 2.23
+        },
+        "sport888": {
+          "Learner Tien": 1.73,
+          "Stefanos Tsitsipas": 2.1
+        },
+        "pmu_fr": {
+          "Learner Tien": 1.57,
+          "Stefanos Tsitsipas": 2.14
+        },
+        "gtbets": {
+          "Learner Tien": 1.74,
+          "Stefanos Tsitsipas": 2.11
+        },
+        "leovegas_se": {
+          "Learner Tien": 1.65,
+          "Stefanos Tsitsipas": 2.23
+        },
+        "unibet_nl": {
+          "Learner Tien": 1.65,
+          "Stefanos Tsitsipas": 2.23
+        },
+        "draftkings": {
+          "Learner Tien": 1.75,
+          "Stefanos Tsitsipas": 2.1
+        },
+        "onexbet": {
+          "Learner Tien": 1.68,
+          "Stefanos Tsitsipas": 2.23
+        },
+        "unibet_se": {
+          "Learner Tien": 1.65,
+          "Stefanos Tsitsipas": 2.23
+        },
+        "unibet_fr": {
+          "Learner Tien": 1.61,
+          "Stefanos Tsitsipas": 2.0
+        },
+        "coolbet": {
+          "Learner Tien": 1.74,
+          "Stefanos Tsitsipas": 2.2
+        },
+        "betclic_fr": {
+          "Learner Tien": 1.63,
+          "Stefanos Tsitsipas": 2.05
+        },
+        "betsson": {
+          "Learner Tien": 1.7,
+          "Stefanos Tsitsipas": 2.16
+        },
+        "nordicbet": {
+          "Learner Tien": 1.7,
+          "Stefanos Tsitsipas": 2.16
+        }
+      },
+      "prediction": {
+        "p1_name": "Stefanos Tsitsipas",
+        "p2_name": "Learner Tien",
+        "p1_prob": 0.4173,
+        "p2_prob": 0.5827,
+        "predicted_winner": "Learner Tien",
+        "confidence": "medium",
+        "p1_edge": -0.0311,
+        "p2_edge": 0.0113
+      },
+      "collected_at": "2026-10-31T14:15:51.473108+00:00",
+      "result": null
+    },
+    "35c20c072dc49b1f1762bd71838ad56b": {
+      "match_id": "35c20c072dc49b1f1762bd71838ad56b",
+      "commence_time": "2026-11-01T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Luca Van Assche",
+      "player2": "Mariano Navone",
+      "bookmakers": {
+        "betrivers": {
+          "Luca Van Assche": 1.68,
+          "Mariano Navone": 2.16
+        },
+        "sport888": {
+          "Luca Van Assche": 1.73,
+          "Mariano Navone": 2.1
+        },
+        "pmu_fr": {
+          "Luca Van Assche": 1.63,
+          "Mariano Navone": 2.07
+        },
+        "betsson": {
+          "Luca Van Assche": 1.73,
+          "Mariano Navone": 2.12
+        },
+        "gtbets": {
+          "Luca Van Assche": 1.76,
+          "Mariano Navone": 2.07
+        },
+        "leovegas_se": {
+          "Luca Van Assche": 1.68,
+          "Mariano Navone": 2.16
+        },
+        "unibet_nl": {
+          "Luca Van Assche": 1.68,
+          "Mariano Navone": 2.16
+        },
+        "draftkings": {
+          "Luca Van Assche": 1.72,
+          "Mariano Navone": 2.13
+        },
+        "onexbet": {
+          "Luca Van Assche": 1.7,
+          "Mariano Navone": 2.2
+        },
+        "unibet_se": {
+          "Luca Van Assche": 1.68,
+          "Mariano Navone": 2.16
+        },
+        "unibet_fr": {
+          "Luca Van Assche": 1.63,
+          "Mariano Navone": 1.97
+        },
+        "coolbet": {
+          "Luca Van Assche": 1.75,
+          "Mariano Navone": 2.18
+        },
+        "nordicbet": {
+          "Luca Van Assche": 1.73,
+          "Mariano Navone": 2.12
+        },
+        "betclic_fr": {
+          "Luca Van Assche": 1.66,
+          "Mariano Navone": 2.01
+        }
+      },
+      "prediction": {
+        "p1_name": "Luca Van Assche",
+        "p2_name": "Mariano Navone",
+        "p1_prob": 0.4518,
+        "p2_prob": 0.5482,
+        "predicted_winner": "Mariano Navone",
+        "confidence": "medium",
+        "p1_edge": -0.1164,
+        "p2_edge": 0.0937
+      },
+      "collected_at": "2026-10-31T14:15:51.599311+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-31T03:49:36.333829+00:00"
+  "last_updated": "2026-10-31T14:15:51.618522+00:00"
 }
