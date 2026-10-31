@@ -82649,7 +82649,11 @@
         "p2_edge": -0.0129
       },
       "collected_at": "2026-10-30T04:05:45.074099+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex de Minaur",
+        "correct": true,
+        "settled_at": "2026-10-31T03:49:30.984933+00:00"
+      }
     },
     "5a856de2f4f6df9ea205100c2c304254": {
       "match_id": "5a856de2f4f6df9ea205100c2c304254",
@@ -82874,7 +82878,263 @@
       },
       "collected_at": "2026-10-30T20:20:17.861990+00:00",
       "result": null
+    },
+    "552fda4930d6ed5d9fef41d162da947d": {
+      "match_id": "552fda4930d6ed5d9fef41d162da947d",
+      "commence_time": "2026-10-31T16:00:00Z",
+      "tournament": "ATP Swiss Indoors Basel",
+      "surface": "Hard",
+      "player1": "Jiri Lehecka",
+      "player2": "Jan-Lennard Struff",
+      "bookmakers": {
+        "unibet_se": {
+          "Jan-Lennard Struff": 2.7,
+          "Jiri Lehecka": 1.45
+        },
+        "betfair_ex_eu": {
+          "Jan-Lennard Struff": 3.05,
+          "Jiri Lehecka": 1.48
+        },
+        "matchbook": {
+          "Jan-Lennard Struff": 3.05,
+          "Jiri Lehecka": 1.48
+        },
+        "pmu_fr": {
+          "Jan-Lennard Struff": 2.55,
+          "Jiri Lehecka": 1.4
+        },
+        "onexbet": {
+          "Jan-Lennard Struff": 2.73,
+          "Jiri Lehecka": 1.48
+        },
+        "williamhill": {
+          "Jan-Lennard Struff": 2.75,
+          "Jiri Lehecka": 1.44
+        },
+        "marathonbet": {
+          "Jan-Lennard Struff": 2.69,
+          "Jiri Lehecka": 1.46
+        },
+        "coolbet": {
+          "Jan-Lennard Struff": 2.78,
+          "Jiri Lehecka": 1.45
+        },
+        "betrivers": {
+          "Jan-Lennard Struff": 2.7,
+          "Jiri Lehecka": 1.45
+        },
+        "sport888": {
+          "Jan-Lennard Struff": 2.75,
+          "Jiri Lehecka": 1.44
+        },
+        "leovegas_se": {
+          "Jan-Lennard Struff": 2.7,
+          "Jiri Lehecka": 1.45
+        },
+        "unibet_nl": {
+          "Jan-Lennard Struff": 2.7,
+          "Jiri Lehecka": 1.45
+        },
+        "unibet_fr": {
+          "Jan-Lennard Struff": 2.55,
+          "Jiri Lehecka": 1.4
+        },
+        "betclic_fr": {
+          "Jan-Lennard Struff": 2.55,
+          "Jiri Lehecka": 1.41
+        },
+        "nordicbet": {
+          "Jan-Lennard Struff": 2.7,
+          "Jiri Lehecka": 1.45
+        },
+        "betsson": {
+          "Jan-Lennard Struff": 2.7,
+          "Jiri Lehecka": 1.45
+        },
+        "fanduel": {
+          "Jan-Lennard Struff": 2.72,
+          "Jiri Lehecka": 1.48
+        },
+        "winamax_de": {
+          "Jan-Lennard Struff": 2.7,
+          "Jiri Lehecka": 1.45
+        },
+        "winamax_fr": {
+          "Jan-Lennard Struff": 2.55,
+          "Jiri Lehecka": 1.4
+        },
+        "draftkings": {
+          "Jan-Lennard Struff": 2.69,
+          "Jiri Lehecka": 1.48
+        },
+        "tipico_de": {
+          "Jan-Lennard Struff": 2.7,
+          "Jiri Lehecka": 1.4
+        },
+        "bovada": {
+          "Jan-Lennard Struff": 2.8,
+          "Jiri Lehecka": 1.45
+        },
+        "betmgm": {
+          "Jan-Lennard Struff": 2.7,
+          "Jiri Lehecka": 1.45
+        },
+        "pinnacle": {
+          "Jan-Lennard Struff": 2.9,
+          "Jiri Lehecka": 1.46
+        },
+        "lowvig": {
+          "Jan-Lennard Struff": 2.85,
+          "Jiri Lehecka": 1.45
+        },
+        "betonlineag": {
+          "Jan-Lennard Struff": 2.85,
+          "Jiri Lehecka": 1.45
+        },
+        "betus": {
+          "Jan-Lennard Struff": 2.82,
+          "Jiri Lehecka": 1.45
+        }
+      },
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Jan-Lennard Struff",
+        "p1_prob": 0.7432,
+        "p2_prob": 0.2568,
+        "predicted_winner": "Jiri Lehecka",
+        "confidence": "high",
+        "p1_edge": 0.0675,
+        "p2_edge": -0.0711
+      },
+      "collected_at": "2026-10-31T03:49:36.240316+00:00",
+      "result": null
+    },
+    "e29817fd8c010bb31e6c920398185da1": {
+      "match_id": "e29817fd8c010bb31e6c920398185da1",
+      "commence_time": "2026-10-31T15:30:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Alex de Minaur",
+      "bookmakers": {
+        "pmu_fr": {
+          "Alexander Zverev": 1.32,
+          "Alex de Minaur": 2.9
+        },
+        "marathonbet": {
+          "Alexander Zverev": 1.38,
+          "Alex de Minaur": 3.02
+        },
+        "draftkings": {
+          "Alexander Zverev": 1.38,
+          "Alex de Minaur": 3.11
+        },
+        "betrivers": {
+          "Alexander Zverev": 1.38,
+          "Alex de Minaur": 3.05
+        },
+        "onexbet": {
+          "Alexander Zverev": 1.4,
+          "Alex de Minaur": 3.06
+        },
+        "unibet_se": {
+          "Alexander Zverev": 1.38,
+          "Alex de Minaur": 3.05
+        },
+        "coolbet": {
+          "Alexander Zverev": 1.38,
+          "Alex de Minaur": 3.07
+        },
+        "betfair_ex_eu": {
+          "Alexander Zverev": 1.43,
+          "Alex de Minaur": 3.25
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.38,
+          "Alex de Minaur": 3.05
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.38,
+          "Alex de Minaur": 3.05
+        },
+        "betsson": {
+          "Alexander Zverev": 1.37,
+          "Alex de Minaur": 3.05
+        },
+        "nordicbet": {
+          "Alexander Zverev": 1.37,
+          "Alex de Minaur": 3.05
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 1.33,
+          "Alex de Minaur": 2.85
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.33,
+          "Alex de Minaur": 2.8
+        },
+        "fanduel": {
+          "Alexander Zverev": 1.42,
+          "Alex de Minaur": 2.92
+        },
+        "betmgm": {
+          "Alexander Zverev": 1.4,
+          "Alex de Minaur": 2.9
+        },
+        "sport888": {
+          "Alexander Zverev": 1.4,
+          "Alex de Minaur": 2.9
+        },
+        "tipico_de": {
+          "Alexander Zverev": 1.35,
+          "Alex de Minaur": 2.95
+        },
+        "williamhill": {
+          "Alexander Zverev": 1.4,
+          "Alex de Minaur": 2.9
+        },
+        "bovada": {
+          "Alexander Zverev": 1.38,
+          "Alex de Minaur": 3.1
+        },
+        "winamax_fr": {
+          "Alexander Zverev": 1.33,
+          "Alex de Minaur": 2.85
+        },
+        "winamax_de": {
+          "Alexander Zverev": 1.37,
+          "Alex de Minaur": 3.05
+        },
+        "matchbook": {
+          "Alexander Zverev": 1.43,
+          "Alex de Minaur": 3.25
+        },
+        "pinnacle": {
+          "Alexander Zverev": 1.41,
+          "Alex de Minaur": 3.14
+        },
+        "lowvig": {
+          "Alexander Zverev": 1.41,
+          "Alex de Minaur": 3.03
+        },
+        "betonlineag": {
+          "Alexander Zverev": 1.41,
+          "Alex de Minaur": 3.03
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Alex De Minaur",
+        "p1_prob": 0.6505,
+        "p2_prob": 0.3495,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": -0.0488,
+        "p2_edge": 0.0418
+      },
+      "collected_at": "2026-10-31T03:49:36.323248+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-30T20:20:17.881222+00:00"
+  "last_updated": "2026-10-31T03:49:36.333829+00:00"
 }
