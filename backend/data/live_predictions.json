@@ -84652,7 +84652,287 @@
       },
       "collected_at": "2026-10-31T19:40:50.021886+00:00",
       "result": null
+    },
+    "670a521efbb7b642d7f0bd4dce70c790": {
+      "match_id": "670a521efbb7b642d7f0bd4dce70c790",
+      "commence_time": "2026-11-01T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Sebastian Baez",
+      "player2": "Tomas Machac",
+      "bookmakers": {
+        "pinnacle": {
+          "Sebastian Baez": 5.1,
+          "Tomas Machac": 1.18
+        },
+        "gtbets": {
+          "Sebastian Baez": 4.45,
+          "Tomas Machac": 1.23
+        },
+        "betsson": {
+          "Sebastian Baez": 4.3,
+          "Tomas Machac": 1.18
+        },
+        "unibet_fr": {
+          "Sebastian Baez": 3.85,
+          "Tomas Machac": 1.15
+        },
+        "nordicbet": {
+          "Sebastian Baez": 4.3,
+          "Tomas Machac": 1.18
+        },
+        "betonlineag": {
+          "Sebastian Baez": 5.15,
+          "Tomas Machac": 1.18
+        },
+        "lowvig": {
+          "Sebastian Baez": 5.15,
+          "Tomas Machac": 1.18
+        }
+      },
+      "prediction": {
+        "p1_name": "Sebastian Baez",
+        "p2_name": "Tomas Machac",
+        "p1_prob": 0.4796,
+        "p2_prob": 0.5204,
+        "predicted_winner": "Tomas Machac",
+        "confidence": "low",
+        "p1_edge": 0.2854,
+        "p2_edge": -0.2926
+      },
+      "collected_at": "2026-11-01T03:59:00.335944+00:00",
+      "result": null
+    },
+    "ffcb837b0caf57b860936111d914874c": {
+      "match_id": "ffcb837b0caf57b860936111d914874c",
+      "commence_time": "2026-11-01T13:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Adolfo Daniel Vallejo",
+      "player2": "Lorenzo Sonego",
+      "bookmakers": {
+        "pinnacle": {
+          "Adolfo Daniel Vallejo": 2.19,
+          "Lorenzo Sonego": 1.7
+        },
+        "gtbets": {
+          "Adolfo Daniel Vallejo": 2.18,
+          "Lorenzo Sonego": 1.69
+        },
+        "unibet_fr": {
+          "Adolfo Daniel Vallejo": 2.0,
+          "Lorenzo Sonego": 1.58
+        },
+        "betsson": {
+          "Adolfo Daniel Vallejo": 2.12,
+          "Lorenzo Sonego": 1.64
+        },
+        "nordicbet": {
+          "Adolfo Daniel Vallejo": 2.12,
+          "Lorenzo Sonego": 1.64
+        },
+        "lowvig": {
+          "Adolfo Daniel Vallejo": 2.22,
+          "Lorenzo Sonego": 1.7
+        },
+        "betonlineag": {
+          "Adolfo Daniel Vallejo": 2.22,
+          "Lorenzo Sonego": 1.7
+        }
+      },
+      "prediction": {
+        "p1_name": "Adolfo Daniel Vallejo",
+        "p2_name": "Lorenzo Sonego",
+        "p1_prob": 0.5797,
+        "p2_prob": 0.4203,
+        "predicted_winner": "Adolfo Daniel Vallejo",
+        "confidence": "medium",
+        "p1_edge": 0.1292,
+        "p2_edge": -0.1679
+      },
+      "collected_at": "2026-11-01T03:59:00.461714+00:00",
+      "result": null
+    },
+    "3f537c10e972402ec718dc4dfa47786b": {
+      "match_id": "3f537c10e972402ec718dc4dfa47786b",
+      "commence_time": "2026-11-01T14:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Nuno Borges",
+      "player2": "Alex Molcan",
+      "bookmakers": {
+        "pinnacle": {
+          "Alex Molcan": 2.28,
+          "Nuno Borges": 1.65
+        },
+        "gtbets": {
+          "Alex Molcan": 2.32,
+          "Nuno Borges": 1.62
+        },
+        "unibet_fr": {
+          "Alex Molcan": 2.1,
+          "Nuno Borges": 1.54
+        },
+        "betsson": {
+          "Alex Molcan": 2.2,
+          "Nuno Borges": 1.6
+        },
+        "nordicbet": {
+          "Alex Molcan": 2.2,
+          "Nuno Borges": 1.6
+        },
+        "lowvig": {
+          "Alex Molcan": 2.25,
+          "Nuno Borges": 1.69
+        },
+        "betonlineag": {
+          "Alex Molcan": 2.25,
+          "Nuno Borges": 1.69
+        }
+      },
+      "prediction": {
+        "p1_name": "Nuno Borges",
+        "p2_name": "Alex Molcan",
+        "p1_prob": 0.4799,
+        "p2_prob": 0.5201,
+        "predicted_winner": "Alex Molcan",
+        "confidence": "low",
+        "p1_edge": -0.1118,
+        "p2_edge": 0.0891
+      },
+      "collected_at": "2026-11-01T03:59:00.587523+00:00",
+      "result": null
+    },
+    "39b752c46a334d801ef2449710faa164": {
+      "match_id": "39b752c46a334d801ef2449710faa164",
+      "commence_time": "2026-11-01T13:00:00Z",
+      "tournament": "ATP Vienna Open",
+      "surface": "Hard",
+      "player1": "Alex de Minaur",
+      "player2": "Carlos Alcaraz",
+      "bookmakers": {
+        "betclic_fr": {
+          "Alex de Minaur": 4.3,
+          "Carlos Alcaraz": 1.19
+        },
+        "betfair_ex_eu": {
+          "Alex de Minaur": 5.1,
+          "Carlos Alcaraz": 1.24
+        },
+        "fanduel": {
+          "Alex de Minaur": 4.7,
+          "Carlos Alcaraz": 1.2
+        },
+        "betsson": {
+          "Alex de Minaur": 4.4,
+          "Carlos Alcaraz": 1.2
+        },
+        "unibet_fr": {
+          "Alex de Minaur": 4.3,
+          "Carlos Alcaraz": 1.19
+        },
+        "nordicbet": {
+          "Alex de Minaur": 4.4,
+          "Carlos Alcaraz": 1.2
+        },
+        "matchbook": {
+          "Alex de Minaur": 5.1,
+          "Carlos Alcaraz": 1.24
+        },
+        "tipico_de": {
+          "Alex de Minaur": 4.5,
+          "Carlos Alcaraz": 1.16
+        },
+        "sport888": {
+          "Alex de Minaur": 4.2,
+          "Carlos Alcaraz": 1.22
+        },
+        "williamhill": {
+          "Alex de Minaur": 4.2,
+          "Carlos Alcaraz": 1.22
+        },
+        "coolbet": {
+          "Alex de Minaur": 4.5,
+          "Carlos Alcaraz": 1.21
+        },
+        "onexbet": {
+          "Alex de Minaur": 4.41,
+          "Carlos Alcaraz": 1.23
+        },
+        "marathonbet": {
+          "Alex de Minaur": 4.35,
+          "Carlos Alcaraz": 1.21
+        },
+        "draftkings": {
+          "Alex de Minaur": 4.5,
+          "Carlos Alcaraz": 1.21
+        },
+        "betrivers": {
+          "Alex de Minaur": 4.25,
+          "Carlos Alcaraz": 1.22
+        },
+        "pmu_fr": {
+          "Alex de Minaur": 3.95,
+          "Carlos Alcaraz": 1.18
+        },
+        "unibet_se": {
+          "Alex de Minaur": 4.25,
+          "Carlos Alcaraz": 1.22
+        },
+        "leovegas_se": {
+          "Alex de Minaur": 4.25,
+          "Carlos Alcaraz": 1.22
+        },
+        "unibet_nl": {
+          "Alex de Minaur": 4.25,
+          "Carlos Alcaraz": 1.22
+        },
+        "winamax_fr": {
+          "Alex de Minaur": 3.95,
+          "Carlos Alcaraz": 1.17
+        },
+        "winamax_de": {
+          "Alex de Minaur": 4.5,
+          "Carlos Alcaraz": 1.2
+        },
+        "betmgm": {
+          "Alex de Minaur": 4.4,
+          "Carlos Alcaraz": 1.21
+        },
+        "pinnacle": {
+          "Alex de Minaur": 4.74,
+          "Carlos Alcaraz": 1.22
+        },
+        "betonlineag": {
+          "Alex de Minaur": 4.64,
+          "Carlos Alcaraz": 1.21
+        },
+        "lowvig": {
+          "Alex de Minaur": 4.64,
+          "Carlos Alcaraz": 1.21
+        },
+        "bovada": {
+          "Alex de Minaur": 4.5,
+          "Carlos Alcaraz": 1.22
+        },
+        "betanysports": {
+          "Alex de Minaur": 4.45,
+          "Carlos Alcaraz": 1.21
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex De Minaur",
+        "p2_name": "Carlos Alcaraz",
+        "p1_prob": 0.2048,
+        "p2_prob": 0.7952,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": 0.0087,
+        "p2_edge": -0.0113
+      },
+      "collected_at": "2026-11-01T03:59:01.167882+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-10-31T19:40:50.034251+00:00"
+  "last_updated": "2026-11-01T03:59:01.186253+00:00"
 }
