@@ -83399,7 +83399,11 @@
         "p2_edge": -0.1531
       },
       "collected_at": "2026-10-31T14:15:50.154571+00:00",
-      "result": null
+      "result": {
+        "winner": "Rafael Jodar",
+        "correct": true,
+        "settled_at": "2026-11-01T14:41:05.220780+00:00"
+      }
     },
     "d25fdbba0ee28a3bbfa27a1b7bf0310b": {
       "match_id": "d25fdbba0ee28a3bbfa27a1b7bf0310b",
@@ -84931,8 +84935,180 @@
         "p2_edge": -0.0113
       },
       "collected_at": "2026-11-01T03:59:01.167882+00:00",
+      "result": {
+        "winner": "Carlos Alcaraz",
+        "correct": true,
+        "settled_at": "2026-11-01T14:41:03.312898+00:00"
+      }
+    },
+    "b04959d8930aba4535db09fe57f9d093": {
+      "match_id": "b04959d8930aba4535db09fe57f9d093",
+      "commence_time": "2026-11-02T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Alejandro Davidovich Fokina",
+      "player2": "Moise Kouame",
+      "bookmakers": {
+        "pinnacle": {
+          "Alejandro Davidovich Fokina": 1.33,
+          "Moise Kouame": 3.51
+        },
+        "nordicbet": {
+          "Alejandro Davidovich Fokina": 1.32,
+          "Moise Kouame": 3.45
+        },
+        "draftkings": {
+          "Alejandro Davidovich Fokina": 1.33,
+          "Moise Kouame": 3.35
+        },
+        "sport888": {
+          "Alejandro Davidovich Fokina": 1.33,
+          "Moise Kouame": 3.3
+        },
+        "onexbet": {
+          "Alejandro Davidovich Fokina": 1.32,
+          "Moise Kouame": 3.53
+        },
+        "coolbet": {
+          "Alejandro Davidovich Fokina": 1.34,
+          "Moise Kouame": 3.5
+        },
+        "gtbets": {
+          "Alejandro Davidovich Fokina": 1.33,
+          "Moise Kouame": 3.48
+        },
+        "unibet_fr": {
+          "Alejandro Davidovich Fokina": 1.27,
+          "Moise Kouame": 3.05
+        },
+        "betsson": {
+          "Alejandro Davidovich Fokina": 1.32,
+          "Moise Kouame": 3.45
+        },
+        "betclic_fr": {
+          "Alejandro Davidovich Fokina": 1.28,
+          "Moise Kouame": 3.15
+        },
+        "betmgm": {
+          "Alejandro Davidovich Fokina": 1.31,
+          "Moise Kouame": 3.4
+        },
+        "bovada": {
+          "Alejandro Davidovich Fokina": 1.32,
+          "Moise Kouame": 3.5
+        },
+        "matchbook": {
+          "Alejandro Davidovich Fokina": 1.35,
+          "Moise Kouame": 3.7
+        }
+      },
+      "prediction": {
+        "p1_name": "Alejandro Davidovich Fokina",
+        "p2_name": "Moise Kouame",
+        "p1_prob": 0.6066,
+        "p2_prob": 0.3934,
+        "predicted_winner": "Alejandro Davidovich Fokina",
+        "confidence": "high",
+        "p1_edge": -0.1341,
+        "p2_edge": 0.1231
+      },
+      "collected_at": "2026-11-01T14:41:09.080910+00:00",
+      "result": null
+    },
+    "1ead1ee3704640aea824a5759ad1cc28": {
+      "match_id": "1ead1ee3704640aea824a5759ad1cc28",
+      "commence_time": "2026-11-02T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Novak Djokovic",
+      "player2": "Valentin Vacherot",
+      "bookmakers": {
+        "pinnacle": {
+          "Novak Djokovic": 1.42,
+          "Valentin Vacherot": 3.04
+        },
+        "draftkings": {
+          "Novak Djokovic": 1.4,
+          "Valentin Vacherot": 2.97
+        },
+        "sport888": {
+          "Novak Djokovic": 1.4,
+          "Valentin Vacherot": 2.9
+        },
+        "onexbet": {
+          "Novak Djokovic": 1.42,
+          "Valentin Vacherot": 2.96
+        },
+        "coolbet": {
+          "Novak Djokovic": 1.44,
+          "Valentin Vacherot": 3.0
+        },
+        "gtbets": {
+          "Novak Djokovic": 1.41,
+          "Valentin Vacherot": 2.93
+        },
+        "unibet_fr": {
+          "Novak Djokovic": 1.36,
+          "Valentin Vacherot": 2.6
+        },
+        "betclic_fr": {
+          "Novak Djokovic": 1.37,
+          "Valentin Vacherot": 2.7
+        },
+        "betmgm": {
+          "Novak Djokovic": 1.4,
+          "Valentin Vacherot": 2.9
+        },
+        "nordicbet": {
+          "Novak Djokovic": 1.42,
+          "Valentin Vacherot": 2.9
+        },
+        "betsson": {
+          "Novak Djokovic": 1.42,
+          "Valentin Vacherot": 2.9
+        },
+        "bovada": {
+          "Novak Djokovic": 1.42,
+          "Valentin Vacherot": 2.95
+        },
+        "matchbook": {
+          "Novak Djokovic": 1.44,
+          "Valentin Vacherot": 3.1
+        },
+        "unibet_se": {
+          "Novak Djokovic": 1.4,
+          "Valentin Vacherot": 2.95
+        },
+        "betrivers": {
+          "Novak Djokovic": 1.4,
+          "Valentin Vacherot": 2.95
+        },
+        "unibet_nl": {
+          "Novak Djokovic": 1.4,
+          "Valentin Vacherot": 2.95
+        },
+        "pmu_fr": {
+          "Novak Djokovic": 1.35,
+          "Valentin Vacherot": 2.85
+        },
+        "leovegas_se": {
+          "Novak Djokovic": 1.4,
+          "Valentin Vacherot": 2.95
+        }
+      },
+      "prediction": {
+        "p1_name": "Novak Djokovic",
+        "p2_name": "Valentin Vacherot",
+        "p1_prob": 0.6642,
+        "p2_prob": 0.3358,
+        "predicted_winner": "Novak Djokovic",
+        "confidence": "high",
+        "p1_edge": -0.0302,
+        "p2_edge": 0.0132
+      },
+      "collected_at": "2026-11-01T14:41:09.479316+00:00",
       "result": null
     }
   },
-  "last_updated": "2026-11-01T03:59:01.186253+00:00"
+  "last_updated": "2026-11-01T14:41:09.492537+00:00"
 }
