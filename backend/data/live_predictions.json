@@ -83871,7 +83871,11 @@
         "p2_edge": 0.1179
       },
       "collected_at": "2026-10-31T14:15:50.901799+00:00",
-      "result": null
+      "result": {
+        "winner": "Cameron Norrie",
+        "correct": false,
+        "settled_at": "2026-11-02T17:43:44.238527+00:00"
+      }
     },
     "1a6898d788e3c5c7ecfb78edf5d4e8ab": {
       "match_id": "1a6898d788e3c5c7ecfb78edf5d4e8ab",
@@ -84105,7 +84109,11 @@
         "p2_edge": -0.3256
       },
       "collected_at": "2026-10-31T14:15:51.275102+00:00",
-      "result": null
+      "result": {
+        "winner": "Ignacio Buse",
+        "correct": true,
+        "settled_at": "2026-11-02T17:43:44.306629+00:00"
+      }
     },
     "c2e61aa3d1076fb1efc4756a1006e80a": {
       "match_id": "c2e61aa3d1076fb1efc4756a1006e80a",
@@ -84261,7 +84269,11 @@
         "p2_edge": 0.0937
       },
       "collected_at": "2026-10-31T14:15:51.599311+00:00",
-      "result": null
+      "result": {
+        "winner": "Luca Van Assche",
+        "correct": false,
+        "settled_at": "2026-11-02T17:43:44.378243+00:00"
+      }
     },
     "0da93f689af7e7e2bf2e561f3e7f7e59": {
       "match_id": "0da93f689af7e7e2bf2e561f3e7f7e59",
@@ -84553,7 +84565,11 @@
         "p2_edge": -0.1524
       },
       "collected_at": "2026-10-31T19:40:49.890486+00:00",
-      "result": null
+      "result": {
+        "winner": "Lorenzo Musetti",
+        "correct": true,
+        "settled_at": "2026-11-02T17:43:44.447967+00:00"
+      }
     },
     "45420e4ccaa96290ca605d63fe10dcc6": {
       "match_id": "45420e4ccaa96290ca605d63fe10dcc6",
@@ -85221,7 +85237,11 @@
         "p2_edge": -0.3197
       },
       "collected_at": "2026-11-01T20:06:09.547369+00:00",
-      "result": null
+      "result": {
+        "winner": "Rinky Hijikata",
+        "correct": false,
+        "settled_at": "2026-11-02T17:43:44.518540+00:00"
+      }
     },
     "99851274de5cc3c943371f330f1b4c71": {
       "match_id": "99851274de5cc3c943371f330f1b4c71",
@@ -85331,7 +85351,11 @@
         "p2_edge": -0.0254
       },
       "collected_at": "2026-11-01T20:06:09.698092+00:00",
-      "result": null
+      "result": {
+        "winner": "Casper Ruud",
+        "correct": true,
+        "settled_at": "2026-11-02T17:43:44.583956+00:00"
+      }
     },
     "a916463c001545483b340777daefd7c6": {
       "match_id": "a916463c001545483b340777daefd7c6",
@@ -85441,7 +85465,11 @@
         "p2_edge": 0.1154
       },
       "collected_at": "2026-11-01T20:06:09.767936+00:00",
-      "result": null
+      "result": {
+        "winner": "Mattia Bellucci",
+        "correct": false,
+        "settled_at": "2026-11-02T17:43:44.649017+00:00"
+      }
     },
     "b363b01046ccc43cdfcc7e7f4e42d735": {
       "match_id": "b363b01046ccc43cdfcc7e7f4e42d735",
@@ -85551,7 +85579,11 @@
         "p2_edge": 0.0905
       },
       "collected_at": "2026-11-01T20:06:09.838650+00:00",
-      "result": null
+      "result": {
+        "winner": "Tomas Machac",
+        "correct": true,
+        "settled_at": "2026-11-02T17:43:44.715670+00:00"
+      }
     },
     "44f0dc12e4fa4b0ef607420fecfd8eb6": {
       "match_id": "44f0dc12e4fa4b0ef607420fecfd8eb6",
@@ -85952,7 +85984,440 @@
       },
       "collected_at": "2026-11-01T20:06:10.266080+00:00",
       "result": null
+    },
+    "158872469ece00415aefaa0eaecab4f0": {
+      "match_id": "158872469ece00415aefaa0eaecab4f0",
+      "commence_time": "2026-11-03T18:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Ben Shelton",
+      "player2": "Cameron Norrie",
+      "bookmakers": {
+        "nordicbet": {
+          "Ben Shelton": 1.32,
+          "Cameron Norrie": 3.4
+        },
+        "unibet_fr": {
+          "Ben Shelton": 1.26,
+          "Cameron Norrie": 2.9
+        },
+        "marathonbet": {
+          "Ben Shelton": 1.33,
+          "Cameron Norrie": 3.28
+        },
+        "draftkings": {
+          "Ben Shelton": 1.32,
+          "Cameron Norrie": 3.47
+        },
+        "onexbet": {
+          "Ben Shelton": 1.35,
+          "Cameron Norrie": 3.33
+        },
+        "betfair_ex_eu": {
+          "Ben Shelton": 1.27,
+          "Cameron Norrie": 2.42
+        },
+        "betclic_fr": {
+          "Ben Shelton": 1.29,
+          "Cameron Norrie": 3.1
+        },
+        "gtbets": {
+          "Ben Shelton": 1.29,
+          "Cameron Norrie": 3.37
+        },
+        "winamax_fr": {
+          "Ben Shelton": 1.27,
+          "Cameron Norrie": 3.05
+        },
+        "fanduel": {
+          "Ben Shelton": 1.35,
+          "Cameron Norrie": 3.3
+        },
+        "winamax_de": {
+          "Ben Shelton": 1.32,
+          "Cameron Norrie": 3.35
+        },
+        "sport888": {
+          "Ben Shelton": 1.33,
+          "Cameron Norrie": 3.3
+        },
+        "williamhill": {
+          "Ben Shelton": 1.33,
+          "Cameron Norrie": 3.3
+        },
+        "betsson": {
+          "Ben Shelton": 1.32,
+          "Cameron Norrie": 3.4
+        },
+        "coolbet": {
+          "Ben Shelton": 1.35,
+          "Cameron Norrie": 3.45
+        }
+      },
+      "prediction": {
+        "p1_name": "Ben Shelton",
+        "p2_name": "Cameron Norrie",
+        "p1_prob": 0.6036,
+        "p2_prob": 0.3964,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "high",
+        "p1_edge": -0.1371,
+        "p2_edge": 0.1082
+      },
+      "collected_at": "2026-11-02T17:43:48.348993+00:00",
+      "result": null
+    },
+    "42bb4ea6113cbbd3effbb4904bf80c9b": {
+      "match_id": "42bb4ea6113cbbd3effbb4904bf80c9b",
+      "commence_time": "2026-11-03T19:30:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Casper Ruud",
+      "player2": "Rafael Jodar",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Casper Ruud": 2.32,
+          "Rafael Jodar": 1.51
+        },
+        "nordicbet": {
+          "Casper Ruud": 2.75,
+          "Rafael Jodar": 1.46
+        },
+        "marathonbet": {
+          "Casper Ruud": 2.73,
+          "Rafael Jodar": 1.45
+        },
+        "matchbook": {
+          "Casper Ruud": 2.14,
+          "Rafael Jodar": 1.43
+        },
+        "onexbet": {
+          "Casper Ruud": 2.77,
+          "Rafael Jodar": 1.47
+        },
+        "unibet_fr": {
+          "Casper Ruud": 2.5,
+          "Rafael Jodar": 1.4
+        },
+        "winamax_fr": {
+          "Casper Ruud": 2.5,
+          "Rafael Jodar": 1.4
+        },
+        "draftkings": {
+          "Casper Ruud": 2.7,
+          "Rafael Jodar": 1.48
+        },
+        "bovada": {
+          "Casper Ruud": 2.7,
+          "Rafael Jodar": 1.48
+        },
+        "fanduel": {
+          "Casper Ruud": 2.8,
+          "Rafael Jodar": 1.45
+        },
+        "gtbets": {
+          "Casper Ruud": 2.63,
+          "Rafael Jodar": 1.46
+        },
+        "winamax_de": {
+          "Casper Ruud": 2.7,
+          "Rafael Jodar": 1.45
+        },
+        "betclic_fr": {
+          "Casper Ruud": 2.55,
+          "Rafael Jodar": 1.41
+        },
+        "sport888": {
+          "Casper Ruud": 2.75,
+          "Rafael Jodar": 1.44
+        },
+        "williamhill": {
+          "Casper Ruud": 2.75,
+          "Rafael Jodar": 1.44
+        },
+        "betsson": {
+          "Casper Ruud": 2.75,
+          "Rafael Jodar": 1.46
+        },
+        "coolbet": {
+          "Casper Ruud": 2.85,
+          "Rafael Jodar": 1.47
+        }
+      },
+      "prediction": {
+        "p1_name": "Casper Ruud",
+        "p2_name": "Rafael Jodar",
+        "p1_prob": 0.4102,
+        "p2_prob": 0.5898,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "medium",
+        "p1_edge": 0.0593,
+        "p2_edge": -0.0725
+      },
+      "collected_at": "2026-11-02T17:43:48.459636+00:00",
+      "result": null
+    },
+    "25d8efdbfad95b30f2e8c67fd47f72fc": {
+      "match_id": "25d8efdbfad95b30f2e8c67fd47f72fc",
+      "commence_time": "2026-11-04T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Alexander Zverev",
+      "player2": "Lorenzo Musetti",
+      "bookmakers": {
+        "unibet_se": {
+          "Alexander Zverev": 1.36,
+          "Lorenzo Musetti": 3.15
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.36,
+          "Lorenzo Musetti": 3.15
+        },
+        "betrivers": {
+          "Alexander Zverev": 1.36,
+          "Lorenzo Musetti": 3.15
+        },
+        "pmu_fr": {
+          "Alexander Zverev": 1.32,
+          "Lorenzo Musetti": 3.0
+        },
+        "betfair_ex_eu": {
+          "Alexander Zverev": 1.37,
+          "Lorenzo Musetti": 3.0
+        },
+        "onexbet": {
+          "Alexander Zverev": 1.39,
+          "Lorenzo Musetti": 3.1
+        },
+        "gtbets": {
+          "Alexander Zverev": 1.39,
+          "Lorenzo Musetti": 3.05
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.36,
+          "Lorenzo Musetti": 3.15
+        },
+        "marathonbet": {
+          "Alexander Zverev": 1.37,
+          "Lorenzo Musetti": 3.06
+        },
+        "draftkings": {
+          "Alexander Zverev": 1.37,
+          "Lorenzo Musetti": 3.16
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.31,
+          "Lorenzo Musetti": 2.65
+        },
+        "nordicbet": {
+          "Alexander Zverev": 1.39,
+          "Lorenzo Musetti": 3.05
+        },
+        "winamax_fr": {
+          "Alexander Zverev": 1.33,
+          "Lorenzo Musetti": 2.75
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 1.34,
+          "Lorenzo Musetti": 2.8
+        },
+        "fanduel": {
+          "Alexander Zverev": 1.38,
+          "Lorenzo Musetti": 3.15
+        },
+        "winamax_de": {
+          "Alexander Zverev": 1.38,
+          "Lorenzo Musetti": 3.0
+        },
+        "tipico_de": {
+          "Alexander Zverev": 1.35,
+          "Lorenzo Musetti": 2.95
+        },
+        "coolbet": {
+          "Alexander Zverev": 1.4,
+          "Lorenzo Musetti": 3.15
+        },
+        "matchbook": {
+          "Alexander Zverev": 1.33,
+          "Lorenzo Musetti": 2.8
+        },
+        "betmgm": {
+          "Alexander Zverev": 1.4,
+          "Lorenzo Musetti": 2.9
+        },
+        "betsson": {
+          "Alexander Zverev": 1.39,
+          "Lorenzo Musetti": 3.05
+        },
+        "bovada": {
+          "Alexander Zverev": 1.38,
+          "Lorenzo Musetti": 3.1
+        },
+        "sport888": {
+          "Alexander Zverev": 1.36,
+          "Lorenzo Musetti": 3.1
+        },
+        "williamhill": {
+          "Alexander Zverev": 1.36,
+          "Lorenzo Musetti": 3.1
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Lorenzo Musetti",
+        "p1_prob": 0.6111,
+        "p2_prob": 0.3889,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": -0.1032,
+        "p2_edge": 0.0724
+      },
+      "collected_at": "2026-11-02T17:43:48.593308+00:00",
+      "result": null
+    },
+    "bc5dffba531009c0a80d3facb9410062": {
+      "match_id": "bc5dffba531009c0a80d3facb9410062",
+      "commence_time": "2026-11-04T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Ignacio Buse",
+      "player2": "Daniil Medvedev",
+      "bookmakers": {
+        "onexbet": {
+          "Daniil Medvedev": 1.12,
+          "Ignacio Buse": 6.84
+        },
+        "pmu_fr": {
+          "Daniil Medvedev": 1.09,
+          "Ignacio Buse": 5.3
+        },
+        "betrivers": {
+          "Daniil Medvedev": 1.13,
+          "Ignacio Buse": 5.8
+        },
+        "leovegas_se": {
+          "Daniil Medvedev": 1.13,
+          "Ignacio Buse": 5.8
+        },
+        "betfair_ex_eu": {
+          "Daniil Medvedev": 1.11,
+          "Ignacio Buse": 6.4
+        },
+        "gtbets": {
+          "Daniil Medvedev": 1.14,
+          "Ignacio Buse": 6.22
+        },
+        "marathonbet": {
+          "Daniil Medvedev": 1.11,
+          "Ignacio Buse": 6.55
+        },
+        "draftkings": {
+          "Daniil Medvedev": 1.12,
+          "Ignacio Buse": 6.54
+        },
+        "unibet_nl": {
+          "Daniil Medvedev": 1.13,
+          "Ignacio Buse": 5.8
+        },
+        "unibet_se": {
+          "Daniil Medvedev": 1.13,
+          "Ignacio Buse": 5.8
+        },
+        "unibet_fr": {
+          "Daniil Medvedev": 1.07,
+          "Ignacio Buse": 4.85
+        },
+        "winamax_fr": {
+          "Daniil Medvedev": 1.08,
+          "Ignacio Buse": 5.4
+        },
+        "betclic_fr": {
+          "Daniil Medvedev": 1.08,
+          "Ignacio Buse": 5.6
+        },
+        "fanduel": {
+          "Daniil Medvedev": 1.1,
+          "Ignacio Buse": 7.4
+        },
+        "nordicbet": {
+          "Daniil Medvedev": 1.11,
+          "Ignacio Buse": 6.8
+        },
+        "winamax_de": {
+          "Daniil Medvedev": 1.1,
+          "Ignacio Buse": 6.75
+        },
+        "tipico_de": {
+          "Daniil Medvedev": 1.08,
+          "Ignacio Buse": 6.5
+        },
+        "coolbet": {
+          "Daniil Medvedev": 1.12,
+          "Ignacio Buse": 7.25
+        },
+        "matchbook": {
+          "Daniil Medvedev": 1.09,
+          "Ignacio Buse": 6.4
+        },
+        "betmgm": {
+          "Daniil Medvedev": 1.1,
+          "Ignacio Buse": 6.75
+        },
+        "betsson": {
+          "Daniil Medvedev": 1.11,
+          "Ignacio Buse": 6.8
+        },
+        "bovada": {
+          "Daniil Medvedev": 1.11,
+          "Ignacio Buse": 6.75
+        },
+        "sport888": {
+          "Daniil Medvedev": 1.11,
+          "Ignacio Buse": 6.5
+        },
+        "williamhill": {
+          "Daniil Medvedev": 1.11,
+          "Ignacio Buse": 6.5
+        }
+      },
+      "prediction": {
+        "p1_name": "Ignacio Buse",
+        "p2_name": "Daniil Medvedev",
+        "p1_prob": 0.3977,
+        "p2_prob": 0.6023,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": 0.2626,
+        "p2_edge": -0.2749
+      },
+      "collected_at": "2026-11-02T17:43:48.697661+00:00",
+      "result": null
+    },
+    "tml-2026-352-6": {
+      "match_id": "tml-2026-352-6",
+      "commence_time": "2026-11-02T00:00:00+00:00",
+      "tournament": "Paris Masters",
+      "surface": "Hard",
+      "player1": "Daniel Merida",
+      "player2": "Sebastian Baez",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Daniel Merida",
+        "p2_name": "Sebastian Baez",
+        "p1_prob": 0.6934,
+        "p2_prob": 0.3066,
+        "predicted_winner": "Daniel Merida",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-02T17:43:53.313692+00:00",
+      "result": {
+        "winner": "Daniel Merida",
+        "correct": true,
+        "settled_at": "2026-11-02T17:43:53.313692+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-01T20:06:10.277379+00:00"
+  "last_updated": "2026-11-02T17:43:53.326676+00:00"
 }
