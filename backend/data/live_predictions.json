@@ -83809,7 +83809,11 @@
         "p2_edge": 0.1542
       },
       "collected_at": "2026-10-31T14:15:50.775821+00:00",
-      "result": null
+      "result": {
+        "winner": "Matteo Berrettini",
+        "correct": true,
+        "settled_at": "2026-11-03T21:28:27.846261+00:00"
+      }
     },
     "a397cd2c21e2038f589dfcc1bbf4a5d9": {
       "match_id": "a397cd2c21e2038f589dfcc1bbf4a5d9",
@@ -84051,7 +84055,11 @@
         "p2_edge": 0.3177
       },
       "collected_at": "2026-10-31T14:15:51.151004+00:00",
-      "result": null
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": false,
+        "settled_at": "2026-11-03T21:28:27.920841+00:00"
+      }
     },
     "ab2cc6778482917ac72005c2edb26824": {
       "match_id": "ab2cc6778482917ac72005c2edb26824",
@@ -85147,7 +85155,11 @@
         "p2_edge": 0.0132
       },
       "collected_at": "2026-11-01T14:41:09.479316+00:00",
-      "result": null
+      "result": {
+        "winner": "Novak Djokovic",
+        "correct": true,
+        "settled_at": "2026-11-03T21:28:28.003342+00:00"
+      }
     },
     "f510a63a2e3852e183f84eb8cd44fcac": {
       "match_id": "f510a63a2e3852e183f84eb8cd44fcac",
@@ -85823,7 +85835,11 @@
         "p2_edge": 0.0396
       },
       "collected_at": "2026-11-01T20:06:10.009982+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex Michelsen",
+        "correct": false,
+        "settled_at": "2026-11-03T21:28:28.078680+00:00"
+      }
     },
     "232e9e6ce004ffcdda5130a7f432eb15": {
       "match_id": "232e9e6ce004ffcdda5130a7f432eb15",
@@ -85925,7 +85941,11 @@
         "p2_edge": -0.1307
       },
       "collected_at": "2026-11-01T20:06:10.178035+00:00",
-      "result": null
+      "result": {
+        "winner": "Jan-Lennard Struff",
+        "correct": true,
+        "settled_at": "2026-11-03T21:28:28.154041+00:00"
+      }
     },
     "dcf8effd6f985422ab07f5c909334937": {
       "match_id": "dcf8effd6f985422ab07f5c909334937",
@@ -86007,7 +86027,11 @@
         "p2_edge": 0.0276
       },
       "collected_at": "2026-11-01T20:06:10.266080+00:00",
-      "result": null
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-11-03T21:28:28.228255+00:00"
+      }
     },
     "158872469ece00415aefaa0eaecab4f0": {
       "match_id": "158872469ece00415aefaa0eaecab4f0",
@@ -86089,7 +86113,11 @@
         "p2_edge": 0.1082
       },
       "collected_at": "2026-11-02T17:43:48.348993+00:00",
-      "result": null
+      "result": {
+        "winner": "Ben Shelton",
+        "correct": true,
+        "settled_at": "2026-11-03T21:28:28.302191+00:00"
+      }
     },
     "42bb4ea6113cbbd3effbb4904bf80c9b": {
       "match_id": "42bb4ea6113cbbd3effbb4904bf80c9b",
@@ -86179,7 +86207,11 @@
         "p2_edge": -0.0725
       },
       "collected_at": "2026-11-02T17:43:48.459636+00:00",
-      "result": null
+      "result": {
+        "winner": "Rafael Jodar",
+        "correct": true,
+        "settled_at": "2026-11-03T21:28:28.376361+00:00"
+      }
     },
     "25d8efdbfad95b30f2e8c67fd47f72fc": {
       "match_id": "25d8efdbfad95b30f2e8c67fd47f72fc",
@@ -87025,7 +87057,809 @@
         "correct": true,
         "settled_at": "2026-11-03T15:46:18.110060+00:00"
       }
+    },
+    "4ce1d6b1ec3f3a58daf5d9c774afc3f6": {
+      "match_id": "4ce1d6b1ec3f3a58daf5d9c774afc3f6",
+      "commence_time": "2026-11-04T11:10:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Luca Van Assche",
+      "player2": "Learner Tien",
+      "bookmakers": {
+        "matchbook": {
+          "Learner Tien": 1.51,
+          "Luca Van Assche": 2.84
+        },
+        "betsson": {
+          "Learner Tien": 1.46,
+          "Luca Van Assche": 2.75
+        },
+        "betfair_ex_eu": {
+          "Learner Tien": 1.51,
+          "Luca Van Assche": 2.84
+        },
+        "unibet_fr": {
+          "Learner Tien": 1.37,
+          "Luca Van Assche": 2.4
+        },
+        "draftkings": {
+          "Learner Tien": 1.47,
+          "Luca Van Assche": 2.72
+        },
+        "sport888": {
+          "Learner Tien": 1.5,
+          "Luca Van Assche": 2.6
+        },
+        "onexbet": {
+          "Learner Tien": 1.46,
+          "Luca Van Assche": 2.79
+        },
+        "williamhill": {
+          "Learner Tien": 1.5,
+          "Luca Van Assche": 2.6
+        },
+        "nordicbet": {
+          "Learner Tien": 1.46,
+          "Luca Van Assche": 2.75
+        },
+        "gtbets": {
+          "Learner Tien": 1.39,
+          "Luca Van Assche": 2.89
+        },
+        "winamax_de": {
+          "Learner Tien": 1.47,
+          "Luca Van Assche": 2.8
+        },
+        "coolbet": {
+          "Learner Tien": 1.49,
+          "Luca Van Assche": 2.8
+        },
+        "winamax_fr": {
+          "Learner Tien": 1.42,
+          "Luca Van Assche": 2.6
+        },
+        "fanduel": {
+          "Learner Tien": 1.44,
+          "Luca Van Assche": 2.84
+        },
+        "betclic_fr": {
+          "Learner Tien": 1.41,
+          "Luca Van Assche": 2.55
+        },
+        "tipico_de": {
+          "Learner Tien": 1.4,
+          "Luca Van Assche": 2.7
+        },
+        "bovada": {
+          "Learner Tien": 1.47,
+          "Luca Van Assche": 2.75
+        },
+        "unibet_se": {
+          "Learner Tien": 1.43,
+          "Luca Van Assche": 2.8
+        },
+        "unibet_nl": {
+          "Learner Tien": 1.43,
+          "Luca Van Assche": 2.8
+        },
+        "betrivers": {
+          "Learner Tien": 1.43,
+          "Luca Van Assche": 2.8
+        },
+        "leovegas_se": {
+          "Learner Tien": 1.43,
+          "Luca Van Assche": 2.8
+        },
+        "pmu_fr": {
+          "Learner Tien": 1.38,
+          "Luca Van Assche": 2.65
+        },
+        "betmgm": {
+          "Learner Tien": 1.45,
+          "Luca Van Assche": 2.7
+        },
+        "pinnacle": {
+          "Learner Tien": 1.5,
+          "Luca Van Assche": 2.74
+        },
+        "lowvig": {
+          "Learner Tien": 1.5,
+          "Luca Van Assche": 2.74
+        },
+        "betonlineag": {
+          "Learner Tien": 1.5,
+          "Luca Van Assche": 2.74
+        }
+      },
+      "prediction": {
+        "p1_name": "Luca Van Assche",
+        "p2_name": "Learner Tien",
+        "p1_prob": 0.351,
+        "p2_prob": 0.649,
+        "predicted_winner": "Learner Tien",
+        "confidence": "high",
+        "p1_edge": 0.005,
+        "p2_edge": -0.0133
+      },
+      "collected_at": "2026-11-03T21:28:32.383105+00:00",
+      "result": null
+    },
+    "bff9716e2c2e4b207744b20ff82a2241": {
+      "match_id": "bff9716e2c2e4b207744b20ff82a2241",
+      "commence_time": "2026-11-04T11:30:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Tommy Paul",
+      "player2": "Daniel Merida Aguilar",
+      "bookmakers": {
+        "draftkings": {
+          "Daniel Merida Aguilar": 4.17,
+          "Tommy Paul": 1.24
+        },
+        "williamhill": {
+          "Daniel Merida Aguilar": 4.0,
+          "Tommy Paul": 1.25
+        },
+        "onexbet": {
+          "Daniel Merida Aguilar": 3.96,
+          "Tommy Paul": 1.27
+        },
+        "betfair_ex_eu": {
+          "Daniel Merida Aguilar": 4.4,
+          "Tommy Paul": 1.26
+        },
+        "winamax_de": {
+          "Daniel Merida Aguilar": 4.1,
+          "Tommy Paul": 1.26
+        },
+        "winamax_fr": {
+          "Daniel Merida Aguilar": 3.75,
+          "Tommy Paul": 1.22
+        },
+        "betsson": {
+          "Daniel Merida Aguilar": 4.0,
+          "Tommy Paul": 1.25
+        },
+        "nordicbet": {
+          "Daniel Merida Aguilar": 4.0,
+          "Tommy Paul": 1.25
+        },
+        "sport888": {
+          "Daniel Merida Aguilar": 4.0,
+          "Tommy Paul": 1.25
+        },
+        "coolbet": {
+          "Daniel Merida Aguilar": 4.1,
+          "Tommy Paul": 1.27
+        },
+        "betclic_fr": {
+          "Daniel Merida Aguilar": 3.6,
+          "Tommy Paul": 1.22
+        },
+        "unibet_fr": {
+          "Daniel Merida Aguilar": 3.3,
+          "Tommy Paul": 1.19
+        },
+        "fanduel": {
+          "Daniel Merida Aguilar": 4.0,
+          "Tommy Paul": 1.26
+        },
+        "tipico_de": {
+          "Daniel Merida Aguilar": 4.0,
+          "Tommy Paul": 1.2
+        },
+        "matchbook": {
+          "Daniel Merida Aguilar": 4.4,
+          "Tommy Paul": 1.26
+        },
+        "gtbets": {
+          "Daniel Merida Aguilar": 3.92,
+          "Tommy Paul": 1.31
+        },
+        "bovada": {
+          "Daniel Merida Aguilar": 4.0,
+          "Tommy Paul": 1.25
+        },
+        "unibet_se": {
+          "Daniel Merida Aguilar": 3.8,
+          "Tommy Paul": 1.27
+        },
+        "unibet_nl": {
+          "Daniel Merida Aguilar": 3.8,
+          "Tommy Paul": 1.27
+        },
+        "betrivers": {
+          "Daniel Merida Aguilar": 3.8,
+          "Tommy Paul": 1.27
+        },
+        "leovegas_se": {
+          "Daniel Merida Aguilar": 3.8,
+          "Tommy Paul": 1.27
+        },
+        "pmu_fr": {
+          "Daniel Merida Aguilar": 3.55,
+          "Tommy Paul": 1.22
+        },
+        "betmgm": {
+          "Daniel Merida Aguilar": 4.0,
+          "Tommy Paul": 1.24
+        },
+        "pinnacle": {
+          "Daniel Merida Aguilar": 4.21,
+          "Tommy Paul": 1.26
+        },
+        "lowvig": {
+          "Daniel Merida Aguilar": 4.16,
+          "Tommy Paul": 1.25
+        },
+        "betonlineag": {
+          "Daniel Merida Aguilar": 4.16,
+          "Tommy Paul": 1.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Tommy Paul",
+        "p2_name": "Jorge Aguilar",
+        "p1_prob": 0.9043,
+        "p2_prob": 0.0957,
+        "predicted_winner": "Tommy Paul",
+        "confidence": "high",
+        "p1_edge": 0.1409,
+        "p2_edge": -0.1316
+      },
+      "collected_at": "2026-11-03T21:28:32.464017+00:00",
+      "result": null
+    },
+    "1be19552d8710b4628e2747163b4cf78": {
+      "match_id": "1be19552d8710b4628e2747163b4cf78",
+      "commence_time": "2026-11-04T13:40:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Novak Djokovic",
+      "player2": "Rinky Hijikata",
+      "bookmakers": {
+        "draftkings": {
+          "Novak Djokovic": 1.25,
+          "Rinky Hijikata": 4.02
+        },
+        "williamhill": {
+          "Novak Djokovic": 1.29,
+          "Rinky Hijikata": 3.6
+        },
+        "onexbet": {
+          "Novak Djokovic": 1.26,
+          "Rinky Hijikata": 4.05
+        },
+        "betfair_ex_eu": {
+          "Novak Djokovic": 1.27,
+          "Rinky Hijikata": 4.4
+        },
+        "winamax_de": {
+          "Novak Djokovic": 1.26,
+          "Rinky Hijikata": 4.2
+        },
+        "winamax_fr": {
+          "Novak Djokovic": 1.22,
+          "Rinky Hijikata": 3.75
+        },
+        "betsson": {
+          "Novak Djokovic": 1.25,
+          "Rinky Hijikata": 4.0
+        },
+        "nordicbet": {
+          "Novak Djokovic": 1.25,
+          "Rinky Hijikata": 4.0
+        },
+        "sport888": {
+          "Novak Djokovic": 1.29,
+          "Rinky Hijikata": 3.6
+        },
+        "coolbet": {
+          "Novak Djokovic": 1.27,
+          "Rinky Hijikata": 4.1
+        },
+        "betclic_fr": {
+          "Novak Djokovic": 1.23,
+          "Rinky Hijikata": 3.85
+        },
+        "unibet_fr": {
+          "Novak Djokovic": 1.19,
+          "Rinky Hijikata": 3.35
+        },
+        "fanduel": {
+          "Novak Djokovic": 1.23,
+          "Rinky Hijikata": 4.3
+        },
+        "tipico_de": {
+          "Novak Djokovic": 1.22,
+          "Rinky Hijikata": 3.8
+        },
+        "matchbook": {
+          "Novak Djokovic": 1.27,
+          "Rinky Hijikata": 4.5
+        },
+        "gtbets": {
+          "Novak Djokovic": 1.22,
+          "Rinky Hijikata": 3.99
+        },
+        "bovada": {
+          "Novak Djokovic": 1.25,
+          "Rinky Hijikata": 4.0
+        },
+        "unibet_se": {
+          "Novak Djokovic": 1.27,
+          "Rinky Hijikata": 3.75
+        },
+        "pmu_fr": {
+          "Novak Djokovic": 1.22,
+          "Rinky Hijikata": 3.55
+        },
+        "leovegas_se": {
+          "Novak Djokovic": 1.27,
+          "Rinky Hijikata": 3.75
+        },
+        "betrivers": {
+          "Novak Djokovic": 1.27,
+          "Rinky Hijikata": 3.75
+        },
+        "unibet_nl": {
+          "Novak Djokovic": 1.27,
+          "Rinky Hijikata": 3.75
+        },
+        "betmgm": {
+          "Novak Djokovic": 1.24,
+          "Rinky Hijikata": 3.9
+        },
+        "pinnacle": {
+          "Novak Djokovic": 1.26,
+          "Rinky Hijikata": 4.14
+        },
+        "lowvig": {
+          "Novak Djokovic": 1.25,
+          "Rinky Hijikata": 4.13
+        },
+        "betonlineag": {
+          "Novak Djokovic": 1.25,
+          "Rinky Hijikata": 4.13
+        }
+      },
+      "prediction": {
+        "p1_name": "Novak Djokovic",
+        "p2_name": "Rinky Hijikata",
+        "p1_prob": 0.8921,
+        "p2_prob": 0.1079,
+        "predicted_winner": "Novak Djokovic",
+        "confidence": "high",
+        "p1_edge": 0.1169,
+        "p2_edge": -0.1143
+      },
+      "collected_at": "2026-11-03T21:28:32.599607+00:00",
+      "result": null
+    },
+    "d9db521dae7522d7d24255286307307f": {
+      "match_id": "d9db521dae7522d7d24255286307307f",
+      "commence_time": "2026-11-04T13:50:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Alex Molcan",
+      "player2": "Taylor Fritz",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Alex Molcan": 4.1,
+          "Taylor Fritz": 1.21
+        },
+        "unibet_fr": {
+          "Alex Molcan": 3.35,
+          "Taylor Fritz": 1.19
+        },
+        "betsson": {
+          "Alex Molcan": 4.0,
+          "Taylor Fritz": 1.25
+        },
+        "nordicbet": {
+          "Alex Molcan": 4.0,
+          "Taylor Fritz": 1.25
+        },
+        "fanduel": {
+          "Alex Molcan": 4.2,
+          "Taylor Fritz": 1.24
+        },
+        "coolbet": {
+          "Alex Molcan": 4.1,
+          "Taylor Fritz": 1.27
+        },
+        "betclic_fr": {
+          "Alex Molcan": 3.65,
+          "Taylor Fritz": 1.21
+        },
+        "gtbets": {
+          "Alex Molcan": 4.04,
+          "Taylor Fritz": 1.27
+        },
+        "matchbook": {
+          "Alex Molcan": 4.1,
+          "Taylor Fritz": 1.21
+        },
+        "tipico_de": {
+          "Alex Molcan": 4.0,
+          "Taylor Fritz": 1.2
+        },
+        "onexbet": {
+          "Alex Molcan": 4.16,
+          "Taylor Fritz": 1.25
+        },
+        "draftkings": {
+          "Alex Molcan": 4.11,
+          "Taylor Fritz": 1.24
+        },
+        "sport888": {
+          "Alex Molcan": 3.6,
+          "Taylor Fritz": 1.29
+        },
+        "williamhill": {
+          "Alex Molcan": 3.6,
+          "Taylor Fritz": 1.29
+        },
+        "unibet_nl": {
+          "Alex Molcan": 4.2,
+          "Taylor Fritz": 1.23
+        },
+        "pmu_fr": {
+          "Alex Molcan": 3.95,
+          "Taylor Fritz": 1.18
+        },
+        "unibet_se": {
+          "Alex Molcan": 4.2,
+          "Taylor Fritz": 1.23
+        },
+        "betrivers": {
+          "Alex Molcan": 4.2,
+          "Taylor Fritz": 1.23
+        },
+        "leovegas_se": {
+          "Alex Molcan": 4.2,
+          "Taylor Fritz": 1.23
+        },
+        "winamax_fr": {
+          "Alex Molcan": 3.75,
+          "Taylor Fritz": 1.22
+        },
+        "winamax_de": {
+          "Alex Molcan": 4.2,
+          "Taylor Fritz": 1.26
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex Molcan",
+        "p2_name": "Taylor Fritz",
+        "p1_prob": 0.3232,
+        "p2_prob": 0.6768,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "high",
+        "p1_edge": 0.0851,
+        "p2_edge": -0.0984
+      },
+      "collected_at": "2026-11-03T21:28:32.678451+00:00",
+      "result": null
+    },
+    "83e3278f7f08fc8e5f9d88ec513d0aeb": {
+      "match_id": "83e3278f7f08fc8e5f9d88ec513d0aeb",
+      "commence_time": "2026-11-04T15:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Thiago Agustin Tirante",
+      "player2": "Jan-Lennard Struff",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Jan-Lennard Struff": 1.35,
+          "Thiago Agustin Tirante": 3.0
+        },
+        "fanduel": {
+          "Jan-Lennard Struff": 1.36,
+          "Thiago Agustin Tirante": 3.2
+        },
+        "nordicbet": {
+          "Jan-Lennard Struff": 1.38,
+          "Thiago Agustin Tirante": 3.05
+        },
+        "coolbet": {
+          "Jan-Lennard Struff": 1.46,
+          "Thiago Agustin Tirante": 2.9
+        },
+        "draftkings": {
+          "Jan-Lennard Struff": 1.34,
+          "Thiago Agustin Tirante": 3.28
+        },
+        "sport888": {
+          "Jan-Lennard Struff": 1.33,
+          "Thiago Agustin Tirante": 3.3
+        },
+        "unibet_fr": {
+          "Jan-Lennard Struff": 1.31,
+          "Thiago Agustin Tirante": 2.65
+        },
+        "betsson": {
+          "Jan-Lennard Struff": 1.38,
+          "Thiago Agustin Tirante": 3.05
+        },
+        "gtbets": {
+          "Jan-Lennard Struff": 1.44,
+          "Thiago Agustin Tirante": 3.05
+        },
+        "williamhill": {
+          "Jan-Lennard Struff": 1.33,
+          "Thiago Agustin Tirante": 3.3
+        },
+        "winamax_de": {
+          "Jan-Lennard Struff": 1.4,
+          "Thiago Agustin Tirante": 3.15
+        },
+        "onexbet": {
+          "Jan-Lennard Struff": 1.47,
+          "Thiago Agustin Tirante": 2.77
+        },
+        "matchbook": {
+          "Jan-Lennard Struff": 1.34,
+          "Thiago Agustin Tirante": 2.4
+        },
+        "winamax_fr": {
+          "Jan-Lennard Struff": 1.35,
+          "Thiago Agustin Tirante": 2.9
+        },
+        "tipico_de": {
+          "Jan-Lennard Struff": 1.35,
+          "Thiago Agustin Tirante": 2.95
+        },
+        "betclic_fr": {
+          "Jan-Lennard Struff": 1.34,
+          "Thiago Agustin Tirante": 2.85
+        }
+      },
+      "prediction": {
+        "p1_name": "Thiago Agustin Tirante",
+        "p2_name": "Jan-Lennard Struff",
+        "p1_prob": 0.5105,
+        "p2_prob": 0.4895,
+        "predicted_winner": "Thiago Agustin Tirante",
+        "confidence": "low",
+        "p1_edge": 0.2075,
+        "p2_edge": -0.1908
+      },
+      "collected_at": "2026-11-03T21:28:32.776024+00:00",
+      "result": null
+    },
+    "9c047eea4b968d8a8c3f35fd16ce9e6d": {
+      "match_id": "9c047eea4b968d8a8c3f35fd16ce9e6d",
+      "commence_time": "2026-11-04T15:40:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Matteo Berrettini",
+      "player2": "Ugo Humbert",
+      "bookmakers": {
+        "betsson": {
+          "Matteo Berrettini": 2.01,
+          "Ugo Humbert": 1.81
+        },
+        "betfair_ex_eu": {
+          "Matteo Berrettini": 2.08,
+          "Ugo Humbert": 1.89
+        },
+        "unibet_fr": {
+          "Matteo Berrettini": 1.84,
+          "Ugo Humbert": 1.68
+        },
+        "draftkings": {
+          "Matteo Berrettini": 2.0,
+          "Ugo Humbert": 1.82
+        },
+        "sport888": {
+          "Matteo Berrettini": 1.95,
+          "Ugo Humbert": 1.85
+        },
+        "onexbet": {
+          "Matteo Berrettini": 2.03,
+          "Ugo Humbert": 1.82
+        },
+        "williamhill": {
+          "Matteo Berrettini": 1.95,
+          "Ugo Humbert": 1.85
+        },
+        "nordicbet": {
+          "Matteo Berrettini": 2.01,
+          "Ugo Humbert": 1.81
+        },
+        "matchbook": {
+          "Matteo Berrettini": 2.06,
+          "Ugo Humbert": 1.89
+        },
+        "gtbets": {
+          "Matteo Berrettini": 2.0,
+          "Ugo Humbert": 1.81
+        },
+        "winamax_de": {
+          "Matteo Berrettini": 2.0,
+          "Ugo Humbert": 1.84
+        },
+        "coolbet": {
+          "Matteo Berrettini": 2.02,
+          "Ugo Humbert": 1.87
+        },
+        "winamax_fr": {
+          "Matteo Berrettini": 1.94,
+          "Ugo Humbert": 1.76
+        },
+        "fanduel": {
+          "Matteo Berrettini": 2.04,
+          "Ugo Humbert": 1.8
+        },
+        "betclic_fr": {
+          "Matteo Berrettini": 1.91,
+          "Ugo Humbert": 1.73
+        },
+        "tipico_de": {
+          "Matteo Berrettini": 1.9,
+          "Ugo Humbert": 1.8
+        },
+        "bovada": {
+          "Matteo Berrettini": 2.0,
+          "Ugo Humbert": 1.83
+        },
+        "unibet_se": {
+          "Matteo Berrettini": 2.06,
+          "Ugo Humbert": 1.76
+        },
+        "unibet_nl": {
+          "Matteo Berrettini": 2.06,
+          "Ugo Humbert": 1.76
+        },
+        "pmu_fr": {
+          "Matteo Berrettini": 1.96,
+          "Ugo Humbert": 1.7
+        },
+        "leovegas_se": {
+          "Matteo Berrettini": 2.06,
+          "Ugo Humbert": 1.76
+        },
+        "betrivers": {
+          "Matteo Berrettini": 2.06,
+          "Ugo Humbert": 1.76
+        },
+        "betmgm": {
+          "Matteo Berrettini": 1.95,
+          "Ugo Humbert": 1.83
+        },
+        "pinnacle": {
+          "Matteo Berrettini": 2.01,
+          "Ugo Humbert": 1.86
+        },
+        "betonlineag": {
+          "Matteo Berrettini": 2.05,
+          "Ugo Humbert": 1.8
+        },
+        "lowvig": {
+          "Matteo Berrettini": 2.05,
+          "Ugo Humbert": 1.8
+        }
+      },
+      "prediction": {
+        "p1_name": "Matteo Berrettini",
+        "p2_name": "Ugo Humbert",
+        "p1_prob": 0.6417,
+        "p2_prob": 0.3583,
+        "predicted_winner": "Matteo Berrettini",
+        "confidence": "high",
+        "p1_edge": 0.1609,
+        "p2_edge": -0.1708
+      },
+      "collected_at": "2026-11-03T21:28:32.855059+00:00",
+      "result": null
+    },
+    "e9c7e8bc7876cbb19446a417d0447cf0": {
+      "match_id": "e9c7e8bc7876cbb19446a417d0447cf0",
+      "commence_time": "2026-11-04T18:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Alex Michelsen",
+      "player2": "Carlos Alcaraz",
+      "bookmakers": {
+        "unibet_fr": {
+          "Alex Michelsen": 4.05,
+          "Carlos Alcaraz": 1.12
+        },
+        "matchbook": {
+          "Alex Michelsen": 5.5,
+          "Carlos Alcaraz": 1.2
+        },
+        "betsson": {
+          "Alex Michelsen": 5.2,
+          "Carlos Alcaraz": 1.17
+        },
+        "betfair_ex_eu": {
+          "Alex Michelsen": 5.3,
+          "Carlos Alcaraz": 1.2
+        },
+        "fanduel": {
+          "Alex Michelsen": 5.6,
+          "Carlos Alcaraz": 1.15
+        },
+        "nordicbet": {
+          "Alex Michelsen": 5.2,
+          "Carlos Alcaraz": 1.17
+        },
+        "coolbet": {
+          "Alex Michelsen": 5.5,
+          "Carlos Alcaraz": 1.18
+        },
+        "betclic_fr": {
+          "Alex Michelsen": 4.5,
+          "Carlos Alcaraz": 1.14
+        },
+        "gtbets": {
+          "Alex Michelsen": 5.21,
+          "Carlos Alcaraz": 1.17
+        },
+        "onexbet": {
+          "Alex Michelsen": 5.38,
+          "Carlos Alcaraz": 1.17
+        },
+        "draftkings": {
+          "Alex Michelsen": 5.2,
+          "Carlos Alcaraz": 1.17
+        },
+        "sport888": {
+          "Alex Michelsen": 5.0,
+          "Carlos Alcaraz": 1.17
+        },
+        "williamhill": {
+          "Alex Michelsen": 5.0,
+          "Carlos Alcaraz": 1.17
+        },
+        "tipico_de": {
+          "Alex Michelsen": 5.0,
+          "Carlos Alcaraz": 1.13
+        },
+        "unibet_nl": {
+          "Alex Michelsen": 5.6,
+          "Carlos Alcaraz": 1.15
+        },
+        "pmu_fr": {
+          "Alex Michelsen": 5.1,
+          "Carlos Alcaraz": 1.11
+        },
+        "leovegas_se": {
+          "Alex Michelsen": 5.6,
+          "Carlos Alcaraz": 1.15
+        },
+        "betrivers": {
+          "Alex Michelsen": 5.6,
+          "Carlos Alcaraz": 1.15
+        },
+        "unibet_se": {
+          "Alex Michelsen": 5.6,
+          "Carlos Alcaraz": 1.15
+        },
+        "winamax_fr": {
+          "Alex Michelsen": 4.7,
+          "Carlos Alcaraz": 1.14
+        },
+        "winamax_de": {
+          "Alex Michelsen": 5.5,
+          "Carlos Alcaraz": 1.17
+        }
+      },
+      "prediction": {
+        "p1_name": "Alex Michelsen",
+        "p2_name": "Carlos Alcaraz",
+        "p1_prob": 0.0884,
+        "p2_prob": 0.9116,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": -0.0902,
+        "p2_edge": 0.0783
+      },
+      "collected_at": "2026-11-03T21:28:32.975414+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-11-03T15:46:18.132058+00:00"
+  "last_updated": "2026-11-03T21:28:32.988063+00:00"
 }
