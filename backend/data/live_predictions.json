@@ -83481,7 +83481,11 @@
         "p2_edge": 0.0805
       },
       "collected_at": "2026-10-31T14:15:50.278948+00:00",
-      "result": null
+      "result": {
+        "winner": "Tomas Martin Etcheverry",
+        "correct": false,
+        "settled_at": "2026-11-03T15:46:04.078436+00:00"
+      }
     },
     "90da92cf3a7e75dbd2eb358af0340fa8": {
       "match_id": "90da92cf3a7e75dbd2eb358af0340fa8",
@@ -83559,7 +83563,11 @@
         "p2_edge": 0.1249
       },
       "collected_at": "2026-10-31T14:15:50.403035+00:00",
-      "result": null
+      "result": {
+        "winner": "Quentin Halys",
+        "correct": false,
+        "settled_at": "2026-11-03T15:46:04.189870+00:00"
+      }
     },
     "db55f6491d2491e31599e3af63c11471": {
       "match_id": "db55f6491d2491e31599e3af63c11471",
@@ -83637,7 +83645,11 @@
         "p2_edge": -0.113
       },
       "collected_at": "2026-10-31T14:15:50.526821+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Rinderknech",
+        "correct": false,
+        "settled_at": "2026-11-03T15:46:04.300189+00:00"
+      }
     },
     "85efb20e93a6ca08964f6239e9956dae": {
       "match_id": "85efb20e93a6ca08964f6239e9956dae",
@@ -86535,7 +86547,485 @@
       },
       "collected_at": "2026-11-03T05:03:52.229454+00:00",
       "result": null
+    },
+    "9f0cefd1f030d8ad5ba4085132aff58d": {
+      "match_id": "9f0cefd1f030d8ad5ba4085132aff58d",
+      "commence_time": "2026-11-04T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Tomas Martin Etcheverry",
+      "player2": "Alex de Minaur",
+      "bookmakers": {
+        "draftkings": {
+          "Alex de Minaur": 1.27,
+          "Tomas Martin Etcheverry": 3.86
+        },
+        "onexbet": {
+          "Alex de Minaur": 1.3,
+          "Tomas Martin Etcheverry": 3.69
+        },
+        "matchbook": {
+          "Alex de Minaur": 1.24,
+          "Tomas Martin Etcheverry": 4.1
+        },
+        "leovegas_se": {
+          "Alex de Minaur": 1.3,
+          "Tomas Martin Etcheverry": 3.55
+        },
+        "betrivers": {
+          "Alex de Minaur": 1.3,
+          "Tomas Martin Etcheverry": 3.55
+        },
+        "unibet_nl": {
+          "Alex de Minaur": 1.3,
+          "Tomas Martin Etcheverry": 3.55
+        },
+        "betfair_ex_eu": {
+          "Alex de Minaur": 1.25,
+          "Tomas Martin Etcheverry": 4.1
+        },
+        "gtbets": {
+          "Alex de Minaur": 1.28,
+          "Tomas Martin Etcheverry": 3.71
+        },
+        "pmu_fr": {
+          "Alex de Minaur": 1.25,
+          "Tomas Martin Etcheverry": 3.35
+        },
+        "unibet_se": {
+          "Alex de Minaur": 1.3,
+          "Tomas Martin Etcheverry": 3.55
+        },
+        "bovada": {
+          "Alex de Minaur": 1.27,
+          "Tomas Martin Etcheverry": 3.9
+        },
+        "coolbet": {
+          "Alex de Minaur": 1.31,
+          "Tomas Martin Etcheverry": 3.75
+        },
+        "nordicbet": {
+          "Alex de Minaur": 1.29,
+          "Tomas Martin Etcheverry": 3.65
+        },
+        "betsson": {
+          "Alex de Minaur": 1.29,
+          "Tomas Martin Etcheverry": 3.65
+        },
+        "unibet_fr": {
+          "Alex de Minaur": 1.22,
+          "Tomas Martin Etcheverry": 3.1
+        },
+        "betclic_fr": {
+          "Alex de Minaur": 1.25,
+          "Tomas Martin Etcheverry": 3.35
+        },
+        "winamax_fr": {
+          "Alex de Minaur": 1.24,
+          "Tomas Martin Etcheverry": 3.3
+        },
+        "winamax_de": {
+          "Alex de Minaur": 1.28,
+          "Tomas Martin Etcheverry": 3.65
+        },
+        "fanduel": {
+          "Alex de Minaur": 1.29,
+          "Tomas Martin Etcheverry": 3.7
+        }
+      },
+      "prediction": {
+        "p1_name": "Tomas Martin Etcheverry",
+        "p2_name": "Alex De Minaur",
+        "p1_prob": 0.3494,
+        "p2_prob": 0.6506,
+        "predicted_winner": "Alex De Minaur",
+        "confidence": "high",
+        "p1_edge": 0.1055,
+        "p2_edge": -0.1128
+      },
+      "collected_at": "2026-11-03T15:46:10.301148+00:00",
+      "result": null
+    },
+    "3d3a05094b9f2796c2b3d68ef4b43c66": {
+      "match_id": "3d3a05094b9f2796c2b3d68ef4b43c66",
+      "commence_time": "2026-11-04T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Mattia Bellucci",
+      "player2": "Arthur Rinderknech",
+      "bookmakers": {
+        "fanduel": {
+          "Arthur Rinderknech": 2.12,
+          "Mattia Bellucci": 1.75
+        },
+        "onexbet": {
+          "Arthur Rinderknech": 2.15,
+          "Mattia Bellucci": 1.73
+        },
+        "matchbook": {
+          "Arthur Rinderknech": 2.28,
+          "Mattia Bellucci": 1.72
+        },
+        "betsson": {
+          "Arthur Rinderknech": 2.12,
+          "Mattia Bellucci": 1.73
+        },
+        "coolbet": {
+          "Arthur Rinderknech": 2.18,
+          "Mattia Bellucci": 1.75
+        },
+        "betfair_ex_eu": {
+          "Arthur Rinderknech": 2.28,
+          "Mattia Bellucci": 1.72
+        },
+        "nordicbet": {
+          "Arthur Rinderknech": 2.12,
+          "Mattia Bellucci": 1.73
+        },
+        "unibet_fr": {
+          "Arthur Rinderknech": 1.93,
+          "Mattia Bellucci": 1.61
+        },
+        "betclic_fr": {
+          "Arthur Rinderknech": 2.01,
+          "Mattia Bellucci": 1.66
+        },
+        "winamax_fr": {
+          "Arthur Rinderknech": 2.0,
+          "Mattia Bellucci": 1.64
+        },
+        "winamax_de": {
+          "Arthur Rinderknech": 2.1,
+          "Mattia Bellucci": 1.72
+        },
+        "gtbets": {
+          "Arthur Rinderknech": 2.08,
+          "Mattia Bellucci": 1.74
+        },
+        "draftkings": {
+          "Arthur Rinderknech": 2.12,
+          "Mattia Bellucci": 1.74
+        },
+        "betrivers": {
+          "Arthur Rinderknech": 2.07,
+          "Mattia Bellucci": 1.75
+        },
+        "leovegas_se": {
+          "Arthur Rinderknech": 2.07,
+          "Mattia Bellucci": 1.75
+        },
+        "unibet_se": {
+          "Arthur Rinderknech": 2.07,
+          "Mattia Bellucci": 1.75
+        },
+        "pmu_fr": {
+          "Arthur Rinderknech": 1.97,
+          "Mattia Bellucci": 1.68
+        },
+        "unibet_nl": {
+          "Arthur Rinderknech": 2.07,
+          "Mattia Bellucci": 1.75
+        },
+        "tipico_de": {
+          "Arthur Rinderknech": 2.05,
+          "Mattia Bellucci": 1.7
+        },
+        "lowvig": {
+          "Arthur Rinderknech": 2.18,
+          "Mattia Bellucci": 1.72
+        },
+        "betonlineag": {
+          "Arthur Rinderknech": 2.18,
+          "Mattia Bellucci": 1.72
+        },
+        "pinnacle": {
+          "Arthur Rinderknech": 2.25,
+          "Mattia Bellucci": 1.7
+        },
+        "betmgm": {
+          "Arthur Rinderknech": 2.15,
+          "Mattia Bellucci": 1.67
+        },
+        "bovada": {
+          "Arthur Rinderknech": 2.15,
+          "Mattia Bellucci": 1.71
+        }
+      },
+      "prediction": {
+        "p1_name": "Mattia Bellucci",
+        "p2_name": "Arthur Rinderknech",
+        "p1_prob": 0.3459,
+        "p2_prob": 0.6541,
+        "predicted_winner": "Arthur Rinderknech",
+        "confidence": "high",
+        "p1_edge": -0.2255,
+        "p2_edge": 0.2155
+      },
+      "collected_at": "2026-11-03T15:46:10.482520+00:00",
+      "result": null
+    },
+    "b1f8e4cc08a752752738c51105899ad6": {
+      "match_id": "b1f8e4cc08a752752738c51105899ad6",
+      "commence_time": "2026-11-04T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Quentin Halys",
+      "player2": "Frances Tiafoe",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Frances Tiafoe": 1.74,
+          "Quentin Halys": 2.28
+        },
+        "coolbet": {
+          "Frances Tiafoe": 1.71,
+          "Quentin Halys": 2.25
+        },
+        "onexbet": {
+          "Frances Tiafoe": 1.72,
+          "Quentin Halys": 2.18
+        },
+        "betsson": {
+          "Frances Tiafoe": 1.67,
+          "Quentin Halys": 2.21
+        },
+        "tipico_de": {
+          "Frances Tiafoe": 1.62,
+          "Quentin Halys": 2.15
+        },
+        "nordicbet": {
+          "Frances Tiafoe": 1.67,
+          "Quentin Halys": 2.21
+        },
+        "unibet_fr": {
+          "Frances Tiafoe": 1.56,
+          "Quentin Halys": 2.0
+        },
+        "winamax_fr": {
+          "Frances Tiafoe": 1.6,
+          "Quentin Halys": 2.05
+        },
+        "winamax_de": {
+          "Frances Tiafoe": 1.66,
+          "Quentin Halys": 2.2
+        },
+        "fanduel": {
+          "Frances Tiafoe": 1.73,
+          "Quentin Halys": 2.14
+        },
+        "betclic_fr": {
+          "Frances Tiafoe": 1.6,
+          "Quentin Halys": 2.1
+        },
+        "draftkings": {
+          "Frances Tiafoe": 1.68,
+          "Quentin Halys": 2.21
+        },
+        "gtbets": {
+          "Frances Tiafoe": 1.76,
+          "Quentin Halys": 2.19
+        },
+        "matchbook": {
+          "Frances Tiafoe": 1.64,
+          "Quentin Halys": 2.14
+        },
+        "unibet_nl": {
+          "Frances Tiafoe": 1.73,
+          "Quentin Halys": 2.1
+        },
+        "betrivers": {
+          "Frances Tiafoe": 1.73,
+          "Quentin Halys": 2.1
+        },
+        "unibet_se": {
+          "Frances Tiafoe": 1.73,
+          "Quentin Halys": 2.1
+        },
+        "pmu_fr": {
+          "Frances Tiafoe": 1.66,
+          "Quentin Halys": 2.02
+        },
+        "leovegas_se": {
+          "Frances Tiafoe": 1.73,
+          "Quentin Halys": 2.1
+        },
+        "pinnacle": {
+          "Frances Tiafoe": 1.67,
+          "Quentin Halys": 2.3
+        },
+        "lowvig": {
+          "Frances Tiafoe": 1.67,
+          "Quentin Halys": 2.3
+        },
+        "betonlineag": {
+          "Frances Tiafoe": 1.67,
+          "Quentin Halys": 2.3
+        },
+        "betmgm": {
+          "Frances Tiafoe": 1.62,
+          "Quentin Halys": 2.25
+        },
+        "bovada": {
+          "Frances Tiafoe": 1.67,
+          "Quentin Halys": 2.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Quentin Halys",
+        "p2_name": "Frances Tiafoe",
+        "p1_prob": 0.3991,
+        "p2_prob": 0.6009,
+        "predicted_winner": "Frances Tiafoe",
+        "confidence": "high",
+        "p1_edge": -0.0357,
+        "p2_edge": 0.0327
+      },
+      "collected_at": "2026-11-03T15:46:10.635044+00:00",
+      "result": null
+    },
+    "b92f417b119f280893500cc87bd8714e": {
+      "match_id": "b92f417b119f280893500cc87bd8714e",
+      "commence_time": "2026-11-04T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Nuno Borges",
+      "player2": "Karen Khachanov",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Karen Khachanov": 1.37,
+          "Nuno Borges": 2.58
+        },
+        "betsson": {
+          "Karen Khachanov": 1.48,
+          "Nuno Borges": 2.7
+        },
+        "coolbet": {
+          "Karen Khachanov": 1.49,
+          "Nuno Borges": 2.8
+        },
+        "unibet_fr": {
+          "Karen Khachanov": 1.39,
+          "Nuno Borges": 2.4
+        },
+        "nordicbet": {
+          "Karen Khachanov": 1.48,
+          "Nuno Borges": 2.7
+        },
+        "betclic_fr": {
+          "Karen Khachanov": 1.43,
+          "Nuno Borges": 2.5
+        },
+        "fanduel": {
+          "Karen Khachanov": 1.47,
+          "Nuno Borges": 2.76
+        },
+        "onexbet": {
+          "Karen Khachanov": 1.48,
+          "Nuno Borges": 2.73
+        },
+        "winamax_fr": {
+          "Karen Khachanov": 1.42,
+          "Nuno Borges": 2.5
+        },
+        "winamax_de": {
+          "Karen Khachanov": 1.47,
+          "Nuno Borges": 2.65
+        },
+        "gtbets": {
+          "Karen Khachanov": 1.47,
+          "Nuno Borges": 2.69
+        },
+        "draftkings": {
+          "Karen Khachanov": 1.48,
+          "Nuno Borges": 2.68
+        },
+        "leovegas_se": {
+          "Karen Khachanov": 1.45,
+          "Nuno Borges": 2.7
+        },
+        "betrivers": {
+          "Karen Khachanov": 1.45,
+          "Nuno Borges": 2.7
+        },
+        "unibet_se": {
+          "Karen Khachanov": 1.45,
+          "Nuno Borges": 2.7
+        },
+        "pmu_fr": {
+          "Karen Khachanov": 1.41,
+          "Nuno Borges": 2.6
+        },
+        "unibet_nl": {
+          "Karen Khachanov": 1.45,
+          "Nuno Borges": 2.7
+        },
+        "matchbook": {
+          "Karen Khachanov": 1.37,
+          "Nuno Borges": 1.12
+        }
+      },
+      "prediction": {
+        "p1_name": "Nuno Borges",
+        "p2_name": "Karen Khachanov",
+        "p1_prob": 0.4582,
+        "p2_prob": 0.5418,
+        "predicted_winner": "Karen Khachanov",
+        "confidence": "medium",
+        "p1_edge": 0.1011,
+        "p2_edge": -0.1293
+      },
+      "collected_at": "2026-11-03T15:46:10.756894+00:00",
+      "result": null
+    },
+    "tml-2026-352-17": {
+      "match_id": "tml-2026-352-17",
+      "commence_time": "2026-11-03T00:00:00+00:00",
+      "tournament": "Paris Masters",
+      "surface": "Hard",
+      "player1": "Nuno Borges",
+      "player2": "Moise Kouame",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Nuno Borges",
+        "p2_name": "Moise Kouame",
+        "p1_prob": 0.5886,
+        "p2_prob": 0.4114,
+        "predicted_winner": "Nuno Borges",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-03T15:46:17.924203+00:00",
+      "result": {
+        "winner": "Nuno Borges",
+        "correct": true,
+        "settled_at": "2026-11-03T15:46:17.924203+00:00"
+      }
+    },
+    "tml-2026-352-18": {
+      "match_id": "tml-2026-352-18",
+      "commence_time": "2026-11-03T00:00:00+00:00",
+      "tournament": "Paris Masters",
+      "surface": "Hard",
+      "player1": "Learner Tien",
+      "player2": "Adolfo Daniel Vallejo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Learner Tien",
+        "p2_name": "Adolfo Daniel Vallejo",
+        "p1_prob": 0.6896,
+        "p2_prob": 0.3104,
+        "predicted_winner": "Learner Tien",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-03T15:46:18.110060+00:00",
+      "result": {
+        "winner": "Learner Tien",
+        "correct": true,
+        "settled_at": "2026-11-03T15:46:18.110060+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-03T05:03:52.284631+00:00"
+  "last_updated": "2026-11-03T15:46:18.132058+00:00"
 }
