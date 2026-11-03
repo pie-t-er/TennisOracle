@@ -83715,7 +83715,11 @@
         "p2_edge": 0.1264
       },
       "collected_at": "2026-10-31T14:15:50.651116+00:00",
-      "result": null
+      "result": {
+        "winner": "Ugo Humbert",
+        "correct": false,
+        "settled_at": "2026-11-03T05:03:47.719299+00:00"
+      }
     },
     "18d9ea3abcfe85f9ae47dc0433ac57c7": {
       "match_id": "18d9ea3abcfe85f9ae47dc0433ac57c7",
@@ -83953,7 +83957,11 @@
         "p2_edge": -0.1137
       },
       "collected_at": "2026-10-31T14:15:51.026379+00:00",
-      "result": null
+      "result": {
+        "winner": "Karen Khachanov",
+        "correct": true,
+        "settled_at": "2026-11-03T05:03:47.808232+00:00"
+      }
     },
     "2fe52476d7d37d8230ca007cdf25c34c": {
       "match_id": "2fe52476d7d37d8230ca007cdf25c34c",
@@ -85693,7 +85701,11 @@
         "p2_edge": -0.0816
       },
       "collected_at": "2026-11-01T20:06:09.909483+00:00",
-      "result": null
+      "result": {
+        "winner": "Alex Molcan",
+        "correct": true,
+        "settled_at": "2026-11-03T05:03:47.907858+00:00"
+      }
     },
     "766892f0324922ef7aab73a2713af3c2": {
       "match_id": "766892f0324922ef7aab73a2713af3c2",
@@ -86417,7 +86429,113 @@
         "correct": true,
         "settled_at": "2026-11-02T17:43:53.313692+00:00"
       }
+    },
+    "1cd952bfa7bc99f45d2ced1b80209056": {
+      "match_id": "1cd952bfa7bc99f45d2ced1b80209056",
+      "commence_time": "2026-11-04T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Arthur Fils",
+      "player2": "Tomas Machac",
+      "bookmakers": {
+        "marathonbet": {
+          "Arthur Fils": 1.46,
+          "Tomas Machac": 2.69
+        },
+        "betclic_fr": {
+          "Arthur Fils": 1.42,
+          "Tomas Machac": 2.55
+        },
+        "draftkings": {
+          "Arthur Fils": 1.46,
+          "Tomas Machac": 2.74
+        },
+        "betsson": {
+          "Arthur Fils": 1.47,
+          "Tomas Machac": 2.7
+        },
+        "betfair_ex_eu": {
+          "Arthur Fils": 1.49,
+          "Tomas Machac": 2.6
+        },
+        "coolbet": {
+          "Arthur Fils": 1.5,
+          "Tomas Machac": 2.75
+        },
+        "onexbet": {
+          "Arthur Fils": 1.48,
+          "Tomas Machac": 2.73
+        },
+        "gtbets": {
+          "Arthur Fils": 1.44,
+          "Tomas Machac": 2.81
+        },
+        "nordicbet": {
+          "Arthur Fils": 1.47,
+          "Tomas Machac": 2.7
+        },
+        "sport888": {
+          "Arthur Fils": 1.5,
+          "Tomas Machac": 2.6
+        },
+        "unibet_fr": {
+          "Arthur Fils": 1.38,
+          "Tomas Machac": 2.4
+        },
+        "fanduel": {
+          "Arthur Fils": 1.45,
+          "Tomas Machac": 2.8
+        },
+        "williamhill": {
+          "Arthur Fils": 1.5,
+          "Tomas Machac": 2.6
+        },
+        "winamax_de": {
+          "Arthur Fils": 1.46,
+          "Tomas Machac": 2.7
+        },
+        "winamax_fr": {
+          "Arthur Fils": 1.4,
+          "Tomas Machac": 2.45
+        },
+        "tipico_de": {
+          "Arthur Fils": 1.42,
+          "Tomas Machac": 2.65
+        },
+        "pinnacle": {
+          "Arthur Fils": 1.52,
+          "Tomas Machac": 2.68
+        },
+        "betmgm": {
+          "Arthur Fils": 1.48,
+          "Tomas Machac": 2.6
+        },
+        "bovada": {
+          "Arthur Fils": 1.48,
+          "Tomas Machac": 2.7
+        },
+        "lowvig": {
+          "Arthur Fils": 1.51,
+          "Tomas Machac": 2.7
+        },
+        "betonlineag": {
+          "Arthur Fils": 1.51,
+          "Tomas Machac": 2.7
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Fils",
+        "p2_name": "Tomas Machac",
+        "p1_prob": 0.685,
+        "p2_prob": 0.315,
+        "predicted_winner": "Arthur Fils",
+        "confidence": "high",
+        "p1_edge": 0.0271,
+        "p2_edge": -0.0409
+      },
+      "collected_at": "2026-11-03T05:03:52.229454+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-11-02T17:43:53.326676+00:00"
+  "last_updated": "2026-11-03T05:03:52.284631+00:00"
 }
