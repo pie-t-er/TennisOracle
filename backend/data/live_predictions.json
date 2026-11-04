@@ -87026,7 +87026,11 @@
         "p2_edge": -0.1293
       },
       "collected_at": "2026-11-03T15:46:10.756894+00:00",
-      "result": null
+      "result": {
+        "winner": "Nuno Borges",
+        "correct": false,
+        "settled_at": "2026-11-04T21:42:04.247420+00:00"
+      }
     },
     "tml-2026-352-17": {
       "match_id": "tml-2026-352-17",
@@ -87462,7 +87466,11 @@
         "p2_edge": -0.1143
       },
       "collected_at": "2026-11-03T21:28:32.599607+00:00",
-      "result": null
+      "result": {
+        "winner": "Rinky Hijikata",
+        "correct": false,
+        "settled_at": "2026-11-04T21:42:04.338435+00:00"
+      }
     },
     "d9db521dae7522d7d24255286307307f": {
       "match_id": "d9db521dae7522d7d24255286307307f",
@@ -87568,7 +87576,11 @@
         "p2_edge": -0.0984
       },
       "collected_at": "2026-11-03T21:28:32.678451+00:00",
-      "result": null
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-11-04T21:42:04.428750+00:00"
+      }
     },
     "83e3278f7f08fc8e5f9d88ec513d0aeb": {
       "match_id": "83e3278f7f08fc8e5f9d88ec513d0aeb",
@@ -87654,7 +87666,11 @@
         "p2_edge": -0.1908
       },
       "collected_at": "2026-11-03T21:28:32.776024+00:00",
-      "result": null
+      "result": {
+        "winner": "Jan-Lennard Struff",
+        "correct": false,
+        "settled_at": "2026-11-04T21:42:04.524086+00:00"
+      }
     },
     "9c047eea4b968d8a8c3f35fd16ce9e6d": {
       "match_id": "9c047eea4b968d8a8c3f35fd16ce9e6d",
@@ -87780,7 +87796,11 @@
         "p2_edge": -0.1708
       },
       "collected_at": "2026-11-03T21:28:32.855059+00:00",
-      "result": null
+      "result": {
+        "winner": "Matteo Berrettini",
+        "correct": true,
+        "settled_at": "2026-11-04T21:42:04.615574+00:00"
+      }
     },
     "e9c7e8bc7876cbb19446a417d0447cf0": {
       "match_id": "e9c7e8bc7876cbb19446a417d0447cf0",
@@ -87886,7 +87906,11 @@
         "p2_edge": 0.0783
       },
       "collected_at": "2026-11-03T21:28:32.975414+00:00",
-      "result": null
+      "result": {
+        "winner": "Carlos Alcaraz",
+        "correct": true,
+        "settled_at": "2026-11-04T21:42:04.706197+00:00"
+      }
     },
     "8a2e76c34cf0bce53c2afc75d9f2793e": {
       "match_id": "8a2e76c34cf0bce53c2afc75d9f2793e",
@@ -88165,7 +88189,367 @@
       },
       "collected_at": "2026-11-04T15:55:55.322135+00:00",
       "result": null
+    },
+    "ce54c1892701e4d3d4713f621a47cc00": {
+      "match_id": "ce54c1892701e4d3d4713f621a47cc00",
+      "commence_time": "2026-11-05T13:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Rinky Hijikata",
+      "player2": "Tomas Martin Etcheverry",
+      "bookmakers": {
+        "nordicbet": {
+          "Rinky Hijikata": 2.08,
+          "Tomas Martin Etcheverry": 1.75
+        },
+        "betfair_ex_eu": {
+          "Rinky Hijikata": 1.91,
+          "Tomas Martin Etcheverry": 1.82
+        },
+        "sport888": {
+          "Rinky Hijikata": 2.1,
+          "Tomas Martin Etcheverry": 1.73
+        },
+        "williamhill": {
+          "Rinky Hijikata": 2.1,
+          "Tomas Martin Etcheverry": 1.73
+        },
+        "betsson": {
+          "Rinky Hijikata": 2.05,
+          "Tomas Martin Etcheverry": 1.77
+        },
+        "unibet_fr": {
+          "Rinky Hijikata": 1.88,
+          "Tomas Martin Etcheverry": 1.65
+        },
+        "fanduel": {
+          "Rinky Hijikata": 2.05,
+          "Tomas Martin Etcheverry": 1.79
+        },
+        "betclic_fr": {
+          "Rinky Hijikata": 1.95,
+          "Tomas Martin Etcheverry": 1.7
+        },
+        "gtbets": {
+          "Rinky Hijikata": 2.08,
+          "Tomas Martin Etcheverry": 1.76
+        },
+        "winamax_fr": {
+          "Rinky Hijikata": 1.92,
+          "Tomas Martin Etcheverry": 1.7
+        },
+        "winamax_de": {
+          "Rinky Hijikata": 2.0,
+          "Tomas Martin Etcheverry": 1.78
+        },
+        "onexbet": {
+          "Rinky Hijikata": 2.11,
+          "Tomas Martin Etcheverry": 1.76
+        },
+        "tipico_de": {
+          "Rinky Hijikata": 1.95,
+          "Tomas Martin Etcheverry": 1.75
+        },
+        "draftkings": {
+          "Rinky Hijikata": 2.04,
+          "Tomas Martin Etcheverry": 1.79
+        },
+        "coolbet": {
+          "Rinky Hijikata": 2.15,
+          "Tomas Martin Etcheverry": 1.77
+        },
+        "bovada": {
+          "Rinky Hijikata": 2.1,
+          "Tomas Martin Etcheverry": 1.77
+        },
+        "matchbook": {
+          "Rinky Hijikata": 1.89,
+          "Tomas Martin Etcheverry": 1.85
+        },
+        "betmgm": {
+          "Rinky Hijikata": 2.1,
+          "Tomas Martin Etcheverry": 1.71
+        }
+      },
+      "prediction": {
+        "p1_name": "Rinky Hijikata",
+        "p2_name": "Tomas Martin Etcheverry",
+        "p1_prob": 0.2551,
+        "p2_prob": 0.7449,
+        "predicted_winner": "Tomas Martin Etcheverry",
+        "confidence": "high",
+        "p1_edge": -0.21,
+        "p2_edge": 0.2044
+      },
+      "collected_at": "2026-11-04T21:42:08.994875+00:00",
+      "result": null
+    },
+    "235263f6f3bbd21f2327b39e61407934": {
+      "match_id": "235263f6f3bbd21f2327b39e61407934",
+      "commence_time": "2026-11-05T14:10:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Nuno Borges",
+      "player2": "Ignacio Buse",
+      "bookmakers": {
+        "unibet_fr": {
+          "Ignacio Buse": 1.9,
+          "Nuno Borges": 1.63
+        },
+        "betfair_ex_eu": {
+          "Ignacio Buse": 2.04,
+          "Nuno Borges": 1.76
+        },
+        "winamax_fr": {
+          "Ignacio Buse": 2.0,
+          "Nuno Borges": 1.64
+        },
+        "winamax_de": {
+          "Ignacio Buse": 2.1,
+          "Nuno Borges": 1.72
+        },
+        "sport888": {
+          "Ignacio Buse": 2.2,
+          "Nuno Borges": 1.67
+        },
+        "betclic_fr": {
+          "Ignacio Buse": 1.97,
+          "Nuno Borges": 1.69
+        },
+        "onexbet": {
+          "Ignacio Buse": 2.07,
+          "Nuno Borges": 1.79
+        },
+        "betsson": {
+          "Ignacio Buse": 2.08,
+          "Nuno Borges": 1.76
+        },
+        "nordicbet": {
+          "Ignacio Buse": 2.04,
+          "Nuno Borges": 1.79
+        },
+        "williamhill": {
+          "Ignacio Buse": 2.2,
+          "Nuno Borges": 1.67
+        },
+        "fanduel": {
+          "Ignacio Buse": 2.1,
+          "Nuno Borges": 1.76
+        },
+        "tipico_de": {
+          "Ignacio Buse": 1.95,
+          "Nuno Borges": 1.75
+        },
+        "gtbets": {
+          "Ignacio Buse": 2.08,
+          "Nuno Borges": 1.75
+        },
+        "draftkings": {
+          "Ignacio Buse": 2.08,
+          "Nuno Borges": 1.76
+        },
+        "coolbet": {
+          "Ignacio Buse": 2.1,
+          "Nuno Borges": 1.8
+        },
+        "bovada": {
+          "Ignacio Buse": 2.05,
+          "Nuno Borges": 1.8
+        },
+        "matchbook": {
+          "Ignacio Buse": 2.04,
+          "Nuno Borges": 1.75
+        },
+        "betmgm": {
+          "Ignacio Buse": 1.98,
+          "Nuno Borges": 1.8
+        }
+      },
+      "prediction": {
+        "p1_name": "Nuno Borges",
+        "p2_name": "Ignacio Buse",
+        "p1_prob": 0.392,
+        "p2_prob": 0.608,
+        "predicted_winner": "Ignacio Buse",
+        "confidence": "high",
+        "p1_edge": -0.1636,
+        "p2_edge": 0.1535
+      },
+      "collected_at": "2026-11-04T21:42:09.090926+00:00",
+      "result": null
+    },
+    "47d9edba7490e876194504362c877fe3": {
+      "match_id": "47d9edba7490e876194504362c877fe3",
+      "commence_time": "2026-11-05T15:20:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Jan-Lennard Struff",
+      "player2": "Casper Ruud",
+      "bookmakers": {
+        "nordicbet": {
+          "Casper Ruud": 1.62,
+          "Jan-Lennard Struff": 2.3
+        },
+        "coolbet": {
+          "Casper Ruud": 1.65,
+          "Jan-Lennard Struff": 2.35
+        },
+        "sport888": {
+          "Casper Ruud": 1.67,
+          "Jan-Lennard Struff": 2.2
+        },
+        "matchbook": {
+          "Casper Ruud": 1.23,
+          "Jan-Lennard Struff": 2.32
+        },
+        "fanduel": {
+          "Casper Ruud": 1.61,
+          "Jan-Lennard Struff": 2.36
+        },
+        "unibet_fr": {
+          "Casper Ruud": 1.52,
+          "Jan-Lennard Struff": 2.1
+        },
+        "betsson": {
+          "Casper Ruud": 1.62,
+          "Jan-Lennard Struff": 2.3
+        },
+        "betfair_ex_eu": {
+          "Casper Ruud": 1.26,
+          "Jan-Lennard Struff": 2.52
+        },
+        "winamax_fr": {
+          "Casper Ruud": 1.56,
+          "Jan-Lennard Struff": 2.15
+        },
+        "williamhill": {
+          "Casper Ruud": 1.67,
+          "Jan-Lennard Struff": 2.2
+        },
+        "draftkings": {
+          "Casper Ruud": 1.68,
+          "Jan-Lennard Struff": 2.2
+        },
+        "tipico_de": {
+          "Casper Ruud": 1.6,
+          "Jan-Lennard Struff": 2.2
+        },
+        "winamax_de": {
+          "Casper Ruud": 1.62,
+          "Jan-Lennard Struff": 2.3
+        },
+        "gtbets": {
+          "Casper Ruud": 1.68,
+          "Jan-Lennard Struff": 2.2
+        },
+        "betclic_fr": {
+          "Casper Ruud": 1.56,
+          "Jan-Lennard Struff": 2.17
+        }
+      },
+      "prediction": {
+        "p1_name": "Jan-Lennard Struff",
+        "p2_name": "Casper Ruud",
+        "p1_prob": 0.3016,
+        "p2_prob": 0.6984,
+        "predicted_winner": "Casper Ruud",
+        "confidence": "high",
+        "p1_edge": -0.0952,
+        "p2_edge": 0.1032
+      },
+      "collected_at": "2026-11-04T21:42:09.188749+00:00",
+      "result": null
+    },
+    "1ef82c68f5ccf78aa0a6d031f750cc6e": {
+      "match_id": "1ef82c68f5ccf78aa0a6d031f750cc6e",
+      "commence_time": "2026-11-05T18:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Matteo Berrettini",
+      "player2": "Carlos Alcaraz",
+      "bookmakers": {
+        "nordicbet": {
+          "Carlos Alcaraz": 1.13,
+          "Matteo Berrettini": 6.0
+        },
+        "coolbet": {
+          "Carlos Alcaraz": 1.14,
+          "Matteo Berrettini": 6.5
+        },
+        "bovada": {
+          "Carlos Alcaraz": 1.1,
+          "Matteo Berrettini": 7.25
+        },
+        "sport888": {
+          "Carlos Alcaraz": 1.08,
+          "Matteo Berrettini": 7.5
+        },
+        "matchbook": {
+          "Carlos Alcaraz": 1.13,
+          "Matteo Berrettini": 5.7
+        },
+        "fanduel": {
+          "Carlos Alcaraz": 1.12,
+          "Matteo Berrettini": 6.5
+        },
+        "onexbet": {
+          "Carlos Alcaraz": 1.14,
+          "Matteo Berrettini": 6.18
+        },
+        "unibet_fr": {
+          "Carlos Alcaraz": 1.09,
+          "Matteo Berrettini": 4.55
+        },
+        "betsson": {
+          "Carlos Alcaraz": 1.13,
+          "Matteo Berrettini": 6.2
+        },
+        "betfair_ex_eu": {
+          "Carlos Alcaraz": 1.13,
+          "Matteo Berrettini": 5.7
+        },
+        "gtbets": {
+          "Carlos Alcaraz": 1.11,
+          "Matteo Berrettini": 6.48
+        },
+        "winamax_fr": {
+          "Carlos Alcaraz": 1.1,
+          "Matteo Berrettini": 5.1
+        },
+        "williamhill": {
+          "Carlos Alcaraz": 1.08,
+          "Matteo Berrettini": 7.5
+        },
+        "draftkings": {
+          "Carlos Alcaraz": 1.09,
+          "Matteo Berrettini": 7.5
+        },
+        "tipico_de": {
+          "Carlos Alcaraz": 1.12,
+          "Matteo Berrettini": 5.3
+        },
+        "winamax_de": {
+          "Carlos Alcaraz": 1.12,
+          "Matteo Berrettini": 6.0
+        },
+        "betclic_fr": {
+          "Carlos Alcaraz": 1.1,
+          "Matteo Berrettini": 5.2
+        }
+      },
+      "prediction": {
+        "p1_name": "Matteo Berrettini",
+        "p2_name": "Carlos Alcaraz",
+        "p1_prob": 0.1039,
+        "p2_prob": 0.8961,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": -0.0294,
+        "p2_edge": 0.0189
+      },
+      "collected_at": "2026-11-04T21:42:09.375124+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-11-04T15:55:55.343443+00:00"
+  "last_updated": "2026-11-04T21:42:09.391211+00:00"
 }
