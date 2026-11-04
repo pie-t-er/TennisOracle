@@ -86329,7 +86329,11 @@
         "p2_edge": 0.0724
       },
       "collected_at": "2026-11-02T17:43:48.593308+00:00",
-      "result": null
+      "result": {
+        "winner": "Lorenzo Musetti",
+        "correct": false,
+        "settled_at": "2026-11-04T15:55:47.464999+00:00"
+      }
     },
     "bc5dffba531009c0a80d3facb9410062": {
       "match_id": "bc5dffba531009c0a80d3facb9410062",
@@ -86447,7 +86451,11 @@
         "p2_edge": -0.2749
       },
       "collected_at": "2026-11-02T17:43:48.697661+00:00",
-      "result": null
+      "result": {
+        "winner": "Ignacio Buse",
+        "correct": false,
+        "settled_at": "2026-11-04T15:55:47.581273+00:00"
+      }
     },
     "tml-2026-352-6": {
       "match_id": "tml-2026-352-6",
@@ -86676,7 +86684,11 @@
         "p2_edge": -0.1128
       },
       "collected_at": "2026-11-03T15:46:10.301148+00:00",
-      "result": null
+      "result": {
+        "winner": "Tomas Martin Etcheverry",
+        "correct": false,
+        "settled_at": "2026-11-04T15:55:47.699126+00:00"
+      }
     },
     "3d3a05094b9f2796c2b3d68ef4b43c66": {
       "match_id": "3d3a05094b9f2796c2b3d68ef4b43c66",
@@ -86794,7 +86806,11 @@
         "p2_edge": 0.2155
       },
       "collected_at": "2026-11-03T15:46:10.482520+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Rinderknech",
+        "correct": true,
+        "settled_at": "2026-11-04T15:55:47.814843+00:00"
+      }
     },
     "b1f8e4cc08a752752738c51105899ad6": {
       "match_id": "b1f8e4cc08a752752738c51105899ad6",
@@ -86912,7 +86928,11 @@
         "p2_edge": 0.0327
       },
       "collected_at": "2026-11-03T15:46:10.635044+00:00",
-      "result": null
+      "result": {
+        "winner": "Quentin Halys",
+        "correct": false,
+        "settled_at": "2026-11-04T15:55:47.930873+00:00"
+      }
     },
     "b92f417b119f280893500cc87bd8714e": {
       "match_id": "b92f417b119f280893500cc87bd8714e",
@@ -87182,7 +87202,11 @@
         "p2_edge": -0.0133
       },
       "collected_at": "2026-11-03T21:28:32.383105+00:00",
-      "result": null
+      "result": {
+        "winner": "Luca Van Assche",
+        "correct": false,
+        "settled_at": "2026-11-04T15:55:48.051920+00:00"
+      }
     },
     "bff9716e2c2e4b207744b20ff82a2241": {
       "match_id": "bff9716e2c2e4b207744b20ff82a2241",
@@ -87308,7 +87332,11 @@
         "p2_edge": -0.1316
       },
       "collected_at": "2026-11-03T21:28:32.464017+00:00",
-      "result": null
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": true,
+        "settled_at": "2026-11-04T15:55:48.169755+00:00"
+      }
     },
     "1be19552d8710b4628e2747163b4cf78": {
       "match_id": "1be19552d8710b4628e2747163b4cf78",
@@ -87859,7 +87887,285 @@
       },
       "collected_at": "2026-11-03T21:28:32.975414+00:00",
       "result": null
+    },
+    "8a2e76c34cf0bce53c2afc75d9f2793e": {
+      "match_id": "8a2e76c34cf0bce53c2afc75d9f2793e",
+      "commence_time": "2026-11-05T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Ben Shelton",
+      "player2": "Arthur Rinderknech",
+      "bookmakers": {
+        "unibet_fr": {
+          "Arthur Rinderknech": 3.1,
+          "Ben Shelton": 1.23
+        },
+        "betfair_ex_eu": {
+          "Arthur Rinderknech": 3.25,
+          "Ben Shelton": 1.35
+        },
+        "nordicbet": {
+          "Arthur Rinderknech": 3.65,
+          "Ben Shelton": 1.29
+        },
+        "draftkings": {
+          "Arthur Rinderknech": 3.94,
+          "Ben Shelton": 1.26
+        },
+        "onexbet": {
+          "Arthur Rinderknech": 3.6,
+          "Ben Shelton": 1.31
+        },
+        "gtbets": {
+          "Arthur Rinderknech": 3.69,
+          "Ben Shelton": 1.28
+        },
+        "fanduel": {
+          "Arthur Rinderknech": 3.7,
+          "Ben Shelton": 1.29
+        },
+        "winamax_fr": {
+          "Arthur Rinderknech": 3.45,
+          "Ben Shelton": 1.26
+        },
+        "winamax_de": {
+          "Arthur Rinderknech": 3.8,
+          "Ben Shelton": 1.3
+        },
+        "betclic_fr": {
+          "Arthur Rinderknech": 3.35,
+          "Ben Shelton": 1.25
+        },
+        "tipico_de": {
+          "Arthur Rinderknech": 3.6,
+          "Ben Shelton": 1.25
+        },
+        "unibet_se": {
+          "Arthur Rinderknech": 3.5,
+          "Ben Shelton": 1.3
+        },
+        "leovegas_se": {
+          "Arthur Rinderknech": 3.5,
+          "Ben Shelton": 1.3
+        },
+        "pmu_fr": {
+          "Arthur Rinderknech": 3.3,
+          "Ben Shelton": 1.26
+        },
+        "betrivers": {
+          "Arthur Rinderknech": 3.5,
+          "Ben Shelton": 1.3
+        },
+        "unibet_nl": {
+          "Arthur Rinderknech": 3.5,
+          "Ben Shelton": 1.3
+        },
+        "sport888": {
+          "Arthur Rinderknech": 4.0,
+          "Ben Shelton": 1.25
+        },
+        "williamhill": {
+          "Arthur Rinderknech": 4.0,
+          "Ben Shelton": 1.25
+        }
+      },
+      "prediction": {
+        "p1_name": "Ben Shelton",
+        "p2_name": "Arthur Rinderknech",
+        "p1_prob": 0.6321,
+        "p2_prob": 0.3679,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "high",
+        "p1_edge": -0.1086,
+        "p2_edge": 0.1179
+      },
+      "collected_at": "2026-11-04T15:55:55.072052+00:00",
+      "result": null
+    },
+    "8962e5108426884c7237a80948c77cfb": {
+      "match_id": "8962e5108426884c7237a80948c77cfb",
+      "commence_time": "2026-11-05T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Lorenzo Musetti",
+      "player2": "Luca Van Assche",
+      "bookmakers": {
+        "unibet_fr": {
+          "Lorenzo Musetti": 1.27,
+          "Luca Van Assche": 2.85
+        },
+        "nordicbet": {
+          "Lorenzo Musetti": 1.34,
+          "Luca Van Assche": 3.3
+        },
+        "leovegas_se": {
+          "Lorenzo Musetti": 1.35,
+          "Luca Van Assche": 3.2
+        },
+        "betfair_ex_eu": {
+          "Lorenzo Musetti": 1.32,
+          "Luca Van Assche": 2.58
+        },
+        "unibet_se": {
+          "Lorenzo Musetti": 1.35,
+          "Luca Van Assche": 3.2
+        },
+        "onexbet": {
+          "Lorenzo Musetti": 1.35,
+          "Luca Van Assche": 3.33
+        },
+        "pmu_fr": {
+          "Lorenzo Musetti": 1.3,
+          "Luca Van Assche": 3.05
+        },
+        "betrivers": {
+          "Lorenzo Musetti": 1.35,
+          "Luca Van Assche": 3.2
+        },
+        "unibet_nl": {
+          "Lorenzo Musetti": 1.35,
+          "Luca Van Assche": 3.2
+        },
+        "fanduel": {
+          "Lorenzo Musetti": 1.32,
+          "Luca Van Assche": 3.45
+        },
+        "betclic_fr": {
+          "Lorenzo Musetti": 1.3,
+          "Luca Van Assche": 3.05
+        },
+        "winamax_fr": {
+          "Lorenzo Musetti": 1.29,
+          "Luca Van Assche": 3.0
+        },
+        "winamax_de": {
+          "Lorenzo Musetti": 1.33,
+          "Luca Van Assche": 3.3
+        },
+        "gtbets": {
+          "Lorenzo Musetti": 1.35,
+          "Luca Van Assche": 3.21
+        },
+        "draftkings": {
+          "Lorenzo Musetti": 1.34,
+          "Luca Van Assche": 3.29
+        },
+        "sport888": {
+          "Lorenzo Musetti": 1.36,
+          "Luca Van Assche": 3.1
+        },
+        "williamhill": {
+          "Lorenzo Musetti": 1.36,
+          "Luca Van Assche": 3.1
+        }
+      },
+      "prediction": {
+        "p1_name": "Lorenzo Musetti",
+        "p2_name": "Luca Van Assche",
+        "p1_prob": 0.6553,
+        "p2_prob": 0.3447,
+        "predicted_winner": "Lorenzo Musetti",
+        "confidence": "high",
+        "p1_edge": -0.08,
+        "p2_edge": 0.0548
+      },
+      "collected_at": "2026-11-04T15:55:55.197084+00:00",
+      "result": null
+    },
+    "4111a4ac0ae11935311b655ebadd040b": {
+      "match_id": "4111a4ac0ae11935311b655ebadd040b",
+      "commence_time": "2026-11-05T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Tommy Paul",
+      "player2": "Quentin Halys",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Quentin Halys": 3.05,
+          "Tommy Paul": 1.33
+        },
+        "unibet_fr": {
+          "Quentin Halys": 3.0,
+          "Tommy Paul": 1.24
+        },
+        "nordicbet": {
+          "Quentin Halys": 3.5,
+          "Tommy Paul": 1.31
+        },
+        "winamax_fr": {
+          "Quentin Halys": 3.3,
+          "Tommy Paul": 1.28
+        },
+        "fanduel": {
+          "Quentin Halys": 3.55,
+          "Tommy Paul": 1.31
+        },
+        "winamax_de": {
+          "Quentin Halys": 3.6,
+          "Tommy Paul": 1.32
+        },
+        "betclic_fr": {
+          "Quentin Halys": 3.2,
+          "Tommy Paul": 1.27
+        },
+        "gtbets": {
+          "Quentin Halys": 3.32,
+          "Tommy Paul": 1.33
+        },
+        "onexbet": {
+          "Quentin Halys": 3.38,
+          "Tommy Paul": 1.34
+        },
+        "tipico_de": {
+          "Quentin Halys": 3.4,
+          "Tommy Paul": 1.27
+        },
+        "draftkings": {
+          "Quentin Halys": 3.7,
+          "Tommy Paul": 1.28
+        },
+        "unibet_nl": {
+          "Quentin Halys": 3.2,
+          "Tommy Paul": 1.35
+        },
+        "pmu_fr": {
+          "Quentin Halys": 3.05,
+          "Tommy Paul": 1.3
+        },
+        "leovegas_se": {
+          "Quentin Halys": 3.2,
+          "Tommy Paul": 1.35
+        },
+        "unibet_se": {
+          "Quentin Halys": 3.2,
+          "Tommy Paul": 1.35
+        },
+        "betrivers": {
+          "Quentin Halys": 3.2,
+          "Tommy Paul": 1.35
+        },
+        "sport888": {
+          "Quentin Halys": 3.6,
+          "Tommy Paul": 1.29
+        },
+        "williamhill": {
+          "Quentin Halys": 3.6,
+          "Tommy Paul": 1.29
+        }
+      },
+      "prediction": {
+        "p1_name": "Tommy Paul",
+        "p2_name": "Quentin Halys",
+        "p1_prob": 0.6288,
+        "p2_prob": 0.3712,
+        "predicted_winner": "Tommy Paul",
+        "confidence": "high",
+        "p1_edge": -0.1119,
+        "p2_edge": 0.1009
+      },
+      "collected_at": "2026-11-04T15:55:55.322135+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-11-03T21:28:32.988063+00:00"
+  "last_updated": "2026-11-04T15:55:55.343443+00:00"
 }
