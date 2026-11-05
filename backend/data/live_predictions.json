@@ -88008,7 +88008,11 @@
         "p2_edge": 0.1179
       },
       "collected_at": "2026-11-04T15:55:55.072052+00:00",
-      "result": null
+      "result": {
+        "winner": "Ben Shelton",
+        "correct": true,
+        "settled_at": "2026-11-05T16:01:52.150285+00:00"
+      }
     },
     "8962e5108426884c7237a80948c77cfb": {
       "match_id": "8962e5108426884c7237a80948c77cfb",
@@ -88098,7 +88102,11 @@
         "p2_edge": 0.0548
       },
       "collected_at": "2026-11-04T15:55:55.197084+00:00",
-      "result": null
+      "result": {
+        "winner": "Lorenzo Musetti",
+        "correct": true,
+        "settled_at": "2026-11-05T16:01:52.239629+00:00"
+      }
     },
     "4111a4ac0ae11935311b655ebadd040b": {
       "match_id": "4111a4ac0ae11935311b655ebadd040b",
@@ -88192,7 +88200,11 @@
         "p2_edge": 0.1009
       },
       "collected_at": "2026-11-04T15:55:55.322135+00:00",
-      "result": null
+      "result": {
+        "winner": "Tommy Paul",
+        "correct": true,
+        "settled_at": "2026-11-05T16:01:52.328034+00:00"
+      }
     },
     "ce54c1892701e4d3d4713f621a47cc00": {
       "match_id": "ce54c1892701e4d3d4713f621a47cc00",
@@ -88683,7 +88695,81 @@
       },
       "collected_at": "2026-11-05T04:51:26.279444+00:00",
       "result": null
+    },
+    "10a66a309af482f75813cc0d9ce0bdd1": {
+      "match_id": "10a66a309af482f75813cc0d9ce0bdd1",
+      "commence_time": "2026-11-06T10:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Ben Shelton",
+      "player2": "Tommy Paul",
+      "bookmakers": {
+        "draftkings": {
+          "Ben Shelton": 1.89,
+          "Tommy Paul": 1.92
+        },
+        "gtbets": {
+          "Ben Shelton": 1.89,
+          "Tommy Paul": 1.92
+        },
+        "betfair_ex_eu": {
+          "Ben Shelton": 1.88,
+          "Tommy Paul": 1.74
+        },
+        "betsson": {
+          "Ben Shelton": 2.02,
+          "Tommy Paul": 1.8
+        },
+        "nordicbet": {
+          "Ben Shelton": 2.02,
+          "Tommy Paul": 1.8
+        },
+        "onexbet": {
+          "Ben Shelton": 1.94,
+          "Tommy Paul": 1.91
+        },
+        "unibet_fr": {
+          "Ben Shelton": 1.85,
+          "Tommy Paul": 1.67
+        },
+        "betclic_fr": {
+          "Ben Shelton": 1.86,
+          "Tommy Paul": 1.78
+        },
+        "bovada": {
+          "Ben Shelton": 1.91,
+          "Tommy Paul": 1.91
+        },
+        "fanduel": {
+          "Ben Shelton": 2.04,
+          "Tommy Paul": 1.8
+        },
+        "winamax_de": {
+          "Ben Shelton": 2.0,
+          "Tommy Paul": 1.8
+        },
+        "winamax_fr": {
+          "Ben Shelton": 1.9,
+          "Tommy Paul": 1.72
+        },
+        "betmgm": {
+          "Ben Shelton": 1.91,
+          "Tommy Paul": 1.91
+        }
+      },
+      "prediction": {
+        "p1_name": "Ben Shelton",
+        "p2_name": "Tommy Paul",
+        "p1_prob": 0.5953,
+        "p2_prob": 0.4047,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "medium",
+        "p1_edge": 0.1051,
+        "p2_edge": -0.1161
+      },
+      "collected_at": "2026-11-05T16:01:56.992992+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-11-05T04:51:26.297060+00:00"
+  "last_updated": "2026-11-05T16:01:57.008702+00:00"
 }
