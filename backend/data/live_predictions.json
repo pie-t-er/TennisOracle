@@ -86586,7 +86586,11 @@
         "p2_edge": -0.0409
       },
       "collected_at": "2026-11-03T05:03:52.229454+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fils",
+        "correct": true,
+        "settled_at": "2026-11-05T04:51:21.330562+00:00"
+      }
     },
     "9f0cefd1f030d8ad5ba4085132aff58d": {
       "match_id": "9f0cefd1f030d8ad5ba4085132aff58d",
@@ -88549,7 +88553,137 @@
       },
       "collected_at": "2026-11-04T21:42:09.375124+00:00",
       "result": null
+    },
+    "6a03e950601f142942705acfb764d107": {
+      "match_id": "6a03e950601f142942705acfb764d107",
+      "commence_time": "2026-11-05T19:30:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Arthur Fils",
+      "player2": "Taylor Fritz",
+      "bookmakers": {
+        "winamax_fr": {
+          "Arthur Fils": 1.7,
+          "Taylor Fritz": 1.92
+        },
+        "nordicbet": {
+          "Arthur Fils": 1.79,
+          "Taylor Fritz": 2.03
+        },
+        "matchbook": {
+          "Arthur Fils": 1.81,
+          "Taylor Fritz": 2.16
+        },
+        "betfair_ex_eu": {
+          "Arthur Fils": 1.81,
+          "Taylor Fritz": 2.16
+        },
+        "unibet_fr": {
+          "Arthur Fils": 1.72,
+          "Taylor Fritz": 1.93
+        },
+        "winamax_de": {
+          "Arthur Fils": 1.78,
+          "Taylor Fritz": 2.0
+        },
+        "coolbet": {
+          "Arthur Fils": 1.8,
+          "Taylor Fritz": 2.1
+        },
+        "betsson": {
+          "Arthur Fils": 1.79,
+          "Taylor Fritz": 2.03
+        },
+        "fanduel": {
+          "Arthur Fils": 1.8,
+          "Taylor Fritz": 2.04
+        },
+        "gtbets": {
+          "Arthur Fils": 1.81,
+          "Taylor Fritz": 1.99
+        },
+        "betclic_fr": {
+          "Arthur Fils": 1.72,
+          "Taylor Fritz": 1.93
+        },
+        "onexbet": {
+          "Arthur Fils": 1.81,
+          "Taylor Fritz": 2.05
+        },
+        "tipico_de": {
+          "Arthur Fils": 1.72,
+          "Taylor Fritz": 2.0
+        },
+        "draftkings": {
+          "Arthur Fils": 1.82,
+          "Taylor Fritz": 2.0
+        },
+        "sport888": {
+          "Arthur Fils": 1.73,
+          "Taylor Fritz": 2.1
+        },
+        "williamhill": {
+          "Arthur Fils": 1.73,
+          "Taylor Fritz": 2.1
+        },
+        "bovada": {
+          "Arthur Fils": 1.8,
+          "Taylor Fritz": 2.05
+        },
+        "pinnacle": {
+          "Arthur Fils": 1.78,
+          "Taylor Fritz": 2.13
+        },
+        "betmgm": {
+          "Arthur Fils": 1.77,
+          "Taylor Fritz": 2.0
+        },
+        "betonlineag": {
+          "Arthur Fils": 1.76,
+          "Taylor Fritz": 2.12
+        },
+        "lowvig": {
+          "Arthur Fils": 1.76,
+          "Taylor Fritz": 2.12
+        },
+        "pmu_fr": {
+          "Arthur Fils": 1.7,
+          "Taylor Fritz": 1.95
+        },
+        "leovegas_se": {
+          "Arthur Fils": 1.77,
+          "Taylor Fritz": 2.05
+        },
+        "unibet_se": {
+          "Arthur Fils": 1.77,
+          "Taylor Fritz": 2.05
+        },
+        "unibet_nl": {
+          "Arthur Fils": 1.77,
+          "Taylor Fritz": 2.05
+        },
+        "betrivers": {
+          "Arthur Fils": 1.77,
+          "Taylor Fritz": 2.05
+        },
+        "betanysports": {
+          "Arthur Fils": 1.8,
+          "Taylor Fritz": 2.05
+        }
+      },
+      "prediction": {
+        "p1_name": "Arthur Fils",
+        "p2_name": "Taylor Fritz",
+        "p1_prob": 0.5758,
+        "p2_prob": 0.4242,
+        "predicted_winner": "Arthur Fils",
+        "confidence": "medium",
+        "p1_edge": 0.0263,
+        "p2_edge": -0.0388
+      },
+      "collected_at": "2026-11-05T04:51:26.279444+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-11-04T21:42:09.391211+00:00"
+  "last_updated": "2026-11-05T04:51:26.297060+00:00"
 }
