@@ -88788,7 +88788,11 @@
         "p2_edge": -0.1161
       },
       "collected_at": "2026-11-05T16:01:56.992992+00:00",
-      "result": null
+      "result": {
+        "winner": "Ben Shelton",
+        "correct": true,
+        "settled_at": "2026-11-06T15:37:04.793339+00:00"
+      }
     },
     "f1676b13a42184d83dee9e84e1b17aa5": {
       "match_id": "f1676b13a42184d83dee9e84e1b17aa5",
@@ -89173,5 +89177,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-11-06T04:50:50.323936+00:00"
+  "last_updated": "2026-11-06T15:37:04.793360+00:00"
 }
