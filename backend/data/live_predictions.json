@@ -88922,7 +88922,11 @@
         "p2_edge": -0.0933
       },
       "collected_at": "2026-11-06T04:50:50.081196+00:00",
-      "result": null
+      "result": {
+        "winner": "Luca Van Assche",
+        "correct": true,
+        "settled_at": "2026-11-06T21:14:36.112927+00:00"
+      }
     },
     "e4e0781ebc80c47d216dd73609a3c8e0": {
       "match_id": "e4e0781ebc80c47d216dd73609a3c8e0",
@@ -89174,8 +89178,118 @@
         "p2_edge": -0.0886
       },
       "collected_at": "2026-11-06T04:50:50.307051+00:00",
+      "result": {
+        "winner": "Nuno Borges",
+        "correct": false,
+        "settled_at": "2026-11-06T21:14:36.232470+00:00"
+      }
+    },
+    "9ebb22b87460accfb899c0e613b47651": {
+      "match_id": "9ebb22b87460accfb899c0e613b47651",
+      "commence_time": "2026-11-07T13:30:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Luca Van Assche",
+      "player2": "Ben Shelton",
+      "bookmakers": {
+        "unibet_fr": {
+          "Ben Shelton": 1.22,
+          "Luca Van Assche": 3.55
+        },
+        "betfair_ex_eu": {
+          "Ben Shelton": 1.3,
+          "Luca Van Assche": 4.2
+        },
+        "betsson": {
+          "Ben Shelton": 1.26,
+          "Luca Van Assche": 3.9
+        },
+        "onexbet": {
+          "Ben Shelton": 1.3,
+          "Luca Van Assche": 3.69
+        },
+        "fanduel": {
+          "Ben Shelton": 1.3,
+          "Luca Van Assche": 3.6
+        },
+        "draftkings": {
+          "Ben Shelton": 1.28,
+          "Luca Van Assche": 3.75
+        },
+        "nordicbet": {
+          "Ben Shelton": 1.26,
+          "Luca Van Assche": 3.9
+        },
+        "coolbet": {
+          "Ben Shelton": 1.29,
+          "Luca Van Assche": 3.9
+        },
+        "betclic_fr": {
+          "Ben Shelton": 1.23,
+          "Luca Van Assche": 3.5
+        },
+        "gtbets": {
+          "Ben Shelton": 1.28,
+          "Luca Van Assche": 3.72
+        },
+        "winamax_fr": {
+          "Ben Shelton": 1.24,
+          "Luca Van Assche": 3.45
+        },
+        "winamax_de": {
+          "Ben Shelton": 1.27,
+          "Luca Van Assche": 3.7
+        },
+        "betmgm": {
+          "Ben Shelton": 1.29,
+          "Luca Van Assche": 3.75
+        },
+        "pinnacle": {
+          "Ben Shelton": 1.29,
+          "Luca Van Assche": 3.93
+        },
+        "sport888": {
+          "Ben Shelton": 1.29,
+          "Luca Van Assche": 3.6
+        },
+        "williamhill": {
+          "Ben Shelton": 1.29,
+          "Luca Van Assche": 3.6
+        },
+        "bovada": {
+          "Ben Shelton": 1.29,
+          "Luca Van Assche": 3.75
+        },
+        "tipico_de": {
+          "Ben Shelton": 1.25,
+          "Luca Van Assche": 3.8
+        },
+        "lowvig": {
+          "Ben Shelton": 1.28,
+          "Luca Van Assche": 3.89
+        },
+        "betonlineag": {
+          "Ben Shelton": 1.28,
+          "Luca Van Assche": 3.89
+        },
+        "betanysports": {
+          "Ben Shelton": 1.29,
+          "Luca Van Assche": 3.75
+        }
+      },
+      "prediction": {
+        "p1_name": "Luca Van Assche",
+        "p2_name": "Ben Shelton",
+        "p1_prob": 0.2721,
+        "p2_prob": 0.7279,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "high",
+        "p1_edge": 0.034,
+        "p2_edge": -0.0413
+      },
+      "collected_at": "2026-11-06T21:14:43.221058+00:00",
       "result": null
     }
   },
-  "last_updated": "2026-11-06T15:37:04.793360+00:00"
+  "last_updated": "2026-11-06T21:14:43.241905+00:00"
 }
