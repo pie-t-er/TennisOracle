@@ -89052,7 +89052,11 @@
         "p2_edge": 0.1131
       },
       "collected_at": "2026-11-06T04:50:50.188225+00:00",
-      "result": null
+      "result": {
+        "winner": "Carlos Alcaraz",
+        "correct": true,
+        "settled_at": "2026-11-07T04:20:04.297920+00:00"
+      }
     },
     "0adc47c275819823d018232033a6de7f": {
       "match_id": "0adc47c275819823d018232033a6de7f",
@@ -89289,7 +89293,137 @@
       },
       "collected_at": "2026-11-06T21:14:43.221058+00:00",
       "result": null
+    },
+    "d4b8a9b232417b21fd0dd2de1af179ee": {
+      "match_id": "d4b8a9b232417b21fd0dd2de1af179ee",
+      "commence_time": "2026-11-07T16:00:00Z",
+      "tournament": "ATP Paris Masters",
+      "surface": "Clay",
+      "player1": "Casper Ruud",
+      "player2": "Carlos Alcaraz",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Carlos Alcaraz": 1.23,
+          "Casper Ruud": 5.2
+        },
+        "winamax_fr": {
+          "Carlos Alcaraz": 1.16,
+          "Casper Ruud": 4.1
+        },
+        "winamax_de": {
+          "Carlos Alcaraz": 1.19,
+          "Casper Ruud": 4.7
+        },
+        "betsson": {
+          "Carlos Alcaraz": 1.19,
+          "Casper Ruud": 4.8
+        },
+        "unibet_fr": {
+          "Carlos Alcaraz": 1.15,
+          "Casper Ruud": 4.35
+        },
+        "sport888": {
+          "Carlos Alcaraz": 1.2,
+          "Casper Ruud": 4.5
+        },
+        "onexbet": {
+          "Carlos Alcaraz": 1.2,
+          "Casper Ruud": 4.87
+        },
+        "coolbet": {
+          "Carlos Alcaraz": 1.2,
+          "Casper Ruud": 5.0
+        },
+        "fanduel": {
+          "Carlos Alcaraz": 1.17,
+          "Casper Ruud": 5.2
+        },
+        "gtbets": {
+          "Carlos Alcaraz": 1.17,
+          "Casper Ruud": 5.04
+        },
+        "nordicbet": {
+          "Carlos Alcaraz": 1.19,
+          "Casper Ruud": 4.8
+        },
+        "williamhill": {
+          "Carlos Alcaraz": 1.2,
+          "Casper Ruud": 4.5
+        },
+        "betclic_fr": {
+          "Carlos Alcaraz": 1.16,
+          "Casper Ruud": 4.2
+        },
+        "betmgm": {
+          "Carlos Alcaraz": 1.18,
+          "Casper Ruud": 5.0
+        },
+        "bovada": {
+          "Carlos Alcaraz": 1.18,
+          "Casper Ruud": 5.0
+        },
+        "tipico_de": {
+          "Carlos Alcaraz": 1.16,
+          "Casper Ruud": 5.0
+        },
+        "pinnacle": {
+          "Carlos Alcaraz": 1.2,
+          "Casper Ruud": 5.1
+        },
+        "draftkings": {
+          "Carlos Alcaraz": 1.19,
+          "Casper Ruud": 4.79
+        },
+        "unibet_se": {
+          "Carlos Alcaraz": 1.17,
+          "Casper Ruud": 5.0
+        },
+        "unibet_nl": {
+          "Carlos Alcaraz": 1.17,
+          "Casper Ruud": 5.0
+        },
+        "leovegas_se": {
+          "Carlos Alcaraz": 1.17,
+          "Casper Ruud": 5.0
+        },
+        "betrivers": {
+          "Carlos Alcaraz": 1.17,
+          "Casper Ruud": 5.0
+        },
+        "pmu_fr": {
+          "Carlos Alcaraz": 1.13,
+          "Casper Ruud": 4.6
+        },
+        "lowvig": {
+          "Carlos Alcaraz": 1.19,
+          "Casper Ruud": 4.96
+        },
+        "betonlineag": {
+          "Carlos Alcaraz": 1.19,
+          "Casper Ruud": 4.96
+        },
+        "betanysports": {
+          "Carlos Alcaraz": 1.18,
+          "Casper Ruud": 4.8
+        },
+        "matchbook": {
+          "Carlos Alcaraz": 1.19,
+          "Casper Ruud": 5.2
+        }
+      },
+      "prediction": {
+        "p1_name": "Casper Ruud",
+        "p2_name": "Carlos Alcaraz",
+        "p1_prob": 0.1748,
+        "p2_prob": 0.8252,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": -0.0175,
+        "p2_edge": 0.0122
+      },
+      "collected_at": "2026-11-07T04:20:07.100026+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-11-06T21:14:43.241905+00:00"
+  "last_updated": "2026-11-07T04:20:07.111805+00:00"
 }
