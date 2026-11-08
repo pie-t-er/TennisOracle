@@ -89552,8 +89552,12 @@
         "p2_edge": 0.0417
       },
       "collected_at": "2026-11-07T19:49:48.532014+00:00",
-      "result": null
+      "result": {
+        "winner": "Carlos Alcaraz",
+        "correct": true,
+        "settled_at": "2026-11-08T20:07:02.172759+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-07T19:49:48.552965+00:00"
+  "last_updated": "2026-11-08T20:07:02.172778+00:00"
 }
