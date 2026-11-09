@@ -89557,7 +89557,57 @@
         "correct": true,
         "settled_at": "2026-11-08T20:07:02.172759+00:00"
       }
+    },
+    "tml-2026-429-25": {
+      "match_id": "tml-2026-429-25",
+      "commence_time": "2026-11-08T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Juan Manuel Cerundolo",
+      "player2": "Elias Ymer",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Juan Manuel Cerundolo",
+        "p2_name": "Elias Ymer",
+        "p1_prob": 0.6541,
+        "p2_prob": 0.3459,
+        "predicted_winner": "Juan Manuel Cerundolo",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-09T04:19:59.161173+00:00",
+      "result": {
+        "winner": "Juan Manuel Cerundolo",
+        "correct": true,
+        "settled_at": "2026-11-09T04:19:59.161173+00:00"
+      }
+    },
+    "tml-2026-429-29": {
+      "match_id": "tml-2026-429-29",
+      "commence_time": "2026-11-08T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Thiago Agustin Tirante",
+      "player2": "Jaume Munar",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Thiago Agustin Tirante",
+        "p2_name": "Jaume Munar",
+        "p1_prob": 0.5956,
+        "p2_prob": 0.4044,
+        "predicted_winner": "Thiago Agustin Tirante",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-09T04:19:59.284711+00:00",
+      "result": {
+        "winner": "Thiago Agustin Tirante",
+        "correct": true,
+        "settled_at": "2026-11-09T04:19:59.284711+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-08T20:07:02.172778+00:00"
+  "last_updated": "2026-11-09T04:19:59.306587+00:00"
 }
