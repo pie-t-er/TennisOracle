@@ -89607,7 +89607,132 @@
         "correct": true,
         "settled_at": "2026-11-09T04:19:59.284711+00:00"
       }
+    },
+    "tml-2026-429-30": {
+      "match_id": "tml-2026-429-30",
+      "commence_time": "2026-11-09T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Borna Gojo",
+      "player2": "Tomas Machac",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Borna Gojo",
+        "p2_name": "Tomas Machac",
+        "p1_prob": 0.2653,
+        "p2_prob": 0.7347,
+        "predicted_winner": "Tomas Machac",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-10T05:44:55.766879+00:00",
+      "result": {
+        "winner": "Borna Gojo",
+        "correct": false,
+        "settled_at": "2026-11-10T05:44:55.766879+00:00"
+      }
+    },
+    "tml-2026-429-31": {
+      "match_id": "tml-2026-429-31",
+      "commence_time": "2026-11-09T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Ugo Humbert",
+      "player2": "Adolfo Daniel Vallejo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ugo Humbert",
+        "p2_name": "Adolfo Daniel Vallejo",
+        "p1_prob": 0.6154,
+        "p2_prob": 0.3846,
+        "predicted_winner": "Ugo Humbert",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-10T05:44:55.887010+00:00",
+      "result": {
+        "winner": "Ugo Humbert",
+        "correct": true,
+        "settled_at": "2026-11-10T05:44:55.887010+00:00"
+      }
+    },
+    "tml-2026-429-32": {
+      "match_id": "tml-2026-429-32",
+      "commence_time": "2026-11-09T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Alex Michelsen",
+      "player2": "Yannick Hanfmann",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alex Michelsen",
+        "p2_name": "Yannick Hanfmann",
+        "p1_prob": 0.638,
+        "p2_prob": 0.362,
+        "predicted_winner": "Alex Michelsen",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-10T05:44:56.002690+00:00",
+      "result": {
+        "winner": "Alex Michelsen",
+        "correct": true,
+        "settled_at": "2026-11-10T05:44:56.002690+00:00"
+      }
+    },
+    "tml-2026-429-33": {
+      "match_id": "tml-2026-429-33",
+      "commence_time": "2026-11-09T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Cameron Norrie",
+      "player2": "James Duckworth",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Cameron Norrie",
+        "p2_name": "James Duckworth",
+        "p1_prob": 0.6996,
+        "p2_prob": 0.3004,
+        "predicted_winner": "Cameron Norrie",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-10T05:44:56.156389+00:00",
+      "result": {
+        "winner": "Cameron Norrie",
+        "correct": true,
+        "settled_at": "2026-11-10T05:44:56.156389+00:00"
+      }
+    },
+    "tml-2026-429-35": {
+      "match_id": "tml-2026-429-35",
+      "commence_time": "2026-11-09T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Toby Samuel",
+      "player2": "Leo Borg",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Toby Samuel",
+        "p2_name": "Leo Borg",
+        "p1_prob": 0.7887,
+        "p2_prob": 0.2113,
+        "predicted_winner": "Toby Samuel",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-10T05:44:56.270704+00:00",
+      "result": {
+        "winner": "Toby Samuel",
+        "correct": true,
+        "settled_at": "2026-11-10T05:44:56.270704+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-09T04:19:59.306587+00:00"
+  "last_updated": "2026-11-10T05:44:56.288777+00:00"
 }
