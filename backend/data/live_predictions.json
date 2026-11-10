@@ -89732,7 +89732,107 @@
         "correct": true,
         "settled_at": "2026-11-10T05:44:56.270704+00:00"
       }
+    },
+    "tml-2026-429-36": {
+      "match_id": "tml-2026-429-36",
+      "commence_time": "2026-11-10T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Alexander Shevchenko",
+      "player2": "Adrian Mannarino",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alexander Shevchenko",
+        "p2_name": "Adrian Mannarino",
+        "p1_prob": 0.6166,
+        "p2_prob": 0.3834,
+        "predicted_winner": "Alexander Shevchenko",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-10T16:01:49.006195+00:00",
+      "result": {
+        "winner": "Alexander Shevchenko",
+        "correct": true,
+        "settled_at": "2026-11-10T16:01:49.006195+00:00"
+      }
+    },
+    "tml-2026-429-37": {
+      "match_id": "tml-2026-429-37",
+      "commence_time": "2026-11-10T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Thiago Agustin Tirante",
+      "player2": "Tomas Martin Etcheverry",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Thiago Agustin Tirante",
+        "p2_name": "Tomas Martin Etcheverry",
+        "p1_prob": 0.4517,
+        "p2_prob": 0.5483,
+        "predicted_winner": "Tomas Martin Etcheverry",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-10T16:01:49.082104+00:00",
+      "result": {
+        "winner": "Thiago Agustin Tirante",
+        "correct": false,
+        "settled_at": "2026-11-10T16:01:49.082104+00:00"
+      }
+    },
+    "tml-2026-429-38": {
+      "match_id": "tml-2026-429-38",
+      "commence_time": "2026-11-10T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Alex Michelsen",
+      "player2": "Juan Manuel Cerundolo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alex Michelsen",
+        "p2_name": "Juan Manuel Cerundolo",
+        "p1_prob": 0.6249,
+        "p2_prob": 0.3751,
+        "predicted_winner": "Alex Michelsen",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-10T16:01:49.160635+00:00",
+      "result": {
+        "winner": "Alex Michelsen",
+        "correct": true,
+        "settled_at": "2026-11-10T16:01:49.160635+00:00"
+      }
+    },
+    "tml-2026-429-39": {
+      "match_id": "tml-2026-429-39",
+      "commence_time": "2026-11-10T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Lorenzo Sonego",
+      "player2": "Quentin Halys",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Lorenzo Sonego",
+        "p2_name": "Quentin Halys",
+        "p1_prob": 0.5214,
+        "p2_prob": 0.4786,
+        "predicted_winner": "Lorenzo Sonego",
+        "confidence": "low",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-10T16:01:49.299512+00:00",
+      "result": {
+        "winner": "Lorenzo Sonego",
+        "correct": true,
+        "settled_at": "2026-11-10T16:01:49.299512+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-10T05:44:56.288777+00:00"
+  "last_updated": "2026-11-10T16:01:49.313292+00:00"
 }
