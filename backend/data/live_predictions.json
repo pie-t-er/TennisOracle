@@ -89832,7 +89832,82 @@
         "correct": true,
         "settled_at": "2026-11-10T16:01:49.299512+00:00"
       }
+    },
+    "tml-2026-429-40": {
+      "match_id": "tml-2026-429-40",
+      "commence_time": "2026-11-10T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Miomir Kecmanovic",
+      "player2": "Arthur Rinderknech",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Miomir Kecmanovic",
+        "p2_name": "Arthur Rinderknech",
+        "p1_prob": 0.4232,
+        "p2_prob": 0.5768,
+        "predicted_winner": "Arthur Rinderknech",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-11T04:24:21.848648+00:00",
+      "result": {
+        "winner": "Miomir Kecmanovic",
+        "correct": false,
+        "settled_at": "2026-11-11T04:24:21.848648+00:00"
+      }
+    },
+    "tml-2026-429-41": {
+      "match_id": "tml-2026-429-41",
+      "commence_time": "2026-11-10T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Holger Rune",
+      "player2": "Zizou Bergs",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Holger Rune",
+        "p2_name": "Zizou Bergs",
+        "p1_prob": 0.7161,
+        "p2_prob": 0.2839,
+        "predicted_winner": "Holger Rune",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-11T04:24:21.946874+00:00",
+      "result": {
+        "winner": "Holger Rune",
+        "correct": true,
+        "settled_at": "2026-11-11T04:24:21.946874+00:00"
+      }
+    },
+    "tml-2026-429-42": {
+      "match_id": "tml-2026-429-42",
+      "commence_time": "2026-11-10T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Lorenzo Musetti",
+      "player2": "Toby Samuel",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Lorenzo Musetti",
+        "p2_name": "Toby Samuel",
+        "p1_prob": 0.7715,
+        "p2_prob": 0.2285,
+        "predicted_winner": "Lorenzo Musetti",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-11T04:24:22.048600+00:00",
+      "result": {
+        "winner": "Lorenzo Musetti",
+        "correct": true,
+        "settled_at": "2026-11-11T04:24:22.048600+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-10T16:01:49.313292+00:00"
+  "last_updated": "2026-11-11T04:24:22.105610+00:00"
 }
