@@ -89932,7 +89932,82 @@
         "correct": true,
         "settled_at": "2026-11-11T15:48:28.749143+00:00"
       }
+    },
+    "tml-2026-429-44": {
+      "match_id": "tml-2026-429-44",
+      "commence_time": "2026-11-11T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Ugo Humbert",
+      "player2": "Borna Gojo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Ugo Humbert",
+        "p2_name": "Borna Gojo",
+        "p1_prob": 0.7723,
+        "p2_prob": 0.2277,
+        "predicted_winner": "Ugo Humbert",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-11T22:26:55.249295+00:00",
+      "result": {
+        "winner": "Ugo Humbert",
+        "correct": true,
+        "settled_at": "2026-11-11T22:26:55.249295+00:00"
+      }
+    },
+    "tml-2026-429-45": {
+      "match_id": "tml-2026-429-45",
+      "commence_time": "2026-11-11T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Taylor Fritz",
+      "player2": "Cameron Norrie",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Cameron Norrie",
+        "p1_prob": 0.6493,
+        "p2_prob": 0.3507,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-11T22:26:55.347512+00:00",
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-11-11T22:26:55.347512+00:00"
+      }
+    },
+    "tml-2026-429-46": {
+      "match_id": "tml-2026-429-46",
+      "commence_time": "2026-11-11T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Alexander Shevchenko",
+      "player2": "Casper Ruud",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alexander Shevchenko",
+        "p2_name": "Casper Ruud",
+        "p1_prob": 0.2872,
+        "p2_prob": 0.7128,
+        "predicted_winner": "Casper Ruud",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-11T22:26:55.449338+00:00",
+      "result": {
+        "winner": "Alexander Shevchenko",
+        "correct": false,
+        "settled_at": "2026-11-11T22:26:55.449338+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-11T15:48:28.770450+00:00"
+  "last_updated": "2026-11-11T22:26:55.507338+00:00"
 }
