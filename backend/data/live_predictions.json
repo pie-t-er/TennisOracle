@@ -89907,7 +89907,32 @@
         "correct": true,
         "settled_at": "2026-11-11T04:24:22.048600+00:00"
       }
+    },
+    "tml-2026-429-43": {
+      "match_id": "tml-2026-429-43",
+      "commence_time": "2026-11-11T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Alejandro Tabilo",
+      "player2": "Lorenzo Sonego",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alejandro Tabilo",
+        "p2_name": "Lorenzo Sonego",
+        "p1_prob": 0.6198,
+        "p2_prob": 0.3802,
+        "predicted_winner": "Alejandro Tabilo",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-11T15:48:28.749143+00:00",
+      "result": {
+        "winner": "Alejandro Tabilo",
+        "correct": true,
+        "settled_at": "2026-11-11T15:48:28.749143+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-11T04:24:22.105610+00:00"
+  "last_updated": "2026-11-11T15:48:28.770450+00:00"
 }
