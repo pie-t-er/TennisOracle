@@ -90032,7 +90032,32 @@
         "correct": true,
         "settled_at": "2026-11-12T05:30:30.854834+00:00"
       }
+    },
+    "tml-2026-429-48": {
+      "match_id": "tml-2026-429-48",
+      "commence_time": "2026-11-12T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Alejandro Tabilo",
+      "player2": "Alex Michelsen",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alejandro Tabilo",
+        "p2_name": "Alex Michelsen",
+        "p1_prob": 0.4336,
+        "p2_prob": 0.5664,
+        "predicted_winner": "Alex Michelsen",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-12T16:31:35.016974+00:00",
+      "result": {
+        "winner": "Alejandro Tabilo",
+        "correct": false,
+        "settled_at": "2026-11-12T16:31:35.016974+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-12T05:30:30.870302+00:00"
+  "last_updated": "2026-11-12T16:31:35.037939+00:00"
 }
