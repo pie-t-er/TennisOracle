@@ -90007,7 +90007,32 @@
         "correct": false,
         "settled_at": "2026-11-11T22:26:55.449338+00:00"
       }
+    },
+    "tml-2026-429-47": {
+      "match_id": "tml-2026-429-47",
+      "commence_time": "2026-11-11T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Holger Rune",
+      "player2": "Miomir Kecmanovic",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Holger Rune",
+        "p2_name": "Miomir Kecmanovic",
+        "p1_prob": 0.7531,
+        "p2_prob": 0.2469,
+        "predicted_winner": "Holger Rune",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-12T05:30:30.854834+00:00",
+      "result": {
+        "winner": "Holger Rune",
+        "correct": true,
+        "settled_at": "2026-11-12T05:30:30.854834+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-11T22:26:55.507338+00:00"
+  "last_updated": "2026-11-12T05:30:30.870302+00:00"
 }
