@@ -90057,7 +90057,82 @@
         "correct": false,
         "settled_at": "2026-11-12T16:31:35.016974+00:00"
       }
+    },
+    "tml-2026-429-49": {
+      "match_id": "tml-2026-429-49",
+      "commence_time": "2026-11-12T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Thiago Agustin Tirante",
+      "player2": "Alexander Shevchenko",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Thiago Agustin Tirante",
+        "p2_name": "Alexander Shevchenko",
+        "p1_prob": 0.5576,
+        "p2_prob": 0.4424,
+        "predicted_winner": "Thiago Agustin Tirante",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-13T04:47:43.653529+00:00",
+      "result": {
+        "winner": "Thiago Agustin Tirante",
+        "correct": true,
+        "settled_at": "2026-11-13T04:47:43.653529+00:00"
+      }
+    },
+    "tml-2026-429-50": {
+      "match_id": "tml-2026-429-50",
+      "commence_time": "2026-11-12T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Taylor Fritz",
+      "player2": "Holger Rune",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Holger Rune",
+        "p1_prob": 0.4581,
+        "p2_prob": 0.5419,
+        "predicted_winner": "Holger Rune",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-13T04:47:43.779507+00:00",
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": false,
+        "settled_at": "2026-11-13T04:47:43.779507+00:00"
+      }
+    },
+    "tml-2026-429-51": {
+      "match_id": "tml-2026-429-51",
+      "commence_time": "2026-11-12T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Lorenzo Musetti",
+      "player2": "Ugo Humbert",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Lorenzo Musetti",
+        "p2_name": "Ugo Humbert",
+        "p1_prob": 0.5824,
+        "p2_prob": 0.4176,
+        "predicted_winner": "Lorenzo Musetti",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-13T04:47:43.908623+00:00",
+      "result": {
+        "winner": "Lorenzo Musetti",
+        "correct": true,
+        "settled_at": "2026-11-13T04:47:43.908623+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-12T16:31:35.037939+00:00"
+  "last_updated": "2026-11-13T04:47:43.969450+00:00"
 }
