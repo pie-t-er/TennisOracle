@@ -90132,7 +90132,228 @@
         "correct": true,
         "settled_at": "2026-11-13T04:47:43.908623+00:00"
       }
+    },
+    "a09dfd51fadc5c32dd0adb4f799b8628": {
+      "match_id": "a09dfd51fadc5c32dd0adb4f799b8628",
+      "commence_time": "2026-11-15T13:00:00Z",
+      "tournament": "ATP Finals",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Rafael Jodar",
+      "bookmakers": {
+        "betanysports": {
+          "Alexander Zverev": 1.44,
+          "Rafael Jodar": 2.85
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.38,
+          "Rafael Jodar": 3.0
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.33,
+          "Rafael Jodar": 2.55
+        },
+        "unibet_se": {
+          "Alexander Zverev": 1.38,
+          "Rafael Jodar": 3.0
+        },
+        "pmu_fr": {
+          "Alexander Zverev": 1.34,
+          "Rafael Jodar": 2.85
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.38,
+          "Rafael Jodar": 3.0
+        },
+        "williamhill": {
+          "Alexander Zverev": 1.44,
+          "Rafael Jodar": 2.75
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Rafael Jodar",
+        "p1_prob": 0.6098,
+        "p2_prob": 0.3902,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": -0.0846,
+        "p2_edge": 0.0569
+      },
+      "collected_at": "2026-11-13T15:52:53.164661+00:00",
+      "result": null
+    },
+    "2e7a66dfb5caacad9c224d3eaf230dee": {
+      "match_id": "2e7a66dfb5caacad9c224d3eaf230dee",
+      "commence_time": "2026-11-15T19:30:00Z",
+      "tournament": "ATP Finals",
+      "surface": "Hard",
+      "player1": "Ben Shelton",
+      "player2": "Arthur Fils",
+      "bookmakers": {
+        "betanysports": {
+          "Arthur Fils": 2.5,
+          "Ben Shelton": 1.57
+        },
+        "unibet_nl": {
+          "Arthur Fils": 2.2,
+          "Ben Shelton": 1.67
+        },
+        "unibet_fr": {
+          "Arthur Fils": 2.1,
+          "Ben Shelton": 1.51
+        },
+        "unibet_se": {
+          "Arthur Fils": 2.2,
+          "Ben Shelton": 1.67
+        },
+        "pmu_fr": {
+          "Arthur Fils": 2.1,
+          "Ben Shelton": 1.61
+        },
+        "leovegas_se": {
+          "Arthur Fils": 2.2,
+          "Ben Shelton": 1.67
+        },
+        "williamhill": {
+          "Arthur Fils": 2.3,
+          "Ben Shelton": 1.62
+        }
+      },
+      "prediction": {
+        "p1_name": "Ben Shelton",
+        "p2_name": "Arthur Fils",
+        "p1_prob": 0.5244,
+        "p2_prob": 0.4756,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "low",
+        "p1_edge": -0.0744,
+        "p2_edge": 0.0756
+      },
+      "collected_at": "2026-11-13T15:52:53.277412+00:00",
+      "result": null
+    },
+    "c81851847baf5e3a479993ec167a8e2a": {
+      "match_id": "c81851847baf5e3a479993ec167a8e2a",
+      "commence_time": "2026-11-16T13:00:00Z",
+      "tournament": "ATP Finals",
+      "surface": "Hard",
+      "player1": "Carlos Alcaraz",
+      "player2": "Frances Tiafoe",
+      "bookmakers": {
+        "betanysports": {
+          "Carlos Alcaraz": 1.12,
+          "Frances Tiafoe": 6.25
+        },
+        "unibet_nl": {
+          "Carlos Alcaraz": 1.14,
+          "Frances Tiafoe": 5.75
+        },
+        "unibet_fr": {
+          "Carlos Alcaraz": 1.07,
+          "Frances Tiafoe": 4.95
+        },
+        "unibet_se": {
+          "Carlos Alcaraz": 1.14,
+          "Frances Tiafoe": 5.75
+        },
+        "pmu_fr": {
+          "Carlos Alcaraz": 1.1,
+          "Frances Tiafoe": 5.25
+        },
+        "leovegas_se": {
+          "Carlos Alcaraz": 1.14,
+          "Frances Tiafoe": 5.75
+        },
+        "williamhill": {
+          "Carlos Alcaraz": 1.1,
+          "Frances Tiafoe": 7.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Carlos Alcaraz",
+        "p2_name": "Frances Tiafoe",
+        "p1_prob": 0.8205,
+        "p2_prob": 0.1795,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": -0.0567,
+        "p2_edge": 0.0366
+      },
+      "collected_at": "2026-11-13T15:52:53.389564+00:00",
+      "result": null
+    },
+    "7ac3bf138012785e65835d1481524d5c": {
+      "match_id": "7ac3bf138012785e65835d1481524d5c",
+      "commence_time": "2026-11-16T19:30:00Z",
+      "tournament": "ATP Finals",
+      "surface": "Hard",
+      "player1": "Daniil Medvedev",
+      "player2": "Flavio Cobolli",
+      "bookmakers": {
+        "betanysports": {
+          "Daniil Medvedev": 1.24,
+          "Flavio Cobolli": 4.2
+        },
+        "unibet_nl": {
+          "Daniil Medvedev": 1.23,
+          "Flavio Cobolli": 4.2
+        },
+        "unibet_fr": {
+          "Daniil Medvedev": 1.16,
+          "Flavio Cobolli": 3.65
+        },
+        "unibet_se": {
+          "Daniil Medvedev": 1.23,
+          "Flavio Cobolli": 4.2
+        },
+        "pmu_fr": {
+          "Daniil Medvedev": 1.18,
+          "Flavio Cobolli": 3.95
+        },
+        "leovegas_se": {
+          "Daniil Medvedev": 1.23,
+          "Flavio Cobolli": 4.2
+        }
+      },
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Flavio Cobolli",
+        "p1_prob": 0.594,
+        "p2_prob": 0.406,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "medium",
+        "p1_edge": -0.2125,
+        "p2_edge": 0.1679
+      },
+      "collected_at": "2026-11-13T15:52:53.502022+00:00",
+      "result": null
+    },
+    "tml-2026-429-52": {
+      "match_id": "tml-2026-429-52",
+      "commence_time": "2026-11-13T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Thiago Agustin Tirante",
+      "player2": "Alejandro Tabilo",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Thiago Agustin Tirante",
+        "p2_name": "Alejandro Tabilo",
+        "p1_prob": 0.4478,
+        "p2_prob": 0.5522,
+        "predicted_winner": "Alejandro Tabilo",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-13T15:52:58.801561+00:00",
+      "result": {
+        "winner": "Thiago Agustin Tirante",
+        "correct": false,
+        "settled_at": "2026-11-13T15:52:58.801561+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-13T04:47:43.969450+00:00"
+  "last_updated": "2026-11-13T15:52:58.820248+00:00"
 }
