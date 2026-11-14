@@ -90353,7 +90353,32 @@
         "correct": false,
         "settled_at": "2026-11-13T15:52:58.801561+00:00"
       }
+    },
+    "tml-2026-429-54": {
+      "match_id": "tml-2026-429-54",
+      "commence_time": "2026-11-14T00:00:00+00:00",
+      "tournament": "Stockholm",
+      "surface": "Hard",
+      "player1": "Taylor Fritz",
+      "player2": "Thiago Agustin Tirante",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Taylor Fritz",
+        "p2_name": "Thiago Agustin Tirante",
+        "p1_prob": 0.6369,
+        "p2_prob": 0.3631,
+        "predicted_winner": "Taylor Fritz",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-14T20:20:23.536657+00:00",
+      "result": {
+        "winner": "Taylor Fritz",
+        "correct": true,
+        "settled_at": "2026-11-14T20:20:23.536657+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-13T15:52:58.820248+00:00"
+  "last_updated": "2026-11-14T20:20:23.549186+00:00"
 }
