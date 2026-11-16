@@ -90181,7 +90181,11 @@
         "p2_edge": 0.0569
       },
       "collected_at": "2026-11-13T15:52:53.164661+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-11-16T04:28:32.988288+00:00"
+      }
     },
     "2e7a66dfb5caacad9c224d3eaf230dee": {
       "match_id": "2e7a66dfb5caacad9c224d3eaf230dee",
@@ -90231,7 +90235,11 @@
         "p2_edge": 0.0756
       },
       "collected_at": "2026-11-13T15:52:53.277412+00:00",
-      "result": null
+      "result": {
+        "winner": "Ben Shelton",
+        "correct": true,
+        "settled_at": "2026-11-16T04:28:33.106245+00:00"
+      }
     },
     "c81851847baf5e3a479993ec167a8e2a": {
       "match_id": "c81851847baf5e3a479993ec167a8e2a",
@@ -90380,5 +90388,5 @@
       }
     }
   },
-  "last_updated": "2026-11-14T20:20:23.549186+00:00"
+  "last_updated": "2026-11-16T04:28:33.106262+00:00"
 }
