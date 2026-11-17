@@ -90511,7 +90511,11 @@
         "p2_edge": 0.0087
       },
       "collected_at": "2026-11-16T17:50:18.047681+00:00",
-      "result": null
+      "result": {
+        "winner": "Arthur Fils",
+        "correct": false,
+        "settled_at": "2026-11-17T17:19:15.790665+00:00"
+      }
     },
     "f0a6612a0e894025a58459b04ecd02c9": {
       "match_id": "f0a6612a0e894025a58459b04ecd02c9",
@@ -90844,5 +90848,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-11-17T06:14:54.238406+00:00"
+  "last_updated": "2026-11-17T17:19:15.790687+00:00"
 }
