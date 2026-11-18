@@ -90633,7 +90633,11 @@
         "p2_edge": 0.1005
       },
       "collected_at": "2026-11-16T17:50:18.119157+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-11-18T05:41:43.829424+00:00"
+      }
     },
     "a3e64105988f48f4c6447c9ca6de0030": {
       "match_id": "a3e64105988f48f4c6447c9ca6de0030",
@@ -90846,7 +90850,211 @@
       },
       "collected_at": "2026-11-17T06:14:54.217738+00:00",
       "result": null
+    },
+    "91d621e106bf38d41c61739852993840": {
+      "match_id": "91d621e106bf38d41c61739852993840",
+      "commence_time": "2026-11-19T13:00:00Z",
+      "tournament": "ATP Finals",
+      "surface": "Hard",
+      "player1": "Ben Shelton",
+      "player2": "Rafael Jodar",
+      "bookmakers": {
+        "winamax_de": {
+          "Ben Shelton": 1.45,
+          "Rafael Jodar": 2.7
+        },
+        "betsson": {
+          "Ben Shelton": 1.46,
+          "Rafael Jodar": 2.75
+        },
+        "fanduel": {
+          "Ben Shelton": 1.44,
+          "Rafael Jodar": 2.84
+        },
+        "betmgm": {
+          "Ben Shelton": 1.45,
+          "Rafael Jodar": 2.7
+        },
+        "sport888": {
+          "Ben Shelton": 1.5,
+          "Rafael Jodar": 2.6
+        },
+        "nordicbet": {
+          "Ben Shelton": 1.46,
+          "Rafael Jodar": 2.75
+        },
+        "betfair_ex_eu": {
+          "Ben Shelton": 1.47,
+          "Rafael Jodar": 2.86
+        },
+        "winamax_fr": {
+          "Ben Shelton": 1.4,
+          "Rafael Jodar": 2.5
+        },
+        "unibet_nl": {
+          "Ben Shelton": 1.5,
+          "Rafael Jodar": 2.55
+        },
+        "pmu_fr": {
+          "Ben Shelton": 1.44,
+          "Rafael Jodar": 2.45
+        },
+        "unibet_se": {
+          "Ben Shelton": 1.5,
+          "Rafael Jodar": 2.55
+        },
+        "tipico_de": {
+          "Ben Shelton": 1.45,
+          "Rafael Jodar": 2.7
+        },
+        "unibet_fr": {
+          "Ben Shelton": 1.35,
+          "Rafael Jodar": 2.5
+        },
+        "leovegas_se": {
+          "Ben Shelton": 1.5,
+          "Rafael Jodar": 2.55
+        },
+        "betrivers": {
+          "Ben Shelton": 1.5,
+          "Rafael Jodar": 2.55
+        },
+        "marathonbet": {
+          "Ben Shelton": 1.46,
+          "Rafael Jodar": 2.74
+        },
+        "onexbet": {
+          "Ben Shelton": 1.49,
+          "Rafael Jodar": 2.79
+        },
+        "williamhill": {
+          "Ben Shelton": 1.5,
+          "Rafael Jodar": 2.6
+        },
+        "draftkings": {
+          "Ben Shelton": 1.48,
+          "Rafael Jodar": 2.68
+        },
+        "betclic_fr": {
+          "Ben Shelton": 1.39,
+          "Rafael Jodar": 2.49
+        }
+      },
+      "prediction": {
+        "p1_name": "Ben Shelton",
+        "p2_name": "Rafael Jodar",
+        "p1_prob": 0.51,
+        "p2_prob": 0.49,
+        "predicted_winner": "Ben Shelton",
+        "confidence": "low",
+        "p1_edge": -0.1567,
+        "p2_edge": 0.1403
+      },
+      "collected_at": "2026-11-18T05:41:49.404015+00:00",
+      "result": null
+    },
+    "66cc3b98e9e67560a34198715ee78d75": {
+      "match_id": "66cc3b98e9e67560a34198715ee78d75",
+      "commence_time": "2026-11-19T19:30:00Z",
+      "tournament": "ATP Finals",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Arthur Fils",
+      "bookmakers": {
+        "betmgm": {
+          "Alexander Zverev": 1.33,
+          "Arthur Fils": 3.25
+        },
+        "sport888": {
+          "Alexander Zverev": 1.3,
+          "Arthur Fils": 3.5
+        },
+        "betfair_ex_eu": {
+          "Alexander Zverev": 1.37,
+          "Arthur Fils": 3.55
+        },
+        "winamax_fr": {
+          "Alexander Zverev": 1.3,
+          "Arthur Fils": 2.9
+        },
+        "nordicbet": {
+          "Alexander Zverev": 1.35,
+          "Arthur Fils": 3.25
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.26,
+          "Arthur Fils": 2.85
+        },
+        "pmu_fr": {
+          "Alexander Zverev": 1.33,
+          "Arthur Fils": 2.88
+        },
+        "unibet_se": {
+          "Alexander Zverev": 1.38,
+          "Arthur Fils": 3.05
+        },
+        "tipico_de": {
+          "Alexander Zverev": 1.32,
+          "Arthur Fils": 3.3
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.38,
+          "Arthur Fils": 3.05
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.38,
+          "Arthur Fils": 3.05
+        },
+        "draftkings": {
+          "Alexander Zverev": 1.34,
+          "Arthur Fils": 3.3
+        },
+        "onexbet": {
+          "Alexander Zverev": 1.37,
+          "Arthur Fils": 3.29
+        },
+        "williamhill": {
+          "Alexander Zverev": 1.3,
+          "Arthur Fils": 3.5
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 1.29,
+          "Arthur Fils": 2.9
+        },
+        "fanduel": {
+          "Alexander Zverev": 1.36,
+          "Arthur Fils": 3.2
+        },
+        "winamax_de": {
+          "Alexander Zverev": 1.35,
+          "Arthur Fils": 3.2
+        },
+        "betrivers": {
+          "Alexander Zverev": 1.38,
+          "Arthur Fils": 3.05
+        },
+        "betsson": {
+          "Alexander Zverev": 1.35,
+          "Arthur Fils": 3.25
+        },
+        "marathonbet": {
+          "Alexander Zverev": 1.35,
+          "Arthur Fils": 3.24
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Arthur Fils",
+        "p1_prob": 0.6111,
+        "p2_prob": 0.3889,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": -0.1135,
+        "p2_edge": 0.1072
+      },
+      "collected_at": "2026-11-18T05:41:49.530050+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-11-17T17:19:15.790687+00:00"
+  "last_updated": "2026-11-18T05:41:49.550476+00:00"
 }
