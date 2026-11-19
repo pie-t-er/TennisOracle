@@ -90853,7 +90853,11 @@
         "p2_edge": -0.093
       },
       "collected_at": "2026-11-17T06:14:54.217738+00:00",
-      "result": null
+      "result": {
+        "winner": "Frances Tiafoe",
+        "correct": false,
+        "settled_at": "2026-11-19T05:40:28.439329+00:00"
+      }
     },
     "91d621e106bf38d41c61739852993840": {
       "match_id": "91d621e106bf38d41c61739852993840",
@@ -91058,7 +91062,227 @@
       },
       "collected_at": "2026-11-18T05:41:49.530050+00:00",
       "result": null
+    },
+    "1cd25143408ea45a393e8267ccd3afeb": {
+      "match_id": "1cd25143408ea45a393e8267ccd3afeb",
+      "commence_time": "2026-11-20T13:00:00Z",
+      "tournament": "ATP Finals",
+      "surface": "Hard",
+      "player1": "Carlos Alcaraz",
+      "player2": "Flavio Cobolli",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Carlos Alcaraz": 1.14,
+          "Flavio Cobolli": 5.0
+        },
+        "leovegas_se": {
+          "Carlos Alcaraz": 1.13,
+          "Flavio Cobolli": 5.8
+        },
+        "unibet_se": {
+          "Carlos Alcaraz": 1.13,
+          "Flavio Cobolli": 5.8
+        },
+        "unibet_nl": {
+          "Carlos Alcaraz": 1.13,
+          "Flavio Cobolli": 5.8
+        },
+        "pmu_fr": {
+          "Carlos Alcaraz": 1.1,
+          "Flavio Cobolli": 5.3
+        },
+        "betrivers": {
+          "Carlos Alcaraz": 1.13,
+          "Flavio Cobolli": 5.8
+        },
+        "sport888": {
+          "Carlos Alcaraz": 1.12,
+          "Flavio Cobolli": 6.0
+        },
+        "williamhill": {
+          "Carlos Alcaraz": 1.12,
+          "Flavio Cobolli": 6.0
+        },
+        "marathonbet": {
+          "Carlos Alcaraz": 1.14,
+          "Flavio Cobolli": 5.7
+        },
+        "draftkings": {
+          "Carlos Alcaraz": 1.13,
+          "Flavio Cobolli": 6.14
+        },
+        "unibet_fr": {
+          "Carlos Alcaraz": 1.1,
+          "Flavio Cobolli": 5.3
+        },
+        "betsson": {
+          "Carlos Alcaraz": 1.13,
+          "Flavio Cobolli": 6.2
+        },
+        "nordicbet": {
+          "Carlos Alcaraz": 1.13,
+          "Flavio Cobolli": 6.2
+        },
+        "betclic_fr": {
+          "Carlos Alcaraz": 1.11,
+          "Flavio Cobolli": 5.4
+        },
+        "fanduel": {
+          "Carlos Alcaraz": 1.18,
+          "Flavio Cobolli": 5.0
+        },
+        "codere_it": {
+          "Carlos Alcaraz": 1.12,
+          "Flavio Cobolli": 5.6
+        },
+        "onexbet": {
+          "Carlos Alcaraz": 1.16,
+          "Flavio Cobolli": 5.96
+        },
+        "winamax_de": {
+          "Carlos Alcaraz": 1.13,
+          "Flavio Cobolli": 6.25
+        },
+        "winamax_fr": {
+          "Carlos Alcaraz": 1.1,
+          "Flavio Cobolli": 5.3
+        },
+        "tipico_de": {
+          "Carlos Alcaraz": 1.11,
+          "Flavio Cobolli": 6.2
+        },
+        "betmgm": {
+          "Carlos Alcaraz": 1.11,
+          "Flavio Cobolli": 6.25
+        },
+        "betanysports": {
+          "Carlos Alcaraz": 1.12,
+          "Flavio Cobolli": 6.0
+        }
+      },
+      "prediction": {
+        "p1_name": "Carlos Alcaraz",
+        "p2_name": "Flavio Cobolli",
+        "p1_prob": 0.7902,
+        "p2_prob": 0.2098,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": -0.0573,
+        "p2_edge": 0.0498
+      },
+      "collected_at": "2026-11-19T05:40:33.121598+00:00",
+      "result": null
+    },
+    "1acdb2047defbe0439ef3b1961a60010": {
+      "match_id": "1acdb2047defbe0439ef3b1961a60010",
+      "commence_time": "2026-11-20T19:30:00Z",
+      "tournament": "ATP Finals",
+      "surface": "Hard",
+      "player1": "Daniil Medvedev",
+      "player2": "Frances Tiafoe",
+      "bookmakers": {
+        "betfair_ex_eu": {
+          "Daniil Medvedev": 1.4,
+          "Frances Tiafoe": 3.25
+        },
+        "leovegas_se": {
+          "Daniil Medvedev": 1.4,
+          "Frances Tiafoe": 2.95
+        },
+        "pmu_fr": {
+          "Daniil Medvedev": 1.35,
+          "Frances Tiafoe": 2.8
+        },
+        "unibet_se": {
+          "Daniil Medvedev": 1.4,
+          "Frances Tiafoe": 2.95
+        },
+        "betrivers": {
+          "Daniil Medvedev": 1.4,
+          "Frances Tiafoe": 2.95
+        },
+        "unibet_nl": {
+          "Daniil Medvedev": 1.4,
+          "Frances Tiafoe": 2.95
+        },
+        "marathonbet": {
+          "Daniil Medvedev": 1.36,
+          "Frances Tiafoe": 3.16
+        },
+        "sport888": {
+          "Daniil Medvedev": 1.36,
+          "Frances Tiafoe": 3.1
+        },
+        "draftkings": {
+          "Daniil Medvedev": 1.33,
+          "Frances Tiafoe": 3.35
+        },
+        "williamhill": {
+          "Daniil Medvedev": 1.36,
+          "Frances Tiafoe": 3.1
+        },
+        "nordicbet": {
+          "Daniil Medvedev": 1.35,
+          "Frances Tiafoe": 3.2
+        },
+        "betclic_fr": {
+          "Daniil Medvedev": 1.32,
+          "Frances Tiafoe": 3.0
+        },
+        "unibet_fr": {
+          "Daniil Medvedev": 1.3,
+          "Frances Tiafoe": 3.1
+        },
+        "betsson": {
+          "Daniil Medvedev": 1.35,
+          "Frances Tiafoe": 3.2
+        },
+        "onexbet": {
+          "Daniil Medvedev": 1.39,
+          "Frances Tiafoe": 3.21
+        },
+        "fanduel": {
+          "Daniil Medvedev": 1.36,
+          "Frances Tiafoe": 3.25
+        },
+        "winamax_de": {
+          "Daniil Medvedev": 1.35,
+          "Frances Tiafoe": 3.2
+        },
+        "winamax_fr": {
+          "Daniil Medvedev": 1.31,
+          "Frances Tiafoe": 3.0
+        },
+        "codere_it": {
+          "Daniil Medvedev": 1.34,
+          "Frances Tiafoe": 3.1
+        },
+        "tipico_de": {
+          "Daniil Medvedev": 1.33,
+          "Frances Tiafoe": 3.2
+        },
+        "betmgm": {
+          "Daniil Medvedev": 1.34,
+          "Frances Tiafoe": 3.2
+        },
+        "betanysports": {
+          "Daniil Medvedev": 1.35,
+          "Frances Tiafoe": 3.35
+        }
+      },
+      "prediction": {
+        "p1_name": "Daniil Medvedev",
+        "p2_name": "Frances Tiafoe",
+        "p1_prob": 0.6819,
+        "p2_prob": 0.3181,
+        "predicted_winner": "Daniil Medvedev",
+        "confidence": "high",
+        "p1_edge": -0.0324,
+        "p2_edge": 0.0196
+      },
+      "collected_at": "2026-11-19T05:40:33.223591+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-11-18T16:54:00.439208+00:00"
+  "last_updated": "2026-11-19T05:40:33.240349+00:00"
 }
