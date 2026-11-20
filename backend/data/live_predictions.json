@@ -91179,7 +91179,11 @@
         "p2_edge": 0.0498
       },
       "collected_at": "2026-11-19T05:40:33.121598+00:00",
-      "result": null
+      "result": {
+        "winner": "Carlos Alcaraz",
+        "correct": true,
+        "settled_at": "2026-11-20T16:38:15.573685+00:00"
+      }
     },
     "1acdb2047defbe0439ef3b1961a60010": {
       "match_id": "1acdb2047defbe0439ef3b1961a60010",
@@ -91290,7 +91294,85 @@
       },
       "collected_at": "2026-11-19T05:40:33.223591+00:00",
       "result": null
+    },
+    "81c3faeaadd3d42734cd831b32b32597": {
+      "match_id": "81c3faeaadd3d42734cd831b32b32597",
+      "commence_time": "2026-11-21T13:00:00Z",
+      "tournament": "ATP Finals",
+      "surface": "Hard",
+      "player1": "Carlos Alcaraz",
+      "player2": "Ben Shelton",
+      "bookmakers": {
+        "onexbet": {
+          "Ben Shelton": 3.41,
+          "Carlos Alcaraz": 1.35
+        },
+        "marathonbet": {
+          "Ben Shelton": 3.3,
+          "Carlos Alcaraz": 1.34
+        },
+        "draftkings": {
+          "Ben Shelton": 3.57,
+          "Carlos Alcaraz": 1.3
+        },
+        "betclic_fr": {
+          "Ben Shelton": 3.05,
+          "Carlos Alcaraz": 1.27
+        },
+        "unibet_fr": {
+          "Ben Shelton": 3.2,
+          "Carlos Alcaraz": 1.25
+        },
+        "nordicbet": {
+          "Ben Shelton": 3.45,
+          "Carlos Alcaraz": 1.32
+        },
+        "betsson": {
+          "Ben Shelton": 3.45,
+          "Carlos Alcaraz": 1.32
+        },
+        "fanduel": {
+          "Ben Shelton": 3.55,
+          "Carlos Alcaraz": 1.31
+        },
+        "betfair_ex_eu": {
+          "Ben Shelton": 3.5,
+          "Carlos Alcaraz": 1.34
+        },
+        "sport888": {
+          "Ben Shelton": 3.3,
+          "Carlos Alcaraz": 1.33
+        },
+        "williamhill": {
+          "Ben Shelton": 3.3,
+          "Carlos Alcaraz": 1.33
+        },
+        "winamax_fr": {
+          "Ben Shelton": 3.15,
+          "Carlos Alcaraz": 1.28
+        },
+        "winamax_de": {
+          "Ben Shelton": 3.4,
+          "Carlos Alcaraz": 1.31
+        },
+        "betmgm": {
+          "Ben Shelton": 3.25,
+          "Carlos Alcaraz": 1.33
+        }
+      },
+      "prediction": {
+        "p1_name": "Carlos Alcaraz",
+        "p2_name": "Ben Shelton",
+        "p1_prob": 0.6653,
+        "p2_prob": 0.3347,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": -0.0754,
+        "p2_edge": 0.0546
+      },
+      "collected_at": "2026-11-20T16:38:21.528962+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-11-20T05:29:01.266537+00:00"
+  "last_updated": "2026-11-20T16:38:21.549611+00:00"
 }
