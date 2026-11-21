@@ -91493,8 +91493,12 @@
         "p2_edge": 0.0456
       },
       "collected_at": "2026-11-21T05:21:52.334746+00:00",
-      "result": null
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-11-21T21:25:10.023696+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-21T15:52:36.034451+00:00"
+  "last_updated": "2026-11-21T21:25:10.023718+00:00"
 }
