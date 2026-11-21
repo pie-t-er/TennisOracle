@@ -91293,7 +91293,11 @@
         "p2_edge": 0.0196
       },
       "collected_at": "2026-11-19T05:40:33.223591+00:00",
-      "result": null
+      "result": {
+        "winner": "Daniil Medvedev",
+        "correct": true,
+        "settled_at": "2026-11-21T05:21:46.159991+00:00"
+      }
     },
     "81c3faeaadd3d42734cd831b32b32597": {
       "match_id": "81c3faeaadd3d42734cd831b32b32597",
@@ -91372,7 +91376,121 @@
       },
       "collected_at": "2026-11-20T16:38:21.528962+00:00",
       "result": null
+    },
+    "32e23a0b745bed6c0a23f60fab451adb": {
+      "match_id": "32e23a0b745bed6c0a23f60fab451adb",
+      "commence_time": "2026-11-21T19:30:00Z",
+      "tournament": "ATP Finals",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Daniil Medvedev",
+      "bookmakers": {
+        "unibet_se": {
+          "Alexander Zverev": 1.56,
+          "Daniil Medvedev": 2.43
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 1.56,
+          "Daniil Medvedev": 2.43
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 1.56,
+          "Daniil Medvedev": 2.43
+        },
+        "betfair_ex_eu": {
+          "Alexander Zverev": 1.57,
+          "Daniil Medvedev": 2.72
+        },
+        "pmu_fr": {
+          "Alexander Zverev": 1.5,
+          "Daniil Medvedev": 2.3
+        },
+        "betrivers": {
+          "Alexander Zverev": 1.56,
+          "Daniil Medvedev": 2.43
+        },
+        "nordicbet": {
+          "Alexander Zverev": 1.55,
+          "Daniil Medvedev": 2.46
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 1.51,
+          "Daniil Medvedev": 2.34
+        },
+        "betsson": {
+          "Alexander Zverev": 1.55,
+          "Daniil Medvedev": 2.46
+        },
+        "unibet_fr": {
+          "Alexander Zverev": 1.47,
+          "Daniil Medvedev": 2.4
+        },
+        "marathonbet": {
+          "Alexander Zverev": 1.55,
+          "Daniil Medvedev": 2.47
+        },
+        "fanduel": {
+          "Alexander Zverev": 1.57,
+          "Daniil Medvedev": 2.46
+        },
+        "onexbet": {
+          "Alexander Zverev": 1.58,
+          "Daniil Medvedev": 2.52
+        },
+        "sport888": {
+          "Alexander Zverev": 1.61,
+          "Daniil Medvedev": 2.3
+        },
+        "williamhill": {
+          "Alexander Zverev": 1.57,
+          "Daniil Medvedev": 2.38
+        },
+        "betmgm": {
+          "Alexander Zverev": 1.54,
+          "Daniil Medvedev": 2.4
+        },
+        "draftkings": {
+          "Alexander Zverev": 1.63,
+          "Daniil Medvedev": 2.29
+        },
+        "winamax_de": {
+          "Alexander Zverev": 1.54,
+          "Daniil Medvedev": 2.45
+        },
+        "winamax_fr": {
+          "Alexander Zverev": 1.5,
+          "Daniil Medvedev": 2.3
+        },
+        "pinnacle": {
+          "Alexander Zverev": 1.55,
+          "Daniil Medvedev": 2.38
+        },
+        "betonlineag": {
+          "Alexander Zverev": 1.56,
+          "Daniil Medvedev": 2.53
+        },
+        "lowvig": {
+          "Alexander Zverev": 1.56,
+          "Daniil Medvedev": 2.53
+        },
+        "betanysports": {
+          "Alexander Zverev": 1.57,
+          "Daniil Medvedev": 2.5
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Daniil Medvedev",
+        "p1_prob": 0.5868,
+        "p2_prob": 0.4132,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "medium",
+        "p1_edge": -0.0267,
+        "p2_edge": 0.0456
+      },
+      "collected_at": "2026-11-21T05:21:52.334746+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-11-20T16:38:21.549611+00:00"
+  "last_updated": "2026-11-21T05:21:52.354905+00:00"
 }
