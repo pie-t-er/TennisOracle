@@ -91375,7 +91375,11 @@
         "p2_edge": 0.0546
       },
       "collected_at": "2026-11-20T16:38:21.528962+00:00",
-      "result": null
+      "result": {
+        "winner": "Carlos Alcaraz",
+        "correct": true,
+        "settled_at": "2026-11-21T15:52:36.034427+00:00"
+      }
     },
     "32e23a0b745bed6c0a23f60fab451adb": {
       "match_id": "32e23a0b745bed6c0a23f60fab451adb",
@@ -91492,5 +91496,5 @@
       "result": null
     }
   },
-  "last_updated": "2026-11-21T05:21:52.354905+00:00"
+  "last_updated": "2026-11-21T15:52:36.034451+00:00"
 }
