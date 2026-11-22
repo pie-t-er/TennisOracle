@@ -91498,7 +91498,117 @@
         "correct": true,
         "settled_at": "2026-11-21T21:25:10.023696+00:00"
       }
+    },
+    "61fd3eff03d345615f08909e038728e7": {
+      "match_id": "61fd3eff03d345615f08909e038728e7",
+      "commence_time": "2026-11-22T17:00:00Z",
+      "tournament": "ATP Finals",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Carlos Alcaraz",
+      "bookmakers": {
+        "unibet_fr": {
+          "Alexander Zverev": 2.7,
+          "Carlos Alcaraz": 1.39
+        },
+        "nordicbet": {
+          "Alexander Zverev": 2.85,
+          "Carlos Alcaraz": 1.43
+        },
+        "betsson": {
+          "Alexander Zverev": 2.85,
+          "Carlos Alcaraz": 1.43
+        },
+        "winamax_fr": {
+          "Alexander Zverev": 2.65,
+          "Carlos Alcaraz": 1.37
+        },
+        "winamax_de": {
+          "Alexander Zverev": 2.85,
+          "Carlos Alcaraz": 1.42
+        },
+        "betclic_fr": {
+          "Alexander Zverev": 2.75,
+          "Carlos Alcaraz": 1.4
+        },
+        "unibet_se": {
+          "Alexander Zverev": 2.88,
+          "Carlos Alcaraz": 1.43
+        },
+        "unibet_nl": {
+          "Alexander Zverev": 2.88,
+          "Carlos Alcaraz": 1.43
+        },
+        "pmu_fr": {
+          "Alexander Zverev": 2.7,
+          "Carlos Alcaraz": 1.36
+        },
+        "leovegas_se": {
+          "Alexander Zverev": 2.88,
+          "Carlos Alcaraz": 1.43
+        },
+        "betrivers": {
+          "Alexander Zverev": 2.88,
+          "Carlos Alcaraz": 1.43
+        },
+        "sport888": {
+          "Alexander Zverev": 2.75,
+          "Carlos Alcaraz": 1.44
+        },
+        "williamhill": {
+          "Alexander Zverev": 2.75,
+          "Carlos Alcaraz": 1.44
+        },
+        "marathonbet": {
+          "Alexander Zverev": 2.81,
+          "Carlos Alcaraz": 1.44
+        },
+        "draftkings": {
+          "Alexander Zverev": 2.69,
+          "Carlos Alcaraz": 1.48
+        },
+        "onexbet": {
+          "Alexander Zverev": 2.86,
+          "Carlos Alcaraz": 1.47
+        },
+        "pinnacle": {
+          "Alexander Zverev": 2.88,
+          "Carlos Alcaraz": 1.47
+        },
+        "betmgm": {
+          "Alexander Zverev": 2.7,
+          "Carlos Alcaraz": 1.45
+        },
+        "fanduel": {
+          "Alexander Zverev": 2.8,
+          "Carlos Alcaraz": 1.45
+        },
+        "betfair_ex_eu": {
+          "Alexander Zverev": 3.0,
+          "Carlos Alcaraz": 1.49
+        },
+        "betonlineag": {
+          "Alexander Zverev": 2.84,
+          "Carlos Alcaraz": 1.45
+        },
+        "lowvig": {
+          "Alexander Zverev": 2.84,
+          "Carlos Alcaraz": 1.45
+        }
+      },
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Carlos Alcaraz",
+        "p1_prob": 0.3741,
+        "p2_prob": 0.6259,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": 0.0408,
+        "p2_edge": -0.0452
+      },
+      "collected_at": "2026-11-22T04:47:03.226600+00:00",
+      "result": null
     }
   },
-  "last_updated": "2026-11-21T21:25:10.023718+00:00"
+  "last_updated": "2026-11-22T04:47:03.242605+00:00"
 }
