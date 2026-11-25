@@ -91612,7 +91612,57 @@
         "correct": true,
         "settled_at": "2026-11-22T21:28:13.383320+00:00"
       }
+    },
+    "tml-2026-M-DC-2026-FLS-M-CZE-CAN-01-1": {
+      "match_id": "tml-2026-M-DC-2026-FLS-M-CZE-CAN-01-1",
+      "commence_time": "2026-11-24T00:00:00+00:00",
+      "tournament": "Davis Cup Finals QF: CZE vs CAN",
+      "surface": "Hard",
+      "player1": "Tomas Machac",
+      "player2": "Liam Draxl",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Tomas Machac",
+        "p2_name": "Liam Draxl",
+        "p1_prob": 0.678,
+        "p2_prob": 0.322,
+        "predicted_winner": "Tomas Machac",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-25T00:18:08.547010+00:00",
+      "result": {
+        "winner": "Tomas Machac",
+        "correct": true,
+        "settled_at": "2026-11-25T00:18:08.547010+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-FLS-M-CZE-CAN-01-2": {
+      "match_id": "tml-2026-M-DC-2026-FLS-M-CZE-CAN-01-2",
+      "commence_time": "2026-11-24T00:00:00+00:00",
+      "tournament": "Davis Cup Finals QF: CZE vs CAN",
+      "surface": "Hard",
+      "player1": "Jiri Lehecka",
+      "player2": "Felix Auger-Aliassime",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Felix Auger-Aliassime",
+        "p1_prob": 0.3548,
+        "p2_prob": 0.6452,
+        "predicted_winner": "Felix Auger-Aliassime",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-25T00:18:08.679442+00:00",
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": false,
+        "settled_at": "2026-11-25T00:18:08.679442+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-22T21:28:13.383338+00:00"
+  "last_updated": "2026-11-25T00:18:08.747870+00:00"
 }
