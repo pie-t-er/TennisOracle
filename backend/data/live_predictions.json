@@ -91662,7 +91662,57 @@
         "correct": false,
         "settled_at": "2026-11-25T00:18:08.679442+00:00"
       }
+    },
+    "tml-2026-M-DC-2026-FLS-M-ITA-KOR-01-1": {
+      "match_id": "tml-2026-M-DC-2026-FLS-M-ITA-KOR-01-1",
+      "commence_time": "2026-11-25T00:00:00+00:00",
+      "tournament": "Davis Cup Finals QF: ITA vs KOR",
+      "surface": "Hard",
+      "player1": "Lorenzo Musetti",
+      "player2": "Seongchan Hong",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Lorenzo Musetti",
+        "p2_name": "Seongchan Hong",
+        "p1_prob": 0.8108,
+        "p2_prob": 0.1892,
+        "predicted_winner": "Lorenzo Musetti",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-26T06:34:40.837676+00:00",
+      "result": {
+        "winner": "Lorenzo Musetti",
+        "correct": true,
+        "settled_at": "2026-11-26T06:34:40.837676+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-FLS-M-ITA-KOR-01-2": {
+      "match_id": "tml-2026-M-DC-2026-FLS-M-ITA-KOR-01-2",
+      "commence_time": "2026-11-25T00:00:00+00:00",
+      "tournament": "Davis Cup Finals QF: ITA vs KOR",
+      "surface": "Hard",
+      "player1": "Soonwoo Kwon",
+      "player2": "Flavio Cobolli",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Soonwoo Kwon",
+        "p2_name": "Flavio Cobolli",
+        "p1_prob": 0.1531,
+        "p2_prob": 0.8469,
+        "predicted_winner": "Flavio Cobolli",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-26T06:34:40.910417+00:00",
+      "result": {
+        "winner": "Soonwoo Kwon",
+        "correct": false,
+        "settled_at": "2026-11-26T06:34:40.910417+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-25T00:18:08.747870+00:00"
+  "last_updated": "2026-11-26T06:34:40.969605+00:00"
 }
