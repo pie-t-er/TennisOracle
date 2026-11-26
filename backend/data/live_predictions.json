@@ -91712,7 +91712,57 @@
         "correct": false,
         "settled_at": "2026-11-26T06:34:40.910417+00:00"
       }
+    },
+    "tml-2026-M-DC-2026-FLS-M-GBR-GER-01-1": {
+      "match_id": "tml-2026-M-DC-2026-FLS-M-GBR-GER-01-1",
+      "commence_time": "2026-11-26T00:00:00+00:00",
+      "tournament": "Davis Cup Finals QF: GBR vs GER",
+      "surface": "Hard",
+      "player1": "Cameron Norrie",
+      "player2": "Jan-Lennard Struff",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Cameron Norrie",
+        "p2_name": "Jan-Lennard Struff",
+        "p1_prob": 0.6404,
+        "p2_prob": 0.3596,
+        "predicted_winner": "Cameron Norrie",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-26T18:03:57.624065+00:00",
+      "result": {
+        "winner": "Cameron Norrie",
+        "correct": true,
+        "settled_at": "2026-11-26T18:03:57.624065+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-FLS-M-GBR-GER-01-2": {
+      "match_id": "tml-2026-M-DC-2026-FLS-M-GBR-GER-01-2",
+      "commence_time": "2026-11-26T00:00:00+00:00",
+      "tournament": "Davis Cup Finals QF: GBR vs GER",
+      "surface": "Hard",
+      "player1": "Alexander Zverev",
+      "player2": "Arthur Fery",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Alexander Zverev",
+        "p2_name": "Arthur Fery",
+        "p1_prob": 0.8549,
+        "p2_prob": 0.1451,
+        "predicted_winner": "Alexander Zverev",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-26T18:03:57.707447+00:00",
+      "result": {
+        "winner": "Alexander Zverev",
+        "correct": true,
+        "settled_at": "2026-11-26T18:03:57.707447+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-26T06:34:40.969605+00:00"
+  "last_updated": "2026-11-26T18:03:57.778829+00:00"
 }
