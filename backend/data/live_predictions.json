@@ -91762,7 +91762,57 @@
         "correct": true,
         "settled_at": "2026-11-26T18:03:57.707447+00:00"
       }
+    },
+    "tml-2026-M-DC-2026-FLS-M-AUT-ESP-01-1": {
+      "match_id": "tml-2026-M-DC-2026-FLS-M-AUT-ESP-01-1",
+      "commence_time": "2026-11-26T00:00:00+00:00",
+      "tournament": "Davis Cup Finals QF: AUT vs ESP",
+      "surface": "Hard",
+      "player1": "Daniel Merida",
+      "player2": "Joel Schwaerzler",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Daniel Merida",
+        "p2_name": "Joel Schwaerzler",
+        "p1_prob": 0.7141,
+        "p2_prob": 0.2859,
+        "predicted_winner": "Daniel Merida",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-27T06:24:36.823588+00:00",
+      "result": {
+        "winner": "Daniel Merida",
+        "correct": true,
+        "settled_at": "2026-11-27T06:24:36.823588+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-FLS-M-AUT-ESP-01-2": {
+      "match_id": "tml-2026-M-DC-2026-FLS-M-AUT-ESP-01-2",
+      "commence_time": "2026-11-26T00:00:00+00:00",
+      "tournament": "Davis Cup Finals QF: AUT vs ESP",
+      "surface": "Hard",
+      "player1": "Rafael Jodar",
+      "player2": "Jurij Rodionov",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Rafael Jodar",
+        "p2_name": "Jurij Rodionov",
+        "p1_prob": 0.7565,
+        "p2_prob": 0.2435,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-27T06:24:36.933012+00:00",
+      "result": {
+        "winner": "Rafael Jodar",
+        "correct": true,
+        "settled_at": "2026-11-27T06:24:36.933012+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-26T18:03:57.778829+00:00"
+  "last_updated": "2026-11-27T06:24:37.008151+00:00"
 }
