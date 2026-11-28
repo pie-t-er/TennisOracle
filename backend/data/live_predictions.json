@@ -91862,7 +91862,57 @@
         "correct": false,
         "settled_at": "2026-11-28T06:00:33.432907+00:00"
       }
+    },
+    "tml-2026-M-DC-2026-FLS-M-GBR-ESP-01-1": {
+      "match_id": "tml-2026-M-DC-2026-FLS-M-GBR-ESP-01-1",
+      "commence_time": "2026-11-28T00:00:00+00:00",
+      "tournament": "Davis Cup Finals SF: GBR vs ESP",
+      "surface": "Hard",
+      "player1": "Rafael Jodar",
+      "player2": "Cameron Norrie",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Rafael Jodar",
+        "p2_name": "Cameron Norrie",
+        "p1_prob": 0.6632,
+        "p2_prob": 0.3368,
+        "predicted_winner": "Rafael Jodar",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-28T16:35:03.957547+00:00",
+      "result": {
+        "winner": "Rafael Jodar",
+        "correct": true,
+        "settled_at": "2026-11-28T16:35:03.957547+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-FLS-M-GBR-ESP-01-2": {
+      "match_id": "tml-2026-M-DC-2026-FLS-M-GBR-ESP-01-2",
+      "commence_time": "2026-11-28T00:00:00+00:00",
+      "tournament": "Davis Cup Finals SF: GBR vs ESP",
+      "surface": "Hard",
+      "player1": "Carlos Alcaraz",
+      "player2": "Arthur Fery",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Carlos Alcaraz",
+        "p2_name": "Arthur Fery",
+        "p1_prob": 0.8905,
+        "p2_prob": 0.1095,
+        "predicted_winner": "Carlos Alcaraz",
+        "confidence": "high",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-28T16:35:04.072318+00:00",
+      "result": {
+        "winner": "Carlos Alcaraz",
+        "correct": true,
+        "settled_at": "2026-11-28T16:35:04.072318+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-28T06:00:33.498888+00:00"
+  "last_updated": "2026-11-28T16:35:04.133490+00:00"
 }
