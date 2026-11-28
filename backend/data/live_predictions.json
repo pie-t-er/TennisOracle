@@ -91812,7 +91812,57 @@
         "correct": true,
         "settled_at": "2026-11-27T06:24:36.933012+00:00"
       }
+    },
+    "tml-2026-M-DC-2026-FLS-M-ITA-CZE-01-1": {
+      "match_id": "tml-2026-M-DC-2026-FLS-M-ITA-CZE-01-1",
+      "commence_time": "2026-11-27T00:00:00+00:00",
+      "tournament": "Davis Cup Finals SF: ITA vs CZE",
+      "surface": "Hard",
+      "player1": "Lorenzo Musetti",
+      "player2": "Jakub Mensik",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Lorenzo Musetti",
+        "p2_name": "Jakub Mensik",
+        "p1_prob": 0.4479,
+        "p2_prob": 0.5521,
+        "predicted_winner": "Jakub Mensik",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-28T06:00:33.326957+00:00",
+      "result": {
+        "winner": "Lorenzo Musetti",
+        "correct": false,
+        "settled_at": "2026-11-28T06:00:33.326957+00:00"
+      }
+    },
+    "tml-2026-M-DC-2026-FLS-M-ITA-CZE-01-2": {
+      "match_id": "tml-2026-M-DC-2026-FLS-M-ITA-CZE-01-2",
+      "commence_time": "2026-11-27T00:00:00+00:00",
+      "tournament": "Davis Cup Finals SF: ITA vs CZE",
+      "surface": "Hard",
+      "player1": "Jiri Lehecka",
+      "player2": "Flavio Cobolli",
+      "bookmakers": {},
+      "prediction": {
+        "p1_name": "Jiri Lehecka",
+        "p2_name": "Flavio Cobolli",
+        "p1_prob": 0.4542,
+        "p2_prob": 0.5458,
+        "predicted_winner": "Flavio Cobolli",
+        "confidence": "medium",
+        "p1_edge": null,
+        "p2_edge": null
+      },
+      "collected_at": "2026-11-28T06:00:33.432907+00:00",
+      "result": {
+        "winner": "Jiri Lehecka",
+        "correct": false,
+        "settled_at": "2026-11-28T06:00:33.432907+00:00"
+      }
     }
   },
-  "last_updated": "2026-11-27T06:24:37.008151+00:00"
+  "last_updated": "2026-11-28T06:00:33.498888+00:00"
 }
